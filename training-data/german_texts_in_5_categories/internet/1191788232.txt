@@ -1,0 +1,28 @@
+Spyware ist ein profitables, wenn auch anrüchiges Geschäft.
+Immer mehr der kleinen Datenschnüffler protokollieren die Wege der Websurfer, verkaufen ihre Daten an Marketing- und Spam-Firmen.
+All dem will der US-Kongress nun einen Riegel vorschieben.
+Nützliche Software gibt es in zwei grundsätzlichen Varianten: teuer - und nicht so teuer.
+Users liebstes Kind sind Tools und Spiele, die ihn gar nichts kosten.
+Immer öfter aber ist das ein Irrtum: Sie kosten ihn Daten - und damit mitunter Nerven.
+Denn immer mehr Anbieter kostenloser Software verbinden diese mit so genannter Spyware.
+Die Schnüffel-Software protokolliert Surfwege und erschnüffelt Daten, die die Anbieter dann werblich nutzen.
+Oft, indem sie sie an Marketingfirmen verkaufen.
+Das Resultat ist dann im E-Mail-Ordner zu bewundern: Universitätsdiplome im Sonderangebot, fast echtes Viagra, Penis-Verlängerungspillen, ukrainische Callgirls und was da sonst noch angeboten wird.
+Spyware und Spam belasten die Netze, kosten Performance und damit auch den Usern Geld.
+Die Missbrauchsmöglichkeiten solcher Schnüffelprogramme gehen aber weit über bloßen Werbemüll hinaus, und nicht zuletzt darum bewegt sich was gegen die Flut der Spyware-Programme.
+Denn die Nutzer sind sich allzu oft nicht darüber im Klaren, was sie da eigentlich auf ihren Rechner laden.
+In den USA hat soeben eine Gesetzesvorlage gegen Spyware die erste Hürde im Kongress genommen, die Annahme des Entwurfes gilt als sicher.
+Als erster Staat der Welt dürften die USA dann Spy- und Adware-Vertreiber dazu verpflichten, die Nutzer vor der Installation ausdrücklich auf die Natur der Software hinzuweisen.
+Das ist noch nicht viel, aber immerhin etwas.
+Kritikern geht die Gesetzesvorlage trotzdem nicht weit genug.
+So müsse der Unterschied zwischen legitimen und Spyware-Programmen deutlicher gemacht werden.
+Eine Kritik, die an die inzwischen üblichen Gesetze gegen Spam-Mails erinnert.
+Weltweit gelten in immer mehr Ländern so genannte Double-Opt-in-Klauseln, nach der die Beschickung mit Werbemails an ein doppeltes Einverständnis der PC-Nutzer gebunden ist.
+Auch in der EU gelten entsprechende Regeln, die zwar heimischen Werbeversendern Zügel angelegt haben, Massen-Werbeversender im Ausland aber selten interessieren.
+Die stellen im Zweifelsfall ihre Server in Russland oder China auf.
+Zumindest sind die Zeiten vorbei, in denen man Politikern die Relevanz des Themas erst erklären musste.
+Am Donnerstag verabschiedete auch das neuseeländische Parlament ein Gesetz gegen Spam - ohne eine einzige Gegenstimme.
+Gegen Spy- und Adware ist allerdings ein Kraut gewachsen.
+Zahlreicheteils kostenlose - Programme, die regelmäßig auf den neuesten Stand gebracht werden, versprechen Abhilfe.
+Nicht wundern sollte man sich allerdings, wenn diese dann bei eingeblendeter Werbung auf Webseiten Alarm schlagen: Die Adware-Filter nehmen es manchmal sehr genau.
+Richtig ist dagegen, dass nach der Installation eines Spyware-Blockers KaZaA und einige andere P2P-Programme nicht mehr laufen: Manche Firmen hinter der ach so freigiebigen Software machen ihr Geld mit Datenschnüffelei.

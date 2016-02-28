@@ -1,0 +1,60 @@
+Google findet fast alles - und manchmal ist das ein Problem.
+Markus Eisele hat im Auftrag der Evangelischen Kirche eine christliche Suchmaschine gebaut - und erklärt im Interview, wo da der Sinn liegt.
+SPIEGEL ONLINE: Herr Eisele, wer oder was ist Crossbot?
+Markus Eisele: Crossbot ist eine Suchmaschine für den christlichen Raum und für alle Menschen, die Interesse an christlichen Inhalten haben.
+Es ist zudem der meines Wissens einzige tragfähige Katalog für christliche Inhalte im Internet.
+SPIEGEL ONLINE: Wie kommt man auf so eine Idee?
+Eisele: Wir sind darauf gekommen, weil wir gesehen haben, dass es mittlerweile über zwei Millionen christliche Seiten im Internet gibt.
+Die Kirche gehört wirklich zu den ganz großen Informationsanbietern.
+SPIEGEL ONLINE: Und wozu braucht man da Crossbot, wo es doch Google gibt?
+Eisele: Ein guter Punkt.
+Wir haben beobachtet, dass natürlich die meisten Leute über Google suchen, bestimmte Dinge in Google aber immer mehr marginalisiert werden.
+Kleine Anbieter, oft ganz wertvolle Angebote, kommen einfach nicht mehr oben auf den Suchlisten vor - und wir wissen ja, wie Leute mit Suchlisten umgehen.
+Die ersten Ergebnisse müssen stimmen, in die Tiefe taucht man nicht mehr ein.
+SPIEGEL ONLINE: Ein Fall von Notwehr also?
+Eisele: Unsere Suchmaschine ist der Versuch, wertvolle Angebote im Internet für die daran Interessierten auffindbar zu halten.
+Sie ist zudem auch ein Knoten im Netz: Wir haben als Kirche ja an ganz verschiedenen Ecken und Enden im Web investiert.
+Seelsorge-, Kommunikations-, Informations-Portale eröffnet, die aber bislang alle nicht so richtig miteinander verknüpft waren.
+Jeder hatte so seine Linklisten, aber nichts Systematisches: Es gab keine Seite, von der aus man auf einfache Weise zu anderen Seiten gelangen konnte.
+SPIEGEL ONLINE: Also mehr Yahoo!
+Sucht Crossbot dann nur innerhalb des Kataloges?
+Eisele: Nein.
+Crossbot ist zunächst einmal ein Katalog, in den tatsächlich eine Redaktion entsprechende Seiten aufnimmt.
+Da wird Qualitätssicherung betrieben.
+Daneben ist Crossbot eine Crawler-Suchmaschine, die im Katalog und frei im Web sucht.
+Auch die fragt Webseiten erst einmal auf so genannte bad words ab, bevor sie auf einer Ergebnisliste dargestellt werden.
+Nutzern schuldig, dass wir wissen, was in diesen Seiten wirklich steckt.
+Die Resultate wandern in die Datenbank, die einmal pro Woche voll indiziert wird.
+Die aktiven Seiten, die sich regelmäßig verändern, werden täglich aktualisiert.
+SPIEGEL ONLINE: Ein ganz erheblicher Aufwand.
+Wie groß ist Ihre Redaktion?
+Eisele: Zurzeit arbeiten sieben Leute an Crossbot, aber nicht alle beschäftigen sich ausschließlich damit.
+Für zwei Mitarbeiter ist Crossbot ein Fulltime-Job.
+Eisele: Wie lang haben Sie für den Aufbau des Datenbestandes gebraucht?
+SPIEGEL ONLINE: Für die über 300.000 im Katalog indexierten Seiten haben wir seit April gebraucht.
+SPIEGEL ONLINE: Das beschreibt, was drin ist.
+Eisele: Es gibt eine Reihe von Dingen, die wir ausschließen wollten.
+Sexistische Inhalte zum Beispiel: Da können wir auf eine entsprechende Liste unseres technischen Partners Abacho zurückgreifen, von denen die Crawler-Technologie kommt.
+Wenn Sie Crossbot ausprobieren, werden Sie überrascht sein, zu was für Themen man alles etwas findet.
+Auf der anderen Seite wäre es natürlich ein Eigentor, wenn da Dinge hochkämen, die absolut nicht hineingehörten.
+SPIEGEL ONLINE: Da scheint Ihnen ja auch einiges gelungen zu sein: Selbst wenn man nach krassen Worten sucht, bekommt man als Ergebnis Sachliches geboten.
+Eisele: Es gibt viele Punkte, da sind wir weit besser als Google.
+SPIEGEL ONLINE: Nein.
+SPIEGEL ONLINE: Kein schlechtes Ergebnis.
+Eisele: Finden Sie?
+Wenn man das Wort bei Crossbot eingibt, kommt man jedenfalls zu ganz anderen Ergebnissen.
+Bei der Suche nach christlichen Themen sind wir einfach deutlich besser.
+SPIEGEL ONLINE: Und wie geht es weiter?
+Wo wollen Sie hin?
+Eisele: Wir hoffen, innerhalb eines Jahres auf eine Million Suchabfragen im Monat zu kommen.
+Wenn es so weitergeht wie in unseren ersten paar Tagen, werden wir dieses Ziel früher erreichen.
+Unsere Reichweite wird relativ hoch sein.
+SPIEGEL ONLINE: Wer bezahlt das alles?
+Eisele: Die Anfangsfinanzierung kommt von der EKD, aber richtig funktionieren kann es auf Dauer nur, wenn wir Sponsoren gewinnen.
+SPIEGEL ONLINE: Trennen Sie eigentlich nach katholisch und evangelisch?
+Eisele: Im Katalog ist es zum Teil getrennt, wo das nahe liegt: Bei Institutionen, Gemeinden und so weiter.
+Ansonsten wird da nichts getrennt.
+Crossbot soll keine Anbieter-orientierte, sondern eine themenbezogene Suchmaschine sein.
+SPIEGEL ONLINE: Hätte es da nicht nahe gelegen, Crossbot zur ökumenischen Suchmaschine zu machen?
+Eisele: Wir haben mit der katholischen Kirche ja schon einmal ein Projekt gemeinsam umgesetzt, buchreligion.de.
+Wir sind da jederzeit offen.

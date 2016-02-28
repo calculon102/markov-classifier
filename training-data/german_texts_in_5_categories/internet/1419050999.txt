@@ -1,0 +1,26 @@
+Das Telefonieren über Internet wird auch auf Handys in Mode kommen, prophezeit eine deutsche Unternehmensberatung.
+Weil die Datentarife im UMTS-Netz deutlich günstiger sind als Gesprächsminuten, könnte Voice-over-IP sogar die Umsätze mit UMTS gefährden.
+Als Konkurrenz zum Festnetz nimmt Voice-over-IP langsam aber sicher an Fahrt auf.
+Schon seit einigen Monaten können deutsche Kunden IP-Telefone kaufen, die an das DSL-Modem angestöpselt werden.
+Die Apparate funktionieren genau wie ein herkömmliches Telefon, nur dass sie das Gespräch komplett übers Internet abwickeln.
+Gesprochenes wird in kleine Datenpakete zerlegt, die durch das Web zum Gesprächspartner rasen.
+Webtelefone verstehen sich inzwischen auch mit herkömmlichen Festnetzanschlüssen oder Handys, die Verbindungspreise liegen meist deutlich unter normalen Telefontarifen.
+Von Webtelefon zu Webtelefon kostet das Telefonieren sogar nichts, sieht man von der notwendigen DSL-Flatrate ab.
+Doch damit ist Voice-over-IP, wie die Internet-Telefonie auch genannt wird, noch lange nicht am Ende der Möglichkeiten.
+Die Unternehmensberatung Mummert Consulting geht davon aus, dass schon in einigen Jahren auch Mobiltelefone Voice-over-IP (VoIP) beherrschen werden.
+Die schnellen UMTS-Datendienste, mit denen T-Mobile & Co vor allem Geschäftskunden zum Mobilsurfen motivieren wollen, könnten ebenso gut für VoIP genutzt werden.
+Weil die Mobilfunkbetreiber daran weniger verdienen würden als bei der herkömmlichen Minutenabrechnung von Gesprächen, könnte VoIP sogar die Umsätze einbrechen lassen, glauben die Berater.
+Ein dafür erforderliches UMTS-IP-Telefon wäre technisch leicht herzustellen.
+Anbieter von VoIP- und WLAN-Telefonen wie Cisco könnten das Geschäft für sich entdecken.
+Laut Berechnungen von Mummert könnten die mobilen Gesprächspreise auf rund zwölf Cent pro Minute sinken.
+Die Einsparmöglichkeiten seien größer als im Festnetz.
+Laut Mummert könnten VoIP-Anbieter schnell in den UMTS-Markt einsteigen; auch Mobilfunkvermarkter könnten das Geschäft für sich entdecken und UMTS-Datenpakete samt VoIP-Tarifen anbieten.
+Den UMTS-Netz-Betreibern wie Vodafone und T-Mobile dürfte eine derartige Marktentwicklung kaum passen, schließlich würden ihre Umsätze im Bereiche Sprachtelefonie einbrechen.
+Das sei jedoch auch gar nicht gewollt: Vodafone biete den UMTS-Nutzern einen vollwertigen Internet-Zugang und dies solle auch so bleiben.
+Laut Witzke gehörten VoIP-Anwendungen dazu.
+Auch ein eigener Einstieg in VoIP ist denkbar.
+Der einfachste Weg, um sich unliebsame Konkurrenz vom Hals zu halten, sind jedoch für VoIP unattraktive Datentarife.
+Solche gibt es bei Vodafone und T-Mobile bereits ansatzweise.
+Zwar kosten 30 Stunden UMTS-Datenübertragung im Paket nur 70 Euro, was einem Minutenpreis von 3,8 Cent entspricht.
+Doch abgerechnet wird bei beiden Anbietern im 10-Minuten-Takt.
+Ein Telefonat schlägt somit mit mindestens 38 Cent zu Buche, auch wenn es nur wenige Sekunden dauert.

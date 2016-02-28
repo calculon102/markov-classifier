@@ -1,0 +1,20 @@
+Der digitale Radiostandard DAB krebst seit Jahren weitgehend erfolgfrei herum, hat das Thema Digitalradio lange Zeit belastet.
+Ob beim Frühstück, im Auto oder bei der Arbeit: Mehr als 80 Prozent der Deutschen schalten jeden Tag einen der knapp 60 öffentlich-rechtlichen oder der gut 200 privaten Radiosender ein.
+Jetzt kommt eine neue vom Fraunhofer-Institut entwickelte Übertragungs-Technologie hinzu - Digital Radio Mondial (DRM) heißt sie.
+Bislang wagten sich nur wirkliche Radio-Freaks in die Frequenzbereiche von Kurz-, Mittel- und Langwelle.
+Nerviges Rauschen und Knacken machte das Ganze nicht gerade zu einem Hörgenuss.
+Mit DRM jedoch lassen sich Sender weltweit und fast in UKW-Qualität empfangen.
+Zusammen mit der BBC, Radio Niederlande und RTL Luxemburg ist die Deutsche Welle Vorreiter in Sachen DRM.
+Für die großen Sender ist DRM interessant, weil sie mit weniger technischem Aufwand viel mehr Hörer erreichen können.
+In Nürnberg sendet zum Beispiel das Campus-Radio der Uni über DRM.
+Anders als bei dem Digitalradio-Standard DAB, der 2001 eingeführt wurde und bislang nur ein Schattendasein fristet, soll die DRM-Entwicklung viel enger an die Wünsche von Hörern und Radiosendern gekoppelt werden.
+Klobige Geräte und die Angst vieler Radiosender vor teuren Investitionen in die neue Technik haben einen flächendeckenden Erfolg von DAB-Radio bislang verhindert.
+Die Voraussetzungen für Digital Radio Mondial gelten dagegen als weitaus günstiger.
+Für den Hörer hat der Hörgenuss noch einen kleinen Haken: Herkömmliche Radios können DRM derzeit nicht empfangen, und die neu entwickelten Geräte sind noch vergleichsweise teuer.
+Bisher haben erst ein paar mittelständische Firmen DRM-Empfänger zur Serienreife gebracht.
+Zusammen haben Coding Technologies und Mayah zum Beispiel das Radio DRM2010 entwickelt, das sowohl DRM- als auch normale UKW-Sender empfangen kann.
+Mit einem Preis von rund 800 Euro ist der DRM2010 jedoch vor allem etwas für Radio-Enthusiasten.
+Als nächstes planen die Hersteller DRM-Radios, die sich auch in Autos einbauen lassen.
+Denn die digitale Übertragungstechnik macht es möglich, einen Sender über mehrere hundert Kilometer zu hören, ohne einmal den Sendersuchlauf betätigen zu müssen.
+Noch steht Digital Radio Mondial ganz am Anfang seiner Entwicklung.
+Ziehen nun auch die großen Hersteller von Unterhaltungselektronik und weitere Radiostationen nach, dann könnte DRM neben UKW und Internet-Livestreams zur dritten populären Säule im Rundfunk werden.

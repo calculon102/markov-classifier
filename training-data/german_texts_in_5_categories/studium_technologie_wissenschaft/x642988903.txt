@@ -1,0 +1,35 @@
+Schallplattenspieler erfreuen sich bei DJs und HiFi-Fans weiterhin großer Beliebtheit - der Rest der Welt zieht heute CDs vor.
+Doch was tun mit den schönen alten Platten?
+Versilbern heißt die Devise: Per Software wird aus Vinyl eine CD - und die alte Platte gewinnt sogar an Qualität.
+In vielen Haushalten ist kein Plattenspieler mehr vorhanden, um die umfangreiche LP-Sammlung anzuhören.
+Manche Platten kann man als CD nachkaufen, aber vieles verschwindet auch wieder aus den Regalen.
+Echte Sammler könnten ihre Platten zwar abspielen, möchten das wertvolle Vinyl aber schonen.
+Die selbst aufgenommenen Kassetten aber klingen von Jahr zu Jahr dumpfer und die Bänder werden spröde und rissig, bis es schließlich zum Bandsalat kommt.
+Immer mehr Musikfans digitalisieren daher ihre Schallplatten und Kassetten und speichern sie auf CDs.
+Ist die Musik digitalisiert, kann man sie ohne großen Aufwand auf tragbaren MP3-Playern überall anhören.
+Die Qualität wird sogar besser, denn spezielle Software befreit die Aufnahmen von Nebengeräuschen.
+Wie gut die Tonqualität am Ende wirklich ist, hängt von der verwendeten Hardware, der eingesetzten Software sowie dem Know-how des Bearbeiters ab.
+Mit einem leistungsfähigen PC und ausreichend freiem Speicherplatz können die meisten Tonträger in Heimarbeit digitalisiert werden.
+Im Gegensatz zur Digitalisierung von Super8-Filmen oder Dias sind die technischen Voraussetzungen hierfür nicht sehr anspruchsvoll.
+Dank ausgereifter Software kann man kaum etwas falsch machen.
+Vorausgesetzt, es handelt sich wirklich um einen seriösen Anbieter, der sein Handwerk versteht.
+Als Basis für die Eigenproduktion reicht ein aktueller Standardrechner, zum Beispiel ein Pentium III mit 400 Megahertz.
+Zusätzlich ist eine Soundkarte nötig.
+Die eingebauten Soundkarten reichen zwar für die anspruchslose Wiedergabe von Systemtönen und Hintergrundmusik, eignen sich jedoch nicht für die Umwandlung von Audiomaterial in CD-Qualität.
+Für die Audio-Quelle braucht man ein Abspielgerät, also Plattenspieler, Kassettenrekorder oder CD-Spieler.
+Ein CD-Brenner und ein Vorverstärker gehören ebenfalls zur Ausrüstung.
+In der heimischen Stereoanlage ist ein Verstärker bereits eingebaut.
+Für Anfänger hat er eine leicht verständliche Einführung in das Digitalisieren von Schallplatten erstellt.
+Inzwischen ist eine große Auswahl an bezahlbarer Software für das Digitalisieren und Bearbeiten von Tonträgern erhältlich.
+Für die Aufnahme genügt bereits der Soundrecorder, der bei den Zubehör-Programmen von Windows enthalten ist.
+Für die Bearbeitung - wie das Schneiden von Anfang und Ende der Aufnahme oder das Herausfiltern von Nebengeräuschen - ist ein professionelleres Soundbearbeitungsprogramm nötig.
+Die Produkte seien inzwischen alle auf einem hohen Niveau, so dass es keinen signifikanten Unterscheid zur Profisoftware mehr gebe, meint Manfred Klass.
+Ausschlaggebend für das Ergebnis ist die richtige Benutzung der Software durch den Anwender.
+Am bekanntesten ist da wohl 'Clean' von Steinberg.
+Bei einem unsachgemäßen Umgang mit solchen Restaurations-Tools besteht jedoch die große Gefahr, dass durch die vielen Entrauschfilter die Aufnahme verschlimmbessert wird.
+Der Zeitaufwand hängt stark vom technischen Verständnis des Anwenders ab.
+Wie lange die Nachbearbeitung dauert, hängt von den eigenen Ansprüchen und dem Zustand der Tonquelle ab.
+Wer sauber arbeiten will, trennt die einzelnen Tracks zum Beispiel manuell und nicht automatisch.
+Und wer ganz sicher gehen will, muss sich nach dem Maschinendurchlauf alles noch einmal anhören, um manuell einzelne, übrig gebliebene Kratzer wegzuretuschieren.
+Wenn die LP dagegen fabrikneu ist, lässt sie sich schnell und unproblematisch automatisch digitalisieren.
+Rechtlich ist die Digitalisierung und Speicherung von Tonträgern übrigens kein Problem, solange dies ausschließlich für den privaten Gebrauch und nicht für kommerzielle Zwecke geschieht.

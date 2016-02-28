@@ -1,0 +1,24 @@
+Im Trend liegen jedoch nicht nur Viren, sondern vor allem Werbemüll - und fiese Methoden, Netznutzern Passworte abzujagen.
+Obwohl Angriffe mit Computerviren nichts von ihrer Gefährlichkeit eingebüßt haben, mussten PC-Nutzer im vergangenen Jahr mit einer neuen Art von Internet-Kriminalität Bekanntschaft machen: So genannten Phishing-Attacken.
+Dabei werden ahnungslose Nutzer auf falsche Web-Sites gelockt, wo sie persönliche Daten wie Passwörter preisgeben sollen.
+Die Sicherheitsfirmen erwarten allgemein, das diese Angriffe noch zunehmen werden.
+Das gleiche gilt wohl auch für die Flut unerwünschter Werbe-Mails (Spam).
+Für die Sicherheitsfirma MessageLabs haben sich Phishing-Attacken und Online-Identitätsklau 2004 zu den größten Bedrohungen im Internet entwickelt.
+MessageLabs verweist dabei auf die rasant gestiegene Zahl an abgefangenen Phishing-Mails.
+Waren es im September 2003 gerade einmal 279 derartige Mails, so stieg ihre Zahl bis September 2004 auf über zwei Millionen.
+Bei den Phishing-Attacken werden meist gezielt Bankinformationen ausgespäht.
+Erschwerend kommt hinzu, dass die Methoden der Betrüger bei dieser zeitgenössischen Form des Bankraubs immer raffinierter werden.
+So seien vor kurzem Phishing-Mails entdeckt worden, die bereits beim Öffnen der E-Mail durch den Benutzer Online-Banking-Daten ausspähten und nicht erst beim Klicken auf die Web-Adresse, berichtete MessageLabs.
+Andere Betrüger setzten Trojaner ein, kleine Spionageprogramme, die Nutzer beim Login heimlich beobachten und die eingegebenen Daten speichern, berichtete die Sicherheitsfirma Sophos.
+Die Sicherheitsfirma Kaspersky Lab und auch auch andere beobachteten 2004 ein verstärktes Treiben internationaler krimineller Gruppierungen, wobei es eine Tendenz gibt, Viren und ähnliches für illegale Ziele einzusetzen.
+Als Zombie-Maschinen werden Rechner bezeichnet, die von Spammern infiziert wurden und massenhaft Spam weiterleiten, ohne dass die Nutzer dies wissen.
+So findet sich laut MessageLabs im Durchschnitt in etwa jeder sechsten Mail ein Virus.
+Die Statistiken von Sophos ergaben, dass die Zahl der neuen Viren in diesem Jahr um 51,8 Prozent gestiegen ist.
+Laut Kaspersky Lab gibt es immer häufiger einen Mix verschiedener Methoden.
+So werden mit den Viren oft auch Trojaner verbreitet.
+Das Unternehmen verweist in diesem Zusammenhang aber auch darauf, dass mehr und mehr Virenschreiber festgenommen und verurteilt werden.
+Sind die Viren aber erst einmal in Umlauf, dann hilft auch die Festnahme nicht mehr viel, wie sich bei Netsky und Sasser herausstellte.
+Denn obwohl der Urheber bereits im Mai 2004 festgenommen wurde, verbreiteten sich seine Würmer spürbar weiter, wie Sophos feststellte.
+Immer wieder tauchen neue Varianten auf.
+Sasser, der bei Sophos auf Platz drei der Jahres-Hit-Liste landete, zeigte deutlich, dass Computernutzer im Kampf gegen Viren nicht nur auf ihre E-Mails achten müssen.
+Sasser verbreitete sich über das Internet und richtete sich gegen Windows-Rechner, die nicht mit einem wichtigen Sicherheits-Patch von Microsoft versehen waren.

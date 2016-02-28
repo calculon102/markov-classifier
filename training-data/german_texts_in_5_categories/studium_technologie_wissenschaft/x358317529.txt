@@ -1,0 +1,34 @@
+Videotelefonie gehörte zu den großen Verheißungen der UMTS-Zeit.
+Jetzt prescht Vodafone vor, mit kleinen Einführungspreisen und sieben passenden Handys.
+T-Mobile will bald folgen.
+Wozu ein UMTS-Handy?
+Millionen von Mobilfunk-Kunden haben bislang kaum eine Antwort auf diese Frage gefunden.
+Im bevorstehenden Weihnachtsgeschäft sollen die Zweifler umgestimmt werden.
+Bei Vodafone werden sieben neue UMTS-Handys angeboten, die alle die Videotelefonie unterstützen, also das Telefonieren mit der gleichzeitigen Übertragung von bewegten Bildern des Gesprächspartners.
+Auch T-Mobile plant für Ende dieses oder Anfang nächsten Monats den Einstieg in diese neue Anwendung.
+Die Videotelefonie ist die einzige wirklich neue Funktion, die das mit Milliardeninvestitionen aufgebaute mobile Breitbandnetz UMTS zu bieten hat.
+Der bisher schon mögliche Download von Filmen und MP3-Songs sowie Empfang und Versand von mobiler Multimedia-Post (MMS) wird mit UMTS aber auch erheblich schneller und bequemer.
+Wenn mit der GPRS-Technik mehrere Kanäle des herkömmlichen GSM-Mobilfunknetzes gleichzeitig genutzt werden, wird eine Geschwindigkeit bis 57,6 Kilobit in der Sekunde erreicht.
+Mit UMTS sind zurzeit theoretisch 384 KBit/sec möglich.
+In der Praxis sind es meist um die 280 KBit/sec, was immer noch fast der fünffachen GPRS-Geschwindigkeit entspricht.
+Im Festnetz und am PC wird die gleichzeitige Übertragung von Gesprächen und Videoaufnahmen der Teilnehmer bislang fast ausschließlich von Unternehmen genutzt.
+Auf dem Handy soll der Blickkontakt beim Telefonieren vor allem Spaß machen.
+Damit befinde sich die mobile Videotelefonie zurzeit in einer ähnlichen Situation wie MMS in der Einführungsphase dieses Dienstes, erklärt Vodafone-Sprecher Heiko Witzke.
+Die deutsche Tochter des britischen Unternehmens hat schon mit seinem ersten UMTS-Handy im Juni, dem Samsung Z105, die mobile Videotelefonie möglich gemacht.
+Dafür gibt es im UMTS-Netz von Vodafone einen eigenen Kanal mit einer Datenübertragungsrate von 64 Kbit/sec. Eine fließende Übertragung von Bewegungen ist damit kaum möglich.
+Aber die Gesprächspartner können sich beim Telefonieren immerhin anschauen, solange sich beide im UMTS-Netz befinden.
+T-Mobile will das Videotelefonieren nach Angaben seines Sprechers Husam Azrak über die volle UMTS-Bandbreite nutzen.
+Um den Kunden das Videotelefonieren schmackhaft zu machen, kostet dies zur Einführung ebensoviel wie ein normales Telefongespräch.
+Dieser Schnuppertarif wurde bei Vodafone bis April 2005 verlängert.
+Auch bei T-Mobile soll es eine solche Einführungsphase geben.
+Weil das Kamera-Auge des Handys beim Fotografieren und beim Video-Telefonieren in entgegengesetzte Richtungen blickt, mussten die Hersteller eine Lösung entwickeln, die beiden Anwendungen gerecht wird.
+Von den sieben neuen UMTS-Handys bei Vodafone ist die Videotelefonie nur beim Nokia 6630 eingeschränkt, weil das Objektiv nicht geschwenkt werden kann.
+Das Sharp V902SH hingegen hat gleich zwei Objektive: eines zum Fotografieren mit der hohen Auflösung von zwei Megapixel und ein kleineres auf der Vorderseite.
+Je nachdem, wie es zusammengeklappt wird, präsentiert sich das neue Sharp-Handy wahlweise als Telefon oder im Funktionsdesign einer Digitalkamera.
+Anders gelöst wurde das Problem bei den neuen Geräten von Samsung (Z107 und Z110) sowie beim Sony Ericsson V800.
+Hier ist die Kamera in alle Richtungen schwenkbar - mal in der Mitte am oberen Gehäuserand angebracht, mal wie beim Z107 an der Seite zum Herausdrücken.
+Von den sieben UMTS-Handys im Vodafone-Sortiment gibt es die kleine VGA-Auflösung von 640 mal 480 Pixeln nur noch beim Samsung Z107 und beim Motorola V980 - ansonsten befinden sich alle bereits in der Megapixel-Klasse.
+Beim Display unterstützen fünf der neuen UMTS-Handys bereits 262.000 Farben, die anderen beiden sind auf 65.000 Farben beschränkt.
+Mit 320 mal 240 Pixeln haben Samsung Z110, Sharp V902SH und Motorola E1000 einen besonders großen Bildschirm.
+Die sieben neuen UMTS-Handys sind bislang erst als Prototypen verfügbar.
+Im November sollen dann die Preise und genauen Ausstattungsmerkmale bekannt gegeben werden.

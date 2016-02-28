@@ -1,0 +1,39 @@
+Philips: Mobil surfen...
+Philips verspricht, auf der Cebit 2003 das vernetzte Haus zu zeigen.
+In dem Zusammenhang wird auf Kaffeemaschinen, Rasierapparate und Glühbirnen ebenso verwiesen, wie auf TV- und Audiogeräte.
+Doch dass mein Rasierapparat morgens der Kaffeemaschine sagt, dass der Brühvorgang nun gestartet werden könne, bringt mir mein Internet weder auf die Couch noch ins Bett.
+Doch Philips wird auf der Cebit auch mir etwas Passendes präsentieren: Das Desxcape 150DM.
+Diese abnehmbare Fluchtmöglichkeit ist ein 15-Zoll großes Smart-Display, das von seiner Dockingstation abgenommen werden kann und dann kabellos mit dem Desktop-PC kommuniziert.
+Versprochen wird ein niedriger Stromverbrauch dank Intel Xscale-Prozessor, der 5 Stunden kabelfreien Betrieb ermöglicht und immerhin XGA-Auflösung - also 1024 x 768 Bildpunkte - bietet.
+So viel Eigenintelligenz des Displays hat seinen Preis, in diesem Fall ist von stolzen 1700 Euro die Rede.
+Wenig smart auch das Gewicht: 2,4 Kilogramm.
+Drahtlose Smart-Displays liegen dieses Jahr voll im Trend.
+Ein echter Trendsetter dieser Gattung ist das bereits vor einigen Monaten erstmals gesichtete Viewsonic Airpanel V100.
+Zur Cebit werden bereits die Nachfolger V110 und V150 gezeigt.
+Beim V110 handelt es sich um einen Touch-Screen-Bildschirm, der auf 10,4 Zoll eine webtaugliche Auflösung von 800 x 600 Bildpunkten herzaubert.
+Die Displays greifen via WLAN auf Desktop-Ressourcen zu und beim Gewicht liegt das V110 mit 1.200 Gramm schon auf dem richtigen Kurs.
+Auch bei Viewsonic ist das Smart-Display letztlich ein Thin-Client, mit eigenem 400 MHz Xscale-Prozessor, 64 MB RAM und Windows CE for Smart-Displays.
+Um den Verkaufspreis wird, so erklärt der deutsche Pressesprecher Peter Link, noch bis zur letzen Minute geknobelt.
+Die Philips-Offerte wird da wohl die Marschroute vorgeben.
+Tablet-PCs: Die Alternative?
+Um SPIEGEL ONLINE zur Sofalektüre zu machen, käme ein Tablet-PC ebenfalls in Betracht.
+Auch da spielt der Bildschirmhersteller Viewsonic neuerdings mit.
+Der V1100 wartet mit einem mobilen Pentium-III und 833 MHz Taktfrequenz auf.
+Eine 20-GB-Festplatte im 2,5-Zoll-Format, USB- und Firewire-Anschlüsse sowie das neue Windows XP für die Gattung der Tablet-PC, profilieren den V1100 als Laptop-Alternative.
+Für den Preis von rund 3000 Euro könnte man sich allerdings auch eine zwar preiswerte, aber komplette Einbauküche kaufen.
+Toshiba will auf der Cebit kein Smart-Display zeigen, sehr wohl aber sein Luxustablett Portégé 3500.
+Der Rechner läuft ebenfalls mit einem Pentium III Mobile, der gar mit 1,33-GHz getaktet ist.
+Bluetooth und WLAN ist gleich mit eingebaut, ebenso wie eine 40 GB-Festplatte und 256 MB SDRAM (erweiterbar bis 1024 MB).
+Der Preis liegt übrigens 200 Euro oberhalb der Modellbezeichnung.
+Dafür bekommt man zwar bereits einen guten Gebrauchtwagen, aber mit dem Portégé 3500 könnte man dafür im Linienbus bis zu dreieinhalb Stunden lang offene WLAN-Spots suchen.
+So lange hält nämlich der Akku.
+Da lässt sich die Allianz aus Compaq und Hewlett-Packard natürlich nicht lumpen.
+Für rund 2300 Euro hat man die Qual der Wahl zwischen der Fernreise mit der Partnerin oder einem TC-1000.
+Wenn Windows-XP auf dem Tablet-PC weniger Ärger macht als die Freundin über einen versäumten Urlaub, wäre das eine Überlegung wert.
+Da bleibt für meinen Geldbeutel nur der trübe Blick in die Niederungen der Pocket-PCs.
+Dell startet seine Karriere als PDA-Produzent mit einem gelungenen Paukenschlag: Axim X 5 heißt der neue Star für die Hemdtasche.
+Euro für Aufregung.
+Die größere Version mit 400 MHz-Prozessor und 64 MB RAM soll 405 Euro kosten.
+Ein optionaler Akku mit 3400 statt 1450 mA soll bis zu 25 Stunden Betrieb möglich machen.
+Klasse, nur sind 240 x 320 Bildpunkte für ein unbeschwertes Surfvergnügen immer noch zu wenig.
+Zwischen Tablet-PC und Smart-Display hinunter zum PDA klafft immer noch eine Riesenlücke, in der meine geheimen Wünsche nach ausgiebigem Web-Couching zu Hause sind.

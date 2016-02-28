@@ -1,0 +1,22 @@
+In der Theorie war die Gefahr bereits bekannt.
+Doch jetzt machen Hacker wirklich ernst mit ihren Angriffen auf das Online-Banking.
+Mit Spionage-Software auf den Rechnern von Internetnutzern sind die Betrüger nicht mehr auf den Einsatz von gefälschten Bank-Homepages angewiesen.
+Berlin - Statt die eigens für diesen Zweck gebaute Imitation der Bankseite, benutzen Hacker jetzt laut Stiftung Warentest kleine Spionage-Programme, die auch als Trojaner bekannt sind.
+Wenn ein Surfer mit infiziertem Rechner seine Bank ansteuert und dort eine Überweisung in Auftrag geben will, landen die Zugangsdaten und die Transaktionsnummer beim Hacker.
+Die Verbindung zur Bank bricht mit einer Fehlermeldung ab.
+Mit den Daten überweist der Betrüger anschließend so viel Geld wie möglich auf Konten im Ausland.
+Wenn beim Online-Banking Fehlermeldungen auftauchen, sollten Surfer deshalb sofort reagieren.
+Der Besuch einer speziell präparierten Webseite oder das Öffnen einer HTML-Mail könne den Angaben zufolge schon ausreichen, um sich das Spionage-Programm unbemerkt auf die Festplatte zu laden.
+Besonders gefährlich sind Datei-Anhänge in E-Mails.
+Sie können stets Viren, Würmer oder Spionagesoftware enthalten.
+Nicht einmal Virenscanner schützen zuverlässig.
+In einem der beiden aktuellen Fälle war der Trojaner den Angaben nach so geschickt getarnt, dass aktuelle Schutzprogramme ihn nicht bemerkten.
+Auch die Verschlüsselung bietet keinen Schutz der Daten.
+Die Verschlüsselung, zu erkennen an dem der Internetadresse vorangestellten https://, als solche ist sicher.
+Wenn ein Rechner infiziert ist, fängt der Trojaner die Daten jedoch vor der Verschlüsselung ab und leitet sie an die Hacker weiter.
+Dennoch sind Surfer nicht schutzlos.
+Selbst wenn ein Trojaner die Daten für eine Online-Überweisung erbeutet hat, ist noch nichts verloren.
+Die Ausführung von Online-Überweisungen braucht Zeit.
+Vor allem bei Auslandsaufträgen dauert die Abwicklung ein bis zwei Tage.
+In dieser Zeit können Kunden den Auftrag noch stoppen, rät Stiftung Warentest.
+Bislang ist noch kein Fall bekannt geworden, bei dem es Hackern tatsächlich gelungen ist, ihre Beute beim Online-Raubzug in Sicherheit zu bringen.

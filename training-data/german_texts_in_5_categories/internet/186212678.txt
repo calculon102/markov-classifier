@@ -1,0 +1,48 @@
+In Interview mit SPIEGEL ONLINE erklärt Erbauer Niklas Roy, was ihn dazu motivierte.
+SPIEGEL ONLINE: Wie sind Sie auf die Idee gekommen, solch ein kurioses Spielzeug zu bauen?
+Roy: Ich wollte einen Gegensatz zu dem schaffen, was heutzutage in der Spiele-Industrie oder auch bei Tricks in Filmen passiert.
+Dort werden virtuelle Realitäten hergestellt, welche die reale Welt kopieren.
+Mein Ziel war, den Spieß umzudrehen und eine virtuelle Welt in die Realität zu transportieren.
+SPIEGEL ONLINE: Wie viel Arbeit steckt denn drin in dieser großen Kiste?
+Roy: Sehr viel.
+Von der Idee bis zur fertigen Maschine hat es ungefähr ein Jahr gedauert.
+Insgesamt sind rund 900 Stunden Arbeit bei dem Projekt zusammengekommen.
+SPIEGEL ONLINE: Warum haben Sie ausgerechnet dieses Pingpong-Spiel ausgewählt?
+Roy: Weil es ein Symbol ist.
+Es ist ja eines der ersten Computerspiele überhaupt, das erste kommerziell erfolgreiche jedenfalls.
+Und es ist eine virtuelle Welt, die von einem Computer in Echtzeit berechnet wird.
+Obwohl es ein nachgemachtes Tennisspiel ist, ist es dennoch auf den ersten Blick als Videospiel erkennbar.
+Gleichzeitig eignete es sich auf Grund seiner Einfachheit sehr gut für meine Zwecke.
+SPIEGEL ONLINE: Die Bauteile, aus denen Sie Pongmechanik zusammengeschraubt haben, haben Sie die alle neu gekauft?
+Roy: Ja, alle bis auf die Telefonrelais.
+Die stammen aus einer Internet-Auktion.
+Dort habe ich eine Telefonanlage aus den fünfziger Jahren ersteigert.
+Die Bauteile haben zusammen ungefähr 2500 Euro gekostet.
+SPIEGEL ONLINE: Wo steht das Spiel denn überhaupt?
+Roy: Im Augenblick bei mir zu Hause.
+SPIEGEL ONLINE: Was waren die größten technischen Herausforderungen?
+Roy: Ohne Zweifel der mechanische Teil.
+Das Ganze besteht ja aus zwei Teilen: der Relais-Steuerung und dem mechanischen Display mit Kollisionsabfrage.
+Die Mechanik war am kompliziertesten, weil sie natürlich auch am fehleranfälligsten ist.
+SPIEGEL ONLINE: Sie haben bei der Mechanik ja mehrere Ansätze verfolgt, bis es geklappt hat...
+Roy: Anfangs wollte ich sämtliche bewegliche Teile auf Rollen lagern und auf Wagen bewegen.
+Gleichstrommotoren sollten die Wagen über Schnüre hinund herziehen.
+Das hat aber nicht so funktioniert, wie ich mir das vorgestellt hatte.
+Deshalb habe ich Ketten statt Schnüren verwendet, die nun anstelle von Wagen Gleiter bewegen.
+Die rutschen einfach nur auf Schienen.
+SPIEGEL ONLINE: Man hört ja auch, wenn der Ball den Schläger trifft.
+Wie ist das technisch gelöst?
+Roy: Beim Original-Pong gibt es genau zwei Geräusche: Einen hohen und einen tiefen Piepton.
+Mir ging es darum, das Ganze möglichst eins zu eins umzusetzen.
+Deshalb habe ich zwei Klanghölzer im Percussion-Laden gekauft, ein höher und ein tiefer gestimmtes.
+Und da schlagen Elektromagneten drauf, die aus Türklingeln stammen.
+SPIEGEL ONLINE: Woher kommt Ihre Affinität zu Computerspielen und zum Basteln mit Relais?
+Roy: Wenn man 30 Jahre alt ist wie ich, dann ist Pong so ziemlich das erste Videospiel, das man gespielt hat.
+Und als Kind habe ich schon immer viel gebastelt.
+Ich habe mir Kinderzimmer-Alarmanlagen gebaut und mit Strom experimentiert.
+Da hatte ich schon immer einen Draht zu.
+SPIEGEL ONLINE: Glauben Sie, dass mechanische Spiele generell eine Zukunft haben?
+Roy: Ich kann mir schon vorstellen, dass man ganz neue Spielkonzepte mechanisch umsetzt.
+Das Problem dabei ist aber, dass Mechaniken sehr störanfällig sind.
+Die Technik mit Halbleitern und Bildschirmen hat einfach den Vorteil, dass sie wesentlich stabiler läuft.
+Aber ein Flipperautomat ist ja ein gutes Beispiel für den Erfolg und die Faszination von elektromechanischen Spielen.

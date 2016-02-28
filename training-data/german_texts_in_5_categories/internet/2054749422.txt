@@ -1,0 +1,35 @@
+Wenn der mächtige Microsoft-Chef Steve Ballmer auf Reisen geht, hat das selten mit Urlaub zu tun: In Deutschland traf er sich mit Wirtschaftsbossen und Spitzenpolitikern.
+Ziel der Mühen: Neue Geschäftsfelder erobern, alte verteidigen.
+Dass Steve Ballmer derzeit in Berlin ist, war am Montag kaum zu verpassen.
+Die Choreographie des Manager-Tages sah vor, dass er in schneller Folge zwei nicht ganz unwichtige Pressekonferenzen durchziehen sollte.
+Mit Siemens besiegelte Ballmer eine Kooperation, die beiden Partnern Zugang zu Patenten und Lizenzen gewährt.
+Wer da wem mehr zu bieten hatte, lässt sich aus dem mit dem Deal verbundenen Geldfluss herauslesen: Der geht von Microsoft an Siemens, sei aber nicht wirklich der Rede wert, beeilte sich Ballmer zu versichern.
+Sprich: Für Industrieriesen Kaffeekassen-Niveau - was nicht viel heißt, denn Microsoft hat dank einer 60-Milliarden-Dollar-Füllung eine der größten Kaffeekassen der Welt.
+Was also haben sich die Partner zu bieten?
+Siemens' für Microsoft wichtige Engagements liegen im Bereich von Energie-, Medizin- und Telekommunikationstechnik.
+Hier hofft Microsoft, neue Geschäftsfelder erschließen zu können - und bisher nicht so gut laufende auf Trab zu bringen.
+In all diesen Bereichen gibt es seit geraumer Zeit erhebliche Überschneidungen.
+Dabei geht es zum Beispiel um Siemens HiPath-Technologien, integrierte Kommunikationslösungen für den Business-Bereich.
+Das Software-Herz des erfolgreichen Konzeptes pulst seit längerem im Microsoft-Takt, künftige Verbesserungen des Produkt- und Serviceportfolios sollen die aufgefrischte und vertiefte Kooperation erleichtern.
+Doch es geht natürlich um mehr.
+Fast beiläufig erwähnte der Microsoft-Chef den Bereich, in dem für sein Unternehmen wohl am meisten zu holen wäre: Er könne sich vorstellen, sagte Ballmer, dass man die Kooperation künftig auch auf die Entwicklung neuer Mobiltelefone ausweiten könne.
+Trotz aller Marktmacht will es Microsoft aber bisher nicht gelingen, in dem hart umkämpften Markt das Gewicht zu gewinnen, das sich Ballmer dort wohl wünscht.
+Siemens hingegen ist ein Schwergewicht im Segment innovativer Mobiltelefone.
+Eine wirklich enge Kooperation könnte da für einige Unruhe sorgen.
+Mit Geldflüssen verbundene Koperationen, Partnerschaften und Streitschlichtungen liegen bei Microsoft im Trend.
+Vor wenigen Wochen trat Ballmer zur allgemeinen Überraschung mit dem einstigen Erzfeind Scott McNealy auf, mit dessen Firma Sun Microsystems Microsoft jetzt langjährige Rechtsstreitigkeiten beilegte.
+Termin Nummer Zwei führte Ballmer mit Innenminister Otto Schily vor die Mikrofone.
+Was der der Presse zu sagen hatte, kann Ballmer so sehr nicht gefreut haben.
+An Computern des Innenministeriums seien allein im März und April dieses Jahres innerhalb von sechs Wochen rund 2,5 Millionen infizierte E-Mails nur eines Typs abgefangen worden, sagte Schily.
+Das kommt einem dezent servierten Vorwurf nahe, weil weit über 90 Prozent aller Virenprobleme nur die Windows-Betriebssysteme von Microsoft betreffen.
+Auch deshalb läuft seit Jahren die Diskussion darüber, ob die so genannten kritischen Infrastrukturen nicht grundsätzlich auf ein Open-Source-System wie Linux umgestellt werden sollten, bei denen jeder den vollen Einblick in den Quellcode erhält.
+Dass Ballmer und Schily eine Vereinbarung zur Zusammenarbeit in Sachen IT-Sicherheit unterzeichneten, war also ein Stück Diplomatie und vertrauensbildende Maßnahme.
+Künftig soll der Software-Konzern das Bundesamt für Sicherheit in der Informationstechnik bei der Beratung wichtiger Unternehmen in Deutschland unterstützen.
+Durch die Überlassung bestimmter Software-Informationen und durch permanent erreichbare Ansprechpartner solle insbesondere die Arbeit jener Unternehmen geschützt werden, die die Infrastruktur des Landes stützen.
+Der Subtext der ganzen Aktion: Microsoft gelobt Besserung, und das sogar schriftlich.
+Der Markt der Verwaltungen und Büroetagen ist für Microsoft alles andere als unwichtig.
+Tendenziell nutzen PC-Arbeiter die Programme auch privat, die sie aus dem Arbeitsleben kennen.
+Genau so hatte der Siegeszug von Microsoft einst begonnen, der dem Unternehmen heute eine weltweite quasi-Monopolstellung beschert, die im Bereich der Betriebssystem und Office-Programme 90 Prozent Marktanteil erreichen oder überschreiten.
+Vor einem Jahr hatte die Stadtverwaltung München als erste große Gemeinde Deutschlands entschieden, ihre Systeme auf Linux umstellen zu wollen.
+Vorangegangen waren harte Verhandlungen zwischen Microsoft und den Münchner Stadtvätern, die Steve Ballmer in letzter Minute ohne Erfolg noch zu drehen versucht hatte.
+Auch bei der EU-Kommission holte er sich im letzten Monat eine Abfuhr, als er versuchte, ein 497 Millionen Euro-Bußgeld gegen Microsoft zu verhindern.

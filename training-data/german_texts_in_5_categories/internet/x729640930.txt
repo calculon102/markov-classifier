@@ -1,0 +1,21 @@
+In Jerusalem steht ein 23-Jähriger vor Gericht, weil er erfolgreich eine Webseite des Mossad gehackt hat.
+Er gibt an, er habe nur überprüfen wollen, ob seine Bewerbungsdaten bei dem Geheimdienst auch sicher seien.
+Rekrutierungswebsite des Mossad: Hack geglückt, Bewerbung misslungen?
+Vorbei die Zeit, in der Geheimdienste sich lichtscheu vor der Öffentlichkeit verbargen.
+Der hat den erfahrenen Spezialisten nämlich oft so einiges voraus.
+So bemühten sich in den letzten Jahren Geheimdienste wie Englands MI5, die US-Dienste CIA und NSA und auch der deutsche Bundesnachrichtendienst gar nicht heimlich um Spezialisten mit IT-, Hack- und Sprachkompetenz.
+Weltweit entwickelt sich das Internet dabei nicht nur zum Werkzeug der Spionage, sondern auch zur Personalsuche.
+So lud die CIA schon Hacker ein, eine eigens geschaffene Seite zu knacken und sich so für entsprechende Jobs zu empfehlen.
+So wirbt Englands MI5 locker-flockig mit den Vorzügen der Arbeit in einem modernen, bestens ausgestatteten Büroumfeld mit netter Aussicht.
+So bemühen sich die BND-Geheimen in Pullach gewohnt nüchtern-sachlich mit amtlichen Stellenausschreibungen um Qualifikanten.
+Der Mossad hingegen, Israels legendärer Geheimdienst, gilt nach wie vor als der geheimsten einer: Er beschränkt sich bei seiner Personalsuche auf virtuelle Stellenanzeigen nüchternster Strickart.
+Peinliche Panne, strafbewehrt?
+Davon kann sich derzeit in Jerusalem ein 23-Jähriger überzeugen, von dem nur bekannt ist, dass er über Hacker-Qualitäten verfügt.
+Die bewies er, als er eben nicht nur das für eine Mossad-Bewerbung gedachte Formular ausfüllte, sondern auch dessen Datenweg durch die offenbar dann doch nicht so streng gesicherten Geheimdienst-Server verfolgte.
+Damit, so der Verteidiger des Angeklagten, habe er nur überprüfen wollen, ob seine Daten bei den Geheimdienstlern auch sicher seien.
+Doch das alles, glaubt die Anklage, sei Unsinn: Der Angeklagte habe die Geheimdienst-Server durchaus gezielt angegriffen.
+Die Anklage wittert also nicht nur kriminelles, sondern auch unpatriotisches Verhalten des 23-Jährigen.
+Der hatte die Geheimdienst-Server um keinerlei geheime Informationen erleichtern können, denn der erfolgreiche Hack erbrachte nur stark verschlüsselte Daten.
+Da bliebe also das Problem der löchrigen Website mit ihrem Daten-Tor in die Netzwerke des Geheimdienstes, kritisierte keck die Verteidigung: Vielleicht hätte man sich darum kümmern sollen, statt den Fall vor Gericht zu bringen?
+Dass daraus aber weiterer Schaden entsteht, ist unwahrscheinlich: Wann, wie und womit der Hack gelang, bleibt geheim.
+Das Leck allerdings dürfte mittlerweile geflickt sein.

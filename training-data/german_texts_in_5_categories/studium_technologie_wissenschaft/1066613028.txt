@@ -1,0 +1,23 @@
+Wer kennt noch die Ausgabegeräte der frühen PC-Ära, die ihre Druckpunkte mit kontrollierter Gewalt über ein Farbband zu Papier brachten?
+Den Nadeldrucker gibt es schon länger als den PC: 40 Jahre wird das Gerät dieser Tage jung.
+Er stirbt nicht aus, und wer einen besitzt, behandelt ihn gut.
+Ein Nadeldruckkopf erzeugt die Zeichen und Grafiken über eine Reihe von übereinander liegenden Nadeln...
+Und da leisten der LQ870 und der LQ570 von Epson ganze Arbeit.
+Schon seit mehreren Jahren verrichten sie ihren Dienst, und das zu einem äußerst günstigen Preis.
+Nadeldrucker heißen die Geräte, weil der Druckkopf neun oder 24 Nadeln enthält.
+Die schießen je nach Aufbau des zu druckenden Inhalts aus ihrer Halterung auf das Farbband und erzeugen so auf dem Papier das gewünschte Druckbild.
+Das wirkt natürlich etwas grober als die Ausdrucke von Laseroder Tintendruckern.
+Doch auf hohe Druckqualität kommt es gar nicht so sehr an.
+Im medizinischen, gewerblichen und behördlichen Bereich sind sie deswegen immer noch im Einsatz.
+Und solange es von der Wiege bis zur Bahre Formulare gibt, wird es auch Nadeldrucker geben.
+Damit Farbband und Druckkopf lange durchhalten, wird Windows extra auf Schongang eingestellt - in der Standardeinstellung fräst ein Nadeldrucker die Texte fast auf das Papier.
+Das ist kein Wunder, denn dass die Geräte wunderschöne eigene Schriften haben, ignoriert das Microsoft-Betriebssystem und sendet die Daten im Grafikformat an den Drucker - moderne Ausgabegeräte verlangen das nun einmal.
+Waren Nadeldrucker früher ein Brot- und Butterprodukt wie heutzutage die mit Tinte agierenden, sind sie im Laufe der Jahre zum edlen Peripheriegerät gereift.
+Nur eine Handvoll Hersteller produzieren sie überhaupt noch, Marktführer sind Oki (41 %) und Epson (47 %).
+Unter 200 Euro ist ein neuer Nadeldrucker nicht zu haben.
+Bei eBay fangen selbst gebrauchte Geräte, z.B. der Epson LQ570, bei 100 Euro an.
+Ein guter Nadel-Matrixdrucker belohnt seinen Besitzer mit langem Leben und niedrigen Betriebskosten.
+Das ist im gewerblichen Umfeld auch wichtig.
+Und wer einen solchen Drucker hat, folgt dem Beispiel von Dr. Berg und achtet auf ihn, denn auch Techniker, die sich mit der Mechanik der Geräte auskennen und es reparieren könnten, gibt es nicht mehr so viele.
+Die Drucker sind unter modernen Gesichtspunkten nicht mehr up to datelaut sägend verrichten sie ihre Arbeit.
+Davon ist Ihr Chef überzeugt.

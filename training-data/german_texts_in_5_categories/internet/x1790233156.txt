@@ -1,0 +1,22 @@
+Elektronisches Papier steht damit kurz vor der Serienreife.
+Endprodukt: E-Paper-Rolle, die Zukunft von Zeitung, Magazin und Buch?
+Es gibt nur wenige neue technische Produkte, auf die die Welt wirklich wartet: Was den Consumermarkt erreicht, ist zumeist letztlich Luxus und würzt das Leben eher, als dass es es erleichtert.
+Elektronisches Papier hingegen könnte wirklich das Potenzial haben, so einiges zu bewegen.
+Unter den Oberbegriffen E-Ink oder E-Paper versteht man Techniken, die es möglich machen, extrem dünne, nach Möglichkeit flexible Bildschirmmedien herzustellen, die wechselnde Inhalte darstellen können.
+SPIEGEL ONLINE on demand auch in der U-Bahn?
+Denkbar ist vieles, und bereits seit Anfang der Neunziger pumpen Unternehmen wie Xerox Geld in die Entwicklung.
+Investoren wie Philips oder dem japanischen Druck-Riesen Toppan bezieht.
+Beschrieben wird dort ein extrem dünnes TFT-Display, gerade einmal so dick wie drei menschliche Haare, das zwar noch schwarz-weiß, dafür aber gestochen scharf daherkommt.
+Im Gegensatz zu bisherigen E-Paper-Lösungen soll man beim E-Ink-Produkt aus jedem Winkel lesen können - und selbst bei hellstem Licht.
+Die Flüssigkeit enthält schwarze und weiße Pigmente, die auf positive, respektive negative Ladezustände reagieren.
+Die Pigmente arrangieren sich jeweils an den über die Transistorschicht definierten Plus- und Minuspolen und formen so ein Bild (siehe Schaubild).
+E-Ink ist es bereits gelungen, das technische Prinzip in einem gebrauchsfähigen Prototyp zu verbauen.
+Das kleine Display kann nach Firmenangaben etwa zwanzigmal aufgewickelt und in einem ebenfalls extrem dünnen Zylinder verstaut werden, ohne dass die Performance des Bildschirmes darunter leidet.
+Auf Bewegtbilder wird man aber wohl noch warten müssen: Zeitungen wie in Harry-Potter-Filmen, in denen mit Filmen statt Fotos illustriert wird, bleiben vorerst Zukunftsmusik.
+Das gilt für mindestens zwei Jahre auch noch für E-Paper, denn noch ist die Technik nicht zu haben.
+E-Ink geht davon aus, dass man bis 2004 Farbtechnik beherrschen wird, und die zahlreichen Investoren drängen auf erste Anwendungen in PDAs und Handys.
+Bis echtes elektronisches Papier aber auch für Menschen erschwinglich wird, die nicht Bill heißen, dürften noch einige Jahre mehr vergehen.
+Bis dahin bleibt die digitale Papyrusrolle am Zeitungskiosk Science Fiction - aber schon fast zum Greifen nah.
+Elektro-Papier: Zukunftstraum oder Seifenblase?
+Das Rennen um die Veröffentlichung eines ersten echten E-Papiers ist eröffnet.Serienreif und marktfähig soll die Technik schon in diesem Jahrzehnt sein.
+Aber hat sie auch Chancen?

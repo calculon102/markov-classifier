@@ -1,0 +1,21 @@
+Der Transistor, Grundbaustein aller elektronischen Schaltkreise, hat in den vergangenen Jahrzehnten immer winzigere Ausmaße angenommen.
+Mit neuen Verfahren versuchen Wissenschaftler fieberhaft, die physikalischen Grenzen der konventionellen Siliziumtechnik zu überwinden: So wurden zum Beispiel bereits Nanoröhrchen aus Kohlenstoff zu winzigen Schaltungen zusammengebaut.
+Zwei Forschergruppen ist es jetzt gelungen, Transistoren aus einem einzigen Molekül herzustellen.
+Eines der Teams ließ dabei den Strom durch ein einzelnes Metallatom fließen und erreichte damit die Grenze des physikalisch Machbaren.
+Das Team um Paul McEuen und Daniel Ralph von der Cornell University beförderte ein Kobaltatom in ein speziell konstruiertes Molekül und bugsierte dieses zwischen zwei Elektroden aus Gold.
+Wurde Spannung angelegt, hüpften die Elektronen von einem Draht über das Kobaltatom zum Draht gegenüber.
+In dem winzigen Transistor ist das Atom in einer Hülle aus Kohlenstoff- und Wasserstoffatomen gefangen und wird von molekularen Klammern aus Pyridin, einem mit Benzol verwandten Stoff, an seinem Platz gehalten.
+An beiden Seiten des Käfigs hängen Schwefelatome, mit denen das Molekül an den Goldelektroden kleben bleibt.
+Ein ähnliches Verfahren wandte auch die zweite Forschergruppe um Hongkun Park von der Harvard University an, allerdings nicht mit einem einzelnen Kobalt-, sondern zwei Vanadium-Atomen.
+Die schwierigste Aufgabe war für die Wissenschaftler, das Transistor-Molekül zwischen den Enden der Goldelektroden zu platzieren.
+Die konventionelle Lithographie erreicht bestenfalls eine Auflösung von zehn Nanometern.
+Die Enden der Elektroden aber durften nur etwa einen Nanometer, also ein Millionstel Millimeter, auseinander liegen.
+Beide Forscherteams bedienten sich deshalb einer Technik namens Elektromigration.
+Dabei wird durch den Golddraht eine immer stärkere Spannung gejagt, bis er schließlich bricht.
+In diesem Moment wird das Molekül von dem starken elektrischen Feld in die Lücke gesaugt und von seinen Schwefel-Klebekrallen zwischen den Drahtenden festgehalten.
+Fertig ist der Transistor: Der Stromfluss, fanden die Forscherteams heraus, kann nun durch die Veränderung der Spannung in der Nähe des Moleküls ein- und ausgeschaltet werden.
+Dennoch, räumt McEuen ein, besitzt das molekulare Konstrukt noch nicht alle Funktionen eines Siliziumtransistors.
+Bisher fehlt ihm etwa die Fähigkeit, elektrische Signale zu verstärken.
+Allerdings kann der Nanotransistor nach Meinung des Physikers als chemischer Sensor eingesetzt werden, da Veränderungen in seiner Umgebung zu messbaren Abweichungen in seiner Leitfähigkeit führen.
+Das nächste Ziel der Cornell-Wissenschaftler ist die Konstruktion eines Moleküls, das als Schalter dient, indem es bei unterschiedlichen Spannungen seine äußere Form verändert.
+Doch dem Ziel des winzigen Schaltkreises von molekularer Größe sei man einen großen Schritt näher gekommen.

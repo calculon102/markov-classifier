@@ -1,0 +1,25 @@
+Das Urheberecht wartet mit neuen Regelungen und Formulierungen auf, die in der Praxis Nutzer und Juristen gleichermaßen vor Fragen stellen.
+Weder bei CD-Kopien, noch bei den Klagen der Musikindustrie gegen P2P-Nutzer ist klar, wie die Gerichte entscheiden werden.
+Regelungen, die sich im Alltag als tückisch erweisen.
+Doch diese Auslegung macht keinen Sinn.
+Ein Kopierschutz wäre dann stets entweder schon technisch unüberwindbar oder automatisch rechtlich gar nicht schutzwürdig.
+Als ausreichend gilt deshalb eine Hürde, die den üblichen, ohne besondere technische Kenntnisse ausgestatteten Nutzer vor Probleme stellt.
+Umgehen heißt nicht überwinden.
+Doch selbst dieser Auslegung genügen nicht alle Schutzvorrichtungen.
+Bei so manchen Audio-CDs hebelt ein simples Deaktivieren der Autostart-Funktion oder ein bloßer Druck auf die Shift-Taste den Kopierschutz aus; auch können einzelne Filzstift-Striche die runden Silberlinge kopiergefügig machen.
+Solche Schutzvorrichtungen stellen niemanden vor ernsthafte Hürden.
+Im Gegenteil: Durchaus denkbar, dass Nutzer Sperren umgehen, die sie gar nicht bemerken.
+Spätestens hier dürfte eine Mindestschwelle der Wirksamkeit unterschritten sein.
+Interview zu den P2P-Prozessen: Wie teuer wird es denn nun?
+Auch beim Filesharing lässt die Rechtslage den Musikfans Spielräume.
+Zwar gilt der Upload als eindeutig rechtswidrig.
+Die Formulierung erweist sich als Fehlgriff.
+Die Vorschrift sei schlicht zu unbestimmt.
+Fazit: Wer nur saugt, hat gute Karten, sein Handeln als legal bewertet zu sehen.
+Probleme bekommen dagegen die Uploader - und gegen die richtet die Musikindustrie zunächst ihre Klagen.
+Auch die Identifizierung der Nutzer erweist sich als Problem.
+Doch zumindest dann, wenn die Surfer Straftaten begehen, müssen die Provider auf gerichtliche Anordnung hin den Staatsanwaltschaften die Identität der Nutzer offen legen.
+Damit steht der Industrie dieser Umweg über das Strafrecht offen, um an die Identität zumindest der Uploader zu gelangen.
+Die Industrie konzentriert sich derzeit auf einige Dutzend Hardcore-Tauscher - hier ist am ehesten eine abschreckende Verurteilung denkbar.
+Dazu kommen neue Programme wie Steganos Secure FileSharing, die die eingehenden Musikdateien aus P2P-Börsen direkt verschlüsseln und damit verschwinden lassen.
+Fazit: Der Wettlauf zwischen Technik und Recht dürfte noch lange nicht zu Ende sein.

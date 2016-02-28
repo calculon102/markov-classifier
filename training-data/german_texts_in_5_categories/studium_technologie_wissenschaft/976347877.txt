@@ -1,0 +1,24 @@
+Ziel der sich anbahnenden DDoS-Attacke ist nicht mehr nur SCO, sondern auch Microsoft.
+Der unbekannte Autor des MyDoom-Virus sorgt dafür, dass bei IT-Sicherheitsunternehmen vorerst keine Langeweile aufkommt.
+MyDoom.B verschärft die Situation noch einmal: Das Virus enthält nun eine Schadensfunktion, die verhindert, dass Nutzer befallener Rechner ihre Virenschutz-Software auf den neuesten Stand bringen können.
+Betroffen davon sind unter anderem die Webseiten von Network Associates, F-Secure, Sophos, Symantec, Kaspersky, McAfee und Trend Micro.
+Die IT-Sicherheitsunternehmen versuchten, schnellstmöglich darauf zu reagieren.
+Removal-Tools für die Entfernung des Virus von bereits befallenen Rechnern sind in Arbeit.
+Ein kostenloses Removal-Tool, das beide MyDoom-Varianten vollständig entfernt, hält AntiVir bereit.
+Ungeklärt ist bisher, wie die neue Variante in Umlauf gebracht wurde.
+Der Virenautor, den AntiVir in Russland vermutet, hat die Dateinamen seiner Schaddateien verändert.
+MyDoom.B landet mit leicht veränderten Betreffzeilen im E-Mail-Fach und enthält längere Textnachrichten.
+The message cannot be represented in 7-bit ASCII encoding and has been sent as a binary attachment. sendmail daemon reported: Error #804 occured during SMTP session.
+Partial message has been received.
+The message contains Unicode characters and has been sent as a binary attachment.
+The message contains MIME-encoded graphics and has been sent as a binary attachment.
+Mail transaction failed.
+Partial message is available.
+Auch über KaZaA besteht die Gefahr einer Infektion durch MyDoom.B. Bei KaZaA tarnt sich das Virus als angebliches Programm.
+Der einfachste und sicherste Schutz vor dem Befall mit Viren wie MyDoom stellt die Einhaltung elementarer Sicherheitsregeln dar.
+Dazu gehört es, unverlangt zugesandte Datei-Anhänge grundsätzlich nicht zu öffnen.
+Auch Dateinanhänge, die von anscheinend vertrauenswürdigen Absendern kommen, sollte man auf Viren prüfen.
+Ausführliche Tipps zu diesem Thema hält das Bundesamt für Sicherheit in der Informationstechnik BSI bereit.
+Gefährdet durch die bisher beispiellose Virenwelle sind allein die Nutzer von Windows-Systemen.
+Unter der durch das Virus verursachten Mail-Lawine leiden allerdings alle: Experten schätzen, dass derzeit rund 15 Prozent des weltweiten E-Mail-Verkehrs durch das Virus verursacht wird.
+Insbesondere in Unternehmen ist dieser Prozentsatz aber weit höher.

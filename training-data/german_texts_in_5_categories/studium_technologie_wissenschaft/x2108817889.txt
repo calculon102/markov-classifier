@@ -1,0 +1,45 @@
+Wer Ordnung hält, ist nur zu faul zum Suchen: Was einst als sarkastischer Kommentar über schlampige Zeitgenossen gemeint war, kann man künftig wörtlich nehmen.
+Desktop-Suchsysteme erleichtern das Leben und liegen im Trend, und wie immer hat Google die Nase vorn.
+Was nicht bedeutet, dass der PC-Schnüffler keine Gefahren birgt.
+Seit einem halben Jahrzehnt bietet sich auf dem Markt der Such-Software und -Dienstleistungen das immer gleiche Bild: Google dominiert und alle anderen hecheln hinterher.
+Die ist eigentlich absolut nichts Neues.
+Desktop-Suchprogramme kann man kaufen (z.B. Copernic Desktop Search, The Sleuthhound).
+Gute Browser-basierte Lösungen gab es dagegen seit einiger Zeit nicht mehr kostenlos.
+In den Neunzigern gehörte es zum Geschäftsmodell der Searchengine-Entwickler, ihre Technologien auch für den Gebrauch in Firmennetzen und auf Einzel-PCs zu vermarkten.
+Weitere Dateiformate sollen folgen.
+Neugier und das Gedächnis des Desktop-Durchwühlers sind also groß.
+Mitgeschnitten werden nun auch Dinge, die sich bisher gnädig versendeten, sichtbar gemacht werden auch Dinge, die Windows bisher nur heimlich sammelte.
+Im Vergleich zu früheren Desktop-Searchengines erledigt Google seine Aufgabe zudem schnell und unauffällig.
+Auch Google gibt jedoch an, dass die Indexierung - je nach Größe der Datenbestände - etliche Stunden in Anspruch nehmen könnte.
+Die Arbeitsgeschwindigkeit des Rechners soll das nicht beeinträchtigen - und zu spüren ist es wirklich nicht.
+Allerdings knabbert GDS an der Festplatte: 500 MB für den Index will das Programm schon haben.
+Der Zugriff auf GDS läuft in der Regel über die Taskbar von Windows 2000 oder XP, andere Programmversionen werden nicht bedient.
+Das liegt daran, dass Google höchst clever auf bereits vorhandene, aber in der Regel nicht genutzte Indexierungsmöglichkeiten unter diesen Windowsversionen zugreift.
+Die Unterstützung anderer Browser ist dagegen lückenhaft.
+Die Beschreibung passt.
+Wohl dem, der sich sowas wünscht.
+Im Gegensatz zu früheren Desktop-Searchengines wie beispielsweise Altavista besitzt Google aber zumindest eine eingebaute Bremse: Die Indexierung erfasst nur Dateien, auf die der User von dem Rechner aus zugriff, auf dem die Desktop-Suche installiert ist.
+Unmöglich bleibt damit der Zugriff auf die Liebesbriefe des Chefs, auf Personalakten oder der externe Zugriff auf das, was ein Mitarbeiter so alles unerlaubt treibt (dafür gibt es allerdings genügend andere Programme).
+Wirklich bequem und effizient ist die Google Desktop-Suche auf reinen Privatrechnern.
+Google versichert, keinen Internet-Zugriff auf den Index, in dem alle Volltextinhalte in komprimierter Form erfasst sind, erlangen zu können - selbst wenn das beispielsweise von einer Staatsanwaltschaft verlangt würde.
+Problematisch ist das Programm aber überall da, wo an einem Rechner wechselnde Personen arbeiten, und das ist heute in vielen Büros Standard.
+Passworte hin oder her, was auf einem Rechner gespeichert oder auch nur bearbeitet wurde, das indexiert Google auch.
+Und zwar bis hinein in Netzlaufwerke.
+Dokumente in einem Netzwerk aber, auf die von einem mit der Desktop-Suche ausgerüsteten Rechner zugegriffen wurde, werden erfasst.
+Das ist kein Grund, solche Werkzeuge grundsätzlich nicht zu benutzenaber wissen sollte man es.
+Zumal es im Trend liegt: Wie immer, wenn er eine Idee als gut begreift, hechelt auch der Betriebssystem-Entwickler Microsoft den Entwicklern von Google hinterher und verspricht, ähnliches bald anbieten zu können (nur wie üblich angeblich besser).
+Für die nächste Windows-Version Longhorn ist bereits eine eingebaute Desktop-Suche angekündigt.
+Das Volltext-Indexieren von Festplatteninhalten dürfte also schnell zu einem Standard werden.
+Lästermäuler, seid wachsam.
+DPA Symphatieträger Larry Page, Sergey Brin: wie weit reicht das Vertrauen?
+Aufpassen muss aber auch Google.
+Die seit kurzem börsennotierte Firma sonnte sich in den letzten Jahren im Image des jungen, lockeren und kreativen Unternehmens, das unendlich viele Dinge weit besser machte als die Konkurrenz.
+In der öffentlichen Wahrnehmung zerbröselte das gute Image schneller, als die Aktienkurse stiegen.
+Auch bei Google beginnen bereits Reflexe zu greifen, die auf ein wachsendes Misstrauen gegenüber der Wühl-, Such- und Findelust des Unternehmens hindeuten.
+Mit der Desktop-Suche setzt sich Google ähnlichen Bedenken aus, obwohl das auf einfache Weise hätte vermieden werden können.
+Warum etwa bindet Google die Desktop-Suche nicht an ein passwortgeschütztes Nutzerprofil?
+Warum bedient GDS nur den Internet-Explorer?
+Warum ist nicht zu sehen, welche Verzeichnisse und Laufwerke das Programm indexiert?
+Vielleicht wird das alles ja noch was, schließlich ist GDS bisher nicht mehr als eine Betaversion.
+Richtig Spaß machen dürfte sie schon jetzt allen, die dem Unternehmen Google vertrauen.
+Wenn nicht, werden das andere tun.

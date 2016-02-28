@@ -1,0 +1,21 @@
+Metallische Muskelfasern könnten eines Tages Roboter antreiben und Prothesen leistungsfähiger machen.
+Deutsche und österreichische Physiker haben jetzt entsprechende Überlegungen präsentiert.
+Knochen, Gelenke, Haut - bei Maschinen und Robotern wird dafür vor allem ein Material verwendet: Metall.
+In Zukunft könnte ein weiteres künstliches Körperteil aus diesem Stoff hergestellt werden.
+Metallische Muskeln sollen, glaubt man Jörg Weißmüller vom Institut für Nanotechnologie in Karlsruhe, zukünftig in Prothesen und Robotern zum Einsatz kommen.
+Sobald man in das Material eine elektrische Ladung injiziert, verbiegt es sich.
+Die Verformung ist dabei so groß, dass mechanische Arbeit verrichtet werden kann.
+Künstliche Muskeln, die direkt elektrische oder auch chemische Energie in körperliche Arbeit verwandeln, erscheinen damit möglich.
+Der neue Stoff könnte somit Kunststoffen und Keramiken Konkurrenz machen, die sich bei einer angelegten Spannung zusammenziehen und bereits in der Entwicklung sind.
+Auch erste metallische Stoffe werden erprobt - bislang funktioniert deren Antrieb allerdings nur indirekt: Erst muss die elektrische Energie in Wärme umwandelt werden, die den Stoff zusammenzucken lässt.
+Umgekehrt muss Hitze abgeführt werden, um die künstlichen Muskeln wieder zu entspannen.
+Diesen Umweg umgehen die neuen Nanoteilchen.
+Gleichzeitig wird für ihre Verformung deutlich weniger Spannung benötigt als bei den bisherigen keramischen Stoffen.
+Auf diese Weise könnten Muskeln erzeugt werden, die sich besonders stark zusammenziehen und dadurch lange Strecken überbrücken.
+Am besten scheinen sich die neuen Materialien gegen einen von außen wirkenden Druck wehren zu können, zum Beispiel durch ein aufliegendes Gewicht.
+Auf Zug reagieren sie dagegen deutlich empfindlicher.
+Hierzu müssten allerdings Billionen von Nanofasern so angeordnet werden, dass sie sich zu langen Fäden organisieren.
+Hängt man an diese künstlichen Muskelfasern ein Gewicht und legt eine Spannung an, würden sich die Fäden zusammenziehen und das Gewicht nach oben heben.
+Einsatzgebiete der neuen Stoffe sehen die Forscher beispielsweise im Motorenbau, wo die aktiven Metalle Ventile antreiben könnten.
+Auch Roboter für Missionen zu anderen Planeten dürften von den künstlichen Muskeln profitieren.
+Bis derartige Entwicklungen einsatzbereit sind, müsse allerdings, so Baughman, noch ein langer Weg zurückgelegt werden.

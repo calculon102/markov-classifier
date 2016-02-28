@@ -1,0 +1,25 @@
+Die Entwicklung telematischer Anwendungen in der Medizin hat enorm an Fahrt gewonnen.
+In spätestens zwei Jahren werden marktreife Lösungen erwartet.
+Da freuen sich nicht nur die Patienten, sondern auch die Mobilfunkbetreiber.
+Weil den neuen Techniken enorme Einsparpotenziale im Gesundheitswesen nachgesagt werden, fließen Subventionen und Fördermittel in seltener Fülle.
+Große Hoffnungen ruhen auf der Entwicklung intelligenter und ultrakompakter Biosensoren.
+Diese, so die Vision, können den Gesundheitszustand des Patienten lückenlos überwachen und besondere Vorkommnisse sofort an den behandelnden Arzt melden.
+Die Technik ermöglicht es, den Patienten früher als heute aus dem Krankenhaus zu entlassen und seine Genesung in den eigenen vier Wänden zu überwachen.
+Und den Krankenkassen kommen diese Liegetage teuer zu stehen.
+Das alles ließe sich ändern - mit fortschrittlicher Mobiltechnik.
+Kern der geplanten telemedizinischen Anwendungen sind kleine Funksensoren.
+Sie messen den Blutdruck, erfassen das EKG, messen die Körpertemperatur oder den Blutzuckergehalt.
+Die Übermittlung der Messdaten erfolgt dann zyklisch oder, bei auffälligen Abweichungen von den Normwerten, umgehend über die Telefonleitung an den behandelnden Arzt.
+Die Technik der funkenden Patientensensoren wird Body Area Network (Ban) genannt.
+Mit der Entwicklung der Sensoren und erforderlichen Übertragungstechnik beschäftigen sich weltweit ganze Heerscharen von Ingenieuren und Medizinern.
+Von einem einheitlichen und offenen Standard für derlei Anwendungen ist man leider weiter entfernt als von der Präsentation prinzipiell funktionstüchtiger Lösungen.
+Immer kleinere Sensoren machen den Patienten mobil - und damit schlägt die Stunde von GPRS und UMTS. 14 europäische Partner beteiligen sich an diesem Projekt, bei dem der Netztechniklieferant Ericsson die Gesamtverantwortung übernommen hat.
+Bereits im November 2002 hofft MobiHealth erste Anwendungsmuster auf der Medica in Düsseldorf vorführen zu können.
+Bei allen bisherigen Funk-Medizinanwendungen werden Datensätze nur on demand gesendet.
+Selbst bei EKG-Übertragungen aus einem Rettungswagen in die Aufnahmeklinik reichen die geringen Datenraten des vorhandenen GSM-Handynetzes völlig aus.
+Die neuen Netze könnten in solchen Fällen einen Kostenvorteil gegenüber in Zeittakten abgerechneten GSM-Handynetzen haben.
+Industrie und Politik wollen offenbar schnell einsetzbare Lösungen.
+Angesichts des Geldsegens können Forscher und Anwendungsentwickler nur noch staunend den Kopf schütteln.
+Doch besonders der Einsatz in der Notfallmedizin erfordert eine Netzverfügbarkeit, die UMTS in 18 Monaten sicher nicht bieten können wird.
+Das eine mag hier das andere beschleunigen: Wird die Telemedizin also zur Killerapplikation für UMTS?
+Der EU-finanzierte Versuch kann der Sache jedenfalls nicht schaden.

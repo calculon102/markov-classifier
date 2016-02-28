@@ -1,0 +1,47 @@
+Ausgerechnet auf dem Zukunftsmarkt des Digitalfernsehens hinken die IT-Branchengrößen mickrigen Ein-Mann-Unternehmern hinterher, die ihre Programme nach Feierabend schreiben.
+Die Wohnzimmer-PCs von Microsoft, Cyberlink & Co verarbeiten vorerst nur Analog-TV.
+Der Weg in die gute Stube ist für die IT-Branche beschlossene Sache.
+Doch so bunt und potent die kompakten Alleinunterhalter inzwischen auch daherkommen, in manchem Wohnzimmer sind sie gar nicht willkommen, denn dort werkelt bereits eine selbst gestrickte Lösung.
+Ausgerechnet für das digitale Satellitenfernsehen haben Bastler derzeit die technisch besseren Lösungen im Programm.
+In Internetforen tauschen sie Tipps und Tricks aus - häufig programmieren sie ihre Software gleich selbst.
+Schon seit Jahren frönen Jünger des Open-Source-Betriebssystems Linux dem ihrer Meinung nach politisch-korrekten Fernsehen.
+Einzige Voraussetzung ist eine Steckkarte für Digitalfernsehen - egal ob es sich um DVB-S (Satellit), DVB-C (Kabel) oder das neue DVB-T (terrestrisch, dass heißt über Antenne, derzeit nur in Berlin) handelt.
+Geglotzt wird nicht am Monitor sondern in der Regel am Fernseher, der an den PC angeschlossen ist.
+Da sind die Linuxer ausnahmsweise mal ganz konservativ.
+VDR beherrscht schon lange, was die Großen der Branche seit Jahren versprechen, aber erst seit einigen Monaten können.
+Zum Beispiel Time-Shifting: Der Zuschauer stoppt einfach eine laufende Sendung, wenn das Telefon klingelt und schaut sie später zeitversetzt weiter.
+Der PC - ein vollständiger Ersatz für den Videorecorder - puffert die Daten dabei einfach auf der Festplatte zwischen.
+Nutzer von VDR programmieren ihren Videorecorder über Internet, schneiden aus den Aufnahmen die Werbung raus und brennen den fertigen Film auf DVD.
+Was VDR von Hause aus nicht kann, programmiert die Community selbst, zum Beispiel das Abspielen von DVDs, MP3s oder einen konfigurierbaren Newsticker, der wie bei einem Nachrichtenkanal über den Fernsehschirm läuft.
+Klaus Schmidinger, der Erfinder und Macher von VDR, zählte allein auf seiner Website 25.000 Downloads der kostenlosen Software.
+Er selbst hat drei DVB-Karten im Rechner stecken, um mehrere Programme von mehreren Satelliten gleichzeitig aufnehmen zu können - mit VDR kein Problem.
+Vier Aufzeichnungen parallel seien jedenfalls ohne Schwierigkeiten machbar.
+Digital Video Broadcasting (DVB) ist für Media-Center-PCs eigentlich wie geschaffen, denn die Videoinformationen kommen - wie der Name schon sagt -, digital als Folge von Einsen und Nullen beim Zuschauer an.
+Die Festplatte braucht die Daten nur noch mitzuschreiben - fertig ist der Recorder.
+Hinzu kommt die meist brillante Qualität von DVB, die bei der Aufnahme nicht verloren geht, denn die Daten werden so, wie sie vom Satelliten, dem Sendemast oder aus dem Kabel kommen gespeichert.
+Die Big Player der Branche, Cyberlink, Nvidia und Microsoft, unterstützten in ihren Media-Center-Lösungen jedoch vorerst nur Analogfernsehen.
+Der PC muss dabei die Videodaten während der Aufnahme selbst digitalisieren und komprimieren, damit sie die Festplatte nicht sprengen.
+Die Bildqualität von DVB erreichen die Center-Suites so natürlich nicht und wenn überhaupt, dann nur auf Kosten doppelt so großer Dateien, was die Festplatte schneller füllt.
+Das soll sich aber bald ändern.
+Der Massenmarkt liege derzeit in Deutschland jedoch noch bei Analog-TV.
+Der Vorteil von DVB-Mitschnitten besteht nicht nur in der verlustfreien Qualität.
+VDR-Jünger erledigen das inzwischen vom Sofa aus mit der Fernbedienung, die PC und Brenner steuert.
+Wer mit Linux auf Kriegsfuß steht oder schlicht keinen PC an den Fernseher anschließen will, kauft sich einfach einen DVB-Receiver mit eingebauter Festplatte, der eine Schnittstelle nach außen hat, um die Videodateien zu exportieren.
+Solche Receiver stellen in der Regel nur weniger bekannte Hersteller her - etwa Topfield (TF 4000, TF 5000), Humax (PVR-8000) oder Dream Multimedia (Dreambox 7000S).
+Die Geräte funktionieren wie ein Videorecorder und beherrschen meist auch Time-Shifting.
+Aufnahmen können auf den PC kopiert und dort weiter verarbeitet werden.
+Das geht dann zwar nicht so komfortabel wie mit dem Linuxprogramm VDR - aber immerhin kommen die digitalen Aufnahmen verlustfrei auf DVD.
+Die Software zur Aufbereitung der DVB-Aufnahmen ist wie das Linux-Projekt VDR eine Bastellösung und stammt von der hessischen Mini-Firma Haenlein-Software.
+Unterstützung von den Geräteherstellern zum Auslesen der Aufnahmen gab es zunächst keine.
+Das 50-Euro-Programm habe bereits mehrere Tausend Anwender gefunden.
+Die wichtigsten Innovationen und auch sämtliche Hinweise auf Softwarebugs kommen aus den Benutzerforen - sowohl bei VDR als auch bei Haenleins DVR-Studio.
+So entdeckten Anwender, dass die DVB-Software auch mit Aufnahmen zweier Samsung-Receiver (DSR 9600 W, SPVR 801) zurechtkommt.
+Der VDR-Erfinder Schmidinger verliert inzwischen fast schon die Übersicht über die verschiedenen Plug-ins, die von der Community zum Nulltarif programmiert werden.
+Druck aus Hollywood?
+Die Zurückhaltung der Branchengrößen bei der Direktaufzeichnung von DVB hat möglicherweise eine einfache Erklärung.
+Der Filmindustrie dürfte das verlustfreie Aufnehmen nämlich überhaupt nicht schmecken.
+Schließlich sollen die Leute die Original-DVDs im Laden kaufen, statt die Filme zum Nulltarif mitzuschneiden und dann Eins zu Eins auf DVD zu brennen.
+Was beim Digitalfernsehen technisch passiert, kann am ehesten mit einem Radio verglichen, dass seine Musik als MP3s frei Haus liefert.
+Angeblich bis zu 600.000 registrierte Benutzer holten sich die MP3s per TV-Karte auf ihre Festplatte.
+Bis die Anwälte der Musikindustrie dem Spuk ein Ende machten.
+Das Digitalfernsehen dürfte sich nicht ganz so leicht stilllegen lassen - schließlich handelt es sich um einen Industriestandard, der noch für Jahre gelten soll.

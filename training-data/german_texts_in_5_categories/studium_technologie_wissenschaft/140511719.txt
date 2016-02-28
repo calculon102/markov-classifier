@@ -1,0 +1,38 @@
+Eigentlich sollte das vergleichweise harmlose PC-Virus Sober.C längst unter Kontrolle sein.
+Doch die Virenflut nimmt kaum ab.
+Sober.C wird zum Paradebeispiel für die Machart eines erfolgreichen Virus der nächsten Generation.
+Der Mechanismus ist immer derselbe: Da flattert eine E-Mail ins Postfach, die mit irgendetwas lockt.
+In den letzten Jahren war das oft Sex, Bilder, Filmchen, Zugangs-Passwörter oder Bildschirmschoner die gängigen Köder.
+Erst im Verlauf des letzten Jahres schien sich die Lage langsam zu bessern: Immer weniger Surfer fielen auf die immer gleichen alten Tricks herein.
+Selbst weit gehend testosterongetriebene Hormon-Enthirnte enthielten sich zunehmend dem Klick-Reflex.
+Die Zeit der Scriptviren, die zu ihrer Aktivierung die Mithilfe ihres Opfers brauchen, schien endlich zu Ende zu gehen.
+Erstmals tauchte die Variante des vergleichsweise harmlosen Sober-Wurms kurz vor Weihnachten auf, und wie üblich reagierten die Virenschutz-Unternehmen schnell.
+Die Filter wurden gegen Sober geeicht, Tools zur Entfernung des digitalen Nervers zur Verfügung gestellt.
+Nicht so bei Sober, und vor allem nicht in Deutschland.
+Nirgendwo ist der Schädling erfolgreicher als hier zu Lande.
+Während er weltweit keine Geige spielt, steht Sober.C in Teutonia auf Platz zwei der erfolgreichsten Viren.
+Sober kommt deutsch daher und zudem aggressiv.
+Anders die deutsche Version.
+Erfolgreich ist Sober vor allem, weil er auch im Locktext überzeugend daherkommt.
+Wir möchten Ihnen hiermit vorab mitteilen, dass Ihr Rechner unter der IP xx.xx.xxx.xxx erfasst wurde.
+Der Inhalt Ihres Rechner wurde als Beweismittel sichergestellt und es wird ein Ermittlungsverfahren gegen Sie eingleitet.
+Die Strafanzeige und die Möglichkeit zur Stellungnahme wird Ihnen in den nächsten Tagen schriftlich zugestellt.
+Die von uns gesammelten Daten unter dem Aktenzeichen #16263 sind für Sie und ggf. Ihrem Anwalt beigefügt und einsehbar.
+Da wir negative Erfahrungen mit Mailbomben in der Vergangenheit gemacht haben, wurde die Herkunft dieser Mail verschleiert.
+Es folgen die Telefonnummern der Kriminalpolizei Düsseldorf und der Kriminalpolizeilichen Beratungsstelle - und zwar die echten.
+Das ist perfide und bestens geeignet, Otto Normalsurfers Misstrauen restlos zu zerstreuen.
+Bei der Düsseldorfer Polizei gibt es übrigens keine Europa-Sonderkommission 'Internet Downloads', dafür aber seit dem 20. Dezember einen erhöhten telefonischen Beratungsbedarf.
+Neu an Sober.C ist somit nur eines: Seine ungewöhnliche redaktionelle Qualität.
+Die Betreffzeilen der Virenmails fordern heraus, greifen an, locken, erschrecken.
+Einmal abgesehen von diversen orthografischen und grammatikalischen Fehlern ist das alles ungewöhnlich gut.
+Und es gemahnt sehr an social hacking.
+Sober.C bedient dagegen gezielt Erwartungs- oder besser Befürchtungshaltungen und trifft damit ins Schwarze: Das ist fast so, als bekomme man Post, auf die man schon gewartet (oder die man befürchtet) hatte.
+Statt mit virtuellen Bonbons zu locken, fordert das Virus sein Opfer zu einer Art Kommunikation heraus.
+Wer sich darauf einlässt, fängt sich den Schädling: E-Mail ist damit gerade wieder ein gutes Stückchen unsicherer geworden.
+Bleibt zu klären, warum jemand so etwas in die Welt setzt.
+Die Antwort darauf ist auch im Falle Sober.C nicht intelligenter als gewöhnlich.
+Sein Autor will zeigen, was er kann: Er will nicht schaden, sondern imponieren.
+Die weltweite Mail-Lawine ist die Nebenwirkung eines virtuellen Sich-in-die-Brust-Werfens, jeder betroffene Rechner somit nur ein Kollateralschaden.
+Wie viele Viren ist auch Sober sogar signiert.
+Your Sobig Worms are very good!!!
+You are a very good programmer!

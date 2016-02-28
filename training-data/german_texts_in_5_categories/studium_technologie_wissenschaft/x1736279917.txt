@@ -1,0 +1,49 @@
+Die Nasa-Rover entdeckten auf dem Mars Spuren von Wasser - allerdings nicht dort, wo man es erwartet hatte.
+SPIEGEL ONLINE sprach mit dem an der Mission beteiligten Mainzer Physiker Ralf Gellert über Marswasser, Vulkangestein und die robusten Marathon-Mobile.
+Die Forscher waren ein bisschen von ihren eigenen Ergebnissen überrascht.
+Die Indizienbeweise lieferte vor allem die deutschen Messinstrumente an Bord des sechsrädrigen Mobils - darunter das Mainzer APXS-Instrument.
+Der Max-Planck-Physiker Ralf Gellert arbeitet momentan im APXs-Team in der kalifornischen Bodenkontrolle am Jet Propulsion Laboratory.
+Ralf Gellert: Spirits Landeplatz liegt auf der anderen Seite des Roten Planeten, etwas südlich des Marsäquators im 160 Kilometer großen Gusev-Krater.
+Auf Fotos aus der Marsumlaufbahn erkennt man dort einen hunderte Kilometer langen Kanal, der die Kraterwand durchbricht.
+Geologen hatten das als Zufluss eines ehemaligen Sees interpretiert.
+SPIEGEL ONLINE: Hat Spirit im Gusev-Krater also alte Sedimente gefunden und so die Hypothese vom ausgetrockneten Mars-See belegt?
+Gellert: Noch nicht.
+Die Steine, die wir mit unserem Spektrometer in den ersten 90 Tagen untersucht haben, sind einfache Basalte vulkanischen Ursprungs.
+Wir wissen aber noch nicht was unter dem Sand liegt.
+Deshalb haben wir eine Hügelkette angesteuert, wo wir alte Gesteinsaufschlüsse erwarten.
+SPIEGEL ONLINE: Wie läuft der Einsatz Ihres weit gereisten Instrumentes ab?
+Gellert: Unser APXS befindet sich am Ende des Roboterarms des Fahrzeuges.
+Dieser wird nur während des Marstages bewegt.
+Nachts müsste er dazu mit Batteriestrom geheizt werden, doch jetzt im Winter ist die Solarenergie knapp.
+Der Arm dirigiert also tagsüber das APXS zu einem Felsen oder einer interessanten Bodenstelle.
+Dann warten wir auf die kalte Marsnacht, da unsere Messempfindlichkeit bei tiefen Temperaturen steigt.
+Gegen vier Uhr in der Früh, die Temperaturen sind dann bis auf minus 100 Grad Celsius gefallen, wecken wir die Rover...
+SPIEGEL ONLINE: Ist das nicht herzlos?
+Sie kommandieren die emsigen Marsmobile doch schon während der hellen Tagesstunden ununterbrochen herum.
+Gellert: Keine Sorge!
+Nach dem Einschalten des APXS kann weitergeschlafen werden.
+Dann läuft lediglich unsere Messung - alle anderen Bordsysteme sind wieder abgeschaltet.
+Rund vier bis fünf Stunden dauert es, bis wir ein Spektrum aufgenommen haben.
+SPIEGEL ONLINE: Finden Sie in Ihren Spektren vom Gusev-Krater überhaupt keine Anzeichen auf früheres Wasser?
+Dr. Ralf Gellert, 38, ist Physiker und arbeitet am Max-Planck-Institut für Chemie in Mainz.
+Von dort stammt das Alpha-Partikel-Röntgen-Spektrometer (APXS).
+Es bombardiert marsianisches Bodenmaterial mit den Röntgen- und Alpha-Strahlen aus radioaktiven Curium-Quellen.
+Die beschossenen Steine senden ihrerseits Röntgenstrahlung aus.
+Mit diesen reflektierten Strahlen ermitteln die Forscher die chemischen Elemente und deren Konzentrationen im Gestein.
+Auch Spurenelementen, wie etwa Brom, kommen die Max-Planck-Forscher so auf die Schliche.
+Gellert: Doch, wir haben an mehreren Stellen Spuren des Elementes Brom gefunden.
+Das Verhältnis von Brom zu Chlor ist bei irdischen Proben und auch bei den bekannten Marsmeteoriten immer etwa eins zu 270.
+Beide Elemente sind chemisch so ähnlich, dass eigentlich nur Wasser sie einst getrennt haben kann.
+Dort gibt es eine hohe Brom-Anreicherung.
+SPIEGEL ONLINE: Wie viel Wasser war da am Werk?
+Gellert: Viel weniger als an Opportunitys Landestelle.
+Das sind nicht die Spuren eines Gewässers, sondern eher die Überbleibsel von etwas Feuchtigkeit, die durch Risse ins Gestein gesickert ist.
+SPIEGEL ONLINE: Mittlerweile rollen die Rover schon lange jenseits ihrer 90-tägigen Garantiezeit - irgendwelche Schadensmeldungen?
+Gellert: Trotz der enormen Beanspruchung während der bisher rund 200 Marstage, gibt es erstaunlicherweise nur kleinere Probleme.
+So lahmt etwa Spirits rechtes Vorderrad, deshalb werden die Columbia-Hügel im Rückwärtsgang erklommen.
+In dieser Hügelkette finden wir jetzt die interessanten Gesteinsaufschlüsse in kurzer Abfolge.
+Die kilometerlange Marathon-Anfahrt ins Hügelgebiet hat sich also gelohnt.
+Mitte September wird für etwa zehn Tage der Funkkontakt zu beiden Rovern abreißen, dann steht Mars von der Erde betrachtet genau hinter der Sonne.
+Danach wird die Nasa den Betrieb von Spirit und Opportunity wohl weiter finanzieren.
+Denn neben den weiteren Ergebnissen ist es auch für künftige Missionen wichtig, wie lange die technischen Systeme im harten Mars-Einsatz durchhalten.
+Bitte nennt mich Laura!

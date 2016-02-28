@@ -1,0 +1,28 @@
+Bluetooth - da war doch was?
+Die Funktechnologie mit dem markanten Namen sollte dafür sorgen, dass die Probleme mit Kabeln, Strippen und inkompatiblen Verbindungssteckern endlich der Vergangenheit angehören.
+Doch nach dem großen Hype kam die große Stille: Kaum jemand nimmt die Wireless-Technologie noch wahr, und von vielen wird sie nahezu totgesagt.
+Denn immerhin ist Bluetooth keine Zukunftstechnologie, sondern ein Standard der Gegenwart, der es durchaus in sich hat.
+Bluetooth ist der Wireless-Standard für sehr kurze Distanzen, in der Regel können gerade einmal zehn Meter überbrückt werden.
+Eine Sichtverbindung wird dabei nicht benötigt.
+In der heutigen Version 1.1 nutzt Bluetooth die Frequenz 2,4 Gigahertz.
+Mit 79 Kanälen von jeweils ein Megahertz wird die Verkabelung von bis zu acht Geräten untereinander ersetzt, sowohl für die Daten- als auch die Sprachübertragung.
+In der Spezifikation 1.x wird eine Datenübertragungsrate von ein MBit/s unterstützt, mit der kommenden Spezifikation 2.0 sollen sogar Übertragungsraten von bis zu zehn MBit/s möglich werden.
+Ein weiterer und nicht zu unterschätzender Vorteil ist die Berücksichtigung der Sprachübermittlung bei Bluetooth.
+So können Mobiltelefone mit Bluetooth-Unterstützung innerhalb eines Bluetooth-Netzes sogar für Telefonate über das Festnetz genutzt werden.
+Beachtlich ist auch der hohe Sicherheitsstandard, der Bluetooth zu eigen ist.
+Bluetooth hatte es nicht leicht, Fuß zu fassen, denn die alternative Kabelverbindung war nicht nur konkurrenzlos preiswert, sondern auch bei Verbindungen über zehn Meter üblich.
+Zu einer zuvor prognostizierten Bluetooth-Schwemme ist es daher nicht gekommen.
+Der schien vor allem den wirtschaftlichen Interessen von Intel näher zu liegen.
+Doch verkannte der Chiphersteller seinerzeit durchaus, dass Bluetooth die bessere Lösung für die Realisierung von Personal Area Networks (Pans) ist, dem Netz, das Geräte wie Handy, PDA, Notebook und Headset direkt um uns herum bilden.
+Beide lizenzfreien Funkverfahren arbeiten im 2,4-Gigahertz-Band.
+Nimmt die Dichte der Geräte vor allem im Büroumfeld zu, so kann es zu Datenverlusten kommen, bemängeln Kritiker.
+Inzwischen hat nicht nur MobilCom Systems angekündigt, W-Lan-Zugänge einzurichten, und erste Pilotprojekte gestartet, auch T-Mobile hat den Widerstand gegen die vermeintliche Konkurrenz aufgegeben und angekündigt, schon bald erste Hotspots einzurichten.
+Kein Wunder, denn die Pro-UMTS-Lobby, die W-Lan als echte Konkurrenz fürchtet, hat sich nicht durchsetzen können.
+In den USA wird bereits über eine Verknüpfung der einzelnen Hotspots zu einem nationalen W-Lan nachgedacht.
+Doch das erscheint noch ein wenig verfrüht, denn Probleme bereitet den Mobilfunkfirmen vor allem die Abrechnung von W-Lan-Kapazitäten; auch hatte in der Vergangenheit noch niemand an die Entwicklung von Dual-Band-Geräte für UMTS und W-Lan gedacht.
+Für die Zukunft sehen die Marktforscher von Frost Sullivan keine Konkurrenzsituation, sondern vielmehr eine intelligente Ergänzung der Technologie-Standards Bluetooth, W-Lan und UMTS.
+Bluetooth werde sich als lokaler Dienst etablieren, während UMTS den Wide-Area-Bereich abdeckt und W-Lan für den Datenaustausch verwendet wird.
+W-Lans statt UMTS wären nach Auffassung der Marktforscher nur dann vorstellbar, wenn die Nutzer kein Bedürfnis nach Mobilität und infolgedessen ständiger Verfügbarkeit unabhängig von ihrem Aufenthaltsort hätten.
+Ganz ähnlich die Einschätzung der Analysten bei Forrester Research.
+Auch dort geht man davon aus, dass Wireless-Lan in Europa eine wichtige Rolle spielen, aber die Zahl der Geräte mit Bluetooth-Technologie langfristig überwiegen wird.
+Forrester geht davon aus, dass es bereits im Jahr 2006 zehnmal mehr Bluetooth- als Wireless-Lan-Geräte in Europa geben wird.

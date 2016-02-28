@@ -1,0 +1,36 @@
+Träumten passionierte Dauersurfer und Datensauger vor zwei Jahren noch von den Zukunftsvisionen DSL oder Kabel-Internet, steht die nächste Evolutionsstufe des Webs bereits vor der Tür: Glasfaser.
+Für eine kleine User-Gruppe im Silicon Valley ist das Netz der nächsten Generation bereits heute Realität.
+In Palo Alto testen derzeit knapp 70 Bürger für ein Jahr in ihren Privathaushalten Glasfaseranschlüsse - im Fachjargon Fiber-to-the-home (FTTH) genannt, da die Leitungen bis direkt ins Haus verlegt werden.
+Wie Recht der Lobbyist aus Georgia doch hat.
+Vernünftiges Online-Entertainment ist schließlich auch im Zeitalter von DSL-, Kabel- oder Satelliten-Internet nur bedingt möglich.
+Die neue Glasfaser-Online-Welt könnte so schön sein, wäre da nur nicht das leidige Henne-Ei-Problem.
+An Inhalten für die Palo Altoer Turbosurfer hapert es nämlich noch.
+Online-Videoclips sind beispielsweise meist auf Übertragungsgeschwindigkeiten von 600 Kilobit pro Sekunde beschränkt.
+Das Glasfaser-Web kommt da jedoch erst so richtig in Fahrt: Das übliche Video-Limit entspricht nicht mal einem Zehntel der Maximalleistung der Palo-Alto-Haushalte.
+Die Gemeinde garantiert Pilotprojekt-Teilnehmern vier Megabit pro Sekunde, meist erreichen sie wesentlich mehr Speed.
+Adäquate Multimedia-Inhalte sind auch weiterhin kaum in Sicht.
+Und ohne downloadintensive Inhalte forciert auf der anderen Seite kaum jemand die kostspielige Umrüstung von Kupfer- auf Glasfaserkabel.
+Auch das Gros heutiger Websites ist für derartige Performance kaum gerüstet.
+Entsprechend bauen sich die Online-Angebote auch bei Fiber-Surfern nicht schneller auf als bei DSL-Usern.
+Die praktische Applikationslosigkeit schreckt die hightechverliebten Kalifornier jedoch kaum.
+Analysten stellen schon seit längerem die Frage, ob für Otto-Normalsurfer zu Hause mehr als DSL- oder Kabelgeschwindigkeit überhaupt sinnvoll ist.
+E-Mail und Chat gelten weiterhin als die beliebtesten Web-Anwendungen - Breitband ist dafür nur selten nötig.
+Und auch die Kosten dürften für Privatleute ein deutliches Hemmnis darstellen.
+Ein Standard-DSL-Anschluss inklusive Flatrate schlägt in den Staaten mit 40 bis 50 Dollar monatlich zu Buche.
+Die Versuchskaninchen in Palo Alto zahlen dagegen trotz kräftiger Subventionen der Stadtverwaltung 85 Dollar pro Monat.
+Zudem erlebten private DSL- und Kabel-Anschlüsse auch in den USA erst im vergangenen Jahr einen breiten Boom.
+Nielsen/NetRatings zufolge ist die Zahl der Breitband-Haushalte zwischen April 2000 und April 2001 um über 130 Prozent von 6,8 Millionen auf 16 Millionen angewachsen.
+Der Anteil von Glasfaser-Webanschlüssen hieran ist so gering, dass Marktforscher diese Kategorie oft erst gar nicht in ihre Analysen miteinbeziehen.
+Die Kosten für den Durchbruch sind schlicht viel zu hoch.
+Da die Materialpreise in den vergangenen Jahren jedoch stetig gefallen sind, werden USA-weit immer mehr Neubausiedlungen mit den schnellen Lichtleitungen ausgerüstet, so etwa aktuell in der San Franciscoer Mission Bay.
+Auf die Verlegung von Kupfer- und Koaxialkabeln wird dennoch nur selten verzichtet.
+Den großen Durchbruch für Glasfaserkabel erwarten Experten nicht.
+Der Grund hierfür ist simpel: DSL und Glasfaser harmonieren nicht.
+Hunderttausende ostdeutsche Webfans können ein Lied davon singen.
+Die Milliardeninvestitionen der Deutschen Telekom liegen brach.
+Auch im Silicon Valley zeichnet sich für das Projekt ein finanzielles Desaster ab.
+Neben dem Pittsburgher Netzwerkausrüster Marconi fungiert die Hightech-Gemeinde Palo Alto als Hauptfinancier des Testlaufs und beteiligt sich mit rund 600.000 Dollar, was einem Beitrag von knapp 9000 Dollar pro User entspricht.
+Die Teilnahmegebühren decken nur einen Bruchteil der Betriebskosten.
+Dass die Valley-Gemeinde weitere Stadtteile mit Glasfaser-Kabel ausrüsten wird, ist unwahrscheinlich.
+Nach Kalkulationen der Stadtoberen würde ein cityweiter Ausbau mindestens 30 Millionen Dollar verschlingen.
+Glasfaser-Surfen bleibt damit wohl auch in Kalifornien ein ebenso teures wie schwaches Spielzeug für einige Tech-Millionäre.

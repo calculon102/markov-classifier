@@ -1,0 +1,66 @@
+Aus dem akademischen Projekt erwächst eine Datenbank für deutschsprachige mündliche Überlieferungen.
+Davon kann Morscher gar nicht genug bekommen.
+Wolfgang Morscher: Die Sammlung Sagen.at ist für ihn der Fundus seiner akademischen Forschung.
+SPIEGEL ONLINE: Herr Morscher, wie kommt man dazu, auf einer Webseite Sagen, Märchen und moderne Legenden zu sammeln?
+Wolfgang Morscher: Ich habe Europäische Ethnologie studiert.
+Im Jahr 2000 fiel mir auf, dass volkskundliche Themen im deutschsprachigen Internet so gut wie gar nicht vertreten waren und habe mir gedacht, tja, das solltest Du jetzt machen.
+Ich habe dann in der gleichen Nacht noch die Domain angemeldet und per Hand die ersten Texte eingegeben.
+Am nächsten Tag gab es schon einiges an E-Mail.
+Offenbar gab es da einen Bedarf.
+Morscher: Aus der Sicht der Ethnologie fällt das alles unter das Oberthema Erzählforschung.
+Es ist falsch, davon auszugehen, dass Sagen und Märchen erfundene Geschichten sein müssen.
+Uns geht es nicht um den Wahrheitsgehalt, sondern um den Erzählkontext, um den Erzählvorgang.
+Morscher: Sie muss erzählt worden sein oder noch erzählt werden.
+Sie muss nicht wahr sein, aber häufig: Sie muss oft erzählt werden, ein Dokument des gegenwärtig Erzählten sein.
+So was ist es durchaus wert, dokumentiert zu werden.
+Auch nach dem Zweiten Weltkrieg muss es zahlreiche Sagen und Legenden gegeben haben, die aber leider nur selten aufgeschrieben wurden.
+Heute ist es schon sehr schwer, einen Erzähler zu finden, der noch sagen kann, was die Menschen sich beispielsweise 1948 erzählten.
+Wenn man solche modernen Sagen stetig mitdokumentiert, ist etwas Gutes getan.
+SPIEGEL ONLINE: Vieles davon erinnert ja wirklich an klassische Sagen.
+Sie zeigen etwa das Foto einer Nothaltespur, auf der angeblich eine Familie beim Picknick getötet wurde.
+Allem Anschein nach ist die Geschichte erfunden, aber die Sage hält sich.
+Das erinnert doch sehr an diverse Spukgeschichten und Sagen über numinos belegte Orte.
+Entstehen heute noch echte Sagen und Legenden, die man sich in Jahrhunderten erzählen wird?
+Morscher: Es entstehen natürlich noch Geschichten mit Motiven und Dramaturgien, wie wir sie auch aus dem 19. Jahrhundert kennen.
+Mein Lieblingsbeispiel ist die Sage von der alten Frau, die am Waldrand von einem Kutscher aufgelesen wird.
+Sie hebt ihren Korb in die Kutsche und er entdeckt darin blutige Messer.
+Das Motiv gibt's bis heute in Filmen und Geschichten.
+Heute sitzt die unheimliche Gestalt als Beifahrer auf der Rückbank.
+SPIEGEL ONLINE: Gerade die urban legends lieben ja solche Sujets: Von Köpfe-sammelnden GI's bis zu den Legenden, die sich bereits Tage nach dem 11. September um den WTC-Terroranschlag rankten.
+Morscher: Ja, solche Gruselgeschichten dürften auch in unserer heutigen Zeit eine enorme Bedeutung haben.
+Ob aus so einer Geschichte eine Sage wird, entscheidet sich aber an ihrer Dramaturgie.
+Die Dramaturgie der Sage verfolgt bestimmte Muster, enthält bestimmte Handlungselemente und Motive.
+Dass die Gegenstände, die dann in der Erzählung auftauchen, heute beispielsweise Mikrowellenherde sind, spielt keine Rolle.
+SPIEGEL ONLINE: Früher kochten in Märchen Breitöpfe über, heute kochen Katzen in der Mikrowelle?
+Morscher: Genau.
+In noch neueren Sagen sind es aber Induktionsherde.
+SPIEGEL ONLINE: Sagen.at entstand aus ihrem akademischen, forscherischen Interesse.
+Was soll daraus noch werden?
+Morscher: Die Seite ist und bleibt eine akademische Sammlung.
+Sie liegt auf einem Server der Uni Innsbruck, ist darum auch werbefrei.
+Was mir ganz wichtig ist: Ich gehe auch ganz wertfrei an das Thema heran.
+Es gibt sehr wenige Seiten, die ohne zu werten und zu interpretieren an das Thema Sage herangehen, auch auf Esoterisches verzichten.
+Auch die Fotos, die ich zeige, sind an den exakten Orten gemacht, an denen die Sagen spielen.
+SPIEGEL ONLINE: Wie erklären sie sich die Popularität von Sagenstoffen im Internet?
+Morscher: Auch das ist eine Frage der Form. Für das Märchen, das ja länger ist und das man gern auch als Buch mit ins Bett nimmt, ist der heutige PC noch nicht das richtige Medium.
+Eine Sage ist schnell erzählt und verbreitet.
+Weil sie immer an einen bestimmten Ort gebunden ist, ist sie unter anderem auch für den Tourismus interessant, da schauen die Menschen gerne mal nach: Was erzählt man sich über diesen oder jenen Ort?
+Dafür ist das Internet ideal, und das mag sich noch steigern, wenn es mehr mobile Applikationen wie Handhelds gibt, auf denen man richtig lesen kann.
+SPIEGEL ONLINE: Können sie als Sammler eigentlich feststellen, ob es besonders erzählfreudige Regionen im deutschsprachigen Bereich gibt?
+Morscher: Da möchte ich kein Urteil fällen, das ist mir zu wertend.
+Was auffällt ist, dass in Bezug auf die skurrilen urban legends die Schweizer besonders zusendefreudig sind.
+SPIEGEL ONLINE: Es gibt aber doch Regionen, die noch stärker verwurzelte, lebendige Traditionen pflegen, während andere in der Zeit nach dem Zweiten Weltkrieg viel verloren haben.
+Morscher: Ja, aber zumindest die Quellenliteratur gäbe es durchaus noch.
+Da gibt es unendlich viel in den Archiven, was aber leider der Öffentlichkeit nicht so einfach zugänglich ist.
+Dazu kommt, dass bei älteren Büchern Frakturschrift für einen Scanner ja nicht so einfach zu erkennen ist, was wiederum die Digitalisierung erschwert.
+Wir haben hier an der Universität ein riesiges Archiv, aber was tue ich damit?
+SPIEGEL ONLINE: Aber das muss doch technisch zu lösen sein.
+Morscher: Wir haben hier in Innsbruck eine Testversion einer Software testen können, die Fraktur lesen kann, und die in den Geisteswissenschaften für Furore sorgen könnte.
+Allerdings wird auch diese Software eines großen OCR-Entwicklers nur maschinengesetzte Fraktur lesen können, und auch das wird noch dauern.
+Im Prinzip gäbe es durch eine Digitalisierung sehr viel zu entdecken in den Geisteswissenschaften, aber es gibt eben kein starkes wirtschaftliches Interesse daran, da tätig zu werden.
+Wenn das medizinische Texte wären, wären die schon längst alle digitalisiert.
+Vielleicht finden wir einmal einen Sponsor für weitere Digitalisierungen, das Leserinteresse wäre enorm.
+SPIEGEL ONLINE: Immerhin hilft ihnen aber das Internet bei der Verbreitung des Erzählguts, wenn es einmal in digitaler Form vorliegt.
+Morscher: Ja, aber auffällig ist auch, dass heute die Realität die Phantasie oft überholt.
+Das hat viel mit den neuen Medien zu tun.
+Dadurch, dass sich jetzt jede Kleinigkeit gleich weltweit verbreiten kann, kommt ein bisher nicht bekanntes Maß an Skurrilität in der mündlichen Überlieferung auf uns zu.

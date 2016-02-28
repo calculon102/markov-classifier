@@ -1,0 +1,29 @@
+Am Dienstag, den 11. September, steuerten Terroristen zwei Flugzeuge ins World Trade Center, ein weiteres aufs Pentagon.
+SPIEGEL ONLINE hat die Katastrophe von der ersten Minute an dokumentiert.
+Chefredakteur Mathias Müller von Blumencron dokumentierte die ersten zwei Stunden.
+Keiner kann fassen, was passiert ist, alle starren auf die Monitore.
+Noch ist nicht klar, wie es zu der Katastrophe kam.
+Wir vermuten einen Terrorangriff und verteilen die Themen, vergeben Aufgaben: Ein Redakteur beobachtet die eintreffenden Agenturnachrichten, ein anderer CNN.
+Andere schreiben Hintergrundstücke, recherchieren: Was ist das WTC?
+Kaum zehn Minuten nach der zweiten Explosion arbeitet die gesamte Redaktion am Thema.
+Die Rechtsabteilung hilft bei den Verhandlungen über Video-Rechte.
+Es darf nichts kosten, unser Budget ist knapp.
+Schließlich bekommen wir Sequenzen.
+Auf die Seite stellen können wir sie dennoch nicht, die Server sind an der Kapazitätsgrenze.
+Wir räumen die Seite leer, um die Datenmengen zu verringern: Keine Bilder mehr, keine Kästen, nur noch die wichtigsten Ressorts.
+Die Amerikaner, etwa cnn.com, machen es genauso.
+Die Technik versucht, zusätzliche Serverkapazität zu organisieren.
+Auch zu Freunden gibt es kein Durchkommen.
+Das Telefonnetz ist zusammengebrochen, auf E-Mails kommt keine Antwort.
+Was wir nicht wissen: Volkery ist bereits unterwegs, von seiner Wohnung in Brooklyn nach Manhattan, mit der U-Bahn.
+Ist Los Angeles das nächste Ziel?
+Ein Ausgang ist abgesperrt.
+Polizisten empfangen uns oben, wollen uns weglenken.
+Die Bürgersteige sind gesäumt mit Menschen.
+Ein Mann mit einem Helm kommt herbeigerannt.
+Wir stellen einen Schichtplan auf.
+Normalerweise schließen wir die Redaktion um 21 Uhr, der Frühdienst kommt um 6 Uhr.
+Wir entscheiden: Bis auf weiteres wird die Redaktion Tag und Nacht besetzt sein.
+Zudem organisieren wir so genannte Mirror-Sites: befreundete Unternehmen, auf deren Server wir einen Teil des Traffics umleiten können.
+Die Zugriffe steigen weiter an, auf fast 200 PIs pro Sekunde - das Vierfache unserer normalen Spitzenlast.
+Am Mittwoch erzielen unsere Seiten zehn Millionen Abrufe, fünfmal so viel wie der bisherige Höhepunkt.

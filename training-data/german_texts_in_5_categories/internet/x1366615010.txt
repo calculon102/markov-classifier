@@ -1,0 +1,36 @@
+SPIEGEL-ONLINE-Leser Marc Obrowski kommt viel herum in der Welt, 1994 lebte er in Sumatra.
+Der Text erschien Zeichen für Zeichen.
+Mein Chat-Partner aus den USA glaubte, der Erste zu sein, der mit Sumatra übers Netz plauderte.
+Vielleicht hatte er Recht, und vielleicht war ich der erste Netzbenutzer der Urwaldinsel.
+Möglich war's, wenn man bedenkt, was dazu alles nötig gewesen war.
+Im Oktober 2004 wird SPIEGEL ONLINE 10 Jahre alt.
+Wo und wie sind Sie zuerst auf uns aufmerksam geworden?
+Was hat Sie beeindruckt, wann hat SPON eine wichtige, eine witzige Rolle für Sie gespielt?
+Machen Sie mit: E-Mail genügt.
+Nur ein Siemens-Ingenieur wie ich, in einem Kaff wie Banda Aceh, ohne Bücher und Zeitschriften, mit einem Projekt in einer Telefonzentrale hatte die wichtigste Ressource für die Schaffung einer solchen Netzverbindung: endlose Langeweile.
+Dagegen war das Problem, die Zentrale so umzuprogrammieren, dass das Modem eine der wenigen digitalen Verbindungsleitungen zum einzigen Einwahlpunkt des Landes im 2000 Kilometer entfernten Jakarta erhielt, nur zweitrangig.
+Das Netz zeigte in Banda Aceh exemplarisch, zu was es fähig war.
+Langeweile und Isolation waren mit dem Eintreffen des ersten Bits verjagt.
+Die Welt ereichte das Ende derselben.
+Die namenlose Aktivität, später einmal Surfen genannt, brachte mich nach ein paar Stunden zu SPIEGEL ONLINE, das sich noch auf einem Universitätsserver hinter einer Webadresse mit vielen Schrägstrichen und Tilden versteckte.
+Das war Ende 1994, ich muss eine der ersten Ausgaben erwischt haben.
+Den letzten SPIEGEL hatte ich vor zwei Monaten erstanden; als ich auf der Insel Bintan zu tun hatte.
+Davor standen ein Fußmarsch zum Hafen, von dort mit einem kleinen Boot auf die Insel Batang, dort per Taxi quer über die Insel zum Nordhafen, dort die Fähre nach Singapur, dann den Bus zur Orchard Road.
+Jetzt war Singapur virtuell präsent, der SPIEGEL ebenso, und ich brauchte nicht einmal aufzustehen.
+Meine Begeisterung wurde von Information pur genährt.
+PPP gab's im Land noch nicht.
+Das Netz wurde in ASCII übertragen.
+Kein Netscape oder Eudora.
+Nur grüne Zeichen auf der Terminalemulation.
+Keine Bilder, nicht einmal Mausklicks (Pfeiltasten und Leertaste stattdessen).
+Doch das war genug, um die Macht des neuen Mediums zu ahnen.
+Meine Arbeit als Telekommunikationsingenieur für Siemens brachte mich später nach Kamerun und Australien.
+Von dort zog ich nach Dili in Osttimor, wo ich für die Vereinten Nationen arbeitete.
+Kurz darauf hatte ich in Osttimor zu tun, damals noch eine unruhige Provinz Indonesiens.
+Es war reiner Egoismus, aus dem heraus ich die Zentrale so umprogrammierte, dass die bevorzugte Verbindung zur Außenwelt nicht über analoge Leitungen nach Jakarta lief, sondern über neue digitale nach Denpasar auf Bali.
+Dadurch wurde die Einwahl ins Internet möglich, und ich konnte surfen.
+Ich war dann froh, als PPP endlich in Indonesien zu haben war.
+Zuvor hatte ich die SPIEGEL-Artikel vom Terminalfenster in eine Textdatei gespeichert und im Notizblock gelesen.
+Den nackten ASCII-Artikel, durch einfachen Tastendruck veränderbar, erlebte ich jedoch unangenehm entwertet.
+Ohne das typische Layout und ohne Papier sah das Geschriebene äußerlich nicht anders aus als der Stuss, den ich auf dem Rechner schrieb.
+Erst die Darstellung über Netscape brachte das richtige SPIEGEL-Gefühl wieder.

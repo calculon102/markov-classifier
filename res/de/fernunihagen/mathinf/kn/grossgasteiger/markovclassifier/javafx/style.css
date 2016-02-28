@@ -1,0 +1,17 @@
+.header {
+	-fx-font-family: "segoe ui", Ubuntu, Helvetica, Tahoma, sans-serif;
+	-fx-font-size: 20.0pt;
+}
+
+.subheader {
+	-fx-font-family: "segoe ui", Ubuntu, Helvetica, Tahoma, sans-serif;
+	-fx-font-size: 16.0pt;
+}
+
+.rightAlignment { 
+	-fx-alignment: center-right;
+}
+
+.noPadding {
+	-fx-padding: 0;
+}

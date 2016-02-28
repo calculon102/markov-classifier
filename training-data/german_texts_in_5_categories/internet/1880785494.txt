@@ -1,0 +1,46 @@
+UMTS-Karten für den Laptop versprechen einen schnellen mobilen Internet-Zugang, wo immer man sich befindet - und sind bisher für Privatkunden viel zu teuer.
+Das aber beginnt sich zu ändern.
+Wie weiland bei den Handys beginnen die Betreiber, die UMTS-Karten zu subventionieren.
+So wird aus 300 nur noch ein Euro.
+Allein fürs Telefonieren und fürs Schreiben von SMS braucht kein Mobilfunkkunde UMTS.
+Erst bei der Nutzung neuer Dienste mit Bild- und Audio-Inhalten sowie der Videotelefonie spielt die erweiterte Leistung eine Rolle.
+Außerdem bietet der neue Mobilfunkstandard für die mobile Datenübertragung immense Vorteile.
+Mit einer Geschwindigkeit von bis zu 384 Kilobit pro Sekunde (Kbit/s), sechsmal schneller als mit ISDN im Festnetz, lassen sich Daten drahtlos auf ein Notebook laden.
+Unter den Mobilfunkanbietern ist inzwischen ein Preiskampf um die Kunden entstanden.
+Die Karten, anfangs knapp 300 Euro teuer, kosten inzwischen bei Vodafone nur noch einen Euro.
+E-Plus verschenkt die Hardware beim Vertragsabschluss gar völlig.
+T-Mobile und O2 zeigen sich vergleichsweise unbeeindruckt.
+Die Telekom-Tochter, nach Vodafone der zweitgrößte Netzbetreiber auf dem deutschen Markt, verlangt beim Abschluss eines 24-Monate-Laufzeitvertrtages nach wie vor 149,95 Euro.
+O2 hat den Preis auf 99,95 Euro gesenkt.
+Und trotzdem: Für Privatkunden sind die Angebote bisher nicht gedacht.
+Die neuen Möglichkeiten durch die größere Bandbreite bei der Datenübertragung seien zunächst vor allem für Firmenkunden interessant.
+Sie erleichterten den Zugang zu Unternehmensnetzwerken.
+Mobiles Internet funktioniert nicht nur per UMTS.
+Bereits ein Notebook mit einer WLAN-Karte bietet eine hohe Mobilität.
+Die Zahl der so genannten Hotspots, also der Zugangspunkte für Drahtlosnetzwerke, steigt ständig.
+Neben kommerziellen Zugangspunkten in Cafés, Restaurants und Hotels gibt es auch kostenlose Angebote.
+Anwendern, die nur hin und wieder von unterwegs ihre E-Mails lesen wollen, reicht auch ein Handy.
+Viele aktuelle Geräte verfügen über ein Mailprogramm, mit dem sich die Post abholen lässt.
+Anhänge lassen sich mit dem Telefon allerdings nicht ansehen und bearbeiten.
+Selbst ein Handy ohne E-Mail-Programm erlaubt es, per elektronischer Post kommunizieren.
+E-Mail-Anbieter wie Web.de bieten ihre Webmail auch auf WAP-Seiten an.
+Das Unternehmen wolle den Markt nicht verlieren, bevor es ihn überhaupt gibt.
+Um Privatanwender werde E-Plus jedoch vorerst nicht werben.
+Gleichwohl könnten auch sie die Notebook-Karte kaufen.
+Auch O2-Sprecher Roland Kuntze sieht die UMTS-Laptop-Karte bisher vor allem im Geschäftskundenbereich.
+Für Privatanwender seien eher die Handys interessant, sagt Kuntze.
+Allerdings kämen auch schon Privatkunden in die Shops, die sich für die neuen Möglichkeiten interessierten.
+T-Mobile verfolgt eine etwas andere Strategie.
+Im Gegensatz zu E-Plus wirbt die Telekom-Tochter auch bereits bei Privatkunden für die neue Karte.
+Immer mehr Privatanwender interessierten sich für die schnellere Datenübertragung, sagt Unternehmenssprecher Husam Azrak.
+Den hohen Preis begründet er mit Subventionen im Tarifbereich.
+T-Mobile wolle seinen Kunden nicht in erster Linie Hardware verkaufen, sondern ihnen neue Anwendungsmöglichkeiten eröffnen.
+Die schnelle Datenübertragung per UMTS kostet - wie auch bisher im Mobilfunk - deutlich mehr als über das Festnetz.
+T-Mobile berechnet für den Tarif DataConnect inklusive zehn Megabyte (MB) Übertragungsvolumen pro Monat rund 15 Euro.
+Zieht man die Grundgebühr ab, ergeben sich Kosten von einem Euro pro MB Datenübertragung.
+Die Preise der anderen Netzanbieter sind ähnlich.
+Dafür bekommt ein DSL-Nutzer je nach Tarif bereits ein Gigabyte (GB) Datenvolumen.
+Die mobile Datenübertragung ist somit um den Faktor 1000 teurer.
+Erst bei der pauschalen Abnahme größerer monatlicher Datenpakete wird es billiger.
+Für Privatnutzer ist die mobile Internetnutzung daher trotz der günstigen Einstiegspreise für die Hardware ein teurer Komfort.
+Vor allem, wenn das Inklusivvolumen erst einmal verbraucht ist - was bei zehn MB schnell passieren kann - kann die Rechnung bei Preisen von 1,60 Euro und mehr pro MB explodieren.

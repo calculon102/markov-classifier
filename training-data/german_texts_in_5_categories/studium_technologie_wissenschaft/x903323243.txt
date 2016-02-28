@@ -1,0 +1,23 @@
+Deutsche Forscher wollen der Erbgut-Analyse Beine machen: Techniken aus Spracherkennung und Bildbearbeitung sollen unwichtiges Gen-Rauschen wegfiltern und ganze Genome innerhalb weniger Minuten entschlüsseln.
+Das menschliche Genom gleicht einem gigantischen Puzzle.
+Bislang arbeiten Wissenschaftler bei seiner Entschlüsselung mit teuren Großrechnern, die trotz ihrer Leistungskraft tagelang mit einer einzigen Analyse beschäftigt sind.
+Grund ist die enorme Komplexität des menschlichen Genoms, das rund drei Milliarden der Nukleobasen C, T, G und A aneinander reiht.
+Manche Sequenzen tauchen mehrfach auf, andere Bereiche, so genannte Junk-DNS, scheinen keinerlei Funktion zu haben.
+Dabei erweist sich die Gen-Entschlüsselung immer mehr als aussichtloses Unterfangen, denn die Entwicklung der Computerchips kann mit dem Zuwachs genetischer Rohdaten kaum mithalten.
+Der Genforscher Helmut Blöcker von der Gesellschaft für Biotechnologische Forschung in Braunschweig schätzt, dass sich die weltweit verfügbaren Gen-Informationen etwa alle sechs Monate verdoppeln.
+Laut Moores Gesetz, einer nach wie vor gültigen Annahme über Mikrochips, verdoppelt sich die Zahl der Schaltkreise in Computer-Prozessoren hingegen nur alle 18 Monate.
+Statt auf die herkömmliche, rechenintensive Statistik setzen sie auf Methoden aus Spracherkennung und Bildbearbeitung.
+Dazu wandeln sie die Folge von DNS-Bausteinen mit so genannten Fourier- und Wavelet-Tansformationen in eine Wellenfunkiton um.
+In die Transformation fließen auch Strukturinformationen der DNS ein, die bei der herkömmlichen Analyse unter den Tisch fallen.
+Davon erhoffen sich die Forscher ganz neue Erkenntnisse, denn die Buchstabenfolge der Nukleobasen reicht nach ihrer Meinung zur Beschreibung von DNS allein nicht aus.
+Die Übersetzung des menschlichen Genoms in eine Fourier-Kurve dürfte kaum mehr als fünf Sekunden dauern, schätzt Blöcker.
+Nötig sind dafür ein handelsüblicher PC sowie eine spezielle Steckkarte, die die Transformation übernimmt.
+Man könne beispielsweise störendes Hintergrundrauschen herausfiltern und die wesentlichen Signale sichtbar machen.
+In einer ersten Anwendung ihres Verfahrens analysierten Blöcker und Kauer Mutationen der so genannten Hitze-Schock-Sequenz eines bestimmten Bakteriums.
+Ohne Zusatz-Hardware zur schnelleren Fourier-Transformation dauerte die Berechnung auf einer Workstation weniger als drei Minuten.
+Die Mutationen wurden zuverlässig identifiziert.
+Der nächste Schritt ist das menschliche Genom.
+Die Braunschweiger Wissenschaftler erhoffen sich von ihrem Verfahren mittelfristig einen kräftigen Schub in der Genforschung.
+Statt weniger Labore mit teuren Superrechnern könnten künftig viele kleinere Institute auf herkömmlichen PCs Gene entschlüsseln.
+Feierabend-Forscher, die zu Hause selbst in Gensequenzen stöbern möchten, müssen jedoch vorerst weiter mit den Buchstabenfolgen der Basenpaare C, T, G und A vorlieb nehmen.
+Das Equipment zur Genom-Analyse mit der Braunschweiger Wellentechnik kostet derzeit noch 25.000 Euro.

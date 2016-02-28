@@ -1,0 +1,45 @@
+SPIEGEL ONLINE sprach mit dem Mainzer Physiker Göstar Klingelhöfer über Rost, robotische Geologen und Tücken des Landeplatzes.
+Ein ebenfalls mit dem Gerät ausgerüstetes Zwillingsgefährt will die US-Raumfahrtbehörde Nasa am Monatsende hinterherschicken.
+Welche Aufgabe hat Ihr Mössbauer-Spektrometer?
+Klingelhöfer: Wir interessieren uns besonders für eisenhaltige Mineralien auf der Marsoberfläche - also im Grunde für Rost.
+Diese Minerale sind dort häufig anzutreffen, sie geben ja dem Roten Planeten seine Farbe.
+Seit über acht Jahre haben wir an Mimos gearbeitet und es immer weiter verkleinert.
+Jetzt hat es nur noch das Volumen einer Getränkedose und verbraucht lediglich ein Watt an kostbarer Bordenergie.
+Die Messgenauigkeit des Instrumentes ist trotzdem sehr hoch.
+SPIEGEL ONLINE: Wenn alles glatt geht, wird Mimos also gleich an drei Landestellen Mineralien untersuchen?
+Klingelhöfer: Genau.
+Bei unserer Methode wird das Gerät durch einen Greifarm an die Steine herangeschwenkt, bis es direkten Oberflächenkontakt hat.
+Das Messprinzip kennen Physikstudenten aus dem Praktikum: Röntgenstrahlen regen Eisen-Atomkerne in den Mineralien an.
+In den gemessenen Reflexionen treten sehr kleine Energieveränderungen auf.
+Darin sind Informationen über die chemischen Umgebung des bestrahlten Eisens enthalten.
+Aus der Energieverteilung lässt sich also sehr genau folgern, in welche Mineralien das Eisen eingebettet ist.
+SPIEGEL ONLINE: Die Nasa hat die beiden Rover als automatische Geologen bezeichnet.
+Wie wird die Feldarbeit vor Ort aussehen?
+Klingelhöfer: Die Mineralien, um die es uns geht, befinden sich zum einen in der äußeren Verwitterungsschicht des Marsgesteins.
+Wie echte Geologen mit ihrem Hammer können die Rover aber auch das frische Material im Innern der Steine freilegen.
+Dazu benutzen die Robotvehikel einen Bohrer, mit dem sie fünf Millimeter tief in den Stein eindringen können.
+Mit Mimos können wir außerdem Sand und Staub zwischen dem Geröll untersuchen.
+Da dieser bei Marsstürmen über große Gebiete verteilt wird, lernen wir etwas über die Verwitterung aus Gebieten jenseits des engeren Landegebietes.
+Wir hoffen, mit der Analyse der Mineralien ermitteln zu können, unter welchen Bedingungen sich diese in der Marsgeschichte gebildet haben.
+SPIEGEL ONLINE: Können Sie das einem Nicht-Mineralogen plausibel machen?
+Klingelhöfer: Wie beim Auto geht es um Rost.
+Stellen Sie sich die Rostentwicklung an Karossen in verschiedenen irdischen Klimazonen vor.
+Wenn man diesen Rost mit wissenschaftlichen Methoden genau untersuchen würde, könnte man die Umstände seiner Entstehung zumindest eingrenzen.
+Beim Mars wollen wir wissen, ob sein Klima früher erdähnlicher war und wie viel Wasser es damals dort gab.
+SPIEGEL ONLINE: Wenn das Marsklima früher unserem Wetter ähnlich gewesen sein sollte, was ist dann schief gegangen?
+Klingelhöfer: Der Mars hat, verglichen mit der Erde, nur den halben Durchmesser und deshalb auch viel weniger Wärme in seinem Innern.
+Sein Vulkanismus schwächte sich schneller ab als bei uns.
+Vulkanische Gase lieferten zu wenig Nachschub für die dem Sonnenwind ausgesetzte Marsatmosphäre.
+Auch sein Magnetfeld war auf Dauer zu schwach, um die Atmosphäre vor der Sonneneinwirkung zu schützen.
+Im Ergebnis könnte das von einem warmen und feuchten Klima zu der kalten, trockenen und sehr dünnen Gashülle geführt haben, die dort heute existiert.
+SPIEGEL ONLINE: An welchem Landeplatz könnten die Sonden am ehesten auf Spuren von Wasser treffen?
+Klingelhöfer: Terra Meridiani, der Landeplatz des zweiten Nasa-Rovers, ist mein Favorit.
+Dort haben US-Orbiter Hämatit ausgemacht.
+Auf der Erde entsteht dieses Mineral am wahrscheinlichsten in Gegenwart von Wasser.
+Aber auch der Gusev-Krater, zu dem der erste Rover am Sonntag startet, ist interessant: Dort könnte ein See das Kraterinnere überflutet haben.
+Gusev gilt allerdings wegen ungünstigerer Winde als das gefährlichere Ziel.
+SPIEGEL ONLINE: Die Auswahl der Landestellen wurde durch Sicherheitserwägungen stark eingeengt.
+Wenn eine gute Fee Ihr Spektrometer an einen beliebigen Ort der Marsoberfläche zaubern könnte, wo würden Sie es hin wünschen?
+Klingelhöfer: Das riesige Canyon-System Valles Marineris wäre eine gute Adresse.
+Wenn man an den Rand der Abhänge ginge, müsste man dort in Schichtungen die Historie der Marsgeologie finden.
+Das wäre ein guter Ort für künftige Astronauten.

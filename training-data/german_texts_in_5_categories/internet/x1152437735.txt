@@ -1,0 +1,22 @@
+Das Instant Messaging hat sich längst vom Teenagerkult zum Massenphänomen entwickelt.
+Immer beliebter wird die clevere und vor allem auch so schnelle Alternative zu E-Mail und Telefon mittlerweile auch in Unternehmen.
+Den Online-Marktforschern von Jupiter Media Metrix zufolge chatten über Dienste wie ICQ, MSN-Messenger oder AIM von AOL allein in den USA tagtäglich bereits 16 Millionen Internetnutzer - am Arbeitsplatz.
+Im vergangenen Jahr soll sich die IM-Zeit in US-Firmen gegenüber 2000 auf 4,9 Milliarden Chatminuten mehr als verdoppelt haben.
+Mit der zunehmenden Popularität der Echtzeit-Web-Kommunikation steigt nun allerdings auch das Bedürfnis, diesen Datenverkehr zu überwachen.
+Die entsprechende Software liefert Vondricks Silicon-Valley-Company.
+Erst vor einem halben Jahr gestartet, zählt FaceTime Communications mit ihrem IM Auditor neben Firmen wie ICaughtYou oder Vericept bereits zu den Marktführern in der noch jungen Branche.
+Typischerweise speichern Programme wie IM Auditor alle über Firmennetzwerke verteilte Mitteilungen auf einem Zentralrechner, und das unabhängig vom IM-Anbieter.
+Im Gegensatz zu E-Mails werden die Instant Messages in der Regel nicht über zentrale Server abgewickelt - ergo dort gespeichert - und verschwinden ohne entsprechende Software nach Beendigung des Chats im Digi-Nirvana.
+Diese Zeiten scheinen nun jedoch vorbei zu sein.
+Immer mehr Unternehmen, insbesondere aus der Finanzbranche, setzen auf die IM-Schnüffler.
+Vondrick hat etwa extra ein Verkaufsbüro an der Wall Street eröffnet, um die vielen Anfragen aus der Börsenmetropole besser bearbeiten zu können.
+Konkurrent Communicator Inc. konnte allein diesen Monat acht neue Kunden aus der Geldindustrie für sein Programm HubIM gewinnen.
+Das Interesse der Finanzwirtschaft an den Chat-Archivierungssystemen ergibt sich auch daraus, dass die amerikanische Börsenaufsicht SEC vorschreibt, die Kommunikation mit Kunden zu Prüfzwecken zu protokollieren.
+Für IMs sind bislang keine entsprechenden Regelungen erlassen, Branchenbeobachter gehen allerdings davon aus, dass dies demnächst geschehen wird.
+Oftmals sei den Unternehmen zudem gar nicht bewusst, wie viele Angestellte vom Büro aus chatten.
+Setzt das Unternehmen allerdings Monitoring-Software ein, können die Konsequenzen fatal sein.
+So geschehen etwa bei einem Klienten von Vericept: Ein Unternehmen aus der Telekommunikationsbranche hat scheinbar mit Hilfe der Vericept-Software den Racheakt eines verstimmten Mitarbeiters vereiteln können.
+Vondrick hält diese Schnüffelerfolge kaum für bedenklich.
+Zudem würden IM-Nutzer bei seiner Software über ein Pop-up-Fenster darauf hingewiesen, dass die Chats aufgezeichnet werden.
+Für die Epic ist allerdings auch diese Praxis sehr bedenklich.
+Wie weit und vor allen Dingen bis wann sich diese Forderungen umsetzen lassen, ist fraglich.

@@ -1,0 +1,24 @@
+Er ist gigantisch groß und schlauer als alle anderen Maschinen.
+Als der leistungsfähigste Großrechner der Welt im März eingeweiht wurde, hagelte es Superlative.
+Das vom Elektrokonzern NEC gebaute Rekordhirn schafft über 35 Teraflops, also 35 Billionen Rechenoperationen pro Sekunde.
+Schon der Name des japanischen Riesenrechners lässt auf ehrgeizige Ziele schließen.
+Der Earth Simulator soll nicht weniger als die Erde simulieren, insbesondere ihre Klimaprozesse, Erdbeben und Taifune - jene Wirbelstürme, die immer wieder Asiens Küsten heimsuchen.
+Die Leistung des Superhirns reicht aus, um manchen europäischen und amerikanischen Fachmann neidisch nach Nippon blicken zu lassen.
+Doch über das wahre Können der Maschine ist sich die Gemeinde der Klimaforscher keineswegs einig.
+Fraglich ist, ob damit jemals Unwetter wie jene vorhergesagt werden können, die in den letzten Tagen Mitteleuropa überschwemmten.
+Bevor das Potenzial des Großrechners überhaupt ausgeschöpft werden kann, müssen Klimamodelle entwickelt werden, die für die Simulation örtlich begrenzter Wetterphänomene komplex genug sind.
+Bisherige Klimamodelle teilen Atmosphäre und Erdoberfläche in Rechtecke auf, die eine Kantenlänge von rund hundert Kilometern haben.
+Je kleiner diese Rechenzellen sind, desto höher ist die Auflösung eines Klimamodells.
+Bislang seien die Wirbelstürme durchs Raster gerutscht.
+Dass der Riesencomputer derart kleinräumige Ereignisse spielend berechnen kann, hat er Stadler zufolge bereits in ersten Testläufen bewiesen.
+Für eine genauere Betrachtung der ganzen Erde fehlen aber noch die Programme: Bisher existiert kein Klimamodell, das den Globus in einer solchen Auflösung beschreiben und die Leistungsgrenze des gigantischen Rechners wenigstens annähernd ausschöpfen kann.
+Im Klartext heißt das: Der Earth Simulator, ein Prestigeprojekt der japanischen Regierung, das anlässlich des ersten Kyoto-Gipfels 1997 ins Leben gerufen wurde, muss sich internationalen Experten öffnen.
+Der leistungsfähigste Großrechner steht derzeit zwar auf japanischem Boden, die Klima-Kompetenz ist jedoch über die ganze Welt verstreut.
+Um den Computer mit Volldampf betreiben zu können, ist die internationale Forschungselite gefragt.
+Und selbst wenn alle an einem Strang ziehen, wird es noch Jahre dauern, bis ein Klimaprogramm entwickelt ist, das der gigantischen Rechenleistung halbwegs angemessen ist.
+Physikalische Abläufe müssen deshalb auf wesentliche Parameter reduziert werden, bevor der Earth Simulator mit ihnen rechnen kann.
+Nach Ansicht Kornbluehs lässt sich der Earth Simulator derzeit nur sinnvoll nutzen, um dasselbe Klimamodell gleichzeitig in mehreren, jeweils leicht abgewandelten Versionen ablaufen zu lassen.
+Mit Hilfe solcher so genannter Ensemble-Simulationen können die Wissenschaftler zum Beispiel überprüfen, wie ein Klimamodell auf geringfügige Veränderungen der Ausgangswerte reagiert.
+Noch hat der Earth Simulator aber keine großen Ensembles berechnet.
+Kritiker argwöhnen gar, dass die Japaner zunächst hinter verschlossener Tür experimentieren.
+NEC-Vertreter Stadler aber bittet um Nachsicht.

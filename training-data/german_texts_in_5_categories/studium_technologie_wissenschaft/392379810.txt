@@ -1,0 +1,23 @@
+Secur-o-bot heißt ein neuer Wachmann aus Silizium und Metall, der nachts durch verlassene Gebäude patrouilliert.
+Er findet nicht nur Einbrecher, sondern erkennt auch Rauch, gefährliche Gase und Brände.
+Er ist unbestechlich, kennt keine Ermüdungserscheinungen und fürchtet sich vor niemandem.
+Secur-o-bot dreht seine Runden, dabei immer um sich spähend und lauschend.
+Sensoren geben Alarm, wenn Rauch oder Gas ausströmt.
+Brandherde oder Schwelbrände sieht der rollende Wächter früher als ein Mensch.
+Secur-o-bot wurde er vom Fraunhofer Institut für Produktionstechnik und Automatisierung sowie der Firma Neobotix entwickelt.
+Das 30 Kilogramm schwere Gefährt hat eine Grundfläche von 40 mal 40 Zentimetern ist in der Basisversion mit Ultraschallsensoren und einem schwenkbaren Sensorkopf ausgerüstet, auf dem eine Kamera mit integriertem Webserver und Bewegungsmelder sitzt.
+Er kann rund acht Stunden fahren, bis er wieder an die Steckdose muss, um aufzutanken.
+Die Luftreifen rollen auch auf unebenem Terrain, eine Outdoor-Variante wird derzeit entwickelt.
+Die Entwickler betonen, dass Secur-o-bot nicht mit Low-cost-Sensoren durch die Flure navigiert, sondern mit Hilfe eines Laserscanners, der exakter arbeiten soll als herkömmliche Sensoren.
+Im Innern des R2D2-Enkels werkelt ein Pentium-3-Prozessor mit 800 Megahertz.
+Typische Einsatzfelder sind Patrouillenfahrten durch Lagerhallen und über Firmengelände, aber auch durch Produktionsanlagen.
+Personen erkennt der Roboter auch im Dunkeln mit Hilfe von Infrarot- und Wärmebildkameras.
+Auffälligkeiten dokumentiert er in Bild und Ton.
+Das Stuttgarter Fraunhofer-Institut zeigt Secur-o-bot auch auf der Cebit.
+Für die Basisversion müssen Interessenten 25.000 Euro berappen.
+Lieferbar ist das Gefährt nach Herstellerangaben ab Mitte 2004.
+Secur-o-bot ist lange nicht der erste elektronische Wachhund auf dem Markt.
+Bereits vor knapp zwei Jahren stellte die Berliner Firma Robowatch mit Mosro 1 einen ersten serienreifen Sicherheitsroboter vor.
+Mit seinen Radarsensoren soll er Menschen auch durch Mauerwerk hindurch identifizieren, er ist mit 15.000 Euro deutlich günstiger als Secur-o-bot.
+Mosro wandelt unter anderem durch die Hallen der Messe Berlin, Chemielager von BASF und Großrechenzentren bei Bertelsmann.
+Auch in den USA zeihen erste Automaten einsam um die Ecken, etwa der Patrolbot von der Firma Activ-Media Robotics.

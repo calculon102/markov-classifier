@@ -1,0 +1,21 @@
+Im Kampf gegen den Milzbrand-Erreger Bacillus anthracis könnten winzige Gewohnheitskiller helfen: So genannte Bakteriophagen haben in Millionen von Jahren höchst wirksame Waffen gegen die Mikroben entwickelt.
+US-Forscher haben jetzt ein Enzym dieser Viren isoliert und erfolgreich getestet.
+Mit ihrer Methode wollen die Wissenschaftler ein Problem lösen, das Biowaffen-Experten zunehmend Sorgen bereitet.
+Um für solche Fälle gerüstet zu sein, suchten Fischetti und Kollegen mit Unterstützung der US-Militärforschungsbehörde Darpa nach einer alternativen Verteidigungsstrategie.
+In den letzten Jahren hatte die Gruppe bereits das medizinische Potenzial der Phagen an anderen Mikroben erprobt.
+Nun konzentrierten sich die Forscher auf Viren, die auf die Beseitigung des Milzbrand-Erregers spezialisiert sind.
+Diese Phagen nutzen ein Enzym, um die Zellwand von Bacillus anthracis aufzusprengen und ihr Erbgut ins Innere zu schleusen, wo es hundertfach repliziert wird.
+Den Forscher gelang es, den chemischen Türöffner zu isolieren.
+Wenige Tropfen der Enzymlösung konnten in Sekunden Millionen von Milzbrand-Bakterien vernichten - auch solche vom Ames-Stamm, der wohl für die Anthrax-Anschläge nach dem 11. September eingesetzt wurde.
+Fischetti und seine Kollegen testeten das Phagen-Enzym auch an Mäusen, denen sie zuvor das mit dem Milzbrand-Erreger verwandte, leichter zu handhabende Bakterium Bacillus cereus verabreicht hatten.
+Normalerweise sterben alle damit infizierten Nager innerhalb von vier Stunden.
+Bis zu 80 Prozent der Tiere überlebten jedoch, wenn sie frühzeitig eine Enzym-Dosis gespritzt bekamen.
+Den Forschern zufolge durchlöchert der Phagen-Stoff tatsächlich nur Anthrax-Bakterien und deren allernächste Verwandte.
+Anders als Antibiotika würde diese Therapie keine nützlichen Mikroben im menschlichen Körper abtöten, so der Forscher.
+Weil das Enzym essentielle Moleküle der bakteriellen Zellwand angreift, sollte es unmöglich sein, resistente Anthrax-Stämme zu züchten.
+Zudem könnte die Substanz auch solche Bakterien bekämpfen, die sich mangels Infektionsmöglichkeit als dauerhafte Sporen verkapselt haben.
+Dazu müsste man das Enzym mit einem Signalstoff vermengen, der die Erreger aus ihrem Schlummer reißt.
+Nach dem Keimen werden sie anfällig für die Phagen-Attacke.
+Diese Kombination ließe sich auch zum schnellen Nachweis von Milzbrand-Sporen nutzen, die etwa in Postfilialen oder U-Bahn-Schächte geschleust wurden, meint Fischetti.
+Denn die zum Keimen angeregten und aufgesprengten Erreger verströmen den Bakterienstoff ATP, der zusammen mit bestimmten Enzymen zu einer Leuchtreaktion führt.
+Ein handliches Messgerät, ein so genanntes Luminometer, könnte daher zum Aufspüren der Sporen reichen.

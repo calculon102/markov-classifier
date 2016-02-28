@@ -1,0 +1,27 @@
+Die Werbemüll-Lawine rollt, und bisher scheint kein Kraut dagegen gewachsen.
+Der eco-Verband der Internet-Wirtschaft ruft nun zur Selbsthilfe auf: Mit einem Leitfaden sollen Surfer lernen, Spam zurück zu verfolgen - und die Spammer bei ihren Providern zu melden.
+Eine Aufklärungskampagne bei Internet-Nutzern soll den Kampf gegen die unkontrollierte Werbemail-Flut unterstützen.
+Der eco-Verband der Internet-Wirtschaft hat dafür einen Anti-Spam-Leitfaden veröffentlicht.
+Neben Informationen zur aktuellen Rechtslage und Tipps zu Filtersoftware sollen User in die Lage versetzt werden, Spam-Mails zurückzuverfolgen.
+Spam-Absender sind in der Regel gefälscht und eine Antwort könnte den Spammer einladen, sein Opfer erst recht zu bombardieren.
+Aber über die IP- oder DNS-Adresse im Mail-Header lässt sich der Provider ermitteln, von dem aus die Mail verschickt wurde.
+Wenn der Server in einem größeren Netzwerk agiert, sollte man eine Beschwerde-Mail verschicken, um die Administratoren zu alarmieren.
+Denn unter Umständen erfahre ein Administrator erst auf diese Weise, dass sein Mail-Server zur Verteilung von Spam-Mail missbraucht werde, betonen die eco-Autoren.
+Den Header einer Email zu analysieren, ist für Laien nicht ganz einfach.
+Als ausführliche Anleitung empfiehlt eco die FAQ-Rubrik auf der privaten Web-Site von Thomas Hochstein (th-h.de).
+Ausschlaggebend ist letztlich die unterste numerische IP-Adresse, die in eckigen Klammern vermerkt ist.
+Um das Netzwerk des Providers zu erfahren, empfiehlt eco die Suche bei openrbl.org.
+Eco empfiehlt eine Beschwerdemail an die dafür oft eingerichteten speziellen E-Mail-Adressen der Provider, die in der Regel nach dem Muster abuse@provider.com aufgebaut sind.
+Existiert dies nicht, sollte aber in jedem Falle eine Mail an den Account postmaster des betreffenden Providers ihr Ziel erreichen.
+Wichtig ist es dabei, dem Administrator den kompletten Header der Spam-Mail zu schicken und damit nie länger als eine Woche zu warten.
+Denn Spammer benutzen manchmal einen Server nur ganz kurz, um ihre Massen-Mails zu verschicken.
+Grundsätzlich rät eco zum dualen Postsystem: Die persönliche E-Mail-Adresse wird nur an Freunde, Bekannte und Geschäftspartner weitergegeben, während beim Surfen im Netz eine zweite Alias-Adresse angegeben wird.
+Nimmt die Werbeflut an der Zweitadresse überhand, wird sie einfach geändert.
+Gemeinsam mit den E-Mail-Service-Providern hat eco vereinbart, eine Task Force zu gründen.
+Diese soll einen runden Tisch organisieren, um Maßnahmen gegen die ausufernde Werbeflut festzulegen.
+Auch sollen die Netzbetreiber angehalten werden, ihre Systeme und Mailserver besser gegen Missbrauch abzusichern.
+Derzeit werde ein Großteil des E-Mülls über ungesicherte Fremdsysteme verschickt.
+Allein in Deutschland fließen laut eco jede Woche rund 500 Millionen Spam-Mails durch die Netze.
+Damit liegt der Anteil der unerwünschten Werbung bei über 50 Prozent aller E-Mails überhaupt, sagt eco-Geschäftsführer Harald Summa.
+Eco erwartet, dass sich trotz Gegenmaßnahmen die Spam-Situation in den nächsten Monaten und Jahren eher noch verschärfen wird.
+Gefahr drohe vor allem bei der wachsenden Zahl mobiler Endgeräte wie Handys.

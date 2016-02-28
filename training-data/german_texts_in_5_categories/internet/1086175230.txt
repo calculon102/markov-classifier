@@ -1,0 +1,22 @@
+So viele Anwender auf Microsoft schimpfen, so wenige trauen sich wirklich, Schluss zu machen mit dem Fenstermonopol.
+Denn auf Word und Co. möchte man dann doch nicht verzichten.
+Müssen Sie auch nicht, sagt ein Linux-Distributor aus Nürnberg.
+Mangelnder Einfallsreichtum lässt sich der Linux-Gemeinde wirklich nicht vorwerfen bei ihren nimmermüden Versuchen, der Windows-Welt die freien Betriebssysteme mit dem Linux-Kern schmackhaft zu machen.
+Da entwickelt beispielsweise ein Ingenieur aus Kaiserslautern ein Linux, das mal eben von CD startet.
+So groß war die Resonanz, so hoch die Zahl der entsprechenden Anfragen, dass das Computer-Magazin in seiner neuesten Ausgabe die Anleitung nachlieferte, wie man das Programm der Test-CD zum vollgütigen Betriebssystem ausbauen kann.
+Doch normalerweise ist der Weg vom Ausprobieren zum Wechsel auf Linux weit länger.
+Zu vertraut ist die gewohnte Windows-Umgebung.
+Wer auf Word, Excel und die anderen Programme des Microsoft Office nicht verzichten möchte, dem bietet die Nürnberger Firma SuSE jetzt den Linux Office Desktop an.
+Die Idee: Linux Office Desktop ist ein normales SuSE Linux, das aber um einige Sonderfunktionen erweitert wurde.
+Dazu gehört auch die von SuSE nur zugekaufte Software Cross Over Office von Codeweaver.
+Das Programm spiegelt dem Office-Paket von Microsoft einen waschechten Windows-Rechner vor, obwohl die Maschine in Wirklichkeit mit Linux betrieben wird.
+Doch immer musste sich der Nutzer bisher an eine neue Programm-Umgebung gewöhnen.
+Diese Hürde fällt jetzt weg.
+Linux booten, Word starten, Text öffnen, so einfach soll es gehen.
+Statt der sonst üblichen 50 Euro für das einfache SuSE-Linux verlangen die Nürnberger für den Linux Office Desktop immerhin 129 Euro.
+Denen bietet SuSE auch gleich noch den passenden Server an, der alles vorkonfiguriert mitbringt, was die Firma für das Netzwerk so braucht: Datenaustausch, gemeinsames Nutzen der Drucker und eine Firewall gegen Angriffe aus dem Internet.
+Der Server bedient bis zu 25 Arbeitsplätze.
+Die können übrigens auch gerne mit Windows betrieben werden, da ist der Linux-Server flexibel.
+Nun kann man kann sich die bösen E-Mails und Newsgroup-Beiträge der Linux-Puristen schon vorstellen.
+So eine entwürdigende Anbiederung an die Windows-Welt!
+Doch auch altegediente Linux-Fans können sich freuen.

@@ -1,0 +1,22 @@
+Schwarze Löcher gleichen gewaltigen kosmischen Staubsaugern: Ihre Anziehungskraft ist so stark, dass sie sogar Licht von seiner Bahn ablenken und einfangen können.
+Bislang hat allerdings noch niemand die von Einstein vorhergesagten Auswirkungen der gigantischen Kraftfelder gesehen - es fehlt schlicht an der notwendigen Technik.
+Doch ein Netzwerk aus mehreren zusammengeschalteten Observatorien soll die Beobachtung möglich machen.
+Um derart scharf in den Kosmos blicken zu können, koppelte das internationale Team mehrere Teleskope in Europa und Amerika miteinander, die bis zu 8500 Kilometer voneinander entfernt sind.
+Die Geräte werden dazu viele Stunden lang auf die gleiche Himmelsposition ausgerichtet, die empfangenen Signale auf Magnetband gespeichert.
+Ein spezieller Computer, der Korrelator, verknüpft die Einzelbeobachtungen anschließend zu einem gemeinsamen Datensatz.
+Dank dieser sehr kurzen Wellenlänge ist das Bild ausgesprochen scharf.
+In diesem Falle entspricht der Durchmesser des virtuellen Riesenteleskops der 8500-Kilometer-Distanz zwischen dem Heinrich-Hertz-Radioteleskop (HHT) auf dem Mount Graham bei Tucson, Arizona, und dem IRAM-Teleskop auf dem Pico Veleta in Spanien.
+Die Auflösung ist derart gut, dass zwei direkt nebeneinander auf dem Mond liegende Tischtennisbälle deutlich getrennt zu sehen wären - wenn das Teleskop sichtbares Licht empfangen könnte.
+Die einzigartigen Beobachtungen sind nicht zuletzt der Qualität der Antennen des HHT und der 30-Meter-Antenne auf dem Pico Veleta zu verdanken.
+Die Oberflächen der Parabolschüsseln sind ausgesprochen glatt.
+Unebenheiten sind beim HHT maximal 15 und beim Pico Veleta 50 Mikrometer hoch.
+Erst dadurch lassen sich die Millimeter-Signale effektiv bündeln - viele andere Teleskope haben zu raue Oberflächen, um derart kurze Radiowellen deutlich zu empfangen.
+Um zu erklären, wie sich einzelne Teleskope zu einer einzigen Riesenantenne verschmelzen lassen, vergleicht Krichbaum die 8500-Kilometerlinie mit einem Bleistift, den man sich vor das Gesicht hält.
+Nach diesem Prinzip entsteht durch die tägliche Erddrehung eine imaginäre Bahn, die dem Umfang eines parabolischen Radioteleskops entspricht.
+Auf dieser Bahn sammeln die einzelnen Teleskope ununterbrochen Daten.
+Je mehr Teleskope an der Beobachtung beteiligt sind, desto besser wird letztlich der gemittelte Datensatz und desto schärfer die Abbildung, denn das Störungsrauschen lässt sich so leichter von den sehr schwachen Radiosignalen unterschieden.
+Radiosignale werden nicht nur in der Umgebung schwarzer Löchern frei, von wo aus Jets - fast lichtschnelle Materieströme - in den Kosmos schießen.
+Die Wissenschaftler wollen mit dem virtuellen Riesenteleskop auch Sonnensysteme außerhalb der Milchstraße untersuchen, die ebenfalls Radiowellen aussenden könnten.
+Die Forscher wollen so neue Erkenntnisse über die Entstehung von Galaxien gewinnen.
+Auch die aus den Schwarzen Löchern hervorschießenden Jets lassen sich mit den zusammengeschalteten Antennen genau unter die Lupe nehmen.
+Damit, so der Forscher, sei man nicht mehr sehr weit vom Ereignishorizont entfernt - dem messbaren Rand des Schwarzen Lochs, an dem Licht und Materie verschwinden.

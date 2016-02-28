@@ -1,0 +1,23 @@
+Gescheiterter Wohltäter?
+Mit Virenbaukästen basteln rivalisierende Programmierergruppen immer neue Schädlinge, die Tausende PCs weltweit lahm legen.
+Es geht dabei um Ruhm und Ehre.
+Der niedersächsische Sasser-Autor wollte mit seinen Würmern offenbar sogar Gutes vollbringen.
+Beim Chaos Computer Club etwa gilt nur der als wahrer Hacker, der Probleme mit Tricks elegant löst, ohne dabei destruktive oder gar kriminelle Absichten zu verfolgen.
+Es gehört zum guten Ton, Sicherheitslücken aufzuspüren.
+Bei Sven J., dem mutmaßlichen Sasser-Autor aus dem niedersächsischen Dorf Waffensen bei Rotenburg, steht noch nicht endgültig fest, ob er ein zynischer Cracker oder vielleicht doch nur ein gescheiterter Wohltäter ist.
+Die ihm von Microsoft zugeschriebenen 28 Varianten des Wurms Netsky jedenfalls wurden offenbar als guter Wurm konzipiert.
+Auch mit Sasser wollte Sven J. angeblich nur Gutes vollbringen.
+Darauf deuten zumindest die Aussagen seines Vaters hin.
+Die Systemabstürze, die der Wurm hervorrief, schreiben Experten mittlerweile Fehlern in seiner Programmierung zu.
+Sasser war sozusagen gut gemeint, aber schlecht gemacht.
+Hinter den bizarren Virenschlachten stecken in erster Linie Rivalitäten zwischen verschiedenen Programmierergruppen, die ihr eher privates Techtelmechtel auf dem Rücken der weltweiten Internetgemeinde austragen.
+Zu Hilfe kommt ihnen dabei eine Betriebssystem-Monokultur aus dem Hause Microsoft.
+Immer wieder werden neue Sicherheitslücken in den Windows-Varianten aufgedeckt und gestopft - bis zum nächsten Leck und der nächsten Virenwelle.
+Schon seit Jahren liefern sich die anonym agierenden Gruppen harte Kämpfe.
+Später schoss der Schädling aber auch die Homepage von GigaByte ab, auf der unter anderem Quelltexte ihrer Viren veröffentlicht wurden.
+Viren oder Würmer zu kreieren, ist heutzutage keine besondere Schwierigkeit mehr.
+Bereits seit Jahren kursieren so genannte Virus Construction Kits im Netz - teilweise sogar mit grafischer Oberfläche -, mit denen sich selbst Laien ihren ganz persönlichen Schädling zusammenklicken können.
+Der Schädling ist modular aufgebaut.
+Neu entdeckte Sicherheitslücken können schnell integriert werden - Sicherheitsupdates von Microsoft werden somit ausgetrickst.
+Der Phatbot-Quelltext tauchte vor einigen Wochen im Internet auf.
+Nach seiner Einschätzung wurden jedoch weder Sasser noch Netsky mit solchen Virenbaukästen erstellt.

@@ -1,0 +1,63 @@
+Die neueste Variante des Sobig-Virus verstopft weltweit die Mail-Accounts.
+Sobig ist ein Rufschädiger: Er versendet sich unter falschen Absenderadressen - und sorgt für Irritationen und Missverständnisse.
+Was man gegen ihn tun kann, erklärt im Interview Dirk Kollberg von Network Associates.
+SPIEGEL ONLINE: Herr Kollberg, ich hatte heute Morgen rund 1400 E-Mails in meinem Postfach.
+Können Sie mir das erklären?
+Dirk Kollberg: Das liegt wohl daran, dass Ihre E-Mail-Adresse auch online verfügbar ist.
+Das wird wohl der neue Sobig-F-Wurm sein, den Sie da erhalten haben.
+Sobig sammelt unter anderem E-Mail-Adressen aus Webseiten und greift daneben die Adressen aus Adressverzeichnissen und den Eingangsordnern von E-Mail-Programmen ab.
+Er verschickt sich dann selbst wieder unter Benutzung dieser gefundenen Adressen: Einerseits nutzt er sie als falsche Absender, andererseits als Adressaten für die Virenverbreitung.
+SPIEGEL ONLINE: Ein herrliches Verwirrspiel, bei dem keiner mehr weiß, wer wem was geschickt hat.
+Unter meinen Mails sind viele, in denen es heißt: Hören Sie bitte auf, mir Viren zu schicken.
+Kann ich etwas dagegen tun?
+Kollberg: Es ist definitiv so, dass Sie diese Mails nicht verschickt haben, obwohl Ihr Absender darin steht.
+Der Wurm gibt ja eine falsche Absenderadresse vor.
+Da kann jeder mögliche Name drin stehen, nur nicht der von der Person, deren Rechner infiziert ist.
+Man kann sich an der Absenderadresse also nicht orientieren und auch diese Person nicht warnen.
+Das macht in diesem Fall keinen Sinn, weil man nicht die Person erreicht, von der die Virensendung kommt.
+Mail-Gateways verursacht, sondern auch echte Image-Probleme gerade für Unternehmen mit sich bringt?
+Kollberg: Ja, aber nicht nur für Unternehmen, prinzipiell ist jeder betroffen.
+So wie Sie anscheinend im Namen Ihres Unternehmens Viren versenden, wird wohl auch so mancher Privatanwender heute wütende Anfragen von Bekannten bekommen, in denen es heißt: Hey, was schickst Du mir da?
+SPIEGEL ONLINE: Ist das eine neue Nerverei aus den Viren-Schmieden?
+Kollberg: Dieses Verhalten, dass sich ein Virus unter falschen Absenderadressen versendet, ist eigentlich nichts neues.
+Das bekannteste Beispiel für so ein Virus ist der Klez-Wurm, der ja nun auch schon seit dem Frühjahr 2002 ein Dauergast in den Virencharts ist.
+Das ist einfach eine sehr effektive Methode, den Ursprung einer Virenverseuchung zu verschleiern.
+SPIEGEL ONLINE: Rund ein Drittel der Mails, die derzeit mein Postfach verstopfen, sind Benachrichtigungen darüber, dass ich angeblich Viren versende.
+Die scheinen von diversen Anti-Viren-Filtern zu kommen.
+Kollberg: Es gibt viele Virenschutz-Programme, die dem scheinbaren Absender von Virenmails solche Benachrichtigungen zukommen lassen.
+Die Mails selbst werden am Mail-Gateway geblockt, der angebliche Absender bekommt eine Mitteilung.
+Bei Klez H gab es das gleiche Problem wie jetzt, wir haben diese Funktionen damals abgeschaltet.
+SPIEGEL ONLINE: Eigentlich ja eine gut gedachte Funktion, die jetzt aber zu virtuellem Ping-Pong führt: Da reden die Rechner nur noch miteinander.
+Kollberg: Richtig, die Funktion ist ausgetrickst, greift nicht mehr.
+Man erreicht ja nicht die Person, die das Virus wirklich verschickt hat.
+Man kann allerdings in den SMTP-Header der E-Mail hineinsehen und dort nach der IP-Adresse des wirklichen Absenders suchen.
+So fürchterlich viel bringt das wahrscheinlich nicht, denn der Großteil der Viren wird wohl über Privatanwender versandt.
+Da sieht man dann eine IP-Adresse von T-Online, AOL oder einem anderen großen Internet-Provider und kommt dann auch nicht weiter.
+Findet man allerdings die IP-Adresse eines großen Unternehmens, könnte man die natürlich warnen und dafür sorgen, dass sie das Virus zumindest nicht weiter verbreiten.
+SPIEGEL ONLINE: Klingt nicht ganz unkompliziert.
+Reden wir hier von Handarbeit?
+Kollberg: Ja, in den meisten Fällen steht der Aufwand wohl in keinem Verhältnis zum Nutzeffekt.
+Nicht bei der Menge der augenblicklichen Aussendungen.
+SPIEGEL ONLINE: Abgesehen davon, dass Sobig ein echtes öffentliches Ärgernis darstellt: Verursacht der Wurm auch wirtschaftliche Schäden?
+Sobig F hat eingeschlagen wie eine Bombe: Binnen 24 Stunden stieg das Virus in den Trend-Micro-Charts auf Platz 4 der meistverbreiteten Viren - nach Vermutungen des IT-Sicherheitsunternehmens Sophos mit Hilfe von Spam-Techniken.
+Wie groß ist das Mail-Chaos wirklich?
+Wie viele Sobig-Mails bekamen Sie in den letzten 24 Stunden?
+Kollberg: Ein finanzieller Schaden entsteht allein schon durch den Traffic, von dem die Provider ja leben.
+Bei den Pauschalkunden geht ihnen das vom Umsatz ab, bei denen, die nach Traffic bezahlen, entsteht der Schaden beim Kunden.
+Weiterhin ist da die Überlastung der Netzwerke zu sehen, die die Kommunikation von Unternehmen empfindlich stören kann.
+Dann sind da noch die Irritationen, die Sobig verursacht, der Image-Schaden.
+Wie die anderen Sobig-Würmer hat aber auch Sobig F eine Art Ablaufdatum: Ab dem 10. September wird sich der Wurm nicht weiter verbreiten.
+Neu ist an der F-Variante, dass er auf die Uhrzeit zu lauschen scheint.
+Da ist die Analyse noch nicht abgeschlossen: Es ist nicht auszuschließen, dass zu bestimmten Zeitpunkten irgendetwas passiert.
+SPIEGEL ONLINE: Apropos Zeitpunkt: Sollten die meisten Virenschreiber nicht noch am Baggersee liegen?
+Schließlich ist Urlaubszeit - und normalerweise beginnt die Virensaison doch erst im frühen Herbst?
+Kollberg: Die Tendenz, dass die Skript-Kiddies im Sommer lieber am Strand liegen und eher im Herbst und Winter aktiv sind, kann man bestätigen.
+Die ersten Varianten sahen wir im Frühjahr, da kommt in relativ regelmäßigen Abständen etwas.
+Das sieht nicht nach Skript-Kiddies aus.
+Dass Lovsan/Blaster gerade jetzt auftauchte, hatte ja einen aktuellen Anlass.
+Das größte Schadenspotenzial hat ein Virus eben kurz nach bekannt werden einer Sicherheitslücke wie jetzt die in Windows.
+SPIEGEL ONLINE: Also Zeit, den Rechner zu impfen: Ist gegen Sobig schon ein Kraut gewachsen?
+Kollberg: Ja, die IT-Sicherheitsunternehmen reagieren da sehr schnell.
+Das kann man auch auf Verdacht einmal über den Rechner laufen lassen um sicher zu gehen, dass man an der Verteilung von Sobig nicht beteiligt ist.
+Denn unterbinden lassen sich Epidemien wie nun die Sobig-Flut eigentlich nur dadurch, dass möglichst viele User ihre Rechner adäquat gegen Viren schützen.
+Dazu gehört heute neben dem immer wieder zu aktualisierenden Virenscanner auch die Desktop-Firewall.

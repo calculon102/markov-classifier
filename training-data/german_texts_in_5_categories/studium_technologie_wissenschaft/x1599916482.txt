@@ -1,0 +1,29 @@
+SPIEGEL ONLINE sprach mit dem Planetenforscher Ralf Jaumann über die 3D-Kartierung des Mars, vergangene Ozeane und mögliches außerirdisches Leben.
+Die Sonde, die am kommenden Montag starten soll, ist der erste Versuch der Europäischen Weltraumbehörde Esa, zum Roten Planeten vorzudringen.
+Was ist - verglichen mit den Geräten an Bord der US-Satelliten, die bereits den Mars umkreisen - das Besondere an der Berliner Kamera?
+Jaumann: Zunächst gab es bislang keine zusammenhängende 3D-Kartierung des Mars mit hoher Auflösung.
+Unser Ziel ist es, in zwei Jahren etwa die Hälfte der Marsoberfläche dreidimensional abzubilden.
+Ohne die Höheninformation sind Aufnahmen teilweise schwer zu interpretieren: Wenn Sie sich die bisherigen Bilder der Orbiter anschauen, wissen Sie zum Beispiel manchmal nicht, ob ein Hügel oder eine Mulde abgelichtet wurde.
+SPIEGEL ONLINE: Welche Auflösung können Sie mit der Kamera erreichen?
+Jaumann: Ein Pixel entspricht etwa zehn Metern auf der Marsoberfläche.
+Wir haben aber noch eine Art Lupe in die Kamera eingebaut, mit der sich dieser Wert auf zwei Meter verbessert.
+Hinzu kommt noch die Farbinformation.
+Mit unseren Farbaufnahmen werden Geologen flächendeckend und mit hoher Ortsauflösung abschätzen können, mit welchen Mineralien wir es auf der Marsoberfläche zu tun haben.
+Wird man das riskante Manöver aus dem Orbit verfolgen können?
+Jaumann: Eine Live-Übertragung wird nicht möglich sein.
+Aber wir hoffen, dass wir auf unseren Aufnahmen bei günstigem Sonnenstand eine Reflexion ausmachen können.
+Wir würden dann einen einzelnen Bildpunkt sehen, der deutlich heller wäre als seine Umgebung.
+SPIEGEL ONLINE: Wird die Stereokamera klären können, ob es auf der Nordhemisphäre des Planeten einst einen ausgedehnten Ozean gegeben hat, wie manche Wissenschaftler behaupten?
+Jaumann: Viele der geologischen Strukturen können nur mit zehn Meter Auflösung genau genug erkundet werden: zum Beispiel Lavaströme, Schichtungen oder Kliffs, die ehemalige Küstenformationen sein könnten.
+Wir haben zwar Aufnahmen vom Mars, die zum Teil die nötige Auflösung erreichen.
+Aber das sind immer nur kleine Ausschnitte - der Gesamteindruck fehlt.
+Künftig werden uns solche Fotos flächendeckend, dreidimensional und in Farbe vorliegen.
+Dann werden wir eine ganze Reihe von derzeitigen Theorien über den Mars beweisen oder widerlegen können.
+SPIEGEL ONLINE: Gilt das auch für die Klimageschichte des Nachbarplaneten?
+Jaumann: Seit den siebziger Jahren kennt man die großen Abflusssysteme auf dem Mars.
+Heute ist immer noch strittig, ob sie wirklich einst durch Oberflächenwasser, also durch Regen, geformt wurden oder ob vielmehr Grundwasser den Boden aushöhlte und die Oberfläche daraufhin einbrach.
+Das werden wir anhand der hochauflösenden Aufnahmen bald unterscheiden können.
+SPIEGEL ONLINE: Wenn Sie Hinweise auf vergangene Regenfälle finden, was würde das für die mögliche Entwicklung von Leben auf dem Roten Planeten bedeuten?
+Jaumann: Wenn es auf dem Mars Regen gab, würde das dafür sprechen, dass dort einmal eine dichtere Atmosphäre mit höheren Temperaturen als heutzutage existierte, also erdähnliche Verhältnisse herrschten.
+Das wäre günstig gewesen für damaliges Marsleben.
+War jedoch Grundwasser die treibende Kraft, dann kann sich die Klimageschichte auch erheblich kälter und lebensfeindlicher abgespielt haben.

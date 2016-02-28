@@ -1,0 +1,29 @@
+Als am Mittwoch Firefox 1.0 freigeschaltet wurde, war der Ansturm auf die Downloadseiten so groß, dass zeitweilig gar nichts mehr ging.
+Der Erfolg des Alternativ-Browsers liegt im Trend: Seit Monaten verliert Microsofts Internet Explorer Marktanteile - immer schneller, immer mehr.
+Kein Zweifel, schon jetzt ist der kleine kostenlose Mozilla-Ableger ein Senkrechtstarter, er könnte zur bisher erfolgreichsten Browser-Alternative werden.
+Daran, dass sich die Marktanteile der verschiedenen Browser in den letzten Monaten erstmals seit Jahren merklich verschieben, besteht kein Zweifel.
+Unter dem Strich basieren so gut wie alle Statistiken auf der Beobachtung der eigenen Web-Server - da sagt das Zahlenmaterial am Ende weniger etwas über den Markt an sich, als vielmehr über die Zielgruppe des beobachteten Angebotes.
+Das mag einer der Gründe gewesen sein, warum selbst Google, dank seiner Größe stets im Generalverdacht, in dieser Hinsicht verlässliches Zahlenmaterial beisteuern zu können, vor einigen Monaten die Veröffentlichung von Browserstatistiken einstellte.
+Google-Sprecher Stefan Keuchel bestätigt zwar, dass das Interesse an solchen Zahlen außerordentlich groß sei.
+Man mag das bedauern, aber eine objektive Erfassung und Zählung von Browsern im Web gibt es nicht.
+Dafür gibt es auch technische Gründe: Firefox und Mozilla werden beispielsweise als Browser, die auf dem so genannten Gecko-Engine beruhen, erkannt.
+Das aber gilt auch für die neueren Netscape-Versionen, für den AOL-Browser und viele andere.
+Sind alle Internet Explorer in der Zählung wirklich echt?
+Wie viele Opera-Browser tarnen sich?
+Die Antwort auf all diese Fragen weiß noch nicht einmal der Wind - also wird zusammengefasst, subsumiert und geschätzt auf Deibel komm raus.
+Glaubt man auf IT-Themen spezialisierten Seiten, dann haben Mozilla/Firefox längst die Nase vorn, Opera hat ein respektables Standing und natürlich der Linux-Browser Konqueror mehr Gewicht als der Microsoft-Browser.
+Wie verzerrend zielgruppenspezifische Vorlieben auf Statistiken wirken können, zeigt eine am Dienstag in der SPIEGEL-ONLINE-Netzwelt veröffentlichte Umfrage: Über 27.000 User beantworteten bisher die Frage nach ihrer Browser-Präferenz.
+Gerade einmal 17,87 Prozent von ihnen sind noch Nutzer des Internet Explorer, glaubt man der Abstimmung.
+Das aber steht den Browser-Statistiken, die natürlich auch SPIEGEL ONLINE führt, diametral entgegen: Hier brachten es die Mozilla-Nutzer im August 2004 auf 20,6 Prozent.
+Netzwelt-Leser sind technisch interessierter als die Durchschnittsleser von SPIEGEL ONLINE und tendieren darum zu Alternativbrowsern.
+Wahrscheinlich steckt in allen drei Thesen ein Stück der Wahrheit.
+So sieht das auch Microsoft ganz gern.
+Oder will man nicht?
+So unterschiedlich verschiedene Statistiken ausfallen, die Mozilla mal bei 2,4 Prozent, mal bei 38 Prozent sehen, so einig sind sie sich doch beim generellen Trend.
+In den Statistiken von w3schools stieg Mozilla in diesem Jahr kontinuierlich von 8,2 auf 17,7 Prozent, während MSIE von 84,1 auf 74,8 Prozent fiel.
+Der Web-Dienstleister Imagiware sieht den Explorer von Mai bis Anfang September von 85,34 auf 79,61 Prozent fallen, Mozilla zugleich aber bei rund 2 Prozent stagnieren.
+Bei TheCounter fällt der MSIE von Mai auf September von 96 auf 92 Prozent, während Mozilla von 2 auf 5 Prozent steigt.
+Viel interessanter ist aber etwas ganz anderes: Die Mehrzahl aller Browserstatistiken sieht den Internet Explorer seit längerem nicht mehr bei rund 90 Prozent Marktanteil, sondern allenfalls bei 80 Prozent, Tendenz sinkend.
+So sieht das die Uni-Statistik EWS (MSIE: 74,3 Prozent), so misst es auch WebReference (MSIE 67,18 Prozent).
+Und die Explorer-Konkurrenten sehen ihre Chance.
+Wer sich dort umsehen will, muss wie auf allen Mozillaseiten derzeit etwas Geduld mitbringen: Noch immer ist das Publikumsinteresse so hoch, dass die Seite zeitweilig nur noch in Schneckentempo lädt.

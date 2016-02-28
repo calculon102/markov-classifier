@@ -1,0 +1,24 @@
+Spätestens mit den zwei Festnahmen am Freitag steht fest, dass deutsche Programmierer in der Liga der Viren- und Würmer-Verfasser ganz oben mitspielen.
+An peinliche Niederlagen haben sich die Deutschen in den letzter Zeit gewöhnen müssen: Beim Pisa-Test ganz weit hinten, Schlusslicht beim Wirtschaftswachstum und die Fußball-Europameisterschaft kommt erst noch.
+Da erfüllt es die geschundene Volksseele vielleicht mit etwas Stolz, wenn die Deutschen zumindest bei Computerviren und -Würmern zu den weltbesten Programmierern zählen.
+Sie kann es also doch noch, die Jugend von heute, auch wenn es nicht das ist, was die Nation von ihr erwartet.
+Dass die beiden Ermittlungserfolge zeitgleich erfolgten, nährt Spekulationen, dass in der Szene jemand ausgepackt hat oder aber sich Beschuldigte gegenseitig verpfiffen haben.
+Der mutmaßliche Programmierer von Phatbot sitzt nach wie vor in Untersuchungshaft.
+Gegen den 21jährigen aus dem Landkreis Lörrach wurde Haftbefehl erlassen.
+Nach Angaben der Staatsanwaltschaft Waldshut-Tiengen besteht Flucht- und Verdunklungsgefahr.
+Die Hinweise zu seiner Festnahme kamen nach Angaben der Ermittler von US-Behörden.
+Auch wenn Phatbot offenbar von einem Team deutscher Programmierer entwickelt wurde, gibt es bislang keine Hinweise auf eine Verbindung der Phatbot-Autoren mit dem 18jährigen Urheber von Sasser aus Niedersachsen.
+Der Baden-Würtemberger soll den Wurm Sasser nach Angaben von Nachrichtenagenturen jedoch dazu benutzt haben, seine eigene Kreation Phatbot zu verbreiten.
+Der Sasser-Programmierer hat nach Angaben von Microsoft noch vor seiner Entdeckung eine bisher unbekannte fünfte Variante des PC-Schädlings im Internet verteilt.
+Er hatte ein Geständnis abgelegt und befindet sich jetzt wieder auf freiem Fuß.
+In den letzten Tagen hatten sich weltweit millionenfach Computer mit dem Wurm infiziert und waren dann abgestürzt.
+Microsoft war auf die neue Variante durch betroffene PC-Benutzer aufmerksam geworden und durch eine Firma, die Virenschutzprogramme anbietet.
+Die Polizei setzte am Montag die Auswertung des Rechners fort, der bei dem jungen Programmierer beschlagnahmt worden war.
+Diese Fachgruppe sei auch schon bei der Durchsuchung dabei gewesen.
+Auf die Spur des Programmierers aus dem Kreis Rotenburg führten Hinweise von Informanten an Microsoft.
+Dessen Vizepräsident Brad Smith versprach den Informanten 250.000 Dollar, sobald der Urheber der Computerwürmer verurteilt sei.
+Dem 18-Jährigen drohen wegen Computersabotage bis zu 5 Jahre Haft.
+Der Autor und auch seine Mutter äußerten sich bislang nicht gegenüber Journalisten.
+Sein Vater berichtete in einem Interview mit RTL, der Schüler habe ihm gegenüber vor vier Monaten damit geprahlt, dass er einen Computerwurm verbreitet habe.
+Auf seine besorgte Nachfrage erklärte sein Sohn, er wollte einen Antivirus entwickeln, der keinen Schaden anrichtet.
+Microsoft macht den 18jährigen Schüler neben Sasser auch für 28 Varianten des Netsky-Virus verantwortlich.

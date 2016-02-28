@@ -1,0 +1,31 @@
+Künftig verkauft Intel seine Prozessoren wie ein Autohändler als 300er, 500er oder 700er.
+Verwirrung ist programmiert, denn jahrelang propagierte der Chiphersteller seinen Kunden, dass allein die Gigahertz zählen.
+Wie viel Millionen haben die Intel-Manager wohl in Werbekampagnen gesteckt, die nur eine einzige Botschaft zum Inhalt hatten: Mehr Gigahertz ist schneller.
+Die PC-Hersteller beteiligten sich fleißig an der Gigahatz.
+Kunden glaubten den Heilsversprechen und kauften sich brav alle zwei Jahre einen Rechner, mit dem alles noch viel schneller gehen sollte.
+So viel schneller ging das Tippen mit Word und Excel dann doch nicht.
+Allenfalls Hardcore-Gamer oder Bild- und Videobearbeiter merkten etwas von dem Gigahertzsprung hinterm Komma.
+Nun hat Intel die Abkehr von der alten Takt-Ideologie verkündet.
+Statt 3,4 Gigahertz-Monstern soll die Kundschaft jetzt bitteschön 300er, 500er oder 700er Prozessor erwerben.
+Der Strategiewechsel soll im Juni beginnen und macht durchaus Sinn.
+Schließlich bewegen sich die aktuell schnellsten Chips auf einem Niveau, das große Sprünge bei der Taktfrequenz immer mehr erschwert.
+Ein 3-Gigahertz-Prozessor produziert so viele Verlustströme, dass man damit mittlerweile ein kleines Arbeitszimmer beheizen kann.
+Ohne Monsterlüfter droht der schnelle Hitzetod.
+Es kommt genauso gut auf den internen Cache-Speicher und die Bus-Geschwindigkeit an, predigen PC-Magazine schon seit Jahren.
+Doch es geht Intel nicht allein um die Wahrheit darüber, was einen flotten Prozessor ausmacht.
+Auch Absatzprobleme beim seit rund einem Jahr verfügbaren Pentium M dürften eine Rolle gespielt haben.
+Der Notebookprozessor ist zwischen 1,4 und 1,7 Gigahertz getaktet - viele Kunden verschmähten ihn deshalb und griffen lieber zu einen Mobilgerät mit einem höher getakteten Pentium-4.
+In der neuen Intel-Nomenklatur wird der Pentium M zur Oberklasse aufgewertet und firmiert als 700er.
+Die 500er-Riege besteht aus Pentium-4-Prozessoren und umfasst sowohl Desktop- als auch Notebook-Ausgaben.
+Die Einsteigerklasse Celeron firmiert künftig als 300er.
+Die erste Ziffer zeigt die Prozessorklasse an, zweite und dritte Ziffer stehen für die übrigen Merkmale wie Taktfrequenz, Bus-Geschwindigkeit und Cache-Größe.
+Zumal Intel betont, dass Prozessoren mit höheren Endnummern aus einer unteren Klasse durchaus schneller sein können als solche aus einer höheren Klasse mit niedrigen Endziffern.
+Die Nummern spiegelten nicht explizit die Taktfrequenz wieder.
+Die Kunden müssten Tabellen bemühen, um sie zu interpretieren.
+Solch ein System benutzt der Erzfeind AMD schon seit mehr als zwei Jahren.
+Statt der Taktfrequenz heißen die Athlon-Prozessoren etwa 3400+, wobei die Zahl angibt, um wie viel schneller der Chip im Vergleich zu früheren Modellen werkelt.
+Die Taktfrequenz eines Athlon 3400+ liegt bei vergleichsweise lahmen 2,2 Gigahertz.
+Gleichwohl kann das AMD-Spitzenmodell mit den Pentiums von Intel mithalten.
+Bei AMD schüttelt man über Intels neue Nomenklatur nur den Kopf.
+Das Nummernsystem sei willkürlich, sagte Marketing-Manager Hal Speed.
+Die Angaben bei AMD-Prozessoren basierten stattdessen auf unabhängigen Benchmarks über die Performance, betonte der Manager.

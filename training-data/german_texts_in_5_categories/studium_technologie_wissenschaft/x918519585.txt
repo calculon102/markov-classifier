@@ -1,0 +1,25 @@
+Langsam aber stetig wächst die Zahl der Firefox-Nutzer - im gleichen Tempo, in dem die Zahl der Internet-Explorer-User sinkt.
+In einer Woche soll die Veröffentlichung der ersten Vollversion erfolgen - begleitet von prominent plazierten Werbekampagnen auch in Deutschland.
+Firefox: Werbekampagne in deutschen Zeitungen?
+Wie kommt ein Open-Source-Projekt zu Werbung?
+Ganz einfach: Indem es zu Spenden aufruft.
+Möglich, dass das gelingt.
+Denn für Firefox sprechen nicht nur einige Vernunftsargumente, die man genauso gut auf Konkurrenten wie Opera ausdehnen könnte.
+Das schlägt sich zunehmend auch in Zahlen nieder.
+Seit fünf Monaten, sagen die Experten beim Web-Marktforschungsunternehmen WebSideStory, verliere Microsofts Internet Explorer nun schon Marktanteile an Mozilla respektive Firefox, denn auch der wird in der Zählung als Mozilla ausgewiesen.
+Nach Jahren des Stillstands tut sich wieder was auf dem Browsermarkt - langsam, aber stetig.
+Bis zum Auftreten von Firefox vor wenigen Monaten war das kaum denkbar.
+Das Erfolgsgeheimnis des Browsers: Er ist auf allen Microsoft-Betriebssystemen vorinstalliert.
+Zunehmend häufigere Sicherheitsprobleme im Verbund mit der sich langsam herumsprechenden Nachricht, dass eigentlich alle Konkurrenten mehr bieten als der IE, könnten Anfang des Jahres eine langsame Kehrtwende eingeleitet haben.
+In den USA, sagt WebSideStory, fiel der Marktanteil des IE von Juni bis Ende Oktober von 95,48 auf 92,86 Prozent, während Mozilla-Browser von 3,54 auf 6,02 Prozent zunahmen.
+Das sind Peanuts, allerdings schon von bemerkenswerter Größe.
+In Europa - und hier besonders Deutschland - sieht die Sache schon ganz anders aus.
+SPIEGEL-ONLINE-Statistiken - basierend auf über 200 Millionen Logs im Monat - weisen für den Oktober einen Anteil der Mozilla-Browser von 19,72 Prozent aus (ohne Netscape, zusätzlich noch einmal 3,5 Prozent).
+Der Internet Explorer (70,71 Prozent) verlor im Laufe dieses Jahres bisher 10,09 Prozent.
+Prozentualer Anteil ausgewählter Browser am Logaufkommen von SPIEGEL ONLINE von März bis Oktober 2004.
+Während in der ersten Jahreshälfte der sich anbahnende Erfolg von Firefox vor allem zu Lasten anderer IE-Konkurrenten ging, somit also eher eine Umschichtung stattfand, gewinnen die kleinen Konkurrenten mittlerweile auf Kosten des Internet Explorer dazu.
+Den größten Sprung machte hierbei Mozilla/Firefox mit der Veröffentlichung der letzten Beta: Der Marktanteil (laut SPON-Statistik) stieg um fast vier Prozent.
+Das passt: Im gleichen Zeitraum sank der Anteil des Internet Explorers in unseren Messungen von 74,3 Prozent auf aktuell 70,71 Prozent.
+Der Launch der ersten Firefox-Vollversion am 9. November könnte noch einmal Bewegung in den Markt bringen - zumal es zahlreiche Gerüchte über Kooperationen mit prominenten potenziellen Vertriebspartnern gibt.
+Web-Gerüchte: Google + Firefox = Watsche für Microsoft?
+Was tun, wenn der Chef spioniert?

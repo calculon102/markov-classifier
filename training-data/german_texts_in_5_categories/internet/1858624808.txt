@@ -1,0 +1,29 @@
+Computerschach lässt Garry Kasparow nicht los: Ab heute spielt er in New York gegen X3D Fritz.
+Der Fortschritt der Programmierer, meint er, verändere das Spiel selbst.
+Längst sieht er Rechner als ernst zu nehmende Gegner - und will ab 19 Uhr beweisen, dass der Mensch noch überlegen ist.
+SPIEGEL ONLINE überträgt das Spiel live.
+Garry Kasparow hat längst Schachgeschichte geschrieben.
+Seine Biographie markierte Meilensteine: Jüngster Weltmeister aller Zeiten war er einmal, hielt den Titel später über 15 Jahre.
+Länger hielt ihn nur der deutsche Großmeister Emanuel Lasker, der von 1894 bis 1921 ungeschlagen blieb.
+Und dann, 1997, ging Kasparow in die Geschichte ein als erster amtierender Schachweltmeister, der von einem Computer geschlagen wurde.
+Der IBM-Superrechner Deep Blue wies den Großmeister in die Schranken: Computerschach war den Kinderschuhen endgültig entwachsen.
+Die Anfänge der Schachprogramme reichen zurück ins Jahr 1953, als der englische Mathematiker Alan Turing ein Programm schrieb, für das es noch gar keine Maschine gab.
+Um es auszutesten, übernahm er selbst die Rolle des Rechners und berechnete die Spielzüge nach den Algorithmen seines Programmes.
+Die Umsetzung der Turing-Software heute zeigt, dass das Programm tatsächlich funktioniert hätte - von kleineren Fehlern abgesehen.
+Seit etwa zwanzig Jahren steigern Schachprogramme für jedermann rapide ihre Stärke.
+Heutige Programme wie Fritz, Junior oder Shredder sind für Durchschnittsspieler kaum mehr zu schlagen.
+Großmeistern sind sie für das Training seit vielen Jahren unverzichtbar.
+Mensch oder Maschine?
+Doch mit Kasparows Niederlage gegen Deep Blue begann sich abzuzeichnen, dass Schachprogramme Stärken erreichten, die sie zunächst zu ernst zu nehmenden, und bald schon schier unüberwindlichen Gegnern machen würden.
+Längst ist den Top-Spielern der Welt klar, dass die Tage menschlicher Überlegenheit im Spiel der Könige gezählt sind.
+Im Gegensatz zum Superrechner Deep Blue sitzen sie dabei durchaus handelsüblichen Rechenmaschinen gegenüber, die mit kommerzieller Software befüttert sind.
+Die Programme, gegen die Kasparow und Kramnik sich im Verlauf des letzten Jahres so schwer taten, sind Programme für den Heimrechner.
+Zuletzt im Frühjahr reichte es für Kasparow nur zu einem Remis gegen Deep Junior.
+Das Duell mit dem Rechner sucht er nun erneut, und diesmal ist es Deep Fritz in einer 3D-Version, gegen den er antritt.
+Denn auch in dieser Hinsicht verändert Computerschach das Spiel selbst: Es gibt ihm die Chance, zum Event für Massen zu werden.
+Jede Nacht spielen Tausende von Schachspielern über Server im Internet gegeneinander, und Kasparows vier Partien gegen X3D Fritz werden wohl Hunderttausende über das Web verfolgen.
+Eine fantastische Werbung für das Spiel - und natürlich auch eine Möglichkeit, Werbepartner und Sponsoren für den altehrwürdigen, digital verjüngten Denksport zu gewinnen.
+Auch darum sitzt Kasparow in New York, keine Frage, aber das tut dem Niveau und Anspruch des kurzen Turnieres keinen Abbruch.
+Auch SPIEGEL ONLINE ist wieder dabei, denn natürlich übertragen wir mit Hilfe unseres Kooperationspartners Chessbase alle Partien live über den Java-Ticker.
+Die erste Partie beginnt heute, am 11. November, gegen 19 Uhr deutscher Zeit: Nicht verpassen!
+Wer wird gewinnen: Kasparow oder das Schachprogramm?

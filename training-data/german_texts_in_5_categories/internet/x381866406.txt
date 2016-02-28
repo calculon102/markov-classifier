@@ -1,0 +1,34 @@
+Noch ist das digitale TV-Sendernetz nicht mehr als Stückwerk, werden nur wenige Ballungsräume per DVB-T versorgt.
+Entsprechend gering ist bisher der Marktanteil, doch Experten zweifeln nicht am Erfolg: Das Digi-Fernsehen per Zimmerantenne bietet erhebliche Vorteile - vor allem gegenüber dem Kabel.
+Lange galt der Fernsehempfang über Antenne als abgemeldet.
+Die Bundespost hatte seit den 80er Jahren tausende Kilometer Fernsehkabel verbuddelt und damit Dach- und Zimmerantennen das Wasser abgegraben.
+Programmvielfalt und Übertragungsqualität machten aus den Kabelgebühren eine gute Investition in die Wohnzimmerunterhaltung.
+Wie beim Kabel bietet DVB-T mehr Programme als die herkömmliche analoge terrestrische Übertragung.
+Und wie beim Kabel ist DVB-T in Berlin gestartet und breitet sich jetzt nach und nach über die Republik aus.
+Nach dem Start im August 2003 werden nun die weiteren deutschen Ballungsgebiete von der analogen Übertragung auf DVB-T umgestellt.
+Inzwischen gibt es das neue Digitalfernsehen auch in Teilen Niedersachsens und Nordrhein-Westfalens.
+Anfang Oktober kommt das Rhein-Main-Gebiet hinzu.
+Für 2005 sind weitere Regionen geplant, darunter Halle/Leipzig, Erfurt/Weimar, Nürnberg, München und Stuttgart.
+Die Gesellschaft für Unterhaltungs- und Kommunikationselektronik (GFU) wertet die bisherige DVB-T-Einführung als Erfolg.
+Allein in der Pilotregion Berlin und Brandenburg wurden seit dem Start rund 260.000 DVB-T-Empfänger verkauft.
+Das sind nach GFU-Angaben mehr, als es Antennenzuschauer vor der Umstellung gab.
+Insgesamt erwartet die Gesellschaft, dass bis Ende des Jahres 1,1 Millionen Empfangsgeräte für das terrestrische Digitalfernsehen in deutschen Haushalten stehen.
+DVB-T holt also auf, wenngleich nach wie vor die meisten Menschen in Deutschland über Kabel oder Satellit fernsehen.
+DVB-T bietet vor allem einen besseren Empfang über die Antenne als bisher das Analogfernsehen.
+Da das Signal digital, also in Nullen und Einsen zerlegt, übertragen wird, reicht bereits eine Zimmerantenne aus, um ein gutes Bild zu bekommen.
+DVB-T macht Fernsehen somit wirklich mobil.
+Nicht nur im Schrebergarten, auch im Auto während der Fahrt funktioniert das Digitalfernsehen.
+Darüber hinaus offeriert DVB-T weitaus mehr Programme als das Analogfernsehenbis zu 20 in der endgültigen Ausbaustufe.
+Für das digitale Fernsehen DVB-T benötigen Zuschauer ein Zusatzgerät.
+Wie beim Empfang über Satellit ist ein Decoder - auch Set-Top-Box genanntnotwendig, der das digitale Signal in ein Format umwandelt, das der herkömmliche Fernseher auf dem Bildschirm anzeigen kann.
+Diese Geräte gibt es im Handel für rund 100 Euro.
+Sonderangebote sind ab etwa 79 Euro zu haben.
+Angeschlossen wird das Zusatzgerät wie ein Videorecorder über die SCART-Buchse.
+Für Zuschauer, die die Wahl haben, ihren Kabelanschluss zu kündigen, kann sich die Investition schnell lohnen, da für DVB-T keine monatlichen Gebühren anfallen.
+Wer sich sowie gerade einen neuen Fernseher anschaffen will, kann auch gleich ein Gerät mit eingebautem Decoder kaufen.
+Allerdings ist hier die Auswahl bei weitem nicht so groß wie bei den herkömmlichen Geräten.
+Die Fernsehsender, die sich ebenso wie die Gerätehersteller an der TV-Plattform (www.tv-plattform.de) beteiligen, die für DVB-T verantwortlich ist, träumen allerdings noch von weiteren Möglichkeiten.
+Mit der Multimedia Home Plattform (MHP) wollen sie in Zukunft neue interaktive Dienste und Programmvorschauen anbieten, die über den bisherigen Teletext weit hinaus gehen.
+Auch wenn sich DVB-T noch nicht durchgesetzt hat, steht die nächste Fernsehneuerung bereits in den Startlöchern: DVB-H (Digital Video Broadcasting - Handheld).
+Dabei handelt es sich um die digitale Übertragung des Fernsehsignals für Handys und Taschencomputer.
+Seit September läuft der erste Feldversuch mit einem eigenen DVB-H-Sendernetz - einmal mehr in Berlin.

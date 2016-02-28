@@ -1,0 +1,39 @@
+Das Windows Media Center 2005 begeistert selbst Computerverächter mit seiner schnuckeligen Oberfläche.
+Unter der blauen Haube hakt und klemmt es jedoch gelegentlich, wichtige Funktionen fehlen gleich ganz.
+Wie sehr Äußerlichkeiten die Wahrnehmung beeinflussen, kann man an Microsofts Wohnzimmer-PC begutachten.
+Auch der PC selbst, SPIEGEL ONLINE testete einen schwarzen Cube der Firma Wortmann (Preis 1.240 Euro), schmeichelt Design-verliebte Seelen.
+Die Media Center Edition gibt es auch auf Notebooks und PCs anderer Hersteller.
+Microsoft hat lediglich die technischen Anforderungen definiert, spezielle TV-Karte etwa und Fernbedienung.
+Wie der PC aussieht und ob er 2,8 oder 3,4 Gigahertz schnell getaktet ist, bleibt dem Anbieter überlassen.
+Das Media Center 2005 ist nichts anderes als ein Windows XP Betriebssystem mit zusätzlicher Software zum Fernsehen, Filme aufnehmen, DVD Wiedergeben, Musikhören und Bilder Anschauen.
+Im Grunde fasst das Programm diverse Funktionen der eierlegenden Wollmilchsau Computer unter einer einheitlichen blauen Oberfläche zusammen.
+Die Software macht entweder den Computermonitor zur TV-Glotze, oder aber sie bringt die Microsoft-Menüs auf den Fernseher - via TV-Out-Kabel.
+Der PC muss in jedem Fall in der Nähe des Fernsehers beziehungsweise Monitors stehen, schließlich sind beide über ein Kabel miteinander verbunden.
+Keine Frage, es macht Spaß auf der schnuckeligen Oberfläche herumzuspielen.
+Die Menüs poppen flott und schick animiert auf - dank der mitgelieferten Fernbedienung mit spezieller Media-Center-Taste braucht man sich auch nicht mit Maus und Tastatur herumzuquälen.
+Die wohl wichtigste Funktion der Software ist der digitale Videorecorder.
+Ebenso wichtig ist das so genannte Time Shifting zum zeitversetzten Fernsehen.
+Wer den Tatort erst ab 20.30 Uhr sehen will, schaltet den Fernseher um 20.14 an und drückt die Pause-Taste.
+Die in letzten Zügen liegende Tagesschau wird angehalten, der weitere Verlauf des Abends auf Festplatte zwischengespeichert.
+Mit der Play-Taste kann man den Tatort dann jederzeit starten, der Computer hat kein Problem damit, eine Sendung aufzunehmen und sie gleichzeitig von Beginn an wiederzugeben.
+Doch bei allem Lob für gelungene Oberfläche und Bedienung, im Alltagstest offenbart das Media Center erstaunliche Schwächen, vor allem, wenn man seine Fernsehaufnahmen auf DVD brennen will.
+Grundsätzlich ist das kein Problem und lässt sich sogar per Fernbedienung erledigen.
+Dummerweise arbeitet die Software aber bei der Aufnahme mit einer relativ hohen Datenrate (wenn man die höchste Stufe der Bildqualität wählt, was zu empfehlen ist).
+Ein 90-Minuten-Film ist so rund fünf Gigabyte groß und passt deshalb nicht auf einen preisgünstigen 4,7-Gigbyte-DVD-Rohling.
+Die Dual-Layer-Rohlinge mit neun Gigabyte Speicherplatz kosten derzeit noch rund sieben Euro.
+Weil auch eine Schnittfunktion fehlt, kann der Film auch nicht auf zwei Scheiben aufgeteilt werden.
+Ohne Schnittfunktion können natürlich auch keine Werbepausen eliminiert werden - sehr ärgerlich.
+Zumindest dieses Manko scheint man bei Microsoft als solches erkannt zu haben: Angeblich wird bereits an einer Schnittfunktion gearbeitet, die nachträglich in das Media Center integriert werden kann.
+Ein weiteres Problem, das allerdings alle digitalen Videorecorder generell betrifft, ist das Fehlen einer VPS-Funktion.
+Wenn eine Sendung wegen einer Programmänderung erst 30 Minuten später beginnt, dann erfährt der (analoge) Videorecorder via VPS davon und startet die programmierte Aufnahme entsprechend später.
+Das Media Center, ein 3,0-Gigahertz-Rechenmonster mit 160 Gigabyte Festplatte und 512 Megabyte RAM, ist im Vergleich dazu regelrecht dumm und nimmt stattdessen stur nach geplanter Anfangs- und Endzeit auf.
+Theoretisch könnte das Media Center VPS sogar unterstützen, das würde jedoch bei den deutschen Privatsendern nichts nützen, denn die haben VPS nie unterstützt oder längst abgeschaltet.
+Vermutlich, damit immer auch ein bisschen Werbung noch mit auf die Aufnahme kommt, denn davon leben die Sender schließlich.
+Vielleicht sollten sich die Media-Center-Anbieter, Microsoft ist da längst nicht der einzige, einfach mal zusammen setzen und eine Art Digital-VPS aus der Taufe heben - Besitzer digitaler Videorecorder würden es ihnen danken.
+Der Menüaufbau ist in einigen Fällen nicht ganz logisch: Wo würde man beispielsweise seine aufgenommenen Filme suchen?
+Eigenartigerweise werden sie unter den TV-Kanälen abgespeichert.
+In dem Streifen erkennt man kleinste Details der Pyramiden, als stünde man selbst in Gizeh.
+So kann Fernsehen richtig Laune machen.
+Fazit: Das Media Center steckt voller guter Ideen, aber das reicht eben noch nicht, wenn elementare Dinge wie eine Schnittfunktion fehlen.
+Der Kauf kann sich jedoch trotzdem lohnen.
+Nach einem Bericht der Computerzeitschrift c't kostet Windows Media Center Edition 2005 nur ein paar Euro mehr als Windows XP home - die Software kann jedoch faktisch so viel wie das deutlich teurere XP Professional.

@@ -1,0 +1,49 @@
+Die lange Flaute nach der Dotcom-Krise scheint beendet, neue E-Commerce-Ideen versuchen ihr Glück im Netz der Netze.
+Die Auswahl an Reiseführern für die Toskana in der unmittelbaren Umgebung erfüllt den Begriff Mindestmaß: es gibt einen.
+Bei Schlittschuhen sieht die Lage schon besser aus: drei Paare stehen zur Auswahl.
+Alle um die Ecke, der Bedarf an HipHop kann auf die Schnelle gedeckt werden.
+Sollte auch noch eine Betonmischmaschine gebraucht werden - aber hallo.
+Zum Ausleihen.
+Fast kostenlos.
+Es kann gebaut werden.
+Das neue Internetportal www.dieborger.de ist der konsequente virtuelle Bruder von eBay.
+Bei den einen entrümpeln die Leute ihre Speicher und machen noch die unmöglichsten Dinge zu Geld - bei den anderen kann man das finden, was man eben mal braucht, aber nicht gleich kaufen, sondern nur ausleihen will.
+Die Idee liegt nahe und im Trend: Geiz ist geil.
+Thomas Pfützner und Andreas Kahnert aus Ober-Ramstadt bei Darmstadt haben im März als jüngste unter Deutschlands Leihbörsen das Portal dieborger.de online geschaltet - wie so oft haben private Erlebnisse dafür den Ausschlag gegeben.
+Weil das muntere Tauschen von CDs und DVDs im eigenen Sportverein zwar üblich, aber immer etwas beschwerlich war, hatten die beiden zunächst auf der Internetseite der TGS Ober-Ramstadt eine virtuelle Tauschbörse eingerichtet.
+Der Erfolg war eher mäßig.
+Die Motivation, dieses Angebot vereinsunabhängig und professionell zu installieren, ist bei Pfützner und Kahnert aber gestiegen.
+Nicht, dass die beiden Internet-Neulinge wären - beide sind ITler und haben bereits die ein oder andere Datenbank zum Laufen gebracht.
+Aber die Umsetzung des wichtigsten Moduls war heftig: Wie schafft es die Software, dass jeder User sofort sieht, welche Tauschgegenstände in seiner unmittelbaren Umgebung angeboten werden?
+Denn wer in Frankfurt fix eine Biertischgarnitur für die Gartenparty sucht, will ja nicht nach Magdeburg fahren.
+Schließlich gibt es in Deutschland 15.034 Postleitzahlen, trotzdem muss eine Suchmaschine innerhalb weniger Sekunden den vom jeweiligen User gewünschten Umkreis herausfinden.
+Zwei Monate haben die beiden dann herumgebastelt - und Lösungen gefunden.
+Dieborger.de ist eine ordentlich gemachte Internetseite, ohne Schnickschnack.
+Ein Fachjurist für Lizenzrecht wurde vor dem Start beauftragt, herauszufinden, ob das Ausborgen von CDs und DVDs rechtlich unbedenklich ist.
+Bekanntlich reagieren Sony oder Warner immer humorloser bei der illegalen Verbreitung von Musik und Filmen.
+Die 1500 Euro Anwaltskosten haben sich aber für Kahnert und Pfützner gelohnt: Borgen ist überhaupt kein Problem.
+Aber dafür können ja Kahnert und Pfützner nichts, denn das ist laut AGB verboten.
+Bei den Borgern wird gepumpt, nicht gekupfert.
+Ein bisschen funktioniert dieborger.de wie eBay.
+Gute Ausleihgeschäfte werden mit guten Noten belohnt, schlechte Deals bekommen miese Wertungen.
+Wie bei eBay auch, klingelt dann bei Problemfällen das Telefon.
+Wer über dieborger.de etwas verleiht, geht vorderhand kein Risiko ein.
+Denn: Vor dem Ausleihen wird beim Verleiher ein Geldbetrag als Pfand hinterlegt.
+Wie hoch der Betrag ausfällt, bestimmt jeder Verleiher, indem er den jeweiligen Zeitwert der Ware definiert.
+Zum Procedere gehört auch das Ausfüllen eines Mustervertrags, den beide Parteien auf dieborger.de herunterladen und nach Abstimmung der Ausleihkonditionen (Dauer) unterzeichnen können.
+Bei Gelegenheit sollten allerdings Pfützner oder Kahlert noch ein paar html-Codes korrigieren, damit der Vertrag auch ordentlich lesbar auf der Seite steht.
+Das Portal funktioniert als Netzwerk mit Wechselwirkung.
+Borgen kann nur, wer auch selber verborgt.
+Dafür muss man sich registrieren lassen und mindestens drei Gegenstände bekannt geben, die man selber verborgen möchte.
+Egal ob CD, Rasenmäher oder Digitalkamera.
+Für jeden Verleih bekommt man Borgerpunke gutgeschrieben - die braucht man auch, um sich wiederum selber Gegenstände ausborgen zu können.
+Man kann sich aber auch Punkte kaufen.
+Daran und an einer kleinen Vermittlungsgebühr verdienen Kahnert und Pfützner.
+Viel ist das nicht, denn 20 Cent für das Ausleihen einer DVD ist nicht die Welt.
+In einer Videothek kostet es das Fünffache.
+Wie lange es dauert, bis die bisherigen Verleihprofis diese virtuelle Konkurrenz spüren, wird sich zeigen.
+Noch blüht die virtuelle Tauschbörse im Verborgenen.
+Etwa 2000 Nutzer haben sich bisher registrieren lassen - das bringt nicht viel Geld ein, folglich ist das Portal für die beiden Südhessen bisher ein Nebengeschäft.
+Aber eines, das sich ausbauen lässt.
+Denn ein neuer Marktplatz ist bereits online, aber erst ab dem 29. Mai richtig in Betrieb.
+Bei www.dienachbarschaftshelfer.de kann man sich dann jemanden aus der Umgebung suchen, der mit der Betonmischmaschine, die man sich soeben ausgeborgt hat, auch umgehen kann.

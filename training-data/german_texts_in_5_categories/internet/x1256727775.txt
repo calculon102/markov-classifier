@@ -1,0 +1,28 @@
+Am fünften Tag der Sasser-Virenwelle zeichnet sich ab, dass das tückische Virus nicht überschätzt wurde: Weltweit häufen sich die Schadensmeldungen.
+Das aus T-On- ein T-Offline geworden sei, ist aber nicht mehr als ein Gerücht.
+Das stimmt so nicht: Probleme hat T-Online allenfalls in bestimmten Regionen - was aber wohl nichts mit dem aktuellen Sasser-Virus zu tun.
+Ein Blick in die T-Online-Kundenforen zeigt, dass Deutschlands Großprovider seit mehreren Monaten Probleme mit seinen DNS-Servern hat.
+Zeitweilig scheinen ganze Städte und Regionen vom Netz genommen.
+Nachfragen waren heute nur per Trommel oder Brieftaube möglich, denn bei T-Online glühen die Drähte, natürlich wegen Sasser.
+Wer das Glück hat, durchzukommen, bekommt bei den Service-Lines eine aktuelle Virenmeldung vom Band.
+Und wirklich: Anders als bei allen anderen, auch zur Zeit noch weit stärker verbreiteten Viren der letzten Monate häufen sich die Schadensmeldungen.
+Dass die Postbank von Sasser stillgelegt worden sei, dementiert diese allerdings heftig: Alles habe funktioniert, wenn auch mit erheblichen Einschränkungen.
+Die Höhe der Auszahlungen, sagt Post-Sprecher Jürgen Blohm, sei am Schalter auf 500 Euro beschränkt worden.
+Verantwortlich für das Chaos war also eigentlich nicht Sasser, sondern die Furcht davor: Die Postbank-EDV-Verantwortlichen hatten die Sicherheitseinstellungen so hoch geschraubt, dass im internen Netz fast nichts mehr ging.
+Größte Schäden seit Loveletter?
+Auch die dortige Postbank stellte den Betrieb weitgehend ein, nur die Geldautomaten liefen weiter.
+In Hongkong erwischte es zwei Ministerien und mehrere Krankenhäuser.
+Bei der EU-Kommission soll es ebenfalls zu Ausfällen gekommen sein.
+Besonders schmerzhaft dürften die Betriebszeit-Ausfälle bei Reiseunternehmen und Banken sein.
+Die Agenturen melden Ausfälle bei mehreren Betreibern von Online-Buchungssystemen.
+Dort ist man sich allerdings noch gar nicht sicher, welcher virtuelle Hammer zugeschlagen hat: Ob Sasser verantwortlich sei, werde noch geprüft.
+Völlig sicher ist man sich darüber an prominenter Adresse: Die bekannteste Bank, die es bisher erwischte, ist Goldman Sachs. Wie bei der australischen Westpac Bank und dem finnischen Finanzdienstleister Sampo lief auch dort zeitweilig wenig.
+Regelrecht versenkt hat es nach einem Bericht der BBC auch die britische Küstenwache.
+Alle Außenstationen sind nach wie Offline.
+In so manchem Unternehmen dürfte es in den nächsten Tagen dafür ein Donnerwetter geben.
+Alles, was es gebraucht hätte, Schäden durch das Virus zu verhindern, wäre ein Routinemäßiger Download gewesen.
+Sasser dürfte die Diskussion um IT-Sicherheitsfragen und den flächendeckenden Einsatz von Massenmarkts-Betriebssystemen erneut anheizen.
+Die größten Schäden seien auf Seiten der Privatanwender zu erwarten und schwer zu beziffern.
+Von der Sasser-Attacke betroffen sind allein die Microsoft-Betriebssysteme Windows 2000 und Windows XP.
+Microsoft hält Sicherheitspatches zum Stopfen des Lecks bereit, diverse IT-Sicherheitsunternehmen bieten Reparatur-Programme zum kostenlosen Download an (siehe Linkliste).
+Echte Sicherheit auf einem einmal korrumpierten System lässt sich allerdings nur durch eine vollständige Neuinstallation wiederherstellen.

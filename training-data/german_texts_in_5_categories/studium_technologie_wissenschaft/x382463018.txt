@@ -1,0 +1,31 @@
+Im Laufe der nächsten Wochen will die Musikindustrie damit beginnen, erste P2P-Nutzer vor Gericht zu bringen.
+Die Betreiber der Börsen sind entschlossen, ihr das so schwer wie möglich zu machen.
+KaZaA ist keine beliebte Tauschbörse, und doch ist sie die meistgenutzte.
+Das kommt nicht von ungefähr: Keine Plattform kann es derzeit in Sachen Bequemlichkeit und Geschwindigkeit mit der durch Daten-Schnüffelei ins Gerede gekommenen Software aufnehmen.
+Bei KaZaA sucht man nach Titeln, Interpreten, nach ganzen Alben, und wem das noch nicht reicht, der schaut sich einfach frei auf den Festplatten seiner Mittauscher um.
+Nicht mehr lang: Die Funktion, nach weiteren Angeboten eines Tauschers zu suchen, wird KaZaA in Kürze deaktivieren.
+Damit verliert die Börse ein Stückchen ihrer Attraktivität, doch ihre User gewinnen an Sicherheitvor Strafverfolgung.
+Denn was die Nutzer als bequem schätzen, macht es auch den Daten-Detektiven der Industrie leicht, sich auf den Festplatten ihrer verlorenen Kunden umzusehen.
+Die betrachtete sie lang als irregeführt, als verlorene Schäfchen, mit denen man es sich nicht endgültig verderben wollte.
+Auch das ist vorbei: Nach den Gerichtsentscheidungen zugunsten Morpheus und Groksters vom Frühjahr zeichnete sich ab, das der Weg, P2P-Börsenbetreiber vor Gericht zu zerren, nicht länger wirklich erfolgversprechend ist.
+Der Industrie aber steht das Wasser bis zum Hals: Nach ihrem Verständnis handelt sie in Notwehr.
+Also kündigte die amerikanische Entertainment-Lobby RIAA vor Wochen an, damit beginnen zu wollen, nun Nutzer zu verklagen.
+Exemplarisch zerrte sie einige Studenten vor den Kadi und einigte sich dann doch außergerichtlich mit ihnen: Statt aberwitzige Millionensummen zu fordern, strich sie saftige Abfindungen ein.
+Nun soll es in großem Stil losgehen.
+Von einigen Hundert Anklagen, die in Vorbereitung seien, ist in der Branche die Rede.
+Doch auch vier- und fünfstellige Zahlen sind denkbar, wenn das Tauschaufkommen in den Börsen nicht bald merklich sinkt: Die Branche setzt auf juristische Abschreckung als letztes Mittel.
+Bisher hat das relativ wenig gebracht.
+Auch, dass Dienstleistungsagenturen wie Overpeer oder MediaDefender die Börsen zunehmend effektiv mit Datenmüll überfluten, behindert allenfalls den Download nagelneuer Scheiben.
+Nach wenigen Wochen ist trotzdem alles im Netz zu haben, und die Nutzerschaft sorgt dafür, dass der Störsalat im Orkus verschwindet.
+Jetzt also schlägt die Stunde von Agenturen wie Ranger Online oder BayTSP, die gezielt nach Raubkopien suchen: Eine sonderlich anspruchsvolle Aufgabe ist das nicht.
+Wahre Sherlock-Holmes-Qualitäten braucht hingegen der, der bei KaZaA nach legalen Materialien sucht.
+Doch das, argumentiert KaZaA, sei nicht Schuld des Unternehmens.
+Das Angebot an die Industrie, KaZaA als Plattform für legale Downloads zu nutzen, stehe: Das aber will absolut niemand.
+Die Fronten sind und bleiben also verhärtet, und alle Seiten bereiten sich auf den großen Clash vor.
+Sharman versucht mit der deaktivierung von Funktionen, die den Fahndern der Industrie die Suche nach Anzuklagenden erleichtern, die Nutzerschaft zu beruhigen.
+Konkurrent Morpheus geht gar noch weiter: Bis Ende Juli will die Börse im Gnutella-Netzwerk Software implementieren, die die Rückverfolgung eines Datentauschers zu seinem Serviceprovider erschweren.
+Ein effektiver Schutz der Nutzer erfordert jedoch einen Umbau der Tauschnetze.
+Zwischengeschaltete Proxyserver sind neben einer Datenverschlüsselung realistische Ansätze, doch beide würden der Industrie vor Gericht die Argumentation gegen die Börsenbetreiber wieder erleichtern.
+Die ziehen sich inzwischen auf das Argument zurück, dass der Missbrauch ihrer dezentral organisierten Börsen von ihnen nicht gewollt sei.
+Seit keine große P2P-Plattform mehr mit einem zentralen Server arbeitet, sind der Industrie keine erwähnenswerten Erfolge mehr gelungen.
+Das mag sich nun so oder so ändern - wenn es der P2P-gemeinde nicht gelingt, ihre Probleme mit der Industrie wie gewohnt zu lösen: technisch.

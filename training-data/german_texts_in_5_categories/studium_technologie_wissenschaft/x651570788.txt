@@ -1,0 +1,31 @@
+Ein neuartiger Teppichboden hat das Zeug zum intelligenten Wächter.
+Mit seinen Sensoren kann er Druck, Temperatur und Vibrationen registrieren - und soll eines Tages Menschen den Weg weisen oder sie an ihrem typischen Gang erkennen.
+Teppiche sind dumm.
+Gemessen an der elektronischen Intelligenz, die sich über die Rechenleistung definiert, liegt ihr IQ bei Null.
+Selbst Toaster besitzen mehr Hirnschmalz.
+Doch mit dem dumpfen Liegen ist bald Schluss.
+Bei der Münchner Infineon Technologies AG sucht man intensiv nach zukünftigen Anwendungsbereichen für die hauseigenen Halbleitertechnologien.
+So haben sie bereits eine wasserdichte Snowboard-Jacke mit einem integrierten MP3-Player aufgerüstet - für ein Kleidungsstück durchaus ein respektabler Entwicklungssprung.
+Denn in Hameln produziert man neben schlauen Staubsaugern auch Teppiche.
+Und die haben, mal abgesehen von den Schuhsohlen der IT-Spezialisten, bislang wenig Berührungspunkte mit der leistungssteigernden Hightech-Welt.
+Das macht den auf Flughäfen, in Bürogebäuden und Sanatorien allgegenwärtigen Teppich zu einem qualifizierten Kandidaten für eine elektronische Aufrüstung im Sinne von Infineon.
+In München forschte man derweil an den mathematischen Algorithmen zur Selbstorganisation und Fehlertoleranz der Hard- und Software der Prozessoren und ihrer Verbindung über elektrisch leitfähige Fasern.
+Ende Oktober präsentierte Vorwerk nun - pünktlich zur Orgatec 2004 - den ersten Teppich-Prototyp, der mehr kann als nur Schmutz und Lärm schlucken.
+Den notwendigen Strom liefert ein externes 12- Volt-Netzteil.
+Da sich die einzelnen Chips gegenseitig über ihren Standort informieren, organisiert sich das Netzwerk selbst, kompensiert Ausfälle in den eigenen Reihen und erlaubt die genaue Positionsangabe einer Sensoraktivierung.
+Zusätzlich ist die Integration kleiner Lichtquellen geplant.
+Das jüngst vorgestellte Teppichmodell muss allerdings noch ohne Leuchtsystem auskommen.
+Das smarte Hirn der Auslegeware bilden Mikroelektronikmodule, die aus Mikroprozessor und Sensor bestehen.
+Die Prozessoren verarbeiten Position und Daten ihrer Nachbarn, während die handtellergroßen Sensorflächen Belastungen registrieren.
+Die Module sind im Abstand von zwanzig Zentimetern über Fasern aus versilberten Kupferdrähten miteinander verbunden.
+Weiterverarbeitung und Darstellung der vom Teppich gelieferten Informationen bleiben dabei bisher dem jeweiligen Anwender überlassen.
+Zwar wird es laut Vorwerk noch mindestens zwei Jahre dauern, bis eine preiswerte und serienmäßige Produktion möglich ist, Ziel ist jedoch, das Netzwerk in jeden Teppich ab Werk integrieren zu können.
+Die möglichen Verwendungen für solche intelligenten Bodenbeläge sind vielfältig: Durch geschicktes Auswerten der vom Teppich erfassten Daten könnte man zum Beispiel den Sturz einer Person vom normalen Gehen oder Stehen unterscheiden.
+Es wäre außerdem denkbar, die Textilie so zu konstruieren, dass sie die Schritte verschiedener Personen voneinander zu unterscheiden lernt - so ließe sich beispielsweise die Sicherheit in Flughäfen erhöhen.
+Eine verdächtige Person, die sich hinter Absperrungen zu schaffen gemacht hat oder einen Koffer zurücklässt, könnte anhand ihres Gewichts und ihrer Schrittfolge ohne Überwachungskameras innerhalb des Geländes verfolgt und aufgespürt werden.
+In beliebige textile Flächen integriert, könnten solche Sensornetze künftig auch Alarmfunktionen übernehmen, etwa indem sie in Lkw- oder Zeltplanen Berührungen melden oder frühzeitig auf Risse hinweisen.
+Und die Marktchancen?
+Früher oder später wird sich also kein Teppich mehr von einem Toaster etwas vormachen lassen.
+Sondern stattdessen dem Toaster einen Befehl zum Rösten schicken.
+Und vorher diskret feststellen, ob ein oder zwei Paar Füße aus dem Bett steigen.
+Unvermeidlich, dass sich mancher Bettvorleger dann so seine Gedanken macht.

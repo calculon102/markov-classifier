@@ -1,0 +1,49 @@
+Man muss nur die richtigen Leute ansprechen, dann verbreitet sich eine Nachricht ganz von selbst, behaupten Soziologen.
+Foto: GMS Billiges Marketing: Leih mir mal dein Ohr!
+Warum Millionen in teure Anzeigen und Fernsehwerbung stecken, wenn es auch viel billiger geht?
+Netzforscher glauben an die Möglichkeiten der Mundpropaganda.
+Leuchtende Vorbilder gibt es zuhauf: Jesus startete vor 2000 Jahren eine Kampagne ohne Werbeetat.
+Er hatte nichts als die Unterstützung einiger Jünger, die seine Botschaft in die Welt trugen.
+Jahrhunderte später war das Christentum die bedeutendste Religion Europas.
+Wie menschliche Netze funktionieren, das interessiert Forscher heute mehr als je zuvor.
+Das Internet hat ihrer Arbeit neuen Schub verliehen.
+Erstmals können sie darin Netze schnell und effizient analysieren.
+Ob E-Mail-Verkehr, Foren, Web-Logs oder Links zwischen Websites - per Software lassen sich Beziehungen und Verknüpfungen leicht ermitteln.
+Jon Kleinberg, Informatiker an der amerikanischen Cornell University, faszinierte das Modell des Schmetterlings, dessen Flügelschlag in Brasilien einen Tornado in Texas auslöst.
+Was in der Meteorologie funktioniere, sagte sich Kleinberg, müsse doch auch im virtuellen Internet klappen: Eine in Brasilien abgeschickte E-Mail, die eine große, hitzige Debatte in Texas zur Folge hat.
+Soziologen kennen das Phänomen von wenigen, einflussreichen Persönlichkeiten, deren Ideen sich schnell ausbreiten, viele andere Menschen erreichen und das Denken einer Gemeinschaft entscheidend verändern können.
+Aber wie findet man diese Anführer der Köpfe?
+Wer sind die Leithammel?
+Netzforscher wie Kleinberg benutzen so genannte Webcrawler, um Licht in das Beziehungsdickicht zu bringen.
+Das sind kleine Programme, die sich selbständig durch Newsgroups, Chatrooms oder ganz Websites wühlen und Verbindungen erfassen.
+In Blogs beispielsweise, den weit verbreiteten Internet-Tagebüchern, verlinken die Schreiber ihre Kommentare oft gegenseitig.
+Ein üblicher Weg, um die intellektuellen Leithammel zu bestimmen, nutzt die Zahl der Links von einer Seite zu anderen, externen Seiten.
+Auch Internet-Suchmaschinen wie Google nutzen derartige Techniken.
+Dieser Ansatz erzeuge jedoch Redundanzen, betonte der Informatiker.
+Die zwei oder drei erhaltenen Top-Kandidaten würden sämtlich ähnliche Verbindungen zur gleichen Untermenge haben, so Kleinberg.
+Die Forscher um Kleinberg haben ihre Vorstellungen von Netz-Beziehung bereits mit verschiedenen mathematischen Modellen beschrieben.
+Auch wenn sie die ultimative Formel zum Auffinden der idealen Ideen-Verteiler noch nicht gefunden haben, glauben sie, bereits eine Menge von menschlichen Netzen zu verstehen.
+Beispielsweise deckten sie anhand der Ko-Autorenschaft wissenschaftlicher Veröffentlichungen Verbindungen zwischen den betroffenen Forschern auf.
+Die Information, dass zwei Autoren am selben Institut arbeiteten, ignorierten sie dabei völlig.
+Mit ihrem Modell versuchten Jon Kleinberg und der MIT-Doktorand David Liben-Nowell auch vorherzusagen, welche Autoren künftig gemeinsam eine Arbeit veröffentlichen werden.
+Ihr Ergebnis: Es kommt nicht darauf, wie eng zwei Autoren über Links verbunden sind.
+Die Zahl der Sprünge von Autor A zu Autor B ist nicht der beste Indikator für Nähe zwischen den Forschern.
+Also die Tatsache, dass jeder durchschnittlich über sechs Ecken mit jedem anderen verbunden sei.
+Das bloße Zählen der Links von Autor zu Autor helfe nicht weiter.
+Dies sei ein interessanter Ansatz für weitere Untersuchungen.
+Kleinberg hofft genauso wie andere Forscher auch, mit Netzmodellen ganz neue Wege im Marketing gehen zu können.
+Man müsse nur noch wenigen, einflussreichen Personen ein neues Produkt kostenlos in die Hand drücken, um eine Kaskade von Weiterempfehlungen von Freund zu Freund, von Bekanntem zu Bekanntem auszulösen.
+Doch Netzforschern geht es nicht ums simple Warenanpreisen oder Präsidentenwählen allein.
+Der israelische Physiker Reuven Cohen von der Bar-Ilan-University bei Tel Aviv hat beispielsweise eine spezielle Impfstrategie entwickelt, die Epidemien mit relativ geringeren Impfraten verhindern soll.
+Es lost 20 Prozent der Bevölkerung aus und bittet diese Personen, einen Bekannten zu nennen, der geimpft werden soll.
+Die angegebenen Personen werden dann tatsächlich geimpft.
+Wegen ihres großen Bekanntenkreises sind die gesuchten Superschleudern mit großer Sicherheit unter den Immunisierten.
+Statt aller Menschen müssten so höchstens 20 Prozent geimpft werden, betonen die Wissenschaftler.
+Solche umtriebigen Superspreader gibt es in allen möglichen Netzen.
+Angefangen in Firmen und Universitäten - dort fungieren sie mitunter als heimliche Meinungsführer -, aber auch im Sexleben einer Stadt.
+Einige wenige omnipotente Männer in Stockholm brachten es auf fast 1000 Sexualpartnerinnen, wie schwedische Soziologen kürzlich herausfanden.
+Die übergroße Mehrheit kam dagegen nur auf eine Handvoll Partnerinnen.
+Mancher Forscher wittert sogar schon das ganz große Geschäft.
+Hewlett-Packard hat kürzlich ein Patent auf die Analyse von E-Mail-Netzen angemeldet.
+Das Verfahren soll die informellen Hierarchien in Unternehmen sichtbar machen.
+Physiker glauben, dass selbst Firmenpleiten nach den Mechanismen eines Netzes funktionieren - die Netztheorien scheinen fast überall anwendbar zu sein.

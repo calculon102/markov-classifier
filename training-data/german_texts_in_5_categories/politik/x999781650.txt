@@ -1,0 +1,53 @@
+KaZaAs Bemühungen um Kooperationen mit dem Musikbusiness, hörte das Gericht in Sydney am Donnerstag, seien wie ein Angebot, das man nicht ablehnen kann: Kauf oder wir lassen dich beklauen.
+Unsinn, beteuern die KaZaA-Vertreter.
+Noch wollen die Richter keiner der Seiten glauben.
+DPA Bewaffnete Drohung: Verhandelt KaZaA mit mafiosen Methoden?
+Doch nach acht Tagen teils hitziger Verhandlungen und Kreuzverhöre ist das Gericht unter dem Vorsitz des australischen Bundesrichters Murray Wilcox der Antwort nicht viel näher gekommen.
+KaZaA, Sharman und die anderen involvierten Unternehmen im Umfeld der P2P-Börse wehren sich nach Kräften - und tragen zur Verkomplizierung der Sache bei.
+Denn die Klärung der Verantwortung für die Copyright-Verletzungen ist keine rein technische Frage: Zu klären hat das Gericht auch, wer da eigentlich für was zuständig und damit verantwortlich sein könnte.
+Das aber scheint alles andere als leicht.
+KaZaAs Geschichte: blinde Pfade, potemkinsche Dörfer?
+Die Software KaZaA wurde erstmals Ende 2000 in Umlauf gebracht und offiziell im März 2001 vorgestellt.
+Neben KaZaA setzen auch Morpheus und Grokster auf FastTrack auf, eine echte Trennung war von Anfang an schwer.
+Bis Anfang 2002 versteckte sich KaZaA regelrecht hinter den beiden anderen Programmbetreibern und sammelte keine große Userschaft.
+Zennstroms und Friis Firma Consumer Empowerment saß im P2P-toleranten Holland, während die Softwareentwickler in Wahrheit in den baltischen Staaten saßen.
+Offiziell wird KaZaA durch ein Unternehmen namens Sharman Networks kontrolliert und vermarktet.
+Während KaZaA einen wahrscheinlich weitgehend virtuellen Firmensitz auf Vanuatu besitzt, einer Insel mit mehr Briefkästen als Einwohnern, und seine Server weltweit verteilt hält, sitzt Sharman in Sydney.
+Wer steht wirklich hinter KaZaA?
+Beide Firmen waren KaZaA schon vor dem Verkauf an Sharman freundschaftlich verbunden.
+Während zu Altnets Gründern auch KaZaA-Mitbegründer Niklas Zennstrom gehört, wurde Brilliant Digital schon für KaZaA tätig, bevor es offizielle Verbindungen zwischen den Firmen gab.
+Das Unternehmen verfügte Ende 2001 immerhin schon über eine physisch vorhandene Chefin, die Philip Morle auf einem Flur bei Brilliant Digital treffen konnte, wie er vor Gericht aussagte.
+Sie, Nikki Hemming, habe ihm das Angebot gemacht, zu Sharman - und damit KaZaA - zu wechseln.
+Anfang 2002 dann übernahm KaZaA durch ein Softwareupdate und eine Veränderung des Netzwerkprotokolls das Heft im FastTrack-Netzwerk und setzte Morpheus und seine User auf die Straße.
+Seitdem galt KaZaA als weltweit führende P2P-Börse und wurde erst im Frühjahr 2004 durch BitTorrent abgelöst.
+Verhandlungen um P2P-Vertrieb: Erpressung?
+Wie viele Internetnutzer das Programm zu seinen Hochzeiten wirklich nutzten, ist nicht bekannt.
+Selten waren es jedoch weniger als 4,5 Millionen User, die zu jedem gegebenen Zeitpunkt im FastTrack-Netz unterwegs waren.
+Genau mit diesen Zahlen ging Altnet ab dem Frühjahr 2002 in den USA auf Verhandlungstour und bot KaZaA als Plattform für legale Musikvertriebs-Dienstleistungen an.
+Das aber, argumentierten die Anwälte der Musikindustrie am Donnerstag, sei nichts anderes gewesen als eine Erpressung.
+Ihr müsst einen Vertrag mit Altnet machen.'
+Damit zeichnet sich die Strategie der Musikindustrie im Prozess gegen KaZaA deutlich ab.
+Die Anwälte der Musiklobby wollen beweisen, dass KaZaA über die Mittel verfügt, Einfluss auf die Datenströme im Netzwerk zu nehmen: sowohl filternd, als auch Daten sammelnd.
+Tatsächlich ist die offizielle KaZaA-Software mit Spyware-Programmen von Brilliant Digital (BDE) verbunden, die im Verdacht stehen, die User auszuspionieren.
+Weiter verbreitet als die offiziellen Programmversionen sind darum gehackte KaZaA-Varianten ohne BDE-Spyware.
+Bisher hat KaZaA gegen solche nicht autorisierten Programmversionen recht wenig unternommen: Ist Masse für Sharman also klasse, weil es Altnet in Verhandlungen Gewicht verleiht?
+Und betreibt KaZaA noch immer zentrale Server, möglicherweise in Dänemark, über die nicht nur Daten gesammelt werden, sondern auch Inhalte zensiert werden könnten?
+Kinderpornos und geklaute Waren: Missbrauch des Systems?
+KaZaA- und Sharman-Cheftechniker Philip Morle bestritt all das im Kreuzverhör.
+Ja, sagte er aus, KaZaA zähle noch immer, wie viele User und Daten zu jedem gegebenen Zeitpunkt im Netzwerk seien.
+Der betreffende Rechner, über den KaZaA zeitweilig bis zu 15 Millionen User-Datensätze erfasst hatte, sei abgeschaltet worden.
+Morle schilderte auch, wie frühzeitig sich KaZaA mit seinen Sorgen um Copyright-Verletzungen an die Industrie gewandt habe.
+Auch firmenintern habe man wegen dringender Sorgen über den Vertrieb von Kinderpornografie über KaZaA Filtermöglichkeiten besprochen, worüber es allerdings keine schriftlichen Aufzeichnungen gäbe.
+Ergo: Es sei für Sharman eben unmöglich, so einen starken Einfluss auf den Datenverkehr bei KaZaA zu nehmen.
+Auch elektronische Aufzeichnungen gingen möglicherweise bei den dem Prozess vorhergehenden Razzien verloren.
+Morles Laptop erlitt einen Unfall, den die Festplatte nicht überlebte: Am Donnerstag beschuldigten sich Musikindustrie und Morle gegenseitig, das Gerät im Rahmen der Razzia beschädigt zu haben, Zeugen des Unfalls gibt es keine.
+Pyrrhussiege für alle Beteiligten?
+Für das Gericht in Sydney macht dieser Wirrwarr die Sache nicht leichter.
+Nach acht Verhandlungstagen sind die letzten Zeugenaussagen bereits für nächste Woche angesetzt.
+Dass Richter Murray Wilcox seine Entscheidung vor Anfang nächsten Jahres fällt, wird nicht erwartet - wohl aber, dass es nicht auf die von der Musikindustrie erhoffte Schließung von KaZaA hinausläuft.
+Wahrscheinlicher sind Filterauflagen, wie sie auch schon gegen Napster verhängt wurden.
+Das käme einem Tod auf Raten gleich, denn eine wirklich effektive Filtertechnik, die das Tauschen urheberrechtlich geschützter Werke verhindern könnte, gibt es noch nicht.
+Wie bei Napster könnte ein sukzessives Ausfiltern der populärsten Daten KaZaA aber als P2P-Plattform schnell so unattraktiv machen, dass die Nutzerschaft komplett wegbräche.
+Doch selbst das wäre ein Pyrrhussieg für die Musikindustrie, der es auf etwas ganz anderes ankommt: KaZaA, die virenverseuchte, mit Datenmüll überflutete, unzeitgemäß lahme P2P-Plattform, ist längst ein wandelnder Leichnam.
+Die Industrie erhofft sich ein grundsätzliches Urteil, das die Betreiberfirmen von P2P-Plattformen wieder juristisch anfechtbarer macht.
+Unwahrscheinlich, dass sie es bekommt: Das Hickhack um P2P wird damit wohl auch 2005 weitergehen.

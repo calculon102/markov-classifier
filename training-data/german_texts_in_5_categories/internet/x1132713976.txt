@@ -1,0 +1,23 @@
+Das Uruknet ist wieder da: Der staatliche Internet-Provider des Irak war jahrelang Tor zur Welt, Überwachungs- und Zensurinstanz in einem.
+Jetzt soll alles anders, der Irak auch per Web zur West-Kompatibilität erzogen werden.
+Bei der gesellschaftlichen Erneuerung Iraks soll das Internet eine Schlüsselrolle einnehmen.
+Erst einmal aber hat der Krieg das Wenige zerstört, was bisher an Internet-Vernetzung vorhanden war.
+Amerikanische Raketen zerstörten die Antennen und Übertragungsstationen auf dem Dach des irakischen Informationsministeriums.
+Und die landesweit 65 Internet-Cafes wurden nach Kriegsende größtenteils geplündert.
+Sie zu erneuern, scheiterte bisher an der darnieder liegenden Stromversorgung oder an Problemen im Telefonnetz.
+Nur ein Cafe im Bezirk Babil mit fünf Computern sowie persönliche Satellitentelefone etwa von Journalisten stellten nach Kriegsende noch Verbindungen von Bagdad ins Internet her.
+In einer PC-Werkstatt, gleich neben einem der bei den Bombenangriffen zerstörten Internet-Cafes, bereitet sich Bakr auf bessere Zeiten vor.
+Ingenieuren der staatlichen Internet-Gesellschaft gelang es, einen der Satellitenempfänger aus dem ausgebrannten Informationsministerium in Bagdad zu retten und auf dem Dach eines zweistöckigen Hauses im westlichen Stadtteil Adel zu platzieren.
+Wochenlang verlegten Abdullas Techniker Kabel und tüftelten an der Ausrichtung der Schüssel.
+Endlich gelang es jetzt, Datensignale zu empfangen und zu senden.
+Jetzt soll hier eine Basisstation für die Verbindung mit dem weltweiten Computernetz entstehen.
+Und schon bald soll ein Internet-Cafe mit 50 Plätzen angeschlossen werden.
+Es sei eine große Herausforderung, unter solchen Bedingungen zu arbeiten, sagt der 32-jährige Datenbank-Programmierer Maathir Fahad.
+Irak war eines der letzten Länder in der Region, das den Anschluss an die Internet-Gemeinschaft gefunden hat.
+Von 24 Millionen Einwohnern machten aber vor dem Krieg nur 250.000 von ihren Möglichkeiten Gebrauch, die meisten von ihnen in den staatlichen Internet-Cafes.
+Der private Zugang über den eigenen Telefonanschluss wurde erst im vergangenen Jahr erlaubt; zuletzt gab es gerade mal 25.000 private Accounts.
+Ganz Irak kam mit einer Bandbreite von weniger als zehn Megabit pro Sekunde aus - so viel braucht ein einziges Bürogebäude in einer deutschen Großstadt.
+Zahlreiche Web-Seiten wurden vom irakischen Informationsministerium gefiltert.
+Und von jeder E-Mail sei eine Kopie an die Regierung gegangen, sagt Abdulla.
+Da das Internet in Irak jetzt völlig neu aufgebaut wird, gibt es die Möglichkeit, statt einer zentralen Stelle eine Vielzahl von dezentralen Einwählknoten zu schaffen.
+Damit werde eine Zensur des Datenverkehrs sehr viel schwieriger, sagt der amerikanische Internet-Experte Jonathan Zittrain, Professor an der Harvard Law School.

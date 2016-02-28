@@ -1,0 +1,42 @@
+Die Diskussion über Funketiketten (RFID) läuft in eine falsche Richtung, klagt die deutsche Industrie.
+Statt der befürchteten Totalüberwachung bringen die Barcodenachfolger einen Wirtschaftsschub für Deutschland, glaubt man bei SAP.
+Neue Technologien haben es schwer in Deutschland.
+Diese These wird von der hiesigen Wirtschaft immer wieder bemüht.
+So auch gestern auf einer Diskussion in der Berliner SAP-Vertretung.
+Man brauche sich ja nur anschauen, wie es dem Transrapid ergangen sei, hieß es da unter anderem.
+Als neuestes Beispiel für die Innovationsskepsis der Deutschen gelten, zumindest aus Sicht der Industrie, die so genannten RFID-Chips.
+Diese kleinen Funketiketten können ganz ohne eigene Stromversorgung ihre ID senden, die Energie dafür ziehen sie aus dem elektromagnetischen Feld, das ein RFID-Scanner erzeugt.
+Handelskonzerne wie Wal-Mart oder Metro möchten mit RFID langfristig den heute üblichen Barcode ablösen.
+RFID kann jedoch weit mehr als nur einen Produktcode speichern.
+Auch Verfallsdaten, Produktions- oder Verkaufsstandort lassen sich in den wenige Zentimeter großen Aufklebern speichern.
+An der Kasse gibt es keine Kassiererin mehr, sondern nur noch einen Sensor, der die Einkäufe in Sekundenbruchteilen erfasst.
+Ist das nicht herrlich praktisch?
+Ja, meint der Handel und wittert gigantische Einsparpotentiale, wenn erst einmal jeder Joghurtbecher und jede Socke mit einem Funketikett versehen ist.
+Auf Knopfdruck wüsste man beispielsweise, wie viel Stück Butter welcher Sorte gerade im Kühlregal herumliegen.
+RFID hätte das Zeug dazu, die Logistik zu revolutionieren, denn jede Keksdose besäße ihre eigene, weltweit nur ein einziges Mal vergebene Nummer.
+Wer will denn da schnüffeln?
+Was für eine verlockende Vision - wären da bloß nicht diese selbst ernannten Daten- und Verbraucherschützer.
+Die Kritiker wittern die totale Überwachung, wenn eines Tages in jedem Anzug und an jedem Schoko-Riegel Funkchips hängen.
+Es ist ein ungleicher Kampf - eine Handvoll ehrenamtlich arbeitender Enthusiasten gegen milliardenschwere Konzerne - doch er zeigt Wirkung.
+Metro musste tausende Kundenkarten austauschen, nachdem herauskam, dass in diesen ein RFID-Chip steckte.
+SAP will dies ändern und einen öffentlichen Diskurs über RFID und Datenschutz anschieben.
+Da haben sich SAP und die anderen beteiligten Unternehmen einiges vorgenommen.
+Denn Big-Brother-Szenarien zu den kleinen Funketiketten gibt es zuhauf.
+Zum Beispiel das vom RFID-Chip, der in einer Schuhsohle steckt, damit die Paare im Lager nicht durcheinander kommen.
+DPA Claudia Schiffer im Metro Future Store: Irrational denkende Bürger?
+Derzeit gelten Deutschland und die USA als die RFID-Pioniere weltweit.
+In den USA mussten die Markenartikler Benneton und Prada Funketiketten aus ihren Pullovern und Taschen wieder entfernen - auf Druck der Öffentlichkeit.
+So ein Supergau dürfe hierzulande nicht passieren, sonst, da waren sich alle Teilnehmer der Diskussion einig, stehe die Zukunft von RFID in Deutschland auf dem Spiel.
+Offenbar scheint RFID ein bisschen zu sein wie Hartz IV - vor allem ein Vermittlungsproblem.
+Ganz so einfach wollte es nicht jeder der geladenen Experten sehen.
+Für Robert Niedermeier vom IT-Institut Eicar ist RFID weniger ein Thema des Datenschutzes als der IT-Sicherheit.
+Doch man müsse den Missbrauch der Technik verhindern, etwa dass jedermann mit einem entsprechenden Scanner herausbekommen könne, welchen Anzug und welche Krawatte sein Gegenüber trage.
+Nur wenn die Chips über eine ausreichend starke Verschlüsselung verfügten, könnten dem Bürger die Ängste vor den so genannten Smart Tags genommen werden.
+Die Radikallösung in Sachen Datenschutz lautet freilich anders: den Chip vollkommen deaktivieren, und zwar nach dem Kauf.
+Eine solche Kill-Funktion ist zwar generell vorgesehen.
+Doch mancher zweifelt noch daran, ob sie tatsächlich sicher funktioniert.
+Dort schaltet der Kunde die Chips auf jedem Artikel einzeln aus, in dem er sie über einen speziellen Sender hält.
+SPD-Politiker Jörg Tauss sieht wie sein Kollege von der CDU derzeit keinen Bedarf für ein spezielles Gesetz in Sachen RFID.
+Er hofft, dass die Branche die Datenschutzbedenken der Bürger aufnimmt.
+Bleibt zu hoffen, dass sich die Ingenieure keine allzu komplizierten Sachen ausdenken.
+Wie es um das beste Mautsystem der Welt steht, ist bekannt.

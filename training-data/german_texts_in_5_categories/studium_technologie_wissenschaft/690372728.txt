@@ -1,0 +1,25 @@
+Im Labor gelang zwei Physikerteams unabhängig voneinander die Übertragung eines Quantenzustands von Atom zu Atom.
+Das Experiment gilt als wichtiger Meilenstein auf dem Weg zum Quantencomputer.
+Teleportation ist für eingefleischte Star-Trek-Fans fast schon eine alltägliche Sache.
+Physiker hingegen tüfteln schon jahrelang im Labor herum, um zumindest das Hinüberbeamen eines Quantenzustands hinzubekommen.
+Das lang ersehnte Experiment ist nun gleich zwei Forscherteams in Österreich und den USA gelungen.
+Rainer Blatt, der das Experiment an der Universität Innsbruck leitete, erklärte, es sei von grundsätzlicher Bedeutung, dass sich die theoretischen Ansätze der Quantenwelt in die Wirklichkeit umsetzten ließen.
+Das aktuelle Experiment demonstriere überdies die großen Chancen der Quanteninformationsverarbeitung.
+Die Technologie könne Daten wesentlich leistungsfähiger verarbeiten, als dies zurzeit mit den modernsten Supercomputern möglich sei. 1997 konnte eine Forschergruppe erstmals Lichtquanten teleportieren - nun gelang dies auch mit Quantenzuständen.
+Die Innsbrucker Forscher hatten einzelne, ionisierte Kalziumatome auf wenige Millionstel Grad über dem absoluten Nullpunkt abgekühlt.
+Mit Lasern konnten sie den internen Zustand der Atome - ihre Quantenzustände - sehr genau kontrollieren.
+In dem Experiment übertrug das Team um Blatt dann den Zustand eines Atoms auf ein zweites über eine Entfernung von 10 Mikrometern.
+Zunächst hatten die Forscher zwei Atome miteinander verschränkt.
+Die Verschränkung, eine quantenmechanische Verbindung zwischen zwei oder mehreren Teilchen, ist der Schlüssel zur Teleportation eines Quantenzustands.
+Dabei ist der Zustand aller Teilchen wohlbekannt, aber der Zustand jedes einzelnen Teilchens völlig unbekannt.
+Die Verschränkung gehört zu den meist diskutiertesten Konsequenzen der Quantenmechanik.
+Bei der Verschränkung werden die Zustände von zwei oder mehr Teilchen in Abhängigkeit von den anderen beschrieben, auch wenn die Teilchen räumlich getrennt sind.
+Konsequenz: Die physikalischen Eigenschaften der Systeme stehen in einer engeren Beziehung als in der klassischen Physik.
+Eine Messung an einem der Systeme kann daher als Beeinflussung der anderen, verschränkten Systeme interpretiert werden.
+Die Innsbrucker Forscher verschränkten dann eines der beiden Atome mit einem dritten Atom, dessen Zustand teleportiert werden sollte.
+Durch eine Messung dieses Paares und eine Reihe von Laserpulsen konnte der Zustand des zu teleportierenden Atoms auf das verbleibende Atom über eine Entfernung von 10 Mikrometern übertragen werden.
+Wissenschaftlern am amerikanischen National Institute of Standards and Technology führten ein ähnliches Experiment durch.
+Allerdings arbeitete das Team um David J. Wineland nicht mit Kalzium-, sondern mit Beryllium-Atomen.
+Auch wenn die Physiker von Teleportation sprechen, Atome werden dabei nicht transportiert, sondern nur Quantenzustände.
+Die Verschränkung von einzelnen elementaren Trägern von Information (Quantenbits) stellt den grundlegenden Mechanismus eines möglichen zukünftigen Quantencomputers dar.
+An dieser revolutionären, neuen Technologie der Quanteninformationsverarbeitung wird derzeit weltweit intensiv geforscht.

@@ -1,0 +1,37 @@
+Mit seinem frisch renovierten digitalen Videorecorder will Microsoft endlich den Weg in die Wohnzimmer schaffen.
+Damit es keinen Ärger mit privaten TV-Stationen gibt, fehlt beim Media Center 2005 eine Schnittfunktiondie Werbeblöcke bleiben drin.
+Sind PCs nicht vor allem das Werkzeug der Raubkopierer?
+Und Tauschbörsen im Internet nicht der weltgrößte Umschlagplatz für Hehlerware?
+Doch wirklich fürchten braucht man sich in Hollywood und bei den Plattenfirmen vor Bill Gates Visionen nicht.
+Denn Bill ist ein good guy und will Raubkopierern das Leben so schwer wie möglich machen.
+Microsoft setzt voll und ganz auf digitales Rechtemanagement (DRM).
+Die Antwort auf MP3 und DivX heißen WMA und WMV - jeweils mit detailliert festlegbaren Brenn-, Kopier- und Abspiellizenzen.
+Und Microsoft tut sogar noch mehr.
+Bei der vergangene Woche vorgestellten Media Center Edition 2005, einem Windows-XP mit digitalem Videorecorder, Diashow-Funktion und Musikverwaltung, hat das Unternehmen nicht alles umgesetzt, was möglich ist.
+Zwar kann der so genannte Personal Video Recorder (PVR) jetzt auch einen Film aufnehmen, während man eine Sendung auf einem anderen Sender schaut.
+Auch die Werbung per Vorlauf zu überspringen, ist damit kein Problem.
+Doch eine elementare Schnittfunktion fehlt nach wie vor.
+Wer eine Aufnahme auf DVD brennt, was auf der Fernbedienung wenige Knopfdrücke erfordert, schreibt auch die Werbeblöcke mit auf die Scheibe.
+Sehr ärgerlich vor allem bei längeren Filmen, die dann nicht mehr auf eine DVD passen, oder mit Qualitätseinbußen stärker komprimiert werden müssen.
+Micrsoft will es sich offenbar mit den privaten TV-Stationen nicht verscherzen, denn diese begreifen digitale Videorecorder zunehmend als Bedrohung für ihr Geschäft.
+Auch wenn derzeit nur die kleine Gruppe der Early Adopter mit PVRs fernsieht - es könnten schon bald viel mehr sein.
+An einen baldigen Durchbruch der Technik glaubt er jedoch nicht: Fernsehen sei für viele ja auch zeitliche Orientierung im Tagesablauf.
+An den Gewohnheiten, die sich über viele Jahre entwickelt hätten, werde sich so schnell nichts ändern.
+Technisch möglich ist zum Beispiel das automatische Ausblenden von Werbung.
+Eine Funktion, die eventuell sehr viele Menschen ansprechen könnte.
+RTL wollte es gar nicht erst so weit kommen lassen und verklagte die TC Unterhaltungselektronik AG, den Hersteller der Fernsehfee.
+Die kleine Box stoppt den Videorecorder während der Werbeblöcke oder zappt einfach weg.
+Doch das Gerichtsverfahren endete aus RTL-Sicht wenig erfreulich: Am 25. Juni wies der Bundesgerichtshof die RTL-Klagen in letzter Instanz zurück - RTL verzichtete überraschend auf eine Verfassungsbeschwerde.
+Der Clinch mit den Fernsehfee-Erfindern ist damit nicht beendet.
+RTL habe bereits eine einstweilige Verfügung vor dem vor dem Landgericht Köln gegen das aktuelle Nachfolgermodell der Fernsehfee erwirkt, so Körner.
+Die finde demnächst statt.
+Weil sich ein Siegeszug digitaler Videorecorder möglicherweise ja doch nicht verhindern lässt, tüfteln die Privatsender bereits an alternativen Werbeformen, die Werbekiller ins Leere laufen lassen.
+Die Werberichtlinien sollten überdacht werden, meint Jörg Blumtritt vom RTL2-Werbevermarkter El Cartel Media.
+Die neueste Erfindung von Fernsehsendern und Hollywoodstudios ist das so genannte Broadcast-Flag.
+Bei jeder Sendung kann damit festgelegt werden, ob diese mit digitalen Videorecordern aufgenommen werden darf.
+In den USA ist das Flag bereits Gesetz - Hersteller müssen ihre Festplattenrecorder ab Mitte nächsten Jahres entsprechend ausrüsten.
+Auch Microsofts Media Center 2005 unterstützt das Flag.
+Ob und wann es in Deutschland kommt, ist noch ungewiss.
+Doch die Hollywoodstudios werden dem fröhlichen Treiben der Festplatte-DVD-Recorder-Kombinationen wohl nicht mehr lange tatenlos zuschauen.
+Die Leute sollen schließlich DVDs im Laden kaufen und nicht zum Nulltarif bei ARD oder RTL aufnehmen.
+Forum: Vollbedienung - Das Wohnzimmer als Entertainment-Center?

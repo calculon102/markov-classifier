@@ -1,0 +1,31 @@
+Wie sich Softwarepatente auswirken, führt derzeit der Fall Eolas gegen Microsoft vor: Ein Patent aus dem Jahr 1994 droht das Web zu verändern.
+Plug-ins und Programme wie Flash, Real-Filme, ActiveX oder Java könnten bald aus Browsern verschwinden.
+Fortschrittsbremse Software-Patent: Willkommen im europäischen Pfahldorf?
+Wovor Europas Softwarebranche zittert, ist das so genannte Trivialpatent: Die Patentierung nicht etwa einer konkreten technischen Lösung, sondern die eines Grundgedankens, einer Idee, die auf verschiedene Weise umgesetzt werden kann.
+Amerikanische Unternehmen sind Weltmeister darin, sich solche Grundideen zur finanziellen Ausschlachtung zu sichern.
+Das US-Recht kennt Logik- und Softwarepatente seit langem.
+US-Firmen verfügen darum über einen gehörigen Vorsprung.
+Schon jetzt sitzen die Patentämter in Europa auf bis zu 33.000 alten Patentanmeldungen, die mit einer Umsetzung der EU-Richtlinie wirksam würden.
+Kaum ein Programm, das darauf verzichten kann.
+Grund genug für weite Teile der heimischen IT-Industrie, sich akut bedroht zu fühlen.
+Neben dem Großprovider 1&1 tut sich dabei vor allem der Berliner Mittelständler Magix hervor, der Deutschlands und Europas Parlamentarier in den letzten Wochen mehrfach mit informierenden Briefen beglückte.
+Selbst für ein profitables Unternehmen ist das Notwehr, denn der Zwang, jedes Mal Lizenzgebühren bezahlen zu müssen, wenn allgemein etablierte Grundideen in ein Programm integriert werden, könnte sich als echter Fortschrittshemmer erweisen.
+Wie so etwas aussieht, erfährt gerade ausgerechnet Microsoft am eigenen Leib.
+Zahlen oder verzichten?
+Am 11. August entschied ein US-Bundesgericht, dass ein schon 1994 eingereichtes Patent auf die Idee, multimediale Inhalte und Programme automatisch aus einem Web-Browser heraus ausführen zu lassen, Microsofts ActiveX-Technologie berühre.
+Darum müsse Microsoft rückwirkend und künftig für jedes ausgelieferte Internet-Explorer-Programm 1,47 Dollar an den Patenthalter, das (noch) kleine Unternehmen Eolas, zahlen.
+Das sind keine Peanuts.
+Die Gesamthöhe der Zahlung setzte das Gericht auf die astronomische Summe von 520,6 Millionen Dollar fest - zunächst.
+Natürlich geht Microsoft in Berufung.
+Nur rund 200 Millionen Dollar würden im Fall der Zahlung bei Eolas landen, denn entwickelt wurde das Patent 1994 an der University of California.
+Den dicksten Batzen aber kassieren die Anwälte - auch das ist ein Teil des Problems.
+Die Uni lizenzierte das Patent 1998 an ihren ehemaligen Angestellten Mike Doyle, Gründer und Inhaber von Eolas.
+Die Uni und Eolas reichten dann 1999 Klage gegen Microsoft ein - mit Erfolg.
+Was es aber wirklich bedeutet, beginnt sich erst jetzt abzuzeichnen.
+Denn das Patent von Eolas betrifft längst nicht nur Microsofts ActiveX.
+Microsoft will die Beurteilung von ActiveX als das Patent angeblich verletzende Software und die Höhe der Lizenzzahlung anfechten, nicht aber das Patent selbst.
+Bedroht fühlen sich neben Software-Entwicklern, die Zusatzprogramme anbieten, die Inhalte in Web-Browsern darstellen können, auch Web-Entwickler und Online-Publisher.
+Denn die einzige Möglichkeit, die Lizenzzahlung zu vermeiden, wäre es, Applets und Webseiten entsprechend zu verändern.
+Und das kostet Zeit, Geld - und Surfvergnügen.
+Das kleine Eolas-Patent stellt die Web-Standards in Frage.
+Eines verursacht das Patent in jedem Fall: Das Surfen wird unbequemer, aufwendiger, weniger elegant.

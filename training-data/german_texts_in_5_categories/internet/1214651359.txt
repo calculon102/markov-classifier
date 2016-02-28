@@ -1,0 +1,28 @@
+Wer sich mit dem Kauf eines Beamers ruiniert und deshalb kein Geld mehr zum Verputzen der bröckelnden Wände hat, muss nicht verzagen.
+Forscher aus Weimar projizieren DVDs auch auf Ziegelsteine - störende Muster und Farben werden einfach weggerechnet.
+Ein wirkliches Heimkino kommt nicht ohne Beamer aus.
+Die surrenden Projektoren sollten idealerweise vor einer richtigen Leinwand stehen, damit ihre Bildqualität voll zur Geltung kommt.
+Doch nicht immer ist der Platz für eine solche Leinwand auch tatsächlich da.
+Abhilfe könnte dann eine intelligente Projektionstechnik verschaffen, die Wissenschaftler an der Bauhaus-Universität Weimar entwickelt haben.
+Muster und Strukturen würden einfach weggerechnet, das Bücherregal werde zur Leinwand und das Kinderzimmer zum virtuellen Spielplatz.
+Bimber leitet als Juniorprofessor für Augmented Reality die Forschergruppe, die den intelligenten Projektor entwickelt hat.
+Bei der Technik griff das Team zu handelsüblichen Komponenten.
+Der Beamer kostete weniger als 1000 Euro, der Camcorder nicht einmal 300 Euro.
+Hinzu kommt ein Computer mit einer 3D-Grafikkarte.
+Eine bei Tageslicht grüne Wand wirft beispielsweise auch rotes oder blaues Licht zurück, allerdings weniger stark als die Wellenlängen aus dem grünen Bereich, wodurch letztlich die grüne Farbe der Wand entsteht.
+Bevor ein Video auf einer grünen oder gemusterten Wand aussieht wie auf einer weißen Leinwand, muss die Projektionsfläche vom Camcorder analysiert werden.
+Die Kalibrierung des Systems dauere rund 30 Sekunden, erklärt Bimber.
+Dabei würden mehrere Streifenmuster und außerdem ein weißes Bild projiziert.
+Der Camcorder zeichnet die Testbilder auf und leitet sie zur Auswertung an den PC weiter.
+Die Streifenmuster dienten dazu, Verzerrungen im Bild durch Unebenheiten oder schräge Wände auszugleichen.
+Durch die Auswertung des weißen Testbildes würden farbige Muster eliminiert.
+Im Rechner werde jedes einzelne Pixel des Videosignals geometrisch und farblich so berechnet, dass nach entsprechender Korrektur die Projektion in Echtzeit in der richtigen Farbe und Helligkeit erscheine.
+Nach der Kalibrierung wird der Camcorder einfach wieder abgebaut und die Vorführung kann beginnen: Statt karierter Gardinen erscheinen Bilder wie auf einer weißen Leinwand.
+Auch Verzerrungen, etwa durch die Projektion in eine Zimmerecke, können durch das System ausgeglichen werden.
+Prinzipiell könne das Verfahren für beliebige Oberflächen verwendet werden, betont Bimber.
+Einschränkungen gebe es aber derzeit durch die Auflösung von Projektoren und Kamera.
+Weil Beamer mit einer Auflösung von 1024 mal 768 Pixeln arbeiten, Camcorder jedoch nur mit 768 mal 576 Pixeln, ließen sich kleinere Projektionsfehler, etwa auf Rauhfasertapete, noch nicht eliminieren.
+Doch die Forscher basteln bereits an einem weiteren Prototyp, der diese Schwäche nicht mehr hat.
+Die Suche nach Partnern in der Industrie hat begonnen.
+Bimber kann sich beispielsweise einen Projektor vorstellen, in dem ein Chip zur Kalibrierung fest eingebaut ist, so dass man ganz ohne PC auskommt.
+Nur eine Kamera zur Aufzeichnung der Testbilder wäre dann noch erforderlich.

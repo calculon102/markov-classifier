@@ -1,0 +1,54 @@
+Wie denkt Deep Fritz?
+Sonntag Abend stellt sich Garry Kasparow zur dritten Partie im Vier-Spiele-Match gegen das Computerprogramm Deep Fritz.
+Die erste Partie endete im Remis, die zweite gewann Fritz - und beeindruckte seinen Gegner mit aggressivem, intelligentem Spiel.
+Chessbase-Redakteur André Schulz erklärt, wie das Programm das macht.
+Am Anfang kann sich Fritz noch ausruhen; rechnen braucht er noch nicht.
+Es enthält etwa 3,5 Millionen Eröffnungspositionen und ist 600 MB groß.
+Das Fritz-Eröffnungsbuch ist sehr leistungsfähig und enthält eine Reihe von statistischen Daten, mit deren Hilfe Fritz entscheidet, welchen der möglichen Eröffnungszüge er wählen soll.
+Im Buch vermerkt ist, wie oft die jeweiligen Züge gespielt wurden, wie hoch der Elo-Schnitt der Spieler war, die diesen Zug gespielt haben und wie erfolgreich die Spieler mit diesem Zug waren.
+Darüber hinaus hat der Computerschach-Eröffnungsspezialist Alexander Kure das Buch editiert und Züge gewichtet.
+Gibt es mehrere gleichwertige Züge, dann entscheiden die statistischen Daten oder ein Zufallsgenerator.
+Das Buch ist sogar bedingt lernfähig.
+Verliert Fritz mit einer bestimmten Variante, dann schaltet er sie ab und spielt beim nächsten Mal etwas anderes.
+Ohne Eröffnungsbuch wäre ein Schachprogramm zu Anfang der Partie extrem leicht auszurechnen.
+Gemäß seiner Programmstruktur würde es bei gleicher Bedenkzeit und auf gleicher Hardware in der gleichen Ausgangsposition immer wieder genau den gleichen Zug spielen.
+Es wäre sehr leicht, eine Zugfolge zu finden, mit der man das Programm zum Beispiel durch langzügige Opferwendungen in Schwierigkeiten bringen kann.
+Wenn Fritz zu einer Stellung auf dem Brett wenige oder gar keine Züge mehr im Buch findet, fängt er an zu rechnen.
+Bei manchen gut bekannten Eröffnungen kann es allerdings sein, dass Fritz erst nach dem 20. Zug oder später aus dem Buch geworfen wird.
+Der Ausgangspunkt aller Berechnungen ist das Material, wobei die Steine unterschiedlich bewertet werden.
+Eine Dame ist viel mehr wert als ein Turm oder gar ein Bauer.
+Gerechnet wird in Bauerneinheiten.
+Moderne Programme bewerten einen Bauern inzwischen aber meist niedriger als mit einer ganzen Bauerneinheit.
+Ist Fritz im Vorteil, dann rechnet er sich das positiv an, beispielsweise +0.85 bei Bauerngewinn, entsprechen -0.85 bei Bauernverlust.
+In den Bewertungen des Materials bewegt sich Fritz im Rahmen dessen, was auch unter Menschen als Faustformel bekannt ist.
+Natürlich kommen noch Bewertungen für weitere Ereignisse, die während einer Partie passieren können, hinzu.
+Das Matt sollte man nicht vergessen.
+Matt wird mathematisch unendlich hoch bewertet und weit wichtiger als alles Material.
+Patt muss berücksichtigt werden, außerdem bestimmte Endspiele, die trotz großen Materialvorteils nicht gewonnen sind, weil sich kein Matt erzwingen lässt.
+König und zwei Springer gegen König entspricht einem reinen Materialvorteil von ca. +5.00 Bauerneinheiten (2x 2,5), aber Matt lässt sich nicht erzwingen.
+Das Endspiel ist in Wirklichkeit Remis oder mathematisch ausgedrückt 0.00.
+Die richtige Bewertung der Positionen ist die wichtigste Grundlage für die Spielstärke des Programms.
+Aber neben den rein materiellen Aspekten gibt es eine Menge von zusätzlichen Faktoren, die die Bewertung beeinflussen.
+Dazu gehören Dinge wie offene Linien, Figurenaktivität, Königsicherheit, Bauernstruktur, starke und schwache Felder und viele mehr.
+Der Auftrag lautet dabei, Züge und Zugfolgen zu finden, mit denen sich die eigene Position mathematisch verbessern lässt.
+Er handelt einfach gemäß seiner Programmierung, die Stellung zu verbessern und sucht nach entsprechenden Zügen.
+Ihre menschlichen Gegner brechen in schlechten Stellungen meist schnell zusammen.
+Bei den Berechnungen geht es nicht um die aktuelle Position, sondern um mögliche Positionen ein paar Züge später.
+Die ersten Schachprogramme haben dabei einfach jeden legalen Zug in der aktuellen Position angeschaut und die möglichen Konsequenzen berechnet.
+Mit Brute Force wurden keine großen Suchtiefen erreicht.
+Die Kunst besteht also darin, möglichst nur aussichtsreiche Züge zu untersuchen und deren Konsequenzen zu bewerten.
+Dabei entstehen Suchbäume, wobei die Spitzenprogrammierer verschiedene Tricks anwenden, um möglichst effizient möglichst tief zu suchen.
+Je tiefer ein Programm in die Stellung hineinschauen kann, desto besser lassen sich die Konsequenzen eines Zuges berechnen, desto stärker spielt das Programm.
+Die Züge, bei denen man auch dann keinen Stellungsvorteil erzielen kann, brauchen gar nicht erst untersucht zu werden.
+Natürlich spielt die verwendete Hardware eine große Rolle.
+Fritz braucht die Varianten dann nicht immer wieder neu zu berechnen.
+Und je schneller die Prozessorleistung der Maschine, desto schneller ist das Programm.
+Beim Wettkampf in New York spielt die Mehrprozessor-Version von Fritz, Deep Fritz 8, auf einem Intel Pentium IV Xeon 4x2,8 Ghz.
+In der Grundstellung, das ist die schwierigste Stellung im Schach, hat Deep Fritz auf diesem Rechner in nicht einmal vier Minuten 3,4 Mio. Positionen berechnet und kommt dabei auf eine Suchtiefe 18 Halbzügen.
+Das heißt nichts anderes, als dass Deep Fritz in der Partie meist mehr als 9 Züge vorausschaut und weiß, wie dann die Bewertung sein wird.
+In weniger komplexen Stellungen, z.B. im Endspiel, kann die Suchtiefe noch weitaus größer sein.
+Hier sind die Informationen über alle Endspiele mit fünf Steinen (Könige mitgerechnet) und neuerdings einige Sechssteiner in Dateien abgelegt und jedes Ergebnis bei jeder Figurenstellung gespeichert.
+Es ist erstaunlich, dass menschliche Spezialisten wie Kasparow mit dieser ausgebufften Technik mithalten können.
+Das beweist, wie leistungsfähig das menschliche Gehirn ist und welches Entwicklungspotenzial es birgt, denn die Grundlagen zu diesen Leistungen werden schon in frühester Kindheit gelegt.
+Alle Spitzenspieler lernten Schach im Alter von vier bis sechs Jahren.
+Auch wenn man inzwischen mehr und mehr über die Entwicklung des Gehirns in Erfahrung gebracht hat, bleiben viele offene Geheimnisse.

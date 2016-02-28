@@ -1,0 +1,25 @@
+Ein wichtiger Schritt zur Verbindung von Mensch und Maschine scheint getan: Ein querschnittgelähmter Mann kann allein mit seinen Gedanken Computer und Fernseher steuern.
+Mediziner hatten ihm einen Chip eingepflanzt, der Signale aus dem Gehirn an einen Computer schickt.
+Kabel führen zu einem Computer, der die Signale aus dem Gehirn empfängt und interpretiert.
+Die Vision ist Realität geworden: US-Mediziner haben einen Chip ins Hirn eines Querschnittgelähmten eingepflanzt, der die Signale von 100 Neuronen an einen Rechner weiterleitet.
+Der 25-Jährige ist mittlerweile in der Lage, seine E-Mails abzurufen, am Computer zu spielen und durch Fernsehprogramme zu zappen, meldet Cyberkinetics.
+Es ist der erste Versuch seiner Art, wie das Unternehmen betont - und er könne der Technologie endgültig zum Durchbruch verhelfen.
+Mediziner hoffen schon lange, verkrüppelten oder gelähmten Menschen zu neuer Mobilität zu verhelfen, indem künstliche Körperteile direkt mit Signalen aus dem Gehirn gesteuert werden.
+Der Patient muss nur daran denken, seine Prothese zu bewegen - und die Maschine gehorcht.
+In Tierversuchen waren Affen bereits in der Lage, Roboterarme zu steuern, ohne ihren echten Arm zu bewegen.
+Neben Cyberkinetics forschen eine Reihe weiterer Unternehmen an der Technik, wie etwa Neural Signals mit Sitz in Atlanta.
+Allerdings setzen sie auf nicht-invasive Methoden, bei denen die Signale der Neuronen außerhalb des Gehirns aufgefangen werden.
+Eine weitere Methode ist die Elektrokortikographie, bei der Elektroden die Gehirnaktivität direkt auf der Oberfläche des Denkorgans messen.
+Auch das US-Militär forscht bereits seit Jahren an einer Schnittstelle zwischen Mensch und Maschine - etwa um Kampfpiloten die blitzschnelle Steuerung ihrer Flugzeuge zu ermöglichen.
+Trotz der beeindruckenden Fortschritte steht die Technik noch an den Anfängen.
+Allerdings empfingen die 100 Elektroden auf dem Cyberkinetics-Chip nur die Signale von 100 Neuronen - was bei weitem nicht ausreiche, um komplizierte Abläufe wie das Greifen einer Tasse oder das Formen von Wörtern auch nur annähernd zu erfassen.
+Das mag kaum verwundern angesichts der Tatsache, dass das menschliche Gehirn aus rund 100 Milliarden Neuronen besteht. 100.000 Nervenzellen sitzen auf jedem Quadratmillimeter Hirnrinde und sind mit bis zu 1000 ihrer Nachbarn verbunden.
+Nach einer Weile klemmten die Forscher die Maus ab und steuerten den Cursor nur mit den Gedanken der Affen.
+Die Idee hinter dem Experiment: Patienten müssen nicht monatelang üben, um neue Bewegungen einzustudieren, sondern können Geräte steuern, als ob sie zu ihrem Körper gehörten.
+Theoretisch könnte ein Patient so nicht nur Prothesen, sondern sein gesamtes Umfeld einschließlich aller elektrischen Gerätschaften bedienen.
+Doch derzeit bräuchte er dazu selbst noch einen ganzen Gerätepark.
+Weil der Hirnsensor mit nur 100 Neuronen verbunden ist, bewegt sich der Cursor nicht immer präzise.
+Zudem reagiert der Zeiger nicht in Echtzeit, weil der Computer schlicht zu langsam ist, um die Befehle aus dem Hirn ohne Verzögerung umzusetzen.
+Abgesehen von technischen und medizinischen Problemen ist die Verbindung von Mensch und Maschine auch mit ethischen Problemen behaftet.
+Allerdings hat Nicolelis auch schon selbst Elektroden in menschliche Gehirne eingepflanzt und mit den Signalen Computer gesteuert.
+Weniger glücklich sind Bioethiker über die neue Technik.

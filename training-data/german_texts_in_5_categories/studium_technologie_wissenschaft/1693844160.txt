@@ -1,0 +1,21 @@
+Soldaten sollen auf dem Schlachtfeld einen unverwüstlichen Kameraden bekommen: einen Roboter-Hund, der Munition und Ausrüstung über Stock und Stein schleppt.
+Die US-Armee hat zwei Millionen Dollar für erste Studien zu Metall-Vierbeinern vergeben.
+Moderne Kämpfer haben es schwer.
+Bis zu 50 Kilogramm an Waffen und Ausrüstung schleppen heutige Soldaten mit sich umher - eine zermürbende Arbeit, die zudem die Gefahr birgt, in entscheidenden Situationen geschwächt zu sein.
+Das US-Verteidigungsministerium will seinen GIs einen Teil der Last abnehmen und auf die ermüdungsfreien Schultern metallener Hunde verteilen.
+Der Metall-Hund von der Größe einer Dogge soll auch in widrigem Terrain mit seinen menschlichen Herrchen Schritt halten können.
+Zugleich soll er neben dem eigenen Gewicht bis zur Hälfte des Gepäcks eines Soldaten schleppen.
+Realistische Aussicht oder High-Tech-Träumerei?
+Für Ingenieure jedenfalls gehört die vierbeinige Fortbewegung zu den größten Herausforderungen der Robotik.
+Yobotics hat von der US-Armee 750.000 Dollar für die Konstruktion der Drohne erhalten.
+Dabei ist die Motorik nicht das einzige Problem.
+Ein künstlicher Hund von den Ausmaßen einer Dogge würde auch eine Menge Energie benötigen.
+Das allerdings könnte Ärger bereiten, wenn Herrchen sich an einen Gegner heranpirschen will.
+Marc Raibert, ein Pionier auf dem Gebiet der Roboter-Fortbewegung, will das Problem umgehen, indem er Strategien der Natur kopiert.
+Raibert hat einschlägige Erfahrung, wie man künstliche Wesen zum Leben erweckt.
+Die Software wird nach Angaben des Unternehmens von allen Truppengattungen der US-Armee genutzt.
+Eine weitere Hürde ist der künstliche Sehsinn.
+Hindernisse zu erkennen und zu umgehen mag Menschen und Tieren leicht fallen, für einen Roboter aber ist die dreidimensionale Orientierung eine schwierige Aufgabe.
+Raibert hat sich deshalb mit Larry Matthies zusammengetan, der für die optischen Fähigkeiten der Nasa-Roboter verantwortlich ist.
+Für die US-Streitkräfte ist der Roboter-Hund ein weiterer Teil der Strategie, Techniken aus der Natur zu kopieren.
+Das Pentagon lässt unter anderem Bienenschwärme nach Sprengstoff suchen, Drohnen das Rudelverhalten von Wölfen kopieren und finanziert zudem die Forschung an künstlichen Schlangen, Krebsen und Fliegen.

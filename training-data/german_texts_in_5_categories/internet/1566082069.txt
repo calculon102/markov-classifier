@@ -1,0 +1,55 @@
+Tausende Kunden des deutschen Internetproviders Strato sind unverhofft unter die Räder der Netzbürokratie geraten.
+Erste Seiten sind bereits offline.
+Es war einmal eine einfache Frau, die schon viel vom Internet gehört hatte.
+Sie hieß Lieschen Müller und träumte bereits lange von einem eigenen Plätzchen im Netz.
+Weil sie aber nur wenig Geld hatte, ging sie zu einem Händler, der Leuten wie Lieschen Müller einfache und günstige Internethäuschen baute.
+Der Vermieter hieß Strato.
+Für ein paar Taler im Monat bekam sie ein Zuhause mit der Adresse lieschen-mueller.org.
+Sie schaffte es auch, ein paar Bilder in ihr Häuschen zu hängen, es zu tapezieren und außen rosa anzumalen.
+Lieschen-mueller.org wurde zu einem trauten Heim - das Glück schien perfekt.
+Doch dann, im Januar 2004, kam ein seltsamer elektronischer Brief aus dem fernen Amerika.
+Alles war auf Englisch, Lieschen Müller verstand kaum ein Wort.
+Das ganze sah aus wie Reklame.
+Dabei hatte Müller ja bereits einen Obolus an Strato entrichtet.
+Einige Tage später brachte der elektronische Briefträger einen zweiten Brief.
+Diesmal nicht aus dem fernen Amerika, sondern von ihrem deutschen Vermieter Strato.
+Frau Müller solle keinesfalls die 35 Dollar bezahlen, denn sie habe ja bereits bezahlt.
+Lieschen Müller war beruhigt.
+Bis zum ersten Tag im Monat Februar.
+Denn von diesem Tag an war ihr schönes kleines Internet-Haus plötzlich unerreichbar.
+Die schöne Tapete, die viele Arbeit nach Feierabend - alles futsch.
+Ihr Vermieter Strato sagte ihr, sie solle jetzt besser doch die 35 Dollar bezahlen.
+In einem neuen elektronischen Brief aus Amerika stand dann aber, dass sie 150 Dollar bezahlen müsse, wenn sie ihr Haus je wieder betreten wolle.
+Andernfalls werde ihr Internet-Heim zwangsversteigert.
+Lieschen Müller war ganz verzweifelt und wusste weder ein noch aus.
+Die Geschichte von Lieschen Müller und ihren eigenen vier Online-Wänden ist kein Märchen.
+Nicht nur, weil ihr das obligatorische Happy End fehlt.
+Sie ist wahr und hat sich hundertfach, ja vielleicht sogar tausendfach so abgespielt.
+Wie viele Kunden des Internetproviders Strato tatsächlich schon ihre Internetdomain verloren haben, will das Unternehmen bis Ende der Woche ermitteln.
+NSI führt eine Art Internet-Telefonbuch für die cno-Adressen.
+In dieser Datenbank steht zum Beispiel, dass lieschen-mueller.org der Frau Lieschen Müller aus Deutschland gehört und auf welchem Server die rosafarbenen Seiten mit den vielen Familienfotos liegen.
+Neuerdings dürfen auch Europäer ein cno-Verzeichnis führen.
+Um ein bisschen Geld zu sparen, kündigte Strato zum 2. Januar alle Verträge mit NSI und wollte die 200.000 Adressen künftig von einem anderen Dienstleister verwalten lassen.
+Doch Strato hatte sich die Sache wohl etwas zu einfach gemacht.
+Network Solutions betrachtete die Kündigung als weitgehend gegenstandslos.
+Schließlich sah NSI nicht Strato als seinen Vertragspartner, sondern jeden einzelnen deutschen Domain-Inhaber.
+Diese Kosten hatte bislang Strato getragen.
+Tatsächlich ist eine einfache Website bei NSI wesentlich teurer als bei Strato.
+Der deutsche Provider empfahl seinen Kunden zunächst per Mail, die Rechnungen aus den USA zu ignorieren.
+Viele folgten dem Rat - möglicherweise ein großer Fehler, der manchen seine lieb gewonnene Internetadresse kosten könnte.
+Her mit den Passwörtern!
+Inzwischen ist man bei Strato nur noch mit Schadensbegrenzung beschäftigt.
+Kunden sollten alle von NSI erhaltenen E-Mails an Strato weiterleiten und sämtliche Passwörter rausrücken, mit denen man Zugriff auf die Kundendaten bei NSI hat.
+Der so schön eingefädelte Registrar-Wechsel ist gründlich in die Hose gegangen.
+NSI verlangt von deutschen Domain-Inhabern inzwischen ein unterschriebenes Fax nebst Kopie von Pass oder Ausweis, wenn diese ihre Domain nicht weiter bei NSI führen wollen und stattdessen Strato damit beauftragen.
+Strato sieht den Schuldigen für das Schlamassel allein in NSI.
+Das Wirtschaftsministerium sei eingeschaltet und habe Beschwerde bei der zuständigen US-Behörde Federal Trade Commission (FTC) eingelegt.
+Außerdem habe man in Deutschland eine einstweilige Verfügung erwirkt, die es NSI verbiete, mit den Strato-Kunden überhaupt zu kommunizieren.
+Diese Verfügung werde in etwa drei bis vier Wochen auch in Amerika greifen, eine entsprechende Klage läuft nach Angaben von Wegener.
+In Benutzerforen wird der bizarre transatlantische Streit freilich differenzierter gesehen als bei Strato selbst.
+Schließlich müsse sich NSI als Domainverwalter absichern, dass keine Domains geklaut würden, ansonsten drohten Schadensersatzforderungen.
+Die aufgebrachten Kunden werfen Strato planloses Handeln vor.
+Anders wäre es vielleicht gelaufen, wenn Strato schon vor Vertragskündigung mit NSI die Domains übertragen hätte, meint ein Forumsteilnehmer.
+Seinen Ruf hat Strato mit der jüngsten Aktion wohl ein weiteres Mal ramponiert.
+In den letzten Jahren waren immer wieder Server des Providers ausgefallen, Websites blieben stunden- oder gar tagelang offline.
+Im Einzelfall gingen sogar Webinhalte von Kunden unwiederbringlich verloren.

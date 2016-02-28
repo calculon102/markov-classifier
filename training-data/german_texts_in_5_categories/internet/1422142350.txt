@@ -1,0 +1,39 @@
+Die Flut rechter Spam-Mails, die seit Donnerstag früh die E-Mail-Postfächer verstopft, wurde offenbar mit Hilfe des Sober-Wurms vorbereitet.
+Die Suche nach dem Urheber von Spam und Virus hat begonnen.
+Eins ist klar: Er oder sie sitzen in Deutschland.
+DPA Wer steckt hinter Sober und der rechten Spam-Flut?
+Seit dem Auftreten des ersten Sober-Wurms wussten die IT-Sicherheitsexperten nie so recht, wie sie ihn bewerten sollten.
+Einerseits erreichte Sober eine erhebliche Verteilung, auch wenn er keine echten Schäden verursachte.
+Das allerdings war bisher nie geschehen.
+Also rückte Sober ein wenig in den Hintergrund: Derzeit wird er in den Virencharts diverser Sicherheitsunternehmen zwar immer noch hoch gehandelt (Kaspersky: Platz sechs, Trend Micro: Platz sieben), aber kaum beachtet.
+Möglicherweise war das ein Fehler.
+Sober war und ist in Deutschland überdurchschnittlich erfolgreich, weil der per E-Mail verbreitete Wurm über einen Satz gut formulierter deutscher Locksätze verfügt.
+Darauf deutet auch eine Botschaft hin, mit der sich Sober.g in einer Textdatei im Windows-Systemverzeichnis verewigt.
+Ich bin auch in keiner Hacker Szene zu gange, nichts dergleichen!
+Und mein Alter liegt auch nicht zwischen 14 - 20. Ich bin einige Jahre über 30. Wollte ich nur mal Klargestellt haben!
+Seit sich andeutet, dass die aktuelle rechte Spam-Welle über mit dem Sober-Wurm befallene Rechner verteilt wird, stellt sich die Frage, ob der gute Odin vielleicht gelogen hat.
+Die Botschaft könnte man allerdings auch anders lesen.
+Dass es rechte Spammer gibt, ist kein Geheimnis.
+Seit geraumer Zeit versucht die Szene, im Dunstkreis von Werbemüll, Dialer-Abzocke und Internet-Pornografie Geld für die rechte Sache zu machen.
+Im weitesten Sinne gelingt das vielleicht auch der aktuellen Spam-Welle: Jede zusätzliche Stimme für eine Partei des rechten Spektrums ist am Europa-Wahlsonntag bares Geld wert - und durchaus nicht wenig.
+Denn in Deutschland kommt es nach Paragraf 18 Absatz 4 des Parteiengesetzes bei jeder größeren Wahl zur Ausschüttung von Mitteln, die in ihrer Höhe von der Gesamtzahl der gesammelten Stimmen abhängt.
+Zurückfließen werden voraussichtlich 120 Millionen Euro, wenn die Wahlbeteiligung auch nur 50 Prozent erreicht.
+Gerade kleine Parteien spüren das als warmen Regen.
+Nach dem Verteilungsschlüssel erhalten sie für jede Einzelstimme bis zu einer Gesamtzahl von vier Millionen Wählerstimmen satte 85 Cent.
+Dazu kommen - bei Bundes- und Landtagswahlen - noch Ausschüttungen aus Landesmitteln und sonstige Zuwendungen.
+Das summiert sich dann schon mal auf rund 1,3 Millionen Euro, die beispielsweise den Republikanern im letzten Jahr aus staatlichen Quellen als Belohnung für rund 1,3 Millionen Stimmen (in mehreren Wahlen) zuflossen.
+Erheblichen Nachholbedarf hat da die NPD, die mit rund 334.000 Euro auskommen musste.
+Dafür ist sie jetzt Hauptnutznießer der rechten Spam-Flut, wenn man so will: Keine Organisation wird darin mit mehr Links auf ihre Webseiten bedacht als die NPD.
+Das ist keine Wertung, sondern eine Beobachtung, die über eine Urheberschaft noch gar nichts aussagt.
+Das war Anfang des Jahres im Falle von fünf jugendlichen Virenautoren geschehen, nachdem Microsoft ein signifikantes Kopfgeld ausgesetzt hatte.
+Normalerweise jedoch hält die Virenszene dicht: Die Zahl der Fälle, in denen Virenautoren in den letzten fünf Jahren wirklich durch Ermittlungen erwischt wurden, kann man weltweit an zwei Händen abzählen.
+Die Verurteilungen von Spammern in den letzten Monaten malen da ein falsches Bild: Howard Carmack etwa, der Ende Mai zu bis zu sieben Jahren Haft verurteilt wurde, hatte nie ein Hehl daraus gemacht, dass er sein Geld mit Massenmails verdient.
+Identifizierungen oder Verhaftungen von Spammern, die illegal und oft aus sicheren Drittländern agieren, sind bisher nicht bekannt.
+Und das, obwohl es immer wieder Hinweise auf aktive Spammer gibt.
+Am Beispiel des Dialer- und Pornounternehmers Dennis E., im März 2000 zu zwei Jahren Haft auf Bewährung verurteilt, weil er im Internet zum Mord an einem politischen Gegner aufgerufen hatte, illustrierte Bleich die seltsamen Querverbindungen der Szenen.
+Es muss sich im Falle der Spam-Flut zur Europawahl also nicht unbedingt um einen Fall handeln, bei dem sich rechte Spammer den Huckepack-Platz auf dem Sober-Wurm gemietet hätten.
+Das, beteuert ja auch der Virenautor Odin alias AnonE, tue er ja nicht.
+Das Beispiel Dennis E. zeigt, dass die rechte Szene über qualifizierte eigene Kräfte verfügt - auch wenn es keinen konkreten Hinweis dafür gibt, dass E. etwas mit der aktuellen Aktion zu tun hätte.
+Der kriegerische oberste Asengott dient den Anhängern gut abgehangener Weltbilder immer wieder gern als Ikone für die eigene Geistloshaltung.
+Im aktuellen Fall ist den Spam-Versendern zu wünschen, dass der werbende Schuss nach hinten losgeht: mit Wut auf Odin.
+Gemeinhin platzt dem Privatsurfer der Kragen, wenn er plötzlich bis zu 1500 Mails oder mehr im Postfach findet: So sehen die Größenordnungen aus, auf die SPIEGEL-ONLINE-Leser heute in Mails und Anrufen verweisen.

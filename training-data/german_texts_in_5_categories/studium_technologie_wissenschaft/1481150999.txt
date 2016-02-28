@@ -1,0 +1,32 @@
+Ob Ullrich, Armstrong oder Basso - fast alle Favoriten der Tour de France trainieren mit einem speziellen Fahrradcomputer aus Jülich.
+Das Gerät misst die Fahrleistung so genau, dass es sogar teure Experimente im Windkanal ersetzt.
+In den achtziger Jahren fuhr Ulrich Schoberer noch selbst aktiv Rennrad.
+Doch er ärgerte sich darüber, dass er nie so genau wusste, ob sich seine Form verbessert hat oder nicht.
+Ein Tachometer am Lenker war ihm einfach zu wenig.
+So kam Schoberer auf die Idee, einen Leistungsmesser für Rennräder zu entwickeln.
+Schoberer gründete die Firma SRM (Homepage Schoberer Rad Messtechnik).
+Einer der ersten Toursieger, der die Erfindung des Jülicher Tüftlers mit großem Erfolg nutzte, war der Amerikaner Greg LeMond.
+Er siegte 1990 bei der Frankreich-Rundfahrt.
+Das SRM-System ähnelt einem herkömmlichen Fahrradcomputer - kann jedoch wesentlich mehr.
+Es zeigt nicht nur die üblichen Werte an wie Geschwindigkeit, Distanz sowie Tritt- und Pulsfrequenz, sondern auch die Wattzahl, mit der der Fahrer in die Pedale tritt.
+Um die Wattzahl ermitteln zu können, entwickelte Schoberer eine spezielle Tretkurbel.
+Das Kunststück der Leistungsmessung gelang mit Hilfe kleiner Dehnungsstreifen zwischen dem inneren und äußeren Ring in der Kurbel.
+Je kräftiger der Tritt, umso stärker verbiegen sich die Streifen und umso mehr ändert sich der gemessene elektrische Widerstand.
+Aus dem Drehmoment und der Trittfrequenz berechnet der kleine Computer am Lenker die Leistung in Watt.
+Das ist für die Fahrer sehr wichtig und macht das SRM-System sogar Tour-tauglich.
+Mehrere Teilnehmer sind am Samstag in Lüttich mit Schoberers Spezialkurbel gestartet, darunter Jens Voigt vom Team CSC und der Österreicher Gerrit Glomser (Team Saeco).
+Die Favoriten Jan Ullrich und Lance Armstrong nutzen das in Jülich hergestellte System nur im Training.
+Der an der Lenkstange befestigte SRM-Computer zeichnet sämtliche Daten in einem internen Speicher auf.
+Nach dem Training oder Rennen werden diese auf einen PC übertragen und die Kurvendiskussion beginnt.
+Wo hat der Fahrer die Beine hochgelegt?
+Wie schnell war er am Berg an seinem Limit?
+Die 2300 Euro teure SRM-Profiversion arbeitet so genau, dass sie sogar aufwendige Experimente im Windkanal ersetzen kann.
+Um beispielsweise die optimale Sitzposition zu finden, fährt ein Fahrer mehrmals unter gleichen Bedingungen exakt die gleiche Geschwindigkeit.
+Am besten geht dies auf einer Radrennbahn.
+Die Position, bei der der Fahrer mit der geringsten Leistung die vorgegebene Geschwindigkeit gehalten hat, ist die windschlüpfigste.
+Schoberer hat zur diesjährigen Tour seinen Fahrradcomputer mit einem Handy verbunden, das unter dem Sattel des Saeco-Fahrers Gerrit Glomser hängt.
+Das Telefon funkt dann die Leistungsdaten des Österreichers während einer Etappe permanent an Schoberers Computer.
+Noch kämpft der SRM-Entwickler mit gelegentlichen Verbindungsabbrüchen.
+Aber wenn das System steht, sollen die Fernsehzuschauer der ARD live am Bildschirm mitverfolgen können, mit welcher Leistung der Österreicher Glomser tritt, wie schnell er rollt und wie schnell sein Herz schlägt.
+Auf Eurosport gibt's zwar keine Wattzahlen zu sehen, dafür aber immerhin den Herzschlag einiger Fahrer.
+Die Herzfrequenz ist neben der getretenen Leistung einer der wichtigsten Trainingsparameter - im Leistungssport schon seit Jahrzehnten, unter Amateuren seit einigen Jahren.

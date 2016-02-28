@@ -1,0 +1,23 @@
+Zum ersten Mal ist es Forschern gelungen, einen Computerchip als Ersatz für ein Stück Gehirn zu verwenden.
+Die Prothese verarbeitet Impulse lebender Nervenzellen eines Rattenhirns und leitet sie an andere Zellen weiter.
+Eines Tages könnte der Chip Patienten mit beschädigtem Gehirn helfen.
+Die Prothese besteht aus einem Computerchip und vielen kleinen Sensoren, die die Verbindung zu den umliegenden Nervenzellen sicherstellen.
+Schon seit Jahren tüftelt das Team um Berger an dem Chip, der einen Teil des so genannten Hippocampus imitieren soll.
+Mithilfe vieler kleiner Sensoren zeichneten die Hirnforscher die Signalverarbeitung eines lebenden Hippocampus auf und entwickelten daraus ein mathematisches Modell, das in das Chip-Design einfloss.
+Denn beim Treffen der Society for Neuroscience in San Diego berichtete Berger über den ersten geglückten Test des Chips an lebendem Gewebe.
+Die Wissenschaftler schnitten einen zentralen Teil des Hippocampus aus Rattengehirnen heraus und versorgten das lebende Gewebe über ein feines Elektrodennetz mit Impulsen.
+Die von dem intakten Gewebe und der Hippocampus-Prothese produzierten Signale passten in Intensität, zeitlichem Verlauf und statistisch zueinander, so Berger.
+Die Region des Hippocampus ist für Hirnforscher von besonderem Interesse, weil sie eine zentrale Rolle bei der Überführung von Inhalten aus dem Kurzzeitin das Langzeitgedächtnis spielt.
+Die Gehirnprothese könnte eines Tages Alzheimerpatienten helfen, bei denen der Hippocampus angegriffen ist und die Gedächtnisleistung immer mehr abnimmt, hofft Berger.
+Auch bei Unfallopfern oder Schlaganfallpatienten soll der Chip geschädigtes Hirngewebe ersetzen.
+An einen baldigen Einsatz der Prothese beim Menschen ist jedoch noch nicht zu denken.
+Zunächst wollen die Hirnforscher den Chip ins Gehirn einer lebenden Ratte einsetzen.
+Sie hoffen, dass dies innerhalb der nächsten drei Jahre gelingt.
+Gleichzeitig will das Team um Berger ein mathematisches Modell für den Hippocampus von Primaten entwickeln, das auch Versuche mit Affen ermöglichen würde.
+Ob ein Chip geschädigtes Gehirngewebe tatsächlich vollständig ersetzen kann, ist noch umstritten.
+Diese könne der Chip nicht ersetzen, weil er nur lokale Verbindungen knüpfe.
+Mit der Verkabelung des Gehirns beschäftigt sich nicht nur das Team um Berger.
+Hirnforscher versuchen schon länger Befehle aus dem Hirn zur Steuerung von Robotergliedmaßen zu nutzen, etwa bei Patienten mit Amputationen.
+Erst vor wenigen Tagen meldete das US-Unternehmen Cyberkinetics, dass ein Querschnittsgelähmter allein kraft seiner Gedanken E-Mails verschickt habe.
+Die Forscher hatten dem 25-Jährigen einen Chip ins Hirn eingepflanzt, der die Signale von 100 Neuronen an einen Rechner weiterleitete.
+Der Mann konnte nicht nur seine E-Mails abrufen, sondern auch am Computer spielen und durch Fernsehprogramme zappen.

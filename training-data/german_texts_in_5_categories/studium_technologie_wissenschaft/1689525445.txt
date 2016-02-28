@@ -1,0 +1,29 @@
+Bilder lügen immer schon, ob auf der Leinwand oder auf Papier.
+Retuscheure, vor allem aber Computerprogramme wie Photoshop haben das Publikum mittlerweile an den Gedanken gewöhnt, dass ein Foto, so echt es aussieht, nicht unbedingt wahrhaftig ist.
+Die Haut der Models erscheint reiner, als sie je war, der Himmel blauer; Menschen lassen sich aus Bildern wegzaubern oder auf vollkommene Weise in eine fremde Szenerie montieren.
+Aber nun ist auch die wohl letzte Bastion augenscheinlicher Authentizität gefallen: Nicht einmal ungeschnittenes, scheinbar objektives Videomaterial ist vor digitaler Manipulation sicher.
+Wenn Susan Stahnke ihre Lust an der Darmspiegelung offenbarte, dann war für all die Peinlichkeit niemand verantwortlich außer sie selbst.
+Von jetzt an sind Zweifel erlaubt - und vielleicht sogar geboten.
+Schuld daran ist Tony Ezzat, 30, Doktorand am berühmten Massachusetts Institute of Technology (MIT) in Cambridge bei Boston.
+Als eine Art Computer-Hexer hat Ezzat die Macht, Menschen am Bildschirm beliebige Worte in den Mund zu schieben - Worte, die dieser Mensch womöglich nie benutzt hat und auch niemals benutzt hätte.
+Das Produkt sieht aus wie gefilmter Film - aber es ist keiner.
+Wenn Ezzat wollte, dann könnte bald ein Video auftauchen, auf dem Helmut Kohl seine Spender nennt; oder eines, in dem O. J. Simpson verkündet, seine Frau ermordet zu haben.
+Rudolf Scharping könnte auf Spanisch Liebesverse säuseln, der Papst den Zölibat verfluchen und das ZDF mit Marilyn Monroe die Tradition der Fernsehansagerinnen wiederbeleben.
+Ezzats Technik der vollautomatischen Bildmanipulation eröffnet neue Horizonte - für Computerspiele und Spielfilme, aber auch für politische Propaganda, Bloßstellung und Demontage öffentlicher Personen, für Erpressung und Betrug.
+Und Verschwörungstheoretiker könnten schon bald scheinbar überzeugende Videobeweise vorlegen für wahnwitzige Konstruktionen, etwa über die Hintergründe der Anschläge vom 11. September.
+Mit Firmen aus der Unterhaltungsbranche jedoch stehe er bereits in konkreten Gesprächen.
+Noch sind die Möglichkeiten der Software begrenzt.
+Sie funktioniert nur, wenn der dargestellte Mensch seinen Kopf ruhig hält.
+Auch Perspektivwechsel der Kamera lassen die Animation ersterben.
+Sequenzen, die über ein, zwei Sätze hinausgehen, wirken weniger real, da das Gesicht als zu starr und unemotional erscheint.
+Ezzats Software kann ein Gesicht zwar optisch präzise neue Sätze sprechen lassen, sie kopiert jedoch nicht die Stimme.
+Um etwa Helmut Kohls Stimme und Sprechweise in ein Geständnis-Video einzubauen, müsste Ezzat im Augenblick noch Sprachsoftware anderer Universitäten einbeziehen.
+Tomaso Poggio, Ezzats Doktorvater am MIT, glaubt jedoch, dass wechselnde Perspektiven und die Integration perfekt simulierter Sprache in die Software nicht lange auf sich warten lassen werden.
+Ezzat braucht nicht viel, um zum Beispiel Gerhard Schröders Mund auf die gleiche Weise zu bewegen, wie Schröder selbst es tun würde.
+Zwei bis vier Minuten Videomaterial einer Rede vor dem Bundestag wären schon genug.
+Aus solchen kurzen Videoaufnahmen extrahiert er für jeden charakteristischen Laut eine kennzeichnende Mundbewegung; ein Katalog von nur 46 Mund-Bildern reicht ihm aus.
+Dann bringt er dem Computer bei, nach welchem Algorithmus sich der Mund verändern soll, wenn er von einem Laut zum anderen wechselt.
+Am Ende schließlich kann Ezzat einen Text in den Computer tippen, den ein Digital-Schröder sodann automatisch mit korrekten Lippenbewegungen vortragen könnte.
+Lässt er dann noch einen guten Stimmenimitator den entsprechenden Text aufsagen, könnte Ezzat das überzeugende Video einer Rücktrittserklärung des Kanzlers in wenigen Tagen zu Wege bringen.
+Ein Bilderfälscher hätte im Video zudem für eine leicht düstere Atmosphäre gesorgt, denn in ihr lassen sich Hinweise auf veränderte Bilder am besten verbergen.
+Das Bin-Laden-Video hingegen war durchgängig hell.

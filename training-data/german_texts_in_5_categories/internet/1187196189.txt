@@ -1,0 +1,59 @@
+Microsoft wird rufen, und alle werden kommen.
+Dabei finden sich interessante Office-Lösungen längst auch jenseits von Microsoft.
+Millionen von Windows-Nutzern kribbelt es schon in den Fingern.
+Die fiebrige Erwartung, mit der die einschlägigen Zeitschriften und Fansites den Geburtsprozess der neuen Officeversion von Microsoft schon seit Monaten begleiten, lässt Erinnerungen an die Hofberichterstattung früherer Jahrhunderte wach werden.
+Vielleicht rücken die Marginalien so sehr in den Mittelpunkt, weil es im Kernbereich der Software kaum wesentliche Neuerungen gibt.
+Das Textprogramm Word ist ein bisschen internetfähiger geworden, der Organizer Outlook zeigt die Mails statt in zwei jetzt in drei Spalten.
+Microsoft implementiert - auch um sich vom Monopolverdacht zu befreien - zaghaft offene Standards wie das XML-Format beim Speichern von Dokumenten.
+Und doch: Die Neugier der Fangemeinde ist groß.
+Wie schon bei der aktuellen XP-Version will Microsoft die nächste Vorabversion für Geld unter die Leute bringen.
+Und kann sich des Erfolgs gewiss sein.
+Nicht unähnlich dem Saugen des neuen Supermovies aus den USA, bevor der Film in die deutschen Kinos kommt.
+Professionelle Office-Kunden wie die Software-Einkäufer in den Firmen haben schon auf die letzte Office-Version eher zögerlich reagiert.
+Die Notwendigkeit zum Update leuchtete vielen nicht ein.
+Nach einer jüngsten Studie der Giga Information Group läuft XP auf gerade mal 11,4 Prozent der über eine Million deutschen Firmen-PCs.
+Mehr als 80 Prozent werkeln weiterhin mit einer Vorversion.
+Die Programme sind auf einen enormen Funktionsumfang angewachsen, lesen dem Nutzer fast jeden Wunsch von den Augen ab.
+Und doch: Findige Entwickler zeigen dem Branchenriesen in manchen Punkten, dass bei der Office-Entwicklung das Ende der Fahnenstange noch lange nicht erreicht ist.
+Wo ein echtes Microsoft Office gerne ein paar Hundert MB auf der Platte belegt, sind es bei Papyrus nur etwas mehr als sieben.
+Entsprechend fix ist das Programm geladen.
+Und weil sich die Software im Speicher zurückhält, ist dort mehr Platz für Dokumente.
+Gerade im Umgang mit umfangreichen Oeuvres auf betagteren Rechnern zeigt Papyrus seine Stärken.
+Papyrus, so versichert die Dokumentation, niste sich nirgendwo im Rechner ungewollt ein, spioniere nicht und ließe sich notfalls auch als einzelne Datei papyrus.exe von CD starten.
+Mit bewusster Offenheit nennen die Entwickler auch die Schwachstellen ihres Office, gemischt mit einer Portion Häme in Richtung Mammut-Pakete: Nein, eine Bildbearbeitung werde nicht mitgeliefert - da gebe es ja schließlich genug andere gute Programme.
+Bei dieser Konzentration auf das Wesentliche kommt das Look-and-Feel der Papyrus-Oberfläche allerdings auch ein wenig hausbacken daher.
+Ein bisschen, als wäre die Zeit mit der Einführung der ersten grafischen Benutzeroberflächen stehen geblieben.
+Doch wem Funktion wichtiger ist als Form, der bekommt ein schnörkelloses Office, das von Fußnoten bis zum Serienbrief, von der Rechtschreibkorrektur bis zur Datenbank für die Literaturverwaltung alles Wichtige zu bieten hat.
+Vergleichsweise bescheiden nimmt sich auch der Preis für die ägyptische Schreibwerkstatt aus.
+Mit 129 Euro reißt das Programm kein allzu großes Loch in den Geldbeutel.
+Man wird sehen, ob sich R.O.M. Logicware mit ihrem Ansatz des Ehrlich-Office weiter halten kann.
+Doch die Firma hat gelernt: Seit 1997 gibt es Papyrus für Windows, eine Apple-Version mit Aqua-Unterstützung ist fast fertig.
+Nur mit Linux tun sich die Berliner schwer.
+Auf dem Markt der Freien Betriebssysteme ist die Konkurrenz allerdings auch nicht eben leicht zu schlagen.
+Die Firma Sun hat das ursprünglich deutsche StarOffice aufgekauft und der Programmiergemeinde als OpenOffice zur Weiterentwicklung übereignet.
+Sun behält sich das Recht vor, aus den Ergebnissen der Programmierarbeit in unregelmäßigen Abständen Pakete zu schnüren und diese als StarOffice weiter zu vermarkten.
+StarOffice verhält sich zu OpenOffice ganz ähnlich wie der Browser Netscape zum Projekt Mozilla.
+Für Firmen mag sich StarOffice wegen des verfügbaren Supports lohnen, der Privatanwender ist mit OpenOffice besser bedient.
+Wer mag, kann den Programmiercode von OpenOffice frei einsehen.
+Eine Armee fleißiger Entwickler auf der ganzen Welt tut das auch.
+Die polieren langsam, aber sorgfältig - meist in ihrer Freizeit - die Ecken und Kanten der Software und befreien sie von Fehlern.
+So enthält das Programm auch mit aller Wahrscheinlichkeit keine Schnüffelprogramme, denn die würden den wachsamen Augen der Quellcode-Hacker schnell auffallen.
+Neben dieser Sicherheit vor ungeliebten Hintertürchen ist der schlagende Vorteil für das offene Büropaket selbstredend der Preis.
+OpenOffice ist schlicht kostenlos.
+Allerdings: Openoffice ist auch sperrig.
+Zumindest deutlich umfangreicher als etwa Papyrus. 50 MB wollen aus dem Netz auf die eigene Platte gesogen sein, bevor man den ersten Text schreiben kann.
+Da lohnt es sich für manchen zu warten, bis eine der zahlreichen Computerzeitschriften die Software auf einer CD beilegt.
+Eine umstrittene Philosophie der Uranwendung StarOffice haben die OpenOffice-Entwickler beibehalten: Die Anwendungen des Pakets sind extrem eng verzahnt.
+Wenn der Serienbrief abstürzt, reißt er dann eben auch die Kostenabrechnung des Kalkulationsprogramms mit in den Orkus.
+Im Gegensatz zum wirklich alternativen Ansatz des Papyrus-Office dackelt OpenOffice immer ein wenig Microsoft hinterher.
+Der Vergleich mit Mozilla greift auch hier: Die großen Innovationsschritte drückt Microsoft mit seiner gigantischen Marktmacht durch.
+Für die freien Entwickler bleiben eher marginale Verbesserungen wie das Anspringen von Links, indem der Nutzer die Buchstaben des verlinkten Texts eintippt.
+Eine große Ausnahme ist die Unterstützung des offenen XML-Formats beim Speichern der Dateien.
+Da ist OpenOffice konsequent und der Konkurrenz aus dem Hause Microsoft um Längen voraus.
+Naturgemäß kennt das offene Office auch keine Scheu vor Linux: Alle wichtigen IT-Plattformen von Windows über Linux bis zu Mac OS X werden unterstützt.
+Bis aus OpenOffice eine ernstzunehmende Konkurrenz für Microsoft wird, könnte es schon zu spät sein.
+In den Punkten konsequente Nutzerführung, Absturzsicherheit und Netzwerkunterstützung haben die Microsoft-Programme auch wegen ihres Heimvorteils zumindest unter Windows die Nase vorn.
+Doch die Freie Community sitzt dem Softwareriesen im Nacken.
+Wer sich berufen fühlt, bei der Entwicklung mitzumachen, sollte nach der Cebit von Hannover gleich nach Hamburg weiter reisen.
+Dort findet ab dem 20. März die Entwicklertagung für OppenOffice statt.
+Dann kann die Programmiergemeinde entscheiden, welche Features des neuen Microsoft Office es wert sind, auch ins OpenOffice übernommen zu werden.

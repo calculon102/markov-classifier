@@ -1,0 +1,20 @@
+Wer im Internet nach Gehaltvollem sucht, bekommt endlich Hilfe: Google bietet einen Suchdienst für wissenschaftliche Inhalte an.
+Das Zeug zum Trüffelschwein für Wissenswertes hat Google schon lange: Die Suchmaschine ordnet den Stellenwert von Internetseiten anhand ihrer Prominenz im World Wide Web.
+Je mehr Links auf eine Seite verweisen, desto höher tauchte sie in den Suchergebnissen auf.
+Auf den ersten Blick ist das wie geschaffen für die Wissenschaft.
+Wichtige Studien, verfasst von Koryphäen und erschienen in renommierten Magazinen, werden zum Teil über Jahrzehnte immer wieder von späteren Untersuchungen zitiert.
+Das Problem: Wer interessiert sich schon für wissenschaftliche Studien?
+Gemessen an Sex-, Spaß- und Serviceseiten ziehen Forschungsberichte eine zahlenmäßig winzige Leserschaft an - und gehören damit zu den Seiten des so genannten verborgenen Webs, das von den großen Suchmaschinen nicht als wichtig eingestuft wird.
+Zudem sind zahlreiche wissenschaftliche Publikationen nur gegen Geld oder überhaupt nicht online verfügbar.
+Google Scholar soll das Problem endlich lösen.
+Im Unterschied zur allgemeinen Suchmaschine achtet der Wissenschaftsdienst nicht in erster Linie auf Links von und zu anderen Webseiten, sondern analysiert die obligate Literaturliste am Ende des Textes.
+Ausschlaggebend für eine prominente Position in den Suchergebnissen ist zudem nicht nur die schiere Zahl, sondern auch die Qualität von Fremdverweisen auf den betreffenden Artikel.
+Und siehe da: Google Scholar informiert zuoberst über Physiologie und Pathologie von Stickoxid im männlichen Geschlechtsteil, Google über die Verlängerung desselben.
+Empfehlenswert ist, sich bei Suchanfragen auf die englische Sprache zu konzentrieren.
+Auf Englisch dagegen findet man meist Fachartikel im PDF-Format.
+Davon haben beide Seiten etwas: Der Suchende bekommt fundierte Ergebnisse, die Verlage potenzielle Kunden.
+Denn Google Scholar verlinkt zwar direkt auf die Artikel auf den Webseiten der Wissenschaftsverlage, doch dort sehen Nicht-Abonnenten nur den Abstract, die Kurzzusammenfassung des Artikels.
+Wer mehr will, muss zahlen.
+Die Suchmaschine findet die Artikel, die sich Verlage auf ihren eigenen Seiten teuer bezahlen lassen, auch anderswo - etwa auf den privaten Homepages von Wissenschaftlern.
+Und da gibt es sie meist gratis.
+Suchdienste: Harte Zeiten für Google (18.11.2004) Angriff auf Google: Jetzt sucht Microsoft mit (12.11.2004) Web-Gerüchte: Google + Firefox = Watsche für Microsoft?

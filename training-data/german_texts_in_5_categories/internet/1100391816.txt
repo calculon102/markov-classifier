@@ -1,0 +1,21 @@
+Richterin Collee McMahon folgt den Ausführungen der klageführenden Anwälte aufmerksam.
+Die British Telecom (BT) möchte in einem Verfahren gegen den US-Internetprovider Prodigy klären, ob mit der Verlinkung von Webseiten durch einen HTML-Hyperlink nicht Patentrechte verletzt werden.
+Der BT geht es dabei um Lizenzzahlungen für ein Patent aus dem Jahre 1976, welches erst 1989 in den USA eingetragen wurde und noch bis 2006 Schutzwirkung hat.
+Das US-Patent mit der Nummer 4,873,662 beschreibt ein System, bei der ein Druck auf die Taste eines Computerterminals bewirkt, dass ein neuer Bildschirminhalt aufgerufen wird.
+Wie bei einem Hyperlink also, oder nicht?
+Als vergleiche man also eine ausgestorbene Elefantenart mit einem Flugzeug.
+Zulässig ist die Klage gegen den amerikanischen Provider dennoch.
+Denn anders als in Europa sind den USA die Patentrechte der BT noch nicht erloschen.
+Für das Patent habe sich bisher nur niemand interessiert.
+Die farbige Unterlegung von Hyperlinks zum Beispiel wurde eigentlich in einem Patent der Firma Lockheed Martin gut beschrieben.
+Die aktuelle Technik des Internet-Explorer liegt so nahe am Patent, dass ein Deal zwischen Microsoft und IBM vermutet werden könnte.
+Gelten die Fundamente des World Wide Web noch als weitgehend patentfreie Zone, ist die technische Fortentwicklung des Netzes ohne Berührung von Patenten heute gänzlich unmöglich.
+Zahllose proprietäre Dateiformate tummeln sich bereits im Netz.
+Bei XML, der wichtigen künftigen Dokumentsprache, tauchte ein Patent der Firma Sun auf, das in seiner Wirkung ähnlich der Kombination aus HTML-Hyperlink plus Textanker war.
+Doch die Einräumung einer ungewöhnlich freizügigen Lizenz löste das Problem umfassend.
+Die umstrittenen Softwarepatente erzeugen aber eine dramatische Einschränkung kreativen Freiraums, die Innovation verhindert und freien Programmierern das Leben schwer macht.
+Die Sorge um Patente und Lizenzgebühren brachte das W3C-Konsortium, zuständig für die Festlegung der Webstandards, zur Festlegung einer einheitlichen Vorgehensweise.
+Die Patenthalter werden aufgefordert, Lizenzbedingungen so zu lockern, dass Techniken umsonst oder zu geringen Gebühren für das Internet zur Verfügung stehen.
+Viele betrachten diese Entwicklung mit Argwohn, befürchten eine Kostenexplosion für das Surfen im Web, kritisieren die unmittelbare Mitwirkung großer Namen der Software-Branche an der Entwicklung künftiger Lizenzmodelle.
+Doch erst die Verbreitung einer Technik oder eines Datenformats über das Internet, kostenlos für den Abrufer der Daten, sorgt für eine weltweite Verbreitung.
+Die Rechnung dafür zahlen, wie bisher, die Ersteller der Webseiten oder die Serverbetreiber.

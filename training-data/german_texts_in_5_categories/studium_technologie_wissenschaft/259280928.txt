@@ -1,0 +1,26 @@
+Zumeist fragt man sich, wie Spammer mit ihrem Werbemüll eigentlich Geld verdienen können.
+Der Brief sieht echt aus: Oben prangt das Signet des Unternehmens, darunter ein blauer Balken im genau richtigen Farbton.
+Was dann jedoch folgt, riecht nach Betrug: Die bekannte Firma PayPal, will uns diese Mail weismachen, bittet uns darum, unseren Nutzer-Account auf den letzten Stand zu bringen.
+Zu diesem Zwecke solle man doch bitte schön seine E-Mail-Adresse und seine Kreditkartendaten in ein hübsch gestaltetes Formular eingeben.
+PayPal ist eine Tochterfirma von eBay und wickelt für das Auktionshaus Zahlungen ab.
+Dass die Daten, die man über die Fake-Mail versendet, wirklich bei PayPal landen, dürfte so gut wie ausgeschlossen sein.
+Die Redaktion von SPIEGEL ONLINE erreichte der Brief gleich massenweise, unter zahlreichen Adressen.
+Nicht alle von diesen sind tatsächlich existenten Adressaten zuzuordnen.
+Das riecht nach einem Bug: Die Adressen sind wohl automatisch generiert; erst wenn man darauf antwortet, erfährt der Versender, ob sie funktionieren oder nicht.
+Im schlimmsten Fall erfährt er dann ganz nebenbei auch die Kreditkartennummer.
+Kein seriöses Unternehmen, das mit Finanzdienstleistungen im Internet zu tun hat, fragt Kreditkartendaten ab, ohne diese Abfrage mit einem sichernden Protokoll zu schützen.
+E-Mail ist der denkbar schlechteste Weg, Klardaten zu versenden.
+Die Mail gibt zwar an, die Daten würden mit einem 128-Bit-Schlüssel gesichert.
+Gleichzeitig wendet sie sich aber zum Teil an User, die mit Sicherheit nicht als Kunden registriert sind: Das würde an ein Wunder grenzen, denn dann wäre die automatische Leserbrief-Beantwortung von SPIEGEL ONLINE eBays größter Kunde.
+Die Anfrage steht im offenen Widerspruch zu den Sicherheitsrichtlinien von PayPal.
+Das amerikanische Unternehmen legt auf diese allerhöchsten Sicherheitsstandards Wert.
+Auf seiner Website warnt es explizit vor E-Mails, die auch nur nach dem Usernamen eines Mail-Empfängers fragen.
+Alle die User-Accounts betreffenden Angaben sollten nur über die Website gemacht werden - und eben nicht per E-Mail.
+Vor der Beantwortung der PayPal-Mail kann also nur gewarnt werden.
+Für die meisten User ist das selbstverständlich: Ein Unternehmen, das solche Daten wirklich per E-Mail bei seinen Kunden abfragte, hätte allenfalls eine umgehende Kündigung verdient.
+Doch auch hier zieht das Spam-Prinzip: Es reicht den Versendern, wenn nur einige Promille der Angeschriebenen antworten, um massive Schäden zu verursachen und damit erkleckliche Profite zu erwirtschaften.
+Im spezifischen Fall würde der Spammer sogar gleich dreimal verdienen: an der generierten Adresse, an Einkäufen via PayPal und an Geldabhebungen via Kreditkarte.
+Damit steigt die Gefahr, dass sich die Angespammten tatsächlich angesprochen fühlen.
+PS: Eine erste Welle solcher PayPal-Mails kursierte zwischen dem 17. und 23. Mai.
+Zur Ansicht und Dokumentation: Die angebliche PayPal-Mail im Wortlaut.
+Dagegen: Die entsprechenden Sicherheitsrichtlinien von PayPal.

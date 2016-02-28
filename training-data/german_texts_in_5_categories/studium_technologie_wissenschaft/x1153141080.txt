@@ -1,0 +1,31 @@
+Ein russischer Wissenschaftler hat offenbar eines der sieben großen Rätsel der Mathematik gelöst: die Poincaré-Vermutung, an der sich Generationen von Rechenkünstlern die Zähne ausgebissen haben.
+Grigory Perelman könnte nun eine Million Dollar Preisgeld kassieren - aber er scheint nicht interessiert.
+DDP Fußball: Wie lässt sich seine Oberfläche in einer höheren Dimension beschreiben?
+Was unterscheidet einen Fußball von einem Fahrradschlauch?
+Wer dieses so genannte Poincaré-Problem mathematisch schlüssig lösen kann, bekommt einen Haufen Geld.
+Die Frage gehört zu den sieben Millenniums-Fragen der Mathematik, für deren Beantwortung der Bostoner Geschäftsmann Landon Clay ein Preisgeld von jeweils einer Million Dollar ausgelobt hat.
+Voraussetzung für den Erhalt des Schecks ist, dass das Ergebnis in einer Fachzeitschrift veröffentlicht wird und dann zwei Jahre lang den Überprüfungen von Fachleuten standhält.
+Letztere Bedingung hat ein russischer Mathematiker annähernd erfüllt: Grigory Perelman von der Universität Sankt Petersburg hat Ende 2002 ein Rechenwerk veröffentlicht, von dem er später behauptete, es enthalte die Lösung des Poincaré-Problems.
+Allerdings stellte er die Gleichungen ins Internet, anstatt sie einem Fachblatt anzubieten.
+Dennoch versuchten Rechenkünstler, Perelmans Gleichungen zu widerlegen - bislang ohne Erfolg.
+Die Poincaré-Vermutung wurde 1904 vom französischen Physiker und Mathematiker Henri Poincaré aufgestellt.
+Experten umschreiben sie mit dem Vergleich einer Kugel mit einem so genannten Torus - einem ringförmigen Objekt wie etwa einem Fahrradschlauch oder einem Rettungsring.
+Umschlingt man eine Kugel mit einem Seil, könnte man es theoretisch so weit zusammenziehen, bis es aus nur noch einem Punkt besteht - ohne, dass es die Oberfläche der Kugel verlässt.
+Bei einem Torus funktioniert das nicht.
+Schlingt man das Seil um einen Fahrradschlauch, wird man ihn allenfalls zerquetschen.
+Das Seil wird nie aus einem einzigen Punkt bestehen, sondern stets die Oberfläche des Torus verlassen.
+Der Ring unterscheidet sich deshalb aus mathematischer Sicht grundsätzlich von einer Kugel.
+Für den konkreten Fall der zweidimensionalen Oberfläche eines dreidimensionalen Objekts hat Poincaré selbst seine Theorie anschaulich bewiesen - und die Vermutung aufgestellt, dass dies auch für Oberflächen höherer Dimensionen möglich sein müsste.
+Das wurde später fast durchgehend bestätigt - mit Ausnahme ausgerechnet der dreidimensionalen Oberflächen vierdimensionaler Objekte, was unter anderem neue Erkenntnisse über die Topologie des Universums ermöglichen könnte.
+Jahrhundertfrage nebenbei beantwortet?
+Erst nach einigen Wochen dämmerte seinen Kollegen, was sie da in digitaler Form vor sich sahen.
+Die Millennium-Frage hat das Mathe-Genie offenbar en passant gelöst.
+Es war lediglich ein kleiner Baustein, den er für seine Beweiskette benötigte.
+Der Stanford-Mathematiker Keith Devlin sagte auf der Jahrestagung der British Association for the Advancement of Science, dass Perelmans Ergebnisse korrekt zu sein scheinen.
+Das Problem sei nur, dass der Russe sich weigere, mit irgendjemanden darüber zu sprechen.
+Die Veröffentlichung in einem Fachblatt bleibt der Mathematiker ebenfalls schuldig.
+Die Fachkollegen grübeln noch über die Beweisführung, während Perelman sich weiterhin im Sankt Petersburger Steklov-Institut verschanzt.
+Weltweit seien etwa zehn Spitzenkräfte damit beschäftigt, die Ergebnisse zu überprüfen und fehlende Elemente zu bearbeiten, sagte die Mathematikerin Ursula Hamenstädt von der Uni Bonn im Gespräch mit SPIEGEL ONLINE.
+Es werde noch Monate dauern, bis man alles niedergeschrieben habe.
+Und Behauptungen aufzustellen scheint nicht dem Naturell des Russen zu entsprechen.
+Auch nicht, wenn es dabei um eine Million Dollar geht.

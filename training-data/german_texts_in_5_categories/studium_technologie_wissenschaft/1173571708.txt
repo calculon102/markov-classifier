@@ -1,0 +1,25 @@
+Sasser.A zeigt, wie PC-Viren künftig gestrickt sein werden: Sie erschnüffeln Sicherheitslücken, ohne dass der Nutzer selbst noch Fehler begehen müsste.
+Trend Nummer Zwei: Statt zu zerstören, spionieren, schnüffeln oder stehlen sie - oder nisten sich auf dem Rechner ein wie ein Parasit.
+Sasser.A geht um, verbreitet sich mit noch moderatem, aber angeblich steigendem Tempo und könnte das Potenzial haben, zur nächsten großen Virenwelle anzuwachsen.
+Mehrere Millionen Rechner in aller Welt, berichteten am Sonntag die Nachrichtenagenturen, gestützt auf Angaben der führenden IT-Sicherheitsunternehmen, seien bereits infiziert.
+Jeden mit dem Internet verbundenen, von den Windows-Betriebssystemen 2000 oder XP beseelten Rechner könne es erwischen, und man müsse noch nicht einmal eine E-Mail dafür öffnen.
+Sasser führt einen Buffer-Overflow herbei und erhält in der Folge die Kontrolle über den Port 9996.
+Danach lädt Sasser die eigentliche Virendatei per FTP aus dem Internet.
+Der befallene Rechner öffnet zudem TCP-Port 5554, über den er alle FTP-Anfragen von anderen infizierten Remote-Systemen akzeptiert.
+Salopp übersetzt: Sasser besteht aus zwei Teilen.
+Nach Download des eigentlichen Virenprogrammes hat Sasser mehr oder minder die Kontrolle über den Rechner: Jetzt könnte der Virenautor am anderen Ende damit beginnen, den Rechner auszuspionieren oder für seine Zwecke zu missbrauchen.
+Sasser: Ein Trendsetter?
+Was so abstrakt klingt, treibt EDV-Wächtern den Schweiß auf die Stirn.
+Schäden verursacht der Virenautor von Welt künftig allenfalls mit Hilfe des befallenen Rechners.
+Schon besser programmiert ist da der wenige Tage später aufgetretene Sasser.A - auch, wenn dessen Verbreitungsroutine noch alles andere als effektiv ist.
+Was eine wirklich fatale Virenwelle von Sasser verhindern könnte ist, dass sich der Wurm selbst ausbremst.
+Die Verbreitungsgeschwindigkeit über das Internet bleibt nach Auskunft aller führenden IT-Sicherheitsunternehmen hinter den ursprünglichen Befürchtungen zurück: Sasser ist ein potenzieller Killer, aber ein kriechender.
+Unternehmen mit aktuellem Virenschutz und funktionierender, aktueller Firewall sollten vor Sasser-Attacken gut geschützt sein, größere Schäden erwartet man bei Heimanwendern.
+Die können sich durch den Download aktueller Sicherheitspatches von Microsoft schützen: Das Software-Großunternehmen hat bereits mit einer Sasser-Sonderseite auf die neue Bedrohung reagiert (siehe Linkkasten).
+Riskant könnte es noch einmal werden, wenn nach dem Wochenende Mitarbeiter ihre Laptops ins Firmennetzwerk einloggen: Innerhalb lokaler Netzwerke verbreitet sich Sasser sehr schnell und effektiv.
+Angeblich wurden schon Rechner mehrerer großer Unternehmen infiziert, sagen Network Associates, Trend Micro und Symantec.
+Welche Unternehmen betroffen sind, wird in der Regel nicht bekannt gegeben.
+Unbetroffen von Sasser.A sind die Windows-Systeme 95, 98 und NT.
+Wie zumeist geht die Virenwelle auch an den Nutzern von Linux, Unix, MacOS und anderen alternativen Betriebssystem spurlos vorbei.
+P.S.: Bereits am Montagmorgen trat mit Sasser.B eine erste Variante auf, die sich schneller als die erste verbreitet.
+Laut Trend-Micro-Charts gehören beide Viren bereits zu den zehn derzeit meistverbreiteten Viren der Welt.

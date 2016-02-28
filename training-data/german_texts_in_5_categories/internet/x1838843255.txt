@@ -1,0 +1,20 @@
+Ein Softwareunternehmen aus Herdecke hat ein intelligentes System zur Bewältigung der ständig anwachsenden Menge elektronischer Nachrichten entwickelt.
+Zwischen Unternehmen und ihren Kunden und Partnern ist die elektronische Post zwar ein wichtiges Medium der Kommunikation geworden, aber viele Firmen sind kaum noch in der Lage, die eingehenden Anfragen schnell und zuverlässig zuzuordnen.
+Da ist es keine Ausnahme, wenn die elektronische Anfrage zu lang ungehört verhallt.
+Dabei greifen die Studenten auf Ergebnisse der Hirnforschung zurück, die von dem Bocholter Unternehmen Amenotec zu einer mathematischen Theorie weiterentwickelt wurde.
+Computergerechte Algorithmen sollen die Funktionsweise des Gehirns auf ein künstliches neuronales Netz abbilden.
+Die Technologie erweist sich immer dann als besonders erfolgreich, wenn komplexe Suchfunktionen in umfangreichen Datenbeständen durchgeführt werden müssen.
+Amenotec stellt seinen Geschäftspartnern lediglich die Basistechnologie zur Verfügung, die dann für die Entwicklung der konkreten Anwendung verwendet wird.
+Die Zuverlässigkeit der mathematischen Algorithmen hat auch die Gründer von im-brain zur Zusammenarbeit mit der Bocholter Firma bewegt.
+Vor allem die Bearbeitungszeit der elektronischen Post soll mit ihrer Software dramatisch verkürzt werden.
+Viele Mitarbeiter verbringen einen Großteil ihrer Arbeitszeit mit der Beantwortung von Anfragen, und das kostet für einen einzigen Vorgang bis zu 20 Euro.
+So soll die Bearbeitungszeit um mindestens 50 Prozent reduziert werden.
+Im-brain assoziiert Begriffe und Textinhalte und wird mit Texten aus der Praxis angelernt.
+Die alleinige Suche nach Stichworten kann in unterschiedlichen Zusammenhängen zu verfälschenden Ergebnissen führen.
+Begriffe und Textinhalte werden assoziiert und wie im menschlichen Gehirn organisiert.
+Die Software soll unabhängig von sprachlicher Qualität und Fehlerquote der E-Mails arbeiten.
+Das ist auch notwendig, denn kaum ein Kommunikationsmedium wird so unterschiedlich verwendet wie die elektronische Post.
+Manche Mails sind so klar strukturiert wie ein klassischer Brief, andere dagegen eher schlampig formuliert.
+Bei keinem Medium ist die Hemmschwelle so niedrig, die Regeln der deutschen Sprache zu ignorieren.
+Doch das System hat auch Grenzen: Wenn gleich mehrere Anliegen in einer E-Mail formuliert werden und sich dies auch noch im Text vermischt, gerät im-brain immer noch in Schwierigkeiten.
+Diese Einschränkung wollen die Entwickler auf jeden Fall beheben, bevor die ersten Module ausgeliefert werden.

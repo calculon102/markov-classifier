@@ -1,0 +1,34 @@
+Telefongespräche über das Internet gibt es seit Jahren, im Kundenmarkt konnten sie sich bisher nicht durchsetzen.
+Jetzt kommt KaZaA-Gründer Niklas Zennström mit einer P2P-Lösung.
+Wie viele Nutzer KaZaA tatsächlich hat, weiß kein Mensch.
+Es gibt Schätzungen, die auf den Downloadzahlen des Programmes basieren.
+Bei einer dreistelligen Millionenzahl landet man in jedem Fall.
+Und das ist sichtbar: Zu jedem gegebenen Zeitpunkt sind über das KaZaA-eigene FastTrack-Netzwerk rund vier Millionen User verbunden.
+Ein gigantisches Potenzial für Geschäfte oder dafür, anderen das Geschäft zu vermiesen.
+Genau das wirft die Musik- und zunehmend auch Filmindustrie KaZaA vor.
+Der neueste Vorstoß in neue Märkte ist Skype, eine weitere Gründung des ursprünglichen, estisch-schwedischen KaZaA-Teams.
+Wieder stehen Niklas Zennström und Janus Friis der Firma vor, wieder programmierten die KaZaA-Erfinder Ahti Heinla, Priit Kasesalu und Jaan Tallinn die Anwendung.
+Das haben schon ganz andere versucht, und ebenfalls mit Internet-Telefonie.
+Diesmal jedoch könnte die Sache anders aussehen.
+Skype fährt im Kielwasser des FastTrack-Netzes und versucht ganz offen, KaZaA-Nutzer abzufischen.
+Das neue Unternehmen wuchert mit dem Pfund KaZaA, ohne mit der P2P-Börse noch etwas zu tun zu haben.
+Gemeinsam haben die beiden P2P-Plattformen allerdings viele Konstruktionsmerkmale: Wie KaZaA schafft auch Skype ein dezentrales, auf so genannte Supernodes aufsetzendes Netzwerk im Internet.
+Für P2P-Fans hat das einen gehörigen Sex-Appeal.
+Die Skype-Macher machen gar keinen Hehl daraus, wieder Rebellen in einem Markt sein zu wollen.
+Das aber, glauben sie, habe seine beste Zeit hinter sich.
+So strickt man an seinem Rebellen-Mythos.
+Tatsächlich scheint IP-Telefonie, das Telefonieren über das Internet, vor einem Durchbruch.
+Im Business-Markt längst eine Nummer, wartet der Consumermarkt allerdings noch auf IP-Lösungen, die kostengünstig und gut auch vom Rechner zum Normal-Telefon funktionieren.
+Denn Skype von Rechner zu Rechner ist kostenlos und reiht sich damit in ein ganzes Umfeld konkurrierender Dienste ein.
+Nicht nur diverse Messenger-Programme, auch kommerzielle Anbieter buhlen um IP-Telefonie-Kunden.
+Kürzlich erst hob MP3.com-Gründer Michael Robertson einen IP-Telefondienst aus der Taufe.
+Doch die Konkurrenz, sagt Skype, ist halt nicht P2P.
+Zentrale Server schränkten das Potenzial der Konkurrenz ein, während ihr Skype seine Stärke gerade aus der Masse der verbundenen User schöpfe.
+Das Finden von Gesprächspartnern läuft wie bei Instant-Messengern über eine Art Buddy-System.
+Es stellt aber deutlich höhere Systemanforderungen: 128 MB Arbeitsspeicher müssen schon sein, ein 400 MhZ-Prozessor sollte verbaut sein und Windows 2000 oder XP sind Pflicht.
+Skype-User aber wissen, dass das Programm mitunter auch unter Windows 98 ganz gut läuft - und äußern sich begeistert.
+Skype verspricht eine Qualität, die sogar besser sein soll, als bei herkömmlichen Telefonaten.
+Das wird von Testern nicht bestätigt, doch gut sei die Sprachqualität allemal.
+Nahezu verblüffend scheint, dass Skype noch nicht einmal einen Breitband-Anschluss brauche.
+Wie KaZaA unterläuft auch Skype - im Gegensatz zu den meisten Konkurrenzprodukten - jede Firmen-Firewall: Da freuen sich die Indianer und die Häuptlinge ärgern sich.
+Zennström und Co mögen das Rad also nicht neu erfunden, aber immerhin eine gute IP-Telefonielösung vorgelegt haben.

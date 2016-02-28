@@ -1,0 +1,23 @@
+Ob Kampfjet-Cockpit-Instrumente von Nvidia oder 3-D-Schlachtfeld-Visualisierungs-Software von SGI, der Hightech-Krieg im Irak und die Terrorangst an der Heimatfront beflügeln die Geschäfte amerikanischer Tech-Unternehmen.
+Immer mehr Silicon-Valley-Firmen hoffen nun ebenfalls auf lukrative Verträge aus dem Pentagon.
+Die Rechnung schien eigentlich ganz einfach.
+Im Irak fliegen die Bomben, bei Technologiefirmen klingeln die Kassen.
+Bester Kunde dabei: die Bush-Regierung, die der Branche bereits im vergangenen Jahr Aufträge in Höhe von 60 Milliarden US-Dollar bescherte.
+Einerseits pumpt die Hightech-Obsession von Rumsfelds Mannen Milliarden in die leeren Kassen von Tech-Unternehmen.
+Andererseits scheint die vom Department of Homeland Security geschürte Terror-Paranoia in den USA und das damit einhergehende neue Sicherheitsbedürfnis der ideale Nährboden für glänzende Geschäfte von IT-Unternehmen.
+Doch Brancheninsider und -beobachter sind sich längst einig, dass dies der gebeutelten Tech-Ökonomie kaum zu einem breiten Aufschwung verhelfen kann.
+Dieser Tritt auf die Euphoriebremse kommt nicht von ungefähr.
+Schließlich bestätigt auch das U.S. General Accounting Office, das für den US-Kongress die Vergabe öffentlicher Mittel prüft, dass bislang nur wenige militärische IT-Großprojekte abgesegnet wurden.
+Dennoch gibt es zahlreiche Hightech-Krisengewinnler.
+Silicon Graphics (SGI) mit Sitz in Mountain View ist ein gutes Beispiel.
+Sicherheits- und verteidigungsrelevante Produkte, insbesondere für das US-Verteidigungsministerium, machen gemäß SGI-Sprecher Greg Slabodkin inzwischen 35 Prozent des Geschäfts aus - rund 15 Prozent mehr als noch vor einem Jahr.
+Doch es gibt auch weit weniger bekannte Profiteure.
+Beim letzten Irak-Krieg vor zwölf Jahren war auf Grund mangelhafter Beschaffungs- und Inventursysteme das Chaos ausgebrochen: Auf Docks im persischen Golf mussten 28.000 Container geöffnet werden, um feststellen zu können, was sich darin befindet.
+Doch allen ökonomischen Verheißungen zum Trotz tun sich längst nicht alle Tech-Unternehmen leicht mit den kriegstreibenden Auftraggebern aus Washington.
+In der San Francisco Bay Area hegt man vielfach sogar ein sehr ambivalentes Verhältnis zu Anti-Terror- und Militär-Technik.
+Andererseits ist die Region um die Bucht von San Francisco keinesfalls nur Heimat unzähliger Tech-Companys, Tüftler und Risikofinanziers, die mit Militärtechnik Kasse machen.
+Vielmehr liegt hier auch das einstige Epizentrum der US-Friedensbewegung, die das Ende des Vietnam-Kriegs einläutete.
+Deutlich wird dieses gespaltene Verhältnis auch bei den Gründern der Firma Wind River Systems.
+Als junge Männer hatten David Wilner und Jerry Fiddler massiv gegen den Vietnam-Krieg opponiert - Fiddler sieht nach wie vor fast wie ein Hippie aus.
+Nichtsdestotrotz beliefert ihr Anfang der achtziger Jahre in einer Garage in Berkeley gestartetes Unternehmen nun hauptsächlich das Militär.
+Im Gegensatz zu Fiddler kann ihm der Zorn verärgerter Militärs auch nicht mehr direkt ökonomisch schaden: Pazifist Wilner hat die gemeinsam gestartete Firma schon vor vier Jahren verlassen.

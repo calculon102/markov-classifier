@@ -1,0 +1,28 @@
+Auf dem Astra-Satelliten 1G läuft die Dauererprobung eines Daten-Pushdienstes in so genannter Casablanca-Technologie.
+Noch ist das ein Experiment - aber eines mit Perspektive: Schon im Juli will die Telekom den Dienst kostenfrei in seine DSL-Dienste integrieren.
+Beteiligt sind Hochschulen in Luxemburg, Frankreich und Italien, und auch die Europäische Weltraumagentur ESA und der Satellitenbetreiber Astra sitzen mit im Boot.
+Jeder, der eine Sat-Anlage mit DVB-S-Karte im PC sein eigen nennt, kann diesen Downstream mit inzwischen 1,8 Megabit Bandbreite über eine kleine Software auf eine eigene Festplattenpartition schaufeln - und das völlig kostenlos.
+Kernstück des Systems ist ein Software-Client, der den eingehenden Datenstrom prüft und in komprimierten Datenpäckchen auf der Festplatte ablegt.
+Was hineinkommt in die tägliche Daten-Endlosschleife, legen die User per Internet fest.
+Das Voting-Modul ist Bestandteil der Casablanca-Software: Jeder Benutzer kann dort für Webseiten oder Newsgroups, die er gerne empfangen würde, seine Stimme abgeben.
+Im italienischen Uploadcenter von Sat@Once laufen die Stimmen ein und werden zusammen mit den Abrufen aus dem Proxycache zu einer Hitparade der via Satellit ausgesendeten Webseiten zusammengestellt.
+Soweit die Theorie, doch gerade das Voting ist bei den Sat@Once-Nutzern heftig umstritten.
+Kaum ein Nutzer glaubt, dass es dabei mit rechten Dingen zugeht.
+Die Votingresultate werden nur unregelmäßig in einem Newsletter veröffentlicht, und es seien auffälligerweise fast immer die gleichen Webangebote, auf die im Newsticker hingewiesen würde.
+Auch technisch ist Sat@Once noch nicht völlig ausgereift.
+Die Einstellung der krummen Transponderfrequenz von 12.603,75 MHz hat schon manchen DVB-Kartenbesitzer in die Verzweiflung getrieben.
+Deutsche User würden sich zudem bessere Filtermöglichkeiten wünschen, denn ein großer Teil der übertragenen Webseiten und Newsgroups im Rahmen des internationalen Experimentes kommen in polnischer, tschechischer und italienischer Sprache daher.
+Noch ist Sat@Once also ein zwar kostenloser Dienst - aber auch einer mit erheblichen Schwächen.
+Aus juristischen Gründen werden keine Files verschickt.
+Im Wesentlichen dominieren Webseiten das Angebot.
+Weder legale Microsoft-Patches noch illegale DVD-Kinofilme kann die heimische Satellitenschüssel auffangen.
+Trotzdem hat der Dienst auch in Deutschland ohne großen Werbeaufwand viele Freunde gefunden.
+Distanziert man sich in der Astra-Zentrale von einem unliebsamen Projekt?
+Distanz gibt es allenfalls bei der Frage der Inhaltauswahl, und für diese ist Astra eben auch nicht verantwortlich.
+In den Casablanca-Newsforen diskutieren Telekom-Mitarbeiter aus der Forschungsabteilung in Berlin fleißig mit.
+Die Beiträge sind stets mit dem Hinweis ausgestattet, dass solche Statements in keiner Weise die Meinung der Telekom wiedergeben.
+Doch die Einlassung, man beobachte hier aus dienstlicher Veranlassung die Stimmungen und Wünsche der Sat@Once-User, gaben dem Gerücht, die Telekom denke über eine Integration eines Casablanca-Dienstes nach, tüchtig Nahrung.
+In der Bonner Zentrale gab sich Walter Genz, Pressesprecher für das Produkt T-DSL via Satellit, erst einmal glaubwürdig ahnungslos.
+Das Projekt befindet sich derzeit in der Testphase.
+Als Vertriebsstart wird etwa Ende Juli angepeilt.
+Die Casablanca-Software wird in deutlich überarbeiteter Form dann als Teil der Telekom-Zugangssoftware unter www.telekom.de/t-dslsat zum Download zur Verfügung stehen.

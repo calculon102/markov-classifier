@@ -1,0 +1,26 @@
+Die Computerindustrie möchte auch im Bereich der Unterhaltungselektronik gute Geschäfte machen.
+Im Verständnis der Industrie geht das nicht ohne Kopierschutz und Digital Rights Management.
+Hewlett Packard ist schon seit mehreren Monaten bemüht, sich an die Spitze der digitalen Kopierschützer zu setzten.
+Der internationale Konzern ist nicht nur im klassischen Computergeschäft aktiv, sondern betreibt auch die Produktion von Plasmafernsehern und die Verbindung von Rechnern, Internet und TV zum Multimediasystem im Wohnzimmer.
+Gemeinsam mit Philips hat Hewlett Packard - selbst auf der Cebit nicht vertreten - vor wenigen Tagen eine neue Kopierschutztechnik vorgestellt, die die Weiterverbreitung von digitalen Fernsehinhalten beschränkt.
+Nach Firmenangaben ist es zwar erlaubt, digitale Aufnahmen anzufertigen, aber die sollen nicht weiter kopiert werden können.
+Die Zuschauer können so geschützte digitale Inhalte zwar auf neue DVD-Medien aufzeichnen, sie aber nicht beliebig weiterverbreiten.
+Kopierschutzverfahren sind kein Privileg stationärer Geräte und finden sich auch auf mobilen Begleitern des täglichen Lebens.
+Das Hamburger Unternehmen CoreMedia hat sich in den letzten Jahren auf Digital Rights Management spezialisiert und dabei vor allem auf mobile Anwendungen.
+Zu den Kunden der Hamburger gehören mit Bertelsmann, Telekom, T-Online, Nokia, O2 und DaimlerChrysler durchaus prominente Unternehmen.
+Unternehmen wie Nokia, Ericson, Vodafone und T-Mobile haben sich hier inzwischen auf einen Kopierschutz für Handys geeinigt.
+Der Standard soll verhindern, dass Musik unbegrenzt weitergegeben wird.
+Die Unternehmen glauben an ein gutes Geschäft, denn schon mit simplen Klingeltönen lässt sich viel Geld verdienen.
+Im letzen Jahr sollen die Handybesitzer über eine Milliarde Dollar dafür ausgegeben haben.
+Das Modell für eine geglückte Kopierschutz-Regelung ist Apples erfolgreicher Musikladen iTunes, denn hier dürfen die gekauften Songs auf mehreren Rechnern abgespielt werden.
+Ein allzu drastischer Kopierschutz ist für das Geschäft nicht förderlich und die Marktforscher von Arc Group schätzen das Marktvolumen mobiler Musik auf 3,2 Milliarden Dollar.
+Die Plattenindustrie ist sehr interessiert und steht schon in den Startlöchern.
+MP3 ist bis heute das Schreckgespenst der Musikbranche, denn mit diesem Standard wurde es möglich, Musik schnell und problemlos über das Internet auszutauschen.
+Die Daten können auf ein Zehntel ihrer ursprünglichen Größe reduziert werden, ohne das ein Qualitätsverlust hörbar wird.
+Die meisten kommerziellen Musikläden setzen bei ihrem Angebot allerdings auf die Formate von Microsoft (Windows Media Audio) oder von Apple (AAC), denn hier gibt es einen Kopierschutz inklusive.
+Das Fraunhofer-Institut in Erlangen und der Elektronikkonzern Thomson, wollen für etwas mehr Konkurrenz sorgen und arbeiten an einem digitalen Rechtemanagement für MP3.
+Damit soll sich die Zahl der möglichen Kopien oder die Zahl der nutzbaren Abspielgeräte einschränken lassen.
+Die Käufer und auch die Musikbranche warten nicht gerade auf ein weiteres Format, da schon heute die Vielzahl der DRM-Formate von Microsoft, Apple, Real, Sony, Intertrust und anderen für Verwirrung sorgen.
+Inkompatibilitäten machen es unmöglich, Songs aus verschiedenen Quellen auf einem Player abzuspielen.
+Die Anwender haben es kaum wahrgenommen, aber die Systeme zum Kopierschutz digitaler Inhalte sind da und werden in immer weiteren Bereichen eingesetzt.
+Was mit den kommerziellen Musikläden im Internet begonnen hat, wird schon bald digitales Fernsehen, mobile Unterhaltung auf dem Handy und den eigenen Rechner erreichen.

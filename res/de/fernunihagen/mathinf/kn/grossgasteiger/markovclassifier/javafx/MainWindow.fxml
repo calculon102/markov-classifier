@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.input.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+
+<Scene xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.MainController"
+	stylesheets="@style.css">
+	<VBox prefWidth="1200" prefHeight="1000">
+		<MenuBar>
+			<menus>
+				<Menu text="%menu.program">
+					<items>
+						<MenuItem text="%menu.program.quit" onAction="#onQuit">
+							<accelerator>
+								<KeyCodeCombination alt="UP" code="Q" control="DOWN"
+									meta="UP" shift="UP" shortcut="UP" />
+							</accelerator>
+						</MenuItem>
+					</items>
+				</Menu>
+
+				<Menu text="%menu.training">
+					<items>
+						<MenuItem text="%menu.training.new" onAction="#onNewTraining">
+							<accelerator>
+								<KeyCodeCombination alt="UP" code="N" control="DOWN"
+									meta="UP" shift="UP" shortcut="UP" />
+							</accelerator>
+						</MenuItem>
+						<MenuItem text="%menu.training.open" onAction="#onOpenTraining">
+							<accelerator>
+								<KeyCodeCombination alt="UP" code="O" control="DOWN"
+									meta="UP" shift="UP" shortcut="UP" />
+							</accelerator>
+						</MenuItem>
+						<MenuItem text="%menu.training.save" onAction="#onSaveTraining">
+							<accelerator>
+								<KeyCodeCombination alt="UP" code="S" control="DOWN"
+									meta="UP" shift="UP" shortcut="UP" />
+							</accelerator>
+						</MenuItem>
+						<MenuItem text="%menu.training.saveAs" onAction="#onSaveAsTraining">
+							<accelerator>
+								<KeyCodeCombination alt="DOWN" code="S"
+									control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+							</accelerator>
+						</MenuItem>
+
+						<SeparatorMenuItem />
+
+						<MenuItem text="%training.import.button" onAction="#onImportTrainingData">
+							<accelerator>
+								<KeyCodeCombination alt="DOWN" code="T"
+									control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+							</accelerator>
+						</MenuItem>
+					</items>
+				</Menu>
+
+				<Menu text="%menu.analysis">
+
+					<items>
+						<MenuItem text="%analysis.clear.button" onAction="#onClearAnalyzeResults" />
+						<MenuItem text="%menu.analysis.open" onAction="#onOpenAnalysis" />
+						<MenuItem text="%menu.analysis.saveAs" onAction="#onSaveAsAnalysis" />
+						<MenuItem text="%menu.analysis.export" onAction="#onExportAnalysis" />
+
+						<SeparatorMenuItem />
+
+						<MenuItem text="%analysis.input.button" onAction="#onAnalyzeInputData">
+							<accelerator>
+								<KeyCodeCombination alt="DOWN" code="A"
+									control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+							</accelerator>
+						</MenuItem>
+						<MenuItem text="%menu.analysis.series" onAction="#onAnalyzeSeries" />
+					</items>
+				</Menu>
+
+				<Menu text="%menu.info">
+					<MenuItem text="%menu.info.about.title" onAction="#onAbout" />
+				</Menu>
+			</menus>
+		</MenuBar>
+
+		<SplitPane orientation="VERTICAL" dividerPositions="0.66">
+
+			<TabPane tabClosingPolicy="ALL_TABS" fx:id="tabPane">
+				<tabs>
+					<Tab text="%training.header" fx:id="trainingTab" closable="false">
+						<content>
+							<fx:include fx:id="training" source="trainingPane.fxml" />
+						</content>
+					</Tab>
+					<Tab text="%analysis.header" fx:id="analysisTab" closable="false">
+						<content>
+							<fx:include fx:id="analysis" source="analysisPane.fxml" />
+						</content>
+					</Tab>
+				</tabs>
+			</TabPane>
+
+			<fx:include fx:id="tasks" source="tasksPane.fxml" />
+		</SplitPane>
+	</VBox>
+</Scene>

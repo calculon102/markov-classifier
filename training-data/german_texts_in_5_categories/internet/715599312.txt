@@ -1,0 +1,27 @@
+Oder man könnte auch morgens auf dem Weg zur Arbeit in der U-Bahn die am Vorabend verpasste Talkshow anschauen.
+Und etwa bei stundenlangen Autoreisen die genervten Kinder im Fond mit Zeichentrickstreifen bei Laune halten.
+Genauer gesagt handelt es sich dabei um tragbare digitale Mini-Videorekorder - kurz PVP für Portable Video Player.
+Eine Vorstudie präsentierte Intel nun erstmals in Santa Clara der internationalen Presse.
+Alles andere als ein Mini-PC oder PDA soll der PVP sein, vielmehr ein einfach bedienbares Unterhaltungsgerät für jedermann.
+Der erste - wohlgemerkt nicht funktionstüchtige - Prototyp hat in etwa die Größe eines Taschenbuchs.
+Als Prozessor kommt der energiesparende Intel XScale zum Einsatz.
+Peebler zufolge sollen die Geräte unter 400 US-Dollar kosten und nächstes Jahr auf den Markt kommen.
+Mit ersten funktionstüchtigen Modellen rechnet der Market Development Manager im Herbst.
+Von der Produktion der tragbaren Digi-Glotze wird Intel jedoch die Finger lassen.
+Der Prozessor-Branchenprimus liefert lediglich die entsprechende Technik an Hardwareproduzenten und setzt darauf, durch die Anregung innovativer neuer Produkte möglichst viele Chips zu verkaufen.
+Verschiedene Hersteller sollen bereits starkes Interesse bekundet haben.
+Erste Partner würden vermutlich Ende des Jahres präsentiert.
+Die genaue Ausstattung der PVPs will Intel den Produzenten überlassen.
+Der Chipgigant empfiehlt jedoch, eine 20-Gigabyte-Festplatte in das Gerät zu integrieren, um bis zu 70 Stunden Videofilme speichern zu können.
+Außerdem soll wie in der präsentierten Studie ein vier Zoll (zehn Zentimeter) großes LCD-Display eingebaut werden - die mittlerweile gängigste Größe für Bildschirme in Digitalkameras.
+Nur so lasse sich der PVP gemäß Vara günstig genug für einen Massenmarkt produzieren.
+Die Akku-Betriebsbereitschaft soll bis zu vier Stunden betragen, so dass auch zwei Filme ohne Nachladung angeschaut werden können.
+Neben Digi-Videos im MPEG4-Format sollen die PVPs auch andere gängige Medienformate wie MP3 oder Windows Media Audio (WMA) abspielen können.
+Intel arbeitet derzeit auch daran, XScale-Software für die Ausgabe von Audiofiles und JPEG-Bildern zu optimieren.
+Zudem entwickelt ein Team um Peebler mit dem MPEG-4-Part-10-Video-Codec einen neuen Standard für mobile Endgeräte, der mindestens TV-Qualität entsprechen soll.
+Die Übertragung der Filme oder sonstigen Digi-Contents vom PC auf die tragbaren Videorekorder soll nach Intel-Empfehlung via USB-2.0-Schnittstelle oder Wireless-Internet-Technologien wie 802.11b geschehen.
+Sehr wahrscheinlich ist es Vara zufolge auch möglich, künftig digitale Videorekorder für den Hausgebrauch à la TiVo oder ReplayTV mit entsprechenden Schnittstellen zu versehen, um aufgezeichnete TV-Sendungen direkt auf den PVP schaufeln zu können.
+Um Copyright-Streitigkeiten mit der Unterhaltungsindustrie vorzubeugen, sollen mit den PVPs Dateien nur heruntergeladen werden können.
+Zum Schutz urheberrechtlich geschützter Werke soll die Digital-Rights-Management-Technologie (DRM) zum Einsatz kommen.
+Dass diese Technik schnell gehackt wird, darüber sind sich auch Peebler und Vara einig.
+Man darf dennoch auf die erste Klage gespannt sein - nur wird wohl nicht Intel den Kopf hinhalten müssen.

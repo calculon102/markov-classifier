@@ -1,0 +1,22 @@
+Ein 39-Jähriger aus Hagen wäre um ein Haar zum unfreiwilligen Sportwagen-Käufer geworden.
+Grund war sein unverschlüsseltes Computer-Funknetz.
+Ein Unbekannter war in das WLAN eingedrungen und hatte im Namen des Hageners einen Porsche für 50.000 Euro ersteigert.
+Dass viele Benutzer sich nur wenig um die Sicherheit ihres Computer-Funknetzwerks (WLAN) scheren, ist kein Geheimnis.
+Der Rostocker IT-Professor Clemens Cap schätzt, dass fast 25 Prozent aller Nutzer von drahtlosen Netzen völlig ungeschützt vor Angriffen sind.
+Tests von Computerzeitschriften ergaben sogar, dass mindestens jeder zweite WLAN-Zugangspunkt ohne Verschlüsselung arbeitet.
+Welche Folgen ein offenes WLAN haben kann, musste nun ein 39-Jähriger aus Hagen erfahren.
+Wie die Polizei mitteilte, bekam der Mann plötzlich eine E-Mail eines Internet-Auktionshauses, worin ihm zum Kauf eines Porsche zum Preis von 50.000 Euro gratuliert wurde.
+Den Ermittlungen zufolge war es einem Unbekannten gelungen, sich mit einem Laptop in das Firmen-WLAN des 39-Jährigen einzuloggen und dann das Auto zu ersteigern.
+Das Funknetz hatte der Geschädigte selbst in seinem Betrieb installiert.
+Dessen Reichweite war aber offenbar größer als gedacht.
+WLAN (wireless local area network) ermöglicht die kabellose Verbindung mehrerer Rechner untereinander und mit dem Internet.
+Viele WLAN-Betreiber schalten die so genannte WEP-Verschlüsselung des Funknetzes aus Nachlässigkeit oder Unwissenheit nicht an.
+Dadurch können nicht nur Nachbarn oder Unbekannte vor der Haustür kostenlos im Internet surfen.
+Mit entsprechender Software kann auch der gesamte Netztraffic mitgelesen werden, denn er läuft ja unverschlüsselt ab.
+Auf diese Weise lassen sich auch Passwörter ausspionieren, so dass ein Eindringling auch unter fremder Identität bei Auktionen bieten kann.
+Für den Hagener WLAN-Betreiber hatte der Vorfall einen glücklichen Ausgang: Laut Polizei verzichteten sowohl der Porsche-Verkäufer als auch das Online-Auktionshaus darauf, Forderungen zu stellen.
+Der Einbruch in ein WLAN kann jedoch weit schlimmere Folgen haben.
+Etwa, wenn Unbekannte über das fremde Netz massenhaft Spam verschicken, Kinderpornos ins Netz stellen oder Attacken gegen andere Server im Internet starten.
+Weil sie dies unter der IP-Adresse des arglosen WLAN-Betreibers tun, könnte dieser im Handumdrehen eine Klage am Hals haben, wobei für ihn schwer zu beweisen ist, dass er unschuldig ist.
+Nach dem Vorfall in Hagen appellierte die Polizei an alle WLAN-Nutzer, ihre Systeme unbedingt zu verschlüsseln.
+Expertenwarnung: Jedes vierte WLAN ist völlig ohne Schutz (25.09.2004) W-Lan: Kabellos, aber sicher!

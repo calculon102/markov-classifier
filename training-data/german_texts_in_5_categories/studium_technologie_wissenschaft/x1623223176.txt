@@ -1,0 +1,36 @@
+Ein Weltstar des Balletts hat sich ausgerechnet mit einem Computerforscher zusammengetan, um Kinder zu unterrichten.
+Das Duo will seinen Schützlingen das Gefühl für Körper, Raum und Zeit vermitteln - indem es Tanz mit Elektrotechnik verbindet.
+Dass Tiffany, 9, gerade Mathematik lernt, ist ihr nur schwer anzusehen.
+Ihre dünnen Arme sausen durch die Luft.
+Im Takt der Musik schiebt sie den einen Fuß nach rechts, dann hüpft sie nach links und landet zum Schlussakkord mit beiden Beinen in der Mitte.
+Aus ihren Mandelaugen strahlt Freude und Stolz.
+Das Kind mit den vietnamesischen Eltern hat die Choreografie ohne Fehler durchgetanzt.
+Applaudierend stürzt ihr Lehrer auf die Bühne.
+Jacques d'Amboise, der große New Yorker Ballett-Star aus den fünfziger Jahren, klopft dem Mädchen auf die Schulter.
+Doch an eine Laufbahn als Primaballerina denkt d'Amboise für sie nicht.
+Er sucht keinen Nachwuchs für das Ensemble des New York City Ballet, wo er seine Karriere einst begonnen hat.
+D'Amboise sieht darin keinen Widerspruch.
+Denn Tanz vermittle seinen jungen Schülern Körpergefühl.
+Das sei nicht nur wichtig für das Selbstvertrauen, sondern fördere die Vorstellungskraft für Geometrie und abstrakte Formen, seien es die Struktur der Erbsubstanz oder die Schaltkreise von Mikroprozessoren.
+Dinge, die Kinder später verstehen müssen, möglicherweise erforschen werden.
+Jetzt hat er sein Programm um einen pädagogischen Baustein erweitert: den Computer.
+Als idealen Partner dafür hat er das Media Lab des Massachusetts Institute of Technology (MIT) gefunden.
+Die Tanzfläche im Foyer des bei Boston gelegenen Media Lab ist deshalb gespickt mit Lasern, Lichtschranken und Sensoren.
+Rotierende Roboterarme und Projektionsflächen umgeben die Schar junger Tänzer, deren schlaksige Gliedmaßen in flatternden Sportkleidern stecken.
+Die entscheidende Rolle spielt das tanzende Kind selbst: Tritt es auf die Sensoren im weichen Kunststoffboden, dann verändert sich die Musik.
+Lichtschranken registrieren, wann der Tänzer sich auf das Publikum zu bewegt.
+Das Licht der Scheinwerfer färbt sich daraufhin erst blau, dann, beim nächsten Schritt nach vorn, pink.
+Die Computer, die hinter der Bühne arbeiten, haben die Kinder - unter Anleitung der MIT-Experten - selbst programmiert.
+Der Professor am Media Lab sucht schon seit Gründung des Instituts 1985 nach Wegen, den Nachwuchs zu selbständig denkenden, kreativen Computernutzern zu erziehen.
+Bislang überlasse die Gesellschaft diese fundamentale Aufgabe Firmen wie Nintendo und Sony.
+Das trainiere vielleicht die Geschicklichkeit, nicht aber das Verständnis und die Phantasie, mit dem Computer eigene Sachen anzustellen.
+Auch die Schulen, so Papert, versagen.
+Die Leistung von RoBallet vergleicht er gern mit Kinderspielzeug.
+Zum krönenden Abschluss der Physikstunde am MIT wird den Kindern eine Art Gurt um den Arm gebunden.
+Daran angebracht sind eine ganze Reihe von Gyroskopen, die jede Bewegung der Arme registrieren und an einen Computer übertragen.
+Dieser wiederum steuert einen Roboterarm so, dass er jeden Schwung des Kinderarmes nachahmt.
+An der Motivation der Kinder, da sind sich Papert und d'Amboise sicher, wird ihr Projekt nicht scheitern.
+Das zeigen schon die Erfahrungen mit dem Dance Institute.
+Mittlerweile sind dessen Kurse an fast allen Schulen New Yorks vertreten.
+Einige Jungen hätten sich geziert, als sie das Wort Ballett hörten, berichtet d'Amboise.
+Diesen Renitenten erzählt er dann von seiner ersten Begegnung mit dem Ballett: Seine Mutter habe ihn dazu verdonnert, in die Tanzschule seiner Schwester zu gehen, um zu verhindern, dass er sich einer der brutalen Straßengangs anschloss.

@@ -1,0 +1,39 @@
+Warm anziehen, Microsoft!
+Da soll Blaster mit einer DoS-Attacke zuschlagen und Microsofts Download-Server abschießen.
+Ob jemand den Unterschied bemerkt?
+Blaster-Attacke: Wie viele Tausend Rechner beginnen am Samstag die Attacke auf Microsoft?
+Soll heißen: So einfach wird das nicht, Microsoft mit einer DoS-Attacke abzuschießen.
+Knaller oder Bombe?
+Die soll und wird kommen - nur weiß bisher niemand, wie groß sie wird.
+Wie viele das sind, weiß bisher niemand.
+Zu bemerken ist Blaster nur durch eine Verlangsamung des PCs.
+Allein Windows-XP-Nutzer wies das Virus durch Systemabstürze deutlich darauf hin, dass der Wurm im Rechner steckte.
+Inzwischen kursieren erste Klone und Varianten, parallel steigt das Schadensrisiko auch für die Privatanwender: Huckepack tragen Blaster und Derivate nun zunehmend Backdoor-Programme, die als Schädling und Spion im Rechner wüten können.
+Dass Windows-XP-Rechner überhaupt von Blaster befallen wurden, ist ein Zeichen dafür, worum es bei dieser Virenattacke wirklich geht: Um Vertrauen, respektive um einen Mangel daran.
+Denn eigentlich hätten XP-Rechner den am 16. Juli veröffentlichten Sicherheits-Flicken von Microsoft im Rahmen des automatischen Updates empfangen müssen.
+Von Werkseite ist die Update-Funktion aktiviert, in der Praxis aber sieht es so aus, dass viele User die Funktion deaktivieren.
+Dass Microsoft-Programme so gern nach Hause telefonieren und irgendwelche schwer nachvollziehbare Dinge im Web tun, nervt die Verbraucher nicht nur, es ängstigt sie.
+Microsoft wird zwar von vielen genutzt, sonderliches Vertrauen genießt das US-Unternehmen jedoch nicht.
+Ungefragter Datenempfang?
+Wie sonst geht man im Internet mit Popup-Fenstern um?
+Da rächt sich das Imageproblem, gegen das Microsoft seit rund einem Jahr mit der Trustworthy-Computing-Initiative ankämpft.
+Sicherheit, verkündete Bill Gates im letzten Jahr, genieße nun die höchste Priorität.
+Der Brief ist kein Einzelfall, viele finden da noch erheblich harschere Worte.
+Blaster entwickelt sich zur wohl effektivsten Werbekampagne für Apple und Linux, denn tatsächlich ist in der heutigen Web-Welt der beste Schutz vor Viren der Verzicht auf Windows-Programme.
+Immer mehr Windows-Usern steigt da die Galle, schwillt der Kamm an: Sie haben die Nase voll - obwohl sich gerade im Falle Blaster abzeichnet, dass dieser eben auch andere Betriebssysteme schädigen kann.
+Das gelte unter anderem für Linux-Distributionen, die das Distributed Computing Environment (DCE) nutzten.
+Wer hat den Schwarzen Peter?
+Trotzdem trifft der schwellende Volkszorn vor allem Microsoft.
+Satt haben die User vor allem, für Sicherheitsprobleme in die Haftung genommen zu werden: Dass Blaster nun trotz einer vierwöchigen Vorwarnzeit zuschlagen konnte, erscheint zunächst als Versäumnis der PC-Nutzer.
+Warum haben die sich auch nicht geschützt, so lang dafür noch Zeit war?
+Darauf sind mehrere Antworten denkbar, und nur wenige davon lassen Microsoft in einem guten Licht dastehen.
+Dass an der Art und Weise, wie Microsoft auf Sicherheitsprobleme hinweist und Patches unter die Kunden bringt, etwas nicht stimmt, sickert mittlerweile auch im Software-Konzern durch.
+Die könnte sich im schlimmsten aller Fälle über etliche Wochen hinziehen, denn so ist Blaster programmiert.
+Unvorteilhaft wäre das nicht nur, weil die Kunden dann nicht mehr an das gerade benötigte Sicherheits-Patch herankämen.
+Sie könnten womöglich auch die nächsten paar davon verpassen: Ungefähr 70 neue Sicherheitslücken entdecken die Experten von Symantec im ganz normalen Wochendurchschnitt, und die bei weitem meisten sind Windows-Lecks.
+Im zweiten Halbjahr 2002, sagte Olaf Lindner von Symantec im SPIEGEL-ONLINE-Interview, konnte seine Firma insgesamt über rund 6000 Sicherheitslücken berichten.
+Microsoft verweist da gern auf die laufende Sicherheits-Initiative, die bald schon alles besser machen soll.
+In nicht allzu ferner Zukunft soll unter dem Dach der TCPA-Initiative aufeinander abgestimmte Hard- und Software endlich für Sicherheit sorgen.
+Teile des Konzeptes sind unter Windows XP und Server 2003 bereits verwirklicht.
+Letztlich ist das fast schon niedlich, wenn es nicht so ärgerlich wäre: Sinn und Zweck der Systemwiederherstellung ist es, interne Reparaturen durchzuführen.
+Also unternimmt sie effektiv etwas gegen die hilfreichen Removaltools, allerdings nichts gegen Viren wie Blaster.

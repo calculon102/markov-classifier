@@ -1,0 +1,43 @@
+Wenige Monate, nachdem das Department of Homeland Security die Verantwortung für die kritischen Infrastrukturen übernahm, kollabierten in den USA die Stromnetze.
+Dass vieles trotzdem funktionierte, verdankt das DoHS einem Treppenwitz der IT-Geschichte: dem Jahr-2000-Fehler.
+Kurz nach 16 Uhr Ortszeit fiel am Donnerstag in weiten Teilen der Vereinigten Staaten der Strom aus.
+Fast nichts ging mehr: Der Verkehr brach zusammen, auf den Straßen brach das Chaos aus.
+Auch das Telefonnetz zitterte, doch überlebte schließlich mit Ach und Krach den größten Blackout in der Geschichte der USA.
+So, wie die großen Serverfarmen der Internet-Betreiber, die hier und da zwar schlichen, aber immerhin weiter machten.
+Dem von der Bush-Administration nach dem 11. September 2001 geschaffenen Department of Homeland Security ist das nicht zu verdanken.
+Das trägt zwar seit dem Frühjahr 2003 die Verantwortung für Betrieb und Modernisierung der empfindlichen, für die Sicherheit des Landes wichtigigen Infrastrukturen, befindet sich aber selbst noch im Aufbau.
+Von denen hätte das DoHS gern mehr Informationen, doch viele machen da nicht so einfach mit: Sie mauern, weil sie Wettbewerbsnachteile gegenüber Konkurrenten befürchten.
+Die Sicherheitsvorgaben des Staates aber setzten sie um, heißt es - was schwer zu kontrollieren ist.
+Und schwer zu glauben: Der moderne Staat USA hat es zugelassen, dass seine Infrastrukturen verfielen, die heute als die wohl marodesten in der westlichen Welt gelten.
+Während die Vereinigten Staaten weltweit als Trendsetter und Schrittmacher in Sachen Vernetzung der Kommunikation gelten, stützen sie sich auf Versorgungssysteme, die nicht sicherstellen können, dass ihnen nicht Strom oder Wasser abhanden kommen.
+Das DoHS: Beobachter mit beschränkten Handlungsmöglichkeiten?
+Trotzdem gilt das Monitoring der Homeland Security schon jetzt als ausgefuchst: Zumindest in Sachen Überwachung des Status Quo setzt das DoHS Standards.
+Sehen können die Geheimdienstler und Heimatschützer, was funktioniert und was nicht - und ob sich in den verschiedenen Versorgungsund Kommunikationsnetzen ungewöhnliches tut.
+Die Diagnose am Donnerstag gelang schnell: Abgesehen davon, dass weite Teile des Stromnetzes völlig tot waren, tat sich da gar nichts ungewöhnliches.
+Auch einen Einfluss des Blaster-Wurms auf das Stromdesaster schloss das amerikanische CERT aus.
+Die beruhigenden Nachrichten versuchten Politiker per Fernsehen zu verbreiten - mit wohl mikroskopischen Einschaltquoten und Reichweiten, denn empfangbar waren die Botschaften nur mit batteriebetriebenen Geräten.
+Amerika zitterte dem 1. Januar 2000 entgegen und hatte sich in Gewissheit des nahenden Tech-Weltuntergangs mit Notstromaggregaten hochgerüstet.
+Am 14. August 2003 zahlten sich die Investitionen aus - und zeigten sich die Lücken.
+Denn der Ernstfall des Stromausfalles deutet auf schwerwiegende Fehler im System hin.
+An vielen wichtigen Punkten herrschte business as usual - nur brachten die kaum noch eine Verbindung miteinander zustande.
+Und mehr noch: Eigentlich hätte der Stromkollaps so katstrophal nie verlaufen dürfen, denn Blackouts dieser Art gehörten mit zu den Szenarien, auf die sich Amerika angeblich gründlich vorbereitet hatte.
+Zu den GAU-Szenarien, für die sich Behörden in aller Welt vor dem Beginn des neuen Jahrtausends präparierten, gehörte immer an erster Stelle der eines Kraftwerk-Störfalles.
+Elektrizitätsnetzwerke sind überall in der Welt weiträumig miteinander verbunden.
+Energie wird - gerade auch in Mitteleuropa - gern über tausende von Kilometern und Grenzen hinweg im- und exportiert.
+Das Stromnetz in den Vereinigten Staaten ist da keine Ausnahme: Der Ausfall vom Donnerstag nahm angeblich an der amerikanisch-kanadischen Grenze seinen Anfang.
+In ein amerikanisches Kraftwerk, sagten kanadische Behörden kurz nach dem Blackout, der auch Teile von Kanada betraf, sei der Blitz eingeschlagen - der Rest sei dann wohl Domino gewesen.
+Die Kanadier returnierten im Volley: Da habe es ja wohl ein Feuer in einem US-Kernkraftwerk gegeben, entweder in Pennsylvania, oder an einem Con-Edison-Kraftwerk im Staat New York.
+Die Ursache bleibt vorerst unbekannt, die Auswirkungen jedoch sind klar zu sehen: Neun Atomkraftwerke nahmen die Amerikaner vom Netz, während sich der Stromausfall von der Region Niagara ausgehend durch das Land fraß.
+Diese Kraftwerke werden die letzten sein, die wieder Strom liefern können: Das Herunter- und Hochfahren von Nuklearreaktoren ist keine triviale Aufgabe.
+Die weiträumige Vernetzung der Stromnetze hilft, Leistungsspitzen abzufangen und eine gleichmäßige Versorgung der Regionen zu gewährleisten.
+Zwischen den Netzen der verschiedenen Betreiber mitteln Transponderstationen, die sich im Fall einer katastrophalen Fehlfunktion automatisch abschalten sollten: So fiele vielleicht ein Netz aus, risse das nächste aber nicht mit hinab.
+Doch die Sicherungssysteme unterbrachen die kollabierenden Netze nicht.
+Auch bei der Homeland Security weiß man bisher nur, dass man nichts weiß.
+Georg W. Bush hingegen ahnt, dass man in dieser Sache wohl etwas unternehmen müsste.
+Das könnte man so sehen.
+Fast umgehend schickte das Pentagon zusätzliche Luftüberwachungsjets in den Himmel, denn möglich schien zunächst alles.
+Doch Amerika blieb relaxed, kennt sich ja aus mit Stromausfällen und den Tücken seines Systems.
+Seit Jahren schwelt die Stromkrise an der Westküste, ohne dass Besserung in Sicht wäre.
+New York hatte den Ernstfall bereits 1977 mit einem Stromausfall geprobt, der neun Millionen Menschen ohne Licht ließ - und davor im Jahr 1965, als 25 Millionen Menschen in den Neuengland-Staaten ohne Strom auskommen mussten.
+Seitdem fiel sie vornehmlich in Sachen Überwachungspolitik auf.
+Jetzt wird man von den Heimatschützern erwarten, dass sie in Sachen kritische Infrastrukturen in die Hufe kommen und den Energiekonzernen mehr empfehlen, als nur Tesafilm-Lösungen.

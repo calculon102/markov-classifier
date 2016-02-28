@@ -1,0 +1,32 @@
+Da hat man mehrere Monate auf die Veröffentlichung des neuen Computerspiels gewartet und erlebt schon kurz nach dem Kauf den ersten Absturz.
+Immer mehr Spieler beklagen sich über Kopierschutzverfahren, die aktuelle Spiele unspielbar machen.
+Die Installation des Spiels scheitert, wenn der Kopierschutz beim Anwender ein CD-Emulationsprogramm oder eine Kopiersoftware entdeckt.
+Harmlose Anwendungen wie das Kopierprogramm Nero sorgen bei den ehrlichen Käufern für einigen Ärger.
+Die Liste der widerwilligen Spiele wird dabei immer länger: Sims 2, Doom, Rome: Total War, Far Cry und NHL 2005 sind nur einige der neugierigen Produkte.
+Bei anderen Herstellern bleibt ein verunsicherter Spieler vor dem Monitor zurück, denn das Spiel stürzt einfach kommentarlos ab.
+Verantwortlich für die Schwierigkeiten ist das Kopierschutzverfahren Safedisk 3, das der Verschlüsselungsspezialist Macrovision entwickelt hat.
+Das Original erhält eine digitale Signatur, die nicht auf andere Datenträger kopiert werden kann und ausführbare Dateien sind verschlüsselt.
+Der Kopierschutz verweigert den Start, wenn auf dem Rechner virtuelle CD-ROM-Laufwerke gefunden werden, wie sie zum Beispiel Alcohol 120%, CloneCD oder Nero Image Drive einrichten.
+Erst wenn solche Programme deinstalliert werden, kann das geschützte Spiel gestartet werden.
+Viele Hersteller haben nach der Änderung des deutschen Urheberrechts die Kopierprogramme zeitweise vom Markt genommen oder sind mit ihrer Firmenadresse ins Ausland umgezogen.
+Ein allgemeines gesetzliches Verbot solcher Programme existiert zwar, Gerichtsurteile gibt es bisher aber noch nicht.
+Was auch daran liegen mag, dass sich die Unterhaltungsindustrie vor Grundsatzentscheidungen fürchtet, die ihren Interessen zuwiderlaufen.
+Zwar ist die Umgehung des technischen Kopierschutzes bei audiovisuellen Medien inzwischen untersagt, aber das gilt nicht für Software.
+Bei Programmen und Computerspielen war das Anfertigen einer Privatkopie auch vorher schon verboten.
+Hier ist es lediglich erlaubt, eine Sicherungskopie für den Notfall zu erstellen.
+Die Hersteller von Kopiersoftware kehren allerdings langsam auf den Markt zurück und bieten ihre Programme wieder an.
+S.A.D aus Ulm hat mit GameJack 4 ein Programm entwickelt, das Lösungen gegen die Beschränkung durch Kopierschutztechniken verspricht.
+Die Software erstellt eine fehlerfreie Kopie des Originalspiels und legt sie auf der Festplatte ab.
+Damit sollen auch ausgefeilte Kopierschutzverfahren überlistet werden.
+Viele Spieler suchen bei Problemen Hilfe im Internet und in entsprechenden Foren.
+Dort werden auch so genannte NoCD-Cracks angeboten, die den Kopierschutz umgehen und die Spiele lauffähig machen.
+Wer seine Kopierprogramme nicht deinstallieren möchte, der kann das Spiel in den Laden bringen und sein Geld zurückverlangen.
+Verbraucherschützer sehen aber auch bei deutlichen Erklärungen einen Mangel des Produkts, und da der Sachmangel schon beim Kauf vorlag, könnte der Kunde das Spiel innerhalb der zweijährigen Gewährleistung zurückgeben.
+Ehrliche Käufer müssen also auf bestimmte Spiele verzichten, ihren Rechner aufräumen oder sich Software aus dem Netz besorgen, wenn sie ihrem Spieltrieb nachgehen wollen.
+Statt den Kunden mit mehr Zusatznutzen zu überzeugen, wird ihm das Spielen unnötig schwer gemacht.
+Käufer von Half Life 2 müssen sich zum Beispiel in einem aufwendigen Verfahren online beim Hersteller anmelden, sonst bleibt der Bildschirm schwarz.
+Dieser Zugang ist nötig, um das Spiel frei zu schalten und online spielen zu können.
+Hat der Spieler alle Hindernisse überwunden, muss er leider feststellen, dass man beim Entwickler Valve auf eine Spielanleitung verzichtet hat.
+Im Inneren der Box findet sich nur ein lappiger Zettel mit den nötigsten Tastenkombinationen.
+Der Kunde ist im Computerreich schon lange kein König mehr.
+Electronic Arts: Deutsche Seite Gamesmarkt.de: Meldung über die Selbstauflösung des VUD Verband der Unterhaltungssoftware Deutschland e.V.

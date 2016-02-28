@@ -1,0 +1,30 @@
+Eine schöne Gelegenheit, sich eine dreiste Phishing-Methode mal in natura anzusehen, denn natürlich verschickt Microsoft solche Warn-E-Mails nicht - schon gar nicht solche mit Links, die auf eine Download-Website führen, die gar nicht Microsoft gehört.
+Dort wartet ein Security-Patch, das zu allen Windows-Versionen außer ME passt und das im von der Webseite zitierten Sicherheitsbulletin angesprochene Problem lösen soll.
+Getestet haben wir das nicht, denn wozu 19,95 Dollar zahlen, wo es das angesprochene Patch doch kostenlos bei Microsoft gibt (siehe Linkkasten)?
+Das Ganze ist erstens dreist, zweitens alt und drittens langlebig: Die Warnmail wie das Security-Patch stammen aus dem Oktober 2003, kursieren aber immer noch fleißig.
+Das ist ungewöhnlich kurz, lässt sich aber noch weiter verdichten.
+Eigentlich reichen zwei Sätze: a) Securesoft übernimmt keine Garantie dafür, dass die per Download angebotene Software auch funktioniert; b) Geld zurück gibt's grundsätzlich nicht.
+Comcast: weltgrößter Spam-Verteiler?
+Das US-Unternehmen Comcast gehört zu den größten Access-Providern der USA - und ist nach Aussage des Comcast-Technikers Sean Lutner auch einer der größten Nestbeschmutzer.
+Der Rest, so Lutner, laufe über gekaperte Zombie-Maschinen.
+Die letzten zehn Jahre waren ja schon schön, meint Microsoft-Lautsprecher Steve Balmer, aber letztlich ein lahmer Zock im Vergleich zu den blühenden Landschaften, die er für die unmittelbare Zukunft voraussieht.
+Visionen entwickelte er anlässlich von Microsoft's Tech Ed Event in San Diego, wo er vor Softwareentwicklern ungewohnte Töne anschlug: Verheißungsvoll flüsterte er seinen Gästen, was er von den nächsten zehn Jahren erwartet.
+Zu Untertreibungen neigt er allerdings auch dann nicht, wenn er einmal leise spricht.
+Dies gelte vor allem für Unternehmen, da sie in besonderem Maße zur Sicherung der eigenen IT-Anlagen verpflichtet seien.
+Wer fahrlässig handle und dadurch andere schädige, hafte dafür unter Umständen zivilrechtlich auf Schadensersatz.
+Dies gelte zum Beispiel, wenn Firmen kontaminierte E-Mails an Privatpersonen verschickten.
+Dabei spiele es keine Rolle, ob die Unternehmen vom Virenbefall Kenntnis hatten oder nicht.
+Im Geschäft zwischen Unternehmen gelten derartige Verpflichtungen sowohl für die versendende Firma als auch für den Adressaten.
+Anders bei Privatpersonen: Hier bestehe eine gesetzliche Verpflichtung zu einem Selbst- und Drittschutz nur sehr eingeschränkt.
+Allenfalls in Einzelfällen, in denen ein besonders leichtfertiger Verstoß gegen Sicherheitsgebote erfolge, könne von einem Mitverschulden ausgegangen werden.
+Was Virenschreiber und Spammer seit längerem vormachen, machen deren Bekämpfer nun nach: sie vereinen sich.
+Die Sicherheitsfirma Symantec übernimmt für 370 Millionen Dollar den Anti-Spam-Spezialisten Brightmail.
+Damit, erklärt Symantec, solle die Produktpalette bei der Sicherheits-Software abgerundet werden: Neben Virenschutz-Software bietet Symantec bereits Firewall-Technik an.
+Ein effektiver Spamfilter fehlte da noch im Portfolio.
+Auch Brightmail-Gründer Sunil Paul zeigte sich zufrieden.
+Ziel des Unternehmens sei der umfassende Schutz der E-Mail-Nutzer gewesen.
+Symantec und Brightmail gehören in ihren Marktnischen zu den Platzhirschen, die Fusion macht Symantec in der Riege der Virenschützer zum Schwergewicht mit dem breitesten Angebot.
+Die Übernahme soll vermutlich Anfang Juli abgeschlossen sein.
+Symantec hielt schon seit Juli 2000 eine Beteiligung an Brightmail.
+Zu den Kunden des Anti-Spam-Spezialisten zählen Firmen wie eBay, Deutsche Bank und Cisco.
+Bekanntestes Produkt von Symantec ist Norton Antivirus.

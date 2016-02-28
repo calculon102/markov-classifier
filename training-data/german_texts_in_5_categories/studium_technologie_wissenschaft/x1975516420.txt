@@ -1,0 +1,26 @@
+Wie kommt das Video ins Wohnzimmer?
+Wer lieber auf bereits vorhandene Technik setzt, kann selbst Hand anlegen und Videos oder Musik vom Rechner in die gute Stube übertragen.
+Noch ist der Computer nicht die zentrale Schaltstelle im Wohnzimmer, denn die meisten Anwender haben ihn unter dem Schreibtisch stehen oder im Arbeitszimmer.
+Allerdings füllen im digitalen Zeitalter immer mehr Videofilme und Audiodateien die heimische Festplatte.
+Da bleibt nur das Problem, die Daten zum Fernseher zu übertragen, denn der monumentale Hollywoodschinken macht auf dem Computermonitor keine besonders gute Figur.
+Auf Dauer ist es auch etwas beschwerlich, den Arbeitsrechner jedes Mal zum Filmabend ins Wohnzimmer zu verfrachten.
+Neben dem Rechner mit den bewegten Bildern benötigt der Anwender im Wohnzimmer einen Empfänger, der die Daten anschließend an den Fernseher überträgt.
+Die Geräte arbeiten ohne Lüfter und bringen Videos, Musik und Fotos lautlos vom Rechner auf den Fernseher.
+Mit einer eigenen Bediensoftware lassen sich per Fernbedienung die einzelnen Anwendungen aufrufen.
+Manche DVD-Player sind ebenfalls in der Lage, die Daten zu empfangen und weiterzugeben.
+Der dänische Hersteller KiSS rüstet seine Geräte (ab etwa 250 Euro) gleich mit einem Netzwerkanschluss aus, die Player unterstützen alle gängigen Formate.
+Wer in seinem Wohnzimmer eine Xbox zum Spielen aufgestellt hat, der besitzt bereits eine Streaming-Box mit vielerlei Qualitäten.
+Im Inneren der Konsole arbeitet ein Kleincomputer, und die schwarze Kiste kommt mit fast allen Formaten von DivX, XviD bis MPEG klar.
+Damit sie als Empfangsstation dienen kann, ist allerdings der Einbau eines modifizierten Chips notwendig, der etwa 60 Euro kostet.
+Solche Umbauten werden von verschiedenen Firmen vorgenommen, die auch komplette Systeme ab etwa 260 Euro anbieten.
+Es geht allerdings auch anders, und wer noch einen zweiten Rechner besitzt, kann diesen einfach neben den Fernseher stellen und entsprechend konfigurieren.
+Allerdings dürften hier nur die Freunde des Actionkinos wirklich auf ihre Kosten kommen, denn der Lüfter zerstört in schöner Regelmäßigkeit das romantische Liebesgeflüster anspruchsvoller Filmkunst.
+Hat der Anwender sich für eine Lösung entschieden, bleibt immer noch die Frage, über welchen Weg die Daten vom Rechner im Arbeitszimmer zu der Empfangsstation im Wohnzimmer gelangen.
+Videos sind dabei durchaus anspruchsvoll, und die Wiedergabe in DVD-Qualität verlangt eine Datenrate von vier bis sechs MBit in der Sekunde.
+Die einfachste und sicherste Variante ist das klassische Netzwerkkabel, das Daten in einer für Videos ausreichenden Geschwindigkeit überträgt.
+Damit das Kabel nicht zur Stolperfalle wird, muss es natürlich entsprechend verlegt werden, was nicht jedermanns Sache ist.
+Der ältere WLan-Standard (IEEE 802.11.b) schafft bei einer guten Verbindung etwa fünf MBit/s, was bei DVD-Qualität schon etwas zu knapp sein dürfte.
+Aktuelle Produkte (IEEE 802.11g) arbeiten bereits mit 20 MBit/s und garantieren ein ruckelfreies Bild.
+Allerdings entscheidet hier auch die Umgebung und bei besonders großen Entfernungen, vielen Mauern oder dicken Wänden bleibt der Videostream auf der Strecke.
+In einer normalen Wohnung sollten 15 Meter kein Problem darstellen, aber dafür ist der Spaß mit etwa 150 Euro auch nicht gerade preiswert.
+Die Linktipps im obigen Kasten vertiefen die hier nur angerissenen Möglichkeiten.

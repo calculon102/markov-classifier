@@ -1,0 +1,24 @@
+Die Funktionsweise von Netzwerken ist selbst für Informatikfreaks manchmal eine dröge Sache.
+Dabei kann Technik auch Spaß machen.
+Richtig ins Zeug gelegt haben sich Studenten der kanadischen Algoma Universität - sie jagten Daten mit Bongo-Trommeln durchs Internet.
+Alles begann während einer Vorlesung über das so genannte Open-Systems-Interconnection-Referenzmodell (OSI).
+Hört sich schwierig an, regelt aber nur die Kommunikation innerhalb eines Netzwerkes und ist weltweit anerkannt.
+Oder anders ausgedrückt: Computer können sogar über Bongo-Trommeln kommunizieren.
+Für diese waghalsige Behauptung erntete der Professor zunächst nur skeptische Blicke.
+Doch die Studenten des Accelerated Second Degree Programs der Algoma Universität in Sault Ste. Marie in Ontario wollten die These nicht im Raum stehen lassen.
+Darauf hat wahrscheinlich auch Townsend spekuliert, denn schließlich wusste er, vor wem er sprach.
+Teilnahmevoraussetzung für den Schnellstudiengang ist unter anderem ein Bachelor of Arts oder ein Bachelor of Science in einem anderem Fach.
+Deswegen versprach der listige Professor jedem seiner Studenten Extra-Punkte, falls es ihnen gelingen sollte, Datentransfer über Bongo-Trommeln abzuwickeln.
+Zügig machten sich die Studenten ans Werk.
+Nach acht Wochen harter Gehirnarbeit und endlosen Bongoschlägen präsentierten sie der Öffentlichkeit ihre Arbeit.
+Die Übertragungsgeschwindigkeit betrug zwar nur magere 2 Bit pro Sekunde - doch damit war die These bewiesen und die moderne Bongo-Kommunikation geboren.
+Zum ersten Mal in der Geschichte der Menschheit kommunizierte ein Computer via Bongo-Trommel mit dem Internet.
+Die Bongo-Geräusche kamen allerdings nur aus dem Lautsprecher.
+Erst in einem nächsten Experiment wollen die Studenten die synthetischen Trommeln durch echte ersetzen.
+Aus heißen Trommelabenden mit gleichzeitigem Ausflug ins Internet für die Allgemeinheit wird aber nichts.
+Alle hätten sehr viel über Netzwerke gelernt und dementsprechend die Note eins bekommen.
+Wer jetzt auf die Idee kommt, auch Brieftauben zur Datenübertragung einzusetzen, der ist etwas spät dran.
+Bereits im Mai 2001 testete eine norwegische Linux-Gruppe die Übermittlung von Netzwerkdaten mittels Brieftauben.
+Professor Townsend möchte auch künftig mit seinen Studenten aus aller Welt trockene Theorie in anschauliche Praxis umsetzen.
+Die Rauchzeichen sollen dabei von einer Digitalkamera aufgenommen und von einem Computer in Daten umgewandelt werden.
+Zunächst aber widmet sich der Professor mit der Vorliebe für primitive Kommunikationsformen erstmal seiner eigenen Karriere: Demnächst zieht er von Kanada nach Österreich, um in Graz an einer Gehirn-Computer-Schnittstelle zu arbeiten.

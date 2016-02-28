@@ -1,0 +1,20 @@
+Verstopfte Mailboxen, lahmgelegte Rechner: Der Internet-Wurm MyDoom, schnellstes Virus aller Zeiten, jagt nahezu ungehindert durchs Netz und plagt Millionen PC-Nutzer.
+SPIEGEL ONLINE erklärt, wie es zu erkennen ist und was es im Rechner anrichtet.
+Einen ersten Rekord hat MyDoom schon knapp zwei Tage nach Beginn seiner Verbreitung gebrochen: Der Wurm, sagt das IT-Sicherheitsunternehmen MessageLabs, sei das bisher schnellste PC-Virus, das je durchs Internet gefegt ist.
+Millionen von PC-Nutzern können das nur bestätigen: Was derzeit so ins Postfach flutet, ist fast ohne Beispiel.
+Ziel dieser Attacke, bei der die infizierten Rechner massenhaft auf eine Internetadresse zugreifen, ist die die SCO Group.
+Die machte in den letzten Monaten Schlagzeilen mit dem Versuch, vor Gericht aus einer angeblichen Patentverletzung Lizenzgebühren aus Linux-Distributoren herauszuschlagen.
+Am Mittwoch lobte SCO ein Kopfgeld von bis zu 250.000 Dollar für sachdienliche Hinweise aus, die zur Ergreifung des Virenautors führen.
+Der, vermuten Virenexperten, dürfte im amerikanischen Uni-Umfeld zu suchen sein.
+MyDoom verbreitet sich nicht nur per Mail, sondern auch über die P2P-Börse KaZaA - und das mit bisher beispiellosen Erfolg.
+MyDoom ist nach Auskunft von Virenschutz-Unternehmen inzwischen in 168 Ländern verbreitet, was man auch anders sagen könnte: Wo es eine Internet-Infrastruktur gibt, ist MyDoom inzwischen auch angekommen.
+Am stärksten betroffen sind jedoch nach wie vor die englischsprachigen Länder.
+MyDoom erreicht den Rechner in der Regel per Mail, die Nachrichten tragen wechselnde Betreffzeilen.
+Dieser Dateianhang enthält das eigentliche Virus, dass erst durch ein Anklicken durch den Mailempfänger aktiviert wird.
+Vor dem Öffnen dieser File-Attachments wird dringend gewarnt.
+IT-Sicherheitsunternehmen raten dazu, vorhandene Virenschutz-Programme auf den neuesten Stand zu bringen (siehe Linkverzeichnis).
+Wer über kein Virenschutzprogramm verfügt, sollte sich schnellstens eines zulegen.
+Für Privatanwender kostenlos ist das Programm AntiVir.
+Wie weit die Wirkung von PC-Viren mitunter reicht, zeigt eine Meldung aus dem hessischen Wintersportort Willingen.
+Insofern behindere MyDoom auch Wintersportler, die aufgrund der derzeitigen ausgezeichneten Wintersportbedingungen in Massen bei Hotels und Pensionen anfragten.
+So bitter das sein mag, ist der Kurverwaltung Willingen dank MyDoom so zumindest gelungen, bundesweit auf die dortigen Wintersportbedingungen hinzuweisen: Ein Schelm, wer Böses dabei denkt.

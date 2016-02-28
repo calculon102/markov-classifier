@@ -1,0 +1,21 @@
+Ein Serviceprovider haftet für Neonazi-Seiten auf seinen Servern nur dann, wenn er Kenntnis davon hat, entschied der Bundesgerichtshof.
+Neonazi: Rechtradikale nutzen das Internet nach wie vor für ihre Propaganda.
+Ein Internet-Provider kann für neonazistische und volksverhetzende Inhalte von Web-Seiten nur dann haftbar gemacht werden, wenn er davon nachweislich Kenntnis hatte.
+Das entschied der Bundesgerichtshof (BGH) am Dienstag in Karlsruhe.
+Dieser Provider soll angeblich wider besseres Wissen von November 2000 bis Ende Februar 2001 eine von zwei Rechtsradikalen unterhaltene Internet-Seite zur Verfügung gestellt haben.
+Darauf befanden sich üble neonazistische und antisemitische Beschimpfungen sowie Morddrohungen gegen den Kläger.
+Dem Urteil zufolge hätte der Kläger beweisen müssen, dass der Provider Kenntnis von den beanstandeten Seiten hatte.
+Dies sei ihm nicht gelungen.
+Der Bundesgerichtshof verwies darauf, dass der Gesetzgeber im Teledienstgesetz die Verantwortlichkeit der Internet-Provider für fremde Inhalte einschränken wollte.
+Die Diensteanbieter hätten die fremden Inhalte nicht veranlasst und es sei ihnen auch zunehmend unmöglich, diese zu kontrollieren.
+Der Kläger behauptet, bereits im November 2000 durch E-Mails, Fax und Telefongespräche den Provider auf die Webseiten hingewiesen zu haben.
+Allerdings hatte er die entsprechenden Belege dafür weggeworfen.
+Die Kläger-Seite wies aber darauf hin, dass die beanstandeten Inhalte auch nach Zustellung der Klage am 22. Januar 2001 noch bis zum 28. Februar 2001 geschaltet gewesen seien.
+Im verhandelten Fall sollte ein Schmerzensgeld in Höhe von rund 4850 Euro eingeklagt werden.
+Der Kläger war nach Angaben seines Anwalts schon mehrfach von rechten Schlägern verletzt und bedroht worden.
+Das Amtsgericht Karlsruhe und das Landgericht Karlsruhe hatten die Klage abgewiesen, weil nicht feststehe, dass der Provider Kenntnis vom Inhalt der beanstandeten Seiten gehabt habe.
+In dem Revisionsverfahren ging es um die Frage, ob der Kläger beweisen muss, dass der Provider um die Inhalte wusste oder ob der Provider beweisen muss, dass er keine Kenntnis hatte.
+Bislang gab es dazu noch keine höchstrichterliche Rechtsprechung.
+Dies sei auch nicht unzumutbar.
+Ein Provider müsse nach Hinweisen wie im vorliegenden Fall mit Filtermaschinen seine Webseiten auf rechtsradikale Begriffe durchforsten lassen.
+Das Gericht sah die Beweispflicht aber auf Seiten des Klägers.

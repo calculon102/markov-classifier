@@ -1,0 +1,21 @@
+Der Bericht über Vote-Manipulationen durch Nutzer einer konservativen US-Website führte zur Manipulation des manipulierten Votes - und zu einem massiven Leserecho.
+Die Verteilung der Stimmen mit Maxima bei den Noten '1' und '6' (umgekehrte Glockenkurve) legt nahe, dass die Abstimmenden in zwei Gruppen zerfallen.
+SPIEGEL ONLINE: Beleidigte Leberwurst?
+Nicht wenige Leser nahmen das so wahr: Sie empfanden die Offenlegung der Vote-Manipulation als Retourkutsche gegen deren Verursacher.
+Das wäre allerdings ziemlich billig.
+Eine Minderheit kritisierte die Kritik am Verhalten derjenigen, die zur Vote-Manipulation aufgerufen hatten: Das sei doch wohl legitim, man könne sich seine Leserschaft eben nicht aussuchen.
+Worum geht es hier also?
+Um einen ideologischen Streit?
+Und deshalb geht es auch nicht um die Korrektur eines Meinungsbildes, das Redakteuren aus vermeintlich ideologischen Gründen nicht passen würde.
+Votes sind im Online-Journalismus ein Element der Kommunikation oder Interaktion mit dem Leser - auf einem zugegebenermaßen sehr formalisierten Niveau.
+Das kann man so sehen, ist aber nicht beabsichtigt: Es ist in Deutschland nicht unüblich, Politiker in Umfragen nach dem Schema von Schulnoten beurteilen zu lassen.
+Das hat nichts mit Respektlosigkeit zu tun, sondern mit einem unverkrampften Umgang mit so genannten Autoritäten.
+Die Kernfrage ist und bleibt, warum man eine Vote-Manipulation überhaupt oder in der Form eines Artikels veröffentlichen sollte.
+Natürlich kann man.
+Man kann Mehrfach-Votes, die von einer IP-Nummer kamen, einfach herausrechnen.
+Man könnte bestimmte Ausgangs-IPs einfach ausfiltern.
+Man könnte versuchen herauszufinden, von wo ein Voter kam, bevor er seinen Haken setzte: Sowohl Davids Medienkritik, als auch Free Republic hatten nicht zum betreffenden Artikel gelinkt, in dem sich das Vote fand, sondern direkt zur Vote-Maske.
+Die Antwort darauf ist einfach: Entweder genau so oder gar nicht.
+Auf die eigene Verletzlichkeit hinzuweisen ist dagegen legitim.
+Ginge es nur um dieses eine Vote, wäre er gering.
+Das sehen wir genau so.

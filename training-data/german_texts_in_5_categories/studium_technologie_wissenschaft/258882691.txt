@@ -1,0 +1,27 @@
+Russischer GPS-Jammer: mit billigen Sende-Kästchen gegen Hightech-Waffen, die Millionen kosten?
+Der Kasten ist kaum größer als ein Handy, kostet ein paar hundert Dollar und vermag offenbar Bemerkenswertes zu leisten: Er soll in der Lage sein, US-Präzisionswaffen in Irrläufer zu verwandeln.
+Gelänge es, GPS-Signale nachhaltig zu stören, wäre der gesamte Logistikapparat betroffen.
+Schon vor dem Krieg warnte etwa der US-Militärexperte James Zumwalt davor, GPS-Störsender könnten Lenkwaffen ausknocken wie einst David seinen Gegner Goliat.
+Alles Quatsch, hält der Leiter des GPS-Systemprogramms, Luftwaffenoberst Douglas Loverro, dagegen.
+Theoretisch genügt ein GPS-Jammer, wie ihn die russische Firma Awiakonwersija anbietet, um Satellitensignale im Umkreis von rund 200 Kilometern zu stören.
+Das liegt vor allem daran, dass die Signale der US-Navigationssatelliten äußerst schwach sind.
+Sie erreichen die Antennen von GPS-Empfängern auf der Erde als ein elektronisches Wispern, das nur einem Milliardstel der Signalstärke entspricht, mit der Fernsehantennen TV-Programme empfangen.
+Navigationssysteme, wie sie Autofahrer, Segler und Wanderer benutzen, sind daher sehr anfällig für Blendaktionen von GPS-Jammern.
+Als weit robuster gilt dagegen militärisches Navigationsgerät.
+Denn von GPS-Satelliten gehen unterschiedliche Signale aus.
+Mit seiner Hilfe lassen sich Positionen bis auf fünf Meter genau orten.
+Der militärische Code ist nicht nur präziser, er ist zudem verschlüsselt und lässt sich nicht so leicht blocken.
+GPS-Jammer wären allenfalls im Umkreis weniger Kilometer wirksam.
+Zumindest dort wäre die Genauigkeit von GPS-Waffen beeinträchtigt.
+Wirklich irreleiten aber ließen sie sich nicht.
+Denn US-Präzisionswaffen verfügen neben der Satellitenortung noch über ein parallel geschaltetes Trägheitsnavigationssystem (TNS).
+TNS-Geräte sind gegen Störungen von außen immun.
+Zur Ortsbestimmung nutzen sie die Trägheit rasend rotierender Kreiselsysteme.
+Dabei wird, etwa beim Start der Waffe, dem TNS eine Referenzposition eingegeben.
+Klinkt ein Kampfjet nun die Lenkbombe aus, so erfasst der rotierende Kobold im Herzen des TNS jede Veränderung der Ausgangslage als eine Art Ruhestörung und erlaubt es so, die neue Position zu bestimmen.
+Militärisches Ziel oder Wohnblock: Quo vadis, Bombe?
+Bei GPS-Waffen übermittelt das präzise Satellitensystem seine Navigationsdaten regelmäßig an die weniger genaue Trägheitsnavigation - bis zum Einschlag.
+Lähmt nun ein Störsender das GPS-Signal, so bleibt das TNS intakt und lenkt die Waffe, ausgehend von der letzten präzisen Ortsbestimmung, unbeirrt ins Ziel.
+GPS-gesteuert treffen Lenkwaffen ihr Ziel mit einer Positionsabweichung von nicht mehr als rund 3,5 Meter.
+Bei Angriffen auf militärische Einrichtungen ist der Verlust an Präzision kaum von Bedeutung.
+Beim Beschuss von innerstädtischen Zielen aber können das die entscheidenen Meter sein, ob ein Raketenwerfer getroffen wird oder das Wohnhaus daneben.

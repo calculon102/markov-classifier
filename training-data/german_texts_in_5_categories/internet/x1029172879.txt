@@ -1,0 +1,25 @@
+In der U-Bahn, im Bus oder in der Warteschlange an der Supermarktkasse, überall klingeln die mobilen Begleiter und schon sind die Menschen in unmittelbarer Nähe Teil der zuweilen lautstark geführten Unterhaltung.
+Es gibt dann kein Entkommen mehr vor Einkaufslisten, Beziehungskrisen oder Wichtigtuerei.
+Geht es nach den Vorstellungen des japanischen Konzerns NTT DoCoMo, dann ist mit diesen Situationen schon bald Schluss.
+Die Wissenschaftler des Telekommunikationsunternehmens entwickeln derzeit ein Handy, das von den Lippen des Besitzers abliest und alle Informationen lautlos aufnimmt.
+Die Forscher haben dabei nicht so sehr die Belästigung der Mitmenschen im Auge, sondern die Anwender sollen beispielsweise in lauter Umgebung nicht mehr in ihrer Handsets schreien müssen.
+Ein lautloses Flüstern in das Mikrofon reicht aus.
+Der erste Prototyp arbeitet mit einem Sensor, der neben der Sprechmuschel angebracht ist.
+Er empfängt elektrische Signale, die von den Muskeln im Mundbereich ausgesendet werden.
+Anschließend konvertiert ein Sprachmodul die Signale in das gewünschte Format.
+Der Gesprächspartner wird einen solchen Anrufer also kaum noch an der eigenen Stimme erkennen können.
+Im umkämpften Wettbewerb auf dem Markt für mobile Kommunikation soll die Technologie einen entscheidenden Vorteil bringen, wenn E-Mails nicht mühsam eingetippt werden müssen und ein paar gehauchte Worte ausreichen.
+In Japan sorgt man sich bereits um die nächste Stufe, und die japanische Regierung will im Rahmen des Projekts E-Initiative die Entwicklung von 4G-Diensten vorantreiben.
+Diese sollen noch vor 2010 etabliert werden und mit einer Übertragungsrate von 100 MBit/s rund 50-mal schneller sein als die dritte Generation.
+Dann sollen auch die von den Lippen lesenden Handys zum Alltag gehören.
+Bis dahin haben die Entwickler allerdings noch einige Probleme zu lösen.
+Die in ersten Tests eingesetzte Software ist in der Lage, menschliche Vokale mit einer akzeptablen Fehlerquote zu erkennen.
+Bei den Konsonanten hat das System noch seine Schwierigkeiten.
+Hier hofft man auf die kommenden technischen Möglichkeiten.
+Kleine Kameras sollen bei der dritten Generation der Mobilkommunikation zum Standard gehören und die Genauigkeit des lautlosen Lesens möglich machen.
+DoCoMo möchte etwas mehr Ruhe auf öffentliche Plätze bringen, und das ist gleichzeitig gut für das Geschäft, denn in Japan sind die Handys inzwischen oft unerwünscht.
+Wer im öffentlichen Personennahverkehr mobil telefoniert, muss mit Ärger rechnen, und auch sonst ist der Japaner angehalten, diskret Sprechmuschel und Mund mit der Hand zu bedecken.
+Damit scheinen die Entwickler einen sensiblen Punkt in der mobilen Gesellschaft getroffen zu haben, denn auch in anderen Ländern beklagt man sich über schlechtes Benehmen.
+Eine Befragung der Meinungsforscher von Public Agenda hat erst Anfang des Jahres ergeben, dass die Amerikaner zunehmend über die Rücksichtslosigkeit ihrer Mitmenschen klagen.
+Die Hälfte der 2013 befragten Erwachsenen zeigte sich zum Beispiel verärgert über das laute und aggressive Telefonieren in der Öffentlichkeit.
+Technische Lösungen dürften hier nur unzureichend für Besserung sorgen und bis das lautlose Telefonieren und Anrufe mit künstlichen Stimmen zur Normalität werden, muss man nicht nur hier zu Lande noch einige Jahre warten.

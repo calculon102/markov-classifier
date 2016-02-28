@@ -1,0 +1,23 @@
+Gäbe es eine Hitparade der unbeliebtesten Unternehmen im Internet, dann stünde SCO wahrscheinlich ganz weit oben.
+Die Firma hält viele Unix-Patente und glaubt, dass das Open-Source-Betriebssystem Linux teilweise daraus abgekupfert sei.
+Grund genug, Unternehmen, die sich in Sachen Linux engagieren, vor den Kadi zu zerren.
+So, sagen SCO-Gegner, verwandelt man Papier zu Gold, unter Beihilfe des US-Patentrechtes.
+Irgendein Virenschreiber hat am Wochenende klar gemacht, wie sauer er deshalb auf das US-Unternehmen ist.
+Kein Zweifel, die Winterpause ist vorbei, die Virenschreiber sind wieder am Werk.
+Am Montag Mittag schließlich begann MyDoom seinen Weg durch Amerikas Büroetagen - und wurde schnell von fast allen Virenschutz-Unternehmen als massive Bedrohung eingestuft.
+Doch so ganz ohne ist keines der drei Computerviren.
+Alle versuchen, Trojaner zu installieren, über die der Virenautor Zugang zu den befallenen Rechnern erlangen könnte.
+Sowohl hinter Dumaru, als auch MiMail vermutet man darum den Versuch, Passworte oder Kreditkartennummern abzufischen.
+Um zu diesem Schluss zu kommen, muss man kein Sherlock sein: Sowohl Dumaru als auch MyDoom enthalten Keylogger-Programme, die Tastatureingaben aufzeichnen und weitergeben können.
+MiMail präsentiert dem Computernutzer falsche, aber gut gefälschte Microsoft-Formulare, die ihn auf abgelaufene Lizenzen hinweisen.
+Zur Erneuerung ist dann die Eingabe zahlreicher Informationen nötig - bis hin zur Führerscheinnummer und zum Mädchennamen der Mutter.
+Dumaru hat es insbesondere auf Paypal-Daten abgesehen.
+Bei den beiden anderen Kandidaten ist die Erkennung schon schwieriger.
+Beide verfügen über einen ganzen Satz verschiedener Betreffzeilen.
+Alle IT-Sicherheitsunternehmen halten ausführliche Beschreibungen der Viren bereit und Tools, um diese zu entfernen.
+Besser ist Prävention, und gerade in diesem Fall wohl wirklich angezeigt: Schon jetzt gilt MyDoom als potenzieller Killer.
+Zeit also für ein Update der Virenschutz-Software.
+Betroffen von der neuesten Virenwelle sind wie meistens ausschließlich Windows-Systeme (alle oberhalb von Windows 3x).
+Linux, Apple-Betriebssysteme und andere sind nicht betroffen.
+Den höchsten Verbreitungsgrad hat MyDoom bisher in den USA und in Australien erreicht.
+Das weckt anscheinend den Tüftler im Büro-PC-Nutzer - und verleitet zum Klick.

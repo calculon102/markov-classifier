@@ -1,0 +1,32 @@
+Wie kann man dem Energie sparenden PC den Weg auf den Schreibtisch ebnen, ohne hierfür ein Müsli-Image aus der Mottenkiste der Hausbesetzerszene bemühen zu müssen?
+Materialien sind eine Seite der Öko-Medaille, der Energieverbrauch eine ganz andere.
+Noch immer saugt der durchschnittliche Rechner nach Kräften an der Leitung, steigende Prozessorleistungen verlangen nach mehr Saft, und weil dabei mehr Hitze entsteht, braucht's gleich auch wieder bessere Lüfter.
+Die surren und brummen uns was um die Ohren, und der Stromzähler tickt im Takt dazu.
+Dabei geht das auch ganz anders.
+Die E-PC-Serie von Hewlett-Packard oder die EVO-PC-Reihe von Compaq kommen lediglich mit einem schlappen Steckernetzteil daher.
+Bei Fujitsu-Siemens stehen die maximalen Leistungsaufnahmen sogar im Prospekt, und die liegen bei den Small-Desktops im Leerlauf unterhalb der magischen 50 Watt.
+Damit sinkt der Energiebedarf in Arbeitspausen unter 5 Watt.
+Der Betriebsverbrauch hängt natürlich davon ab, ob man mit einem Celeron- oder einem Pentium-4-Prozessor vorlieb nehmen möchte.
+Auch hier sorgt die Platznot im Gehäuse für ein externes Netzteil mit einer maximalen Leistungsaufnahme von nur 150 Watt.
+All diesen Geräten ist gemeinsam, dass sie als Firmenrechner vermarktet werden.
+In den Angeboten für private Endverbraucher spielen diese Systeme noch keine Rolle.
+Unverständlich, wo doch die vielen Privatnutzer sich des lauten mausgrauen Big-Towers lieber heute als morgen entledigen würden, selbst wenn man dafür etwas tiefer in die Tasche greifen müsste.
+Dell vermarktet seinen Optiplex sogar ausdrücklich an Großkunden.
+Allerdings sind die meisten Small-Formfaktor-Geräte von ihrem Leistungsangebot her als Brot- und Butter-Rechner zu sehen.
+Auch darum ist die primäre Zielgruppe die der Firmenanwender, die schlanke Arbeitsplatzrechner suchen.
+Auch der Erweiterbarkeit durch freie Steckplätze sind enge Grenzen gesetzt.
+Der dickste Wehrmutstropfen ist allerdings der Umstand, dass es eben immer schon teurer war, einen feinen Geschmackssinn zu besitzen.
+Rund 1000 Euro für einen Small-PC mit Celeron-Prozessor stellen nämlich sicher, dass der schicke Kleine seine Amortisation über die Stromrechnung nie und nimmer erleben wird.
+Wenn es denn unbedingt ein Rechen-Bolide sein soll, lohnt sich ein Blick zum taiwanischen Hersteller Shuttle.
+Deren Cebit-Hammer ist der XPC SN41G2.
+Ein Minisystem mit dem hauseigenen Micro-ATX-Board für Sockel-A-Prozessoren, einer gebläseunterstützten Heatpipe-Kühlung, die auch heiße AMD-Prozessoren in den Griff bekommt und einem integrierten nVidia nForce2-Grafikchipsatz.
+Das alles passt trotzdem in ein bildhübsches Aluminiumgehäuse im Schuhkartonformat und wird wie weiland der gute alte 386er mit einem 200 Watt-Netzteil mit Strom versorgt.
+Schön und sparsam sind auch die hübschen TFT-Flachbildschirme.
+Während ein einfacher 17-Zoll-Röhrenmonitor locker 70 Watt aus der Leitung saugt, begnügt sich ein 15-Zoll-TFT-Panel, dessen sichtbare Bilddiagonale etwa einem 17-Zoll-Röhrenmonitor entspricht, mit rund 35 Watt.
+Nun besteht ein TFT-Panel ja aus endlos vielen Transistoren, also energieintensiv zu produzierenden Halbleitern.
+Trotzdem, so konstatiert eine aktuelle Studie der EPA (U.S. Enviromental Protection Agency), spricht die Gesamt-Öko-Bilanz aus Produktion, Betriebszyklus und Entsorgung eher für den modernen TFT.
+Weniger ist mehr, so könnte das Motto lauten.
+Hersteller belohnen die neue Bescheidenheit mit günstigen Angeboten, die zumindest schon einmal Strom sparen.
+Wer auch auf ökologisch vertretbarere Materialien Wert legt, muss - noch - ein bisschen tiefer in die Tasche greifen.
+Das allerdings dürfte nur noch eine Frage der Zeit sein, denn die neue Elektroschrott-Richtlinie der EU wird da sehr schnell Tatsachen schaffen (siehe Teil I).
+Was aber definitiv fehlt, ist mehr Transparenz für den Verbraucher.

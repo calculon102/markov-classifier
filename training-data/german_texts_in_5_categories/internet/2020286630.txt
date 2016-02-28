@@ -1,0 +1,44 @@
+Weit schneller als UMTS verbreiten sich WLAN-Hotspots, Funk-Zugänge ins Internet, überall im Lande.
+Längst sitzen sämtliche Mobilfunk- und viele Telekommunikationsfirmen mit im Boot, denn natürlich lässt sich hier Geld verdienen.
+Hotspots mögen frei und schnell sein - billig sind sie nicht.
+Das Internet wird nach und nach von seinen Kabeln befreit.
+In Deutschland gibt es inzwischen mehrere tausend so genannte Hotspots, an denen sich Besitzer eines Notebooks mit Wireless-LAN-Karte drahtlos ins Internet einwählen können.
+Richteten sich die ersten Angebote an Flughäfen und in Nobel-Hotels vor allem an Geschäftsreisende, so sind inzwischen auch viele Cafés und Restaurants in das Geschäft mit der Funktechnik eingestiegen.
+Auch Notebook-Hersteller haben den Trend erkannt.
+In immer mehr mobilen Rechnern ist WLAN bereits eingebaut.
+Der Halbleiterhersteller Intel etwa bietet mit seiner Centrino Mobiltechnologie eine integrierte Lösung aus Funkchip und Strom sparendem Prozessor an.
+Mit einer WLAN-Karte lässt sich allerdings auch jedes andere aktuelle Notebook für rund 50 Euro nachrüsten.
+Wichtige Spieler im WLAN-Markt sind neben der Telekom und einigen Internet-Providern die Mobilfunkanbieter.
+Die Telekom-Festnetztochter T-Com bietet drei Zeittarife für ihre Hotspots an, die vorwiegend in Restaurants und Cafés installiert sind.
+Für 1 Stunde drahtloses Surfen zahlen Kunden 8 Euro, 3 Stunden kosten 14 Euro und 24 Stunden 18 Euro.
+T-Com-Kunden mit einem DSL-Anschluss zu Hause surfen unterwegs günstiger.
+Für drei Stunden verlangt das Unternehmen 9,90 Euro, jede weitere Minute kostet 8 Cent.
+In der Einführungsphase bis zum 30. September entfällt die Begrenzung auf drei Stunden, für die Grundgebühr gibt es also eine mobile Flatrate.
+Die Mobilfunk-Tochter des Bonner Ex-Monopolisten T-Mobile richtet sich mit ihrem Hotspot-Angebot dagegen vorwiegend an Geschäftskunden.
+Die Zugangspunkte befinden sich meist auf Flughäfen und Messen sowie in Hotels.
+Die Preise für die Zeittarife sind allerdings die gleichen wie bei der T-Com.
+T-Mobile-Kunden haben zusätzlich die Möglichkeit, die Internet-Nutzung über ihre Mobilfunkrechnung abziehen zu lassen.
+Pro angefangene 15 Minuten kostet der Internetzugang dann zwei Euro.
+Während die Telekom-Töchter zusammen bis zum Ende des Jahres mehr als 5200 Hotspots betreiben wollen, ist das Angebot des größten Mobilfunk-Konkurrenten Vodafone noch relativ bescheiden.
+Nur in einigen Lufthansa-Lounges sowie Accor- und Dorint-Hotels können die Mobilfunk-Kunden des Anbieters drahtlos ins Netz.
+Mit 3,95 Euro für 30 Minuten, 9,95 Euro für 2 und 24,95 Euro für 24 Stunden ist Vodafone zudem deutlich teurer als die Telekom.
+E-Plus bietet einen kombinierten Tarif für den drahtlosen Internetzugang per Handy und Laptop an.
+Für Preise von 2,50 Euro bis 50 Euro erhält der Kunde Datenpakete zwischen 2,5 und 50 Megabyte.
+Für die WLAN-Nutzung kassiert der Mobilfunk-Betreiber allerdings noch einmal extra 3,60 Euro pro angefangene 30 Minuten.
+O2 baut ebenso wie Vodafone keine eigenen Hotspots auf.
+Der Münchner Anbieter vermarktet stattdessen das Angebot seiner Partnerunternehmen GlobalAirNet, Swisscom Eurospot, NetCheckin und ISIS.
+O2-Kunden stehen nach Angaben von Unternehmenssprecher Roland Kuntze derzeit 400 Zugangspunkte zur Verfügung.
+In den kommenden Wochen sollen zusätzlich 500 Hotspots von T-Systems in das Netz mit eingebunden werden.
+Einen Freischaltcode für den Drahtloszugang verschickt O2 per SMS.
+Neben den Telekommunikationsunternehmen gehören auch Internet-Provider zu den WLAN-Anbietern.
+Für 1&1-Kunden mit DSL-Zugang kostet die Online-Minute 16 Cent, sollte sie das Freikontingent von zehn Stunden überschreiten .
+AOL-Kunden surfen in Cafés mit AOL-Hotspot zu ihrem üblichen Tarif.
+Darüber hinaus gibt es viele Einzelanbieter wie Restaurants und Cafés.
+Einen Überblick bieten Datenbanken.
+Das Internet-Portal Lycos bietet mit dem WLAN-Sniffer eine Software an, mit deren Hilfe der Laptop-Besitzer den nächsten Hotspot auch offline recherchieren kann.
+Ganz problemlos ist das drahtlose Surfen unterwegs allerdings nicht.
+Zuweilen sind die Hotspots vollkommen ungesichert.
+Der Antiviren-Spezialist Symantec rät beim mobilen Einsatz deshalb dazu, keine sensiblen Daten auf dem Rechner gespeichert zu haben.
+Sicher seien Hotspots, die über ein so genanntes Virtual Private Network (VPN) geschützt sind.
+Der Datenaustausch findet dann innerhalb eines Tunnels in dem öffentlichen Netz statt, auf den nur autorisierte Nutzer Zugriff haben.
+Tipps: Pfade durch den Preisdschungel.

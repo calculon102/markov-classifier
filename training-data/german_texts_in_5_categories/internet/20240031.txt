@@ -1,0 +1,27 @@
+In der IT-Welt ist 2004 eine Menge passiert: DSL hat immer mehr an Fahrt auf aufgenommen, für die Musik- und Filmbranche wurden die Probleme nicht kleiner.
+Blogs und Wikis eroberten das Internet, Würmer und Viren bilden nach wie vor ein akutes Problem.
+Zwei Trends haben 2004 zum Jahr des Breitbands gemacht: Das Internet erfasst immer mehr Bereiche des Alltags, und die Kosten für den schnellen DSL-Zugang sind dank neuer Anbieter kräftig ins Rutschen gekommen.
+Beim Mobilfunk erlebte das Breitbandnetz UMTS eine Premiere, die vier Jahre nach der kostspieligen Versteigerung der Lizenzen zwar nicht so glanzvoll ausfiel wie erhofft, aber nun auch auf dem Handy die komfortable Internetnutzung ermöglicht.
+Von den rund 38 Millionen Telefonanschlüssen in Deutschland erfüllen bislang 34 Millionen die technischen Voraussetzungen für DSL.
+Zur Jahresmitte 2004 gab es mehr als 4,7 Millionen DSL-Anschlüsse.
+Angesichts eines verstärkten Wettbewerbs kommen immer mehr DSL-Anbieter ihren Kunden mit Preisabschlägen entgegen oder packen zusätzliche Leistungen drauf.
+Bei den Tarifen ist die Flatrate für unbegrenzte Internetnutzung für viele noch zu kostspielig.
+Die meisten DSL-Nutzer entscheiden sich für Volumentarife, bei denen man ebenfalls die ganze Zeit online bleiben kann und pauschal für eine Datenmenge von einem oder drei Gigabyte im Monat bezahlt.
+Neben dem Standard-DSL-Zugang werden verstärkt auch die schnelleren Anschlüsse mit einer Download-Geschwindigkeit von zwei oder drei Megabit pro Sekunde genutzt.
+Auch UMTS erlebte seinen Start im Frühjahr 2004 zunächst beim Datenverkehr - eine Einsteckkarte fürs Notebook ermöglicht die Funkanbindung ans Internet.
+Schneller ist da aber weiter das Wireless LAN (WLAN).
+Beim Handy kommt UMTS erst in diesen Monaten in Gang, die Anbieter der neuen Geräte werben dabei vor allem mit der mobilen Videotelefonie und mit integrierten Kameras, die immer bessere Fotos aufnehmen können.
+Während die Übertragungskanäle breiter werden, tun sich die Anbieter der dafür geeigneten Inhalte immer noch schwer mit attraktiven Angeboten.
+Die auf der Cebit von der Deutschen Telekom gestartete Plattform Phonoline musste schon nach wenigen Monaten ihr Scheitern erklären - die strengen Nutzungsbeschränkungen für die heruntergeladenen Musikdateien hielten die Nachfrage in engen Grenzen.
+Umso beliebter ist iTunes, die digitale Musik-Tankstelle von Apple, das mit seinem iPod auch gleich das passende Kultgerät dazu mitliefert.
+In Deutschland ist iTunes seit Juni 2004 aktiv und erreicht einen Marktanteil von fast der Hälfte der eine Million verkauften Downloads pro Monat.
+Der Trend zum Breitband stellt die Filmbranche vor ähnliche Probleme wie die Musikindustrie.
+Hinzu kommt hier die Ablösung des Videorecorders durch den DVD-Brenner, mit dem sich spielend leicht digitale Aufnahmen von Filmen erstellen lassen.
+Aufnehmen, Schneiden, Brennen - nach diesem Dreiklang funktionieren die neuen Fernsehgeräte mit integrierter Digitalaufzeichnung, wie sie unter anderem von Fujitsu Siemens angeboten werden.
+Neben dem Konsumieren von Musik und Filmen haben aber auch zwei Formen der aktiven Internetnutzung das Jahr 2004 geprägt: Blogs und Wikis.
+Für das amerikanische Wörterbuch Merriam-Webster war das Blog das Wort des Jahres.
+Während es bei den Blogs die persönlichen Ansichten und Erfahrungen ihrer Betreiber sind, die den Reiz dieser Web-Sites ausmachen, nutzen Wikis die im Computernetz anzutreffende Fachkompetenz für frei verfügbare und immer umfangreichere Nachschlagewerke.
+Wer sich im Internet kreativ betätigen will, findet die Werkzeuge dafür in einem Meer von freier Software.
+Mit der zunehmenden Verbreitung von Breitband-Anschlüssen steigt allerdings auch die Notwendigkeit, sich um die Sicherheit der eigenen Internet-Aktivitäten zu kümmern.
+Mit mehr als acht Millionen Internet-Adressen ist der deutsche de-Bereich prall gefüllt, auch wenn seit März Domain-Namen mit Umlauten möglich sind - als erste deutsche Umlaut-Adresse wurde öko.de registriert.
+Im neuen Jahr gibt es mit einem Schlag viel Platz für neue Web-Auftritte, wenn die Europa-Endung .eu an den Start geht.

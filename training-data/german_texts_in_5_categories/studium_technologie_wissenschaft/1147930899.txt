@@ -1,0 +1,41 @@
+DVD-Abspielprogramme haben eine Menge Funktionen, damit das Video Schauen am PC Spaß macht: Sie peppen etwa Stereoton zu acht Kanälen auf oder zeigen DivX und neuerdings sogar hochauflösende Filme.
+Doch manchmal greifen die Hersteller mit ihren Innovationen auch daneben.
+Was will der PC-Käufer, wenn er seinen neuen PC aus dem Karton geschält hat?
+Spielen, Surfen, Musik hören und natürlich Videos gucken.
+Am liebsten mit der vollen Dröhnung über fünf Lautsprecher und einen Basstöner.
+Kein Problem, DVD-Abspielsoftware kann so was.
+Meist sind es die Programme WinDVD von Intervideo oder PowerDVD von Cyberlink, die auf Windows-Rechnern vorinstalliert sind.
+Beide Firmen beherrschen den Markt für Abspielsoftware schon seit Jahren.
+Das Geschäft läuft gut, schließlich wird kaum noch ein Rechner ohne DVD-Laufwerk ausgeliefert und die PC-Käufer möchten dann auch sofort Videos anschauen können, ohne sich extra dafür ein Programm beschaffen zu müssen.
+Doch die Kunden wollen nicht nur eine DVD-Abspielsoftware, sie wollen auch regelmäßig neue Versionen, die noch mehr können als die bisherigen - so ist das nun mal im Softwaregeschäft.
+Funktionen ausgereizt?
+Allerdings ist es nicht ganz einfach für die beiden Hersteller, ihre Programme ständig weiter zu verbessern.
+PowerDVD und WindDVD gibt es mittlerweile schon in der sechsten Generation.
+Wie eine Video-DVD aufgebaut ist, welche Tonspuren es geben kann und so weiter - das alles wurde schon Ende der neunziger Jahre festgelegt.
+Mehr als Abspielen geht halt nicht, die Funktionen scheinen ausgereizt.
+Was nicht heißen soll, dass die ersten Programmversionen schon ausgereift waren.
+Vor allem an der Bildqualität haben die Entwickler gearbeitet.
+Intelligente Filter sollen Block-Artefakte verhindern, falls die DVD-Produzenten bei der Herstellung des Videos geschludert haben.
+Auch beim so genannten Deinterlacing, der Technik, um den hässlichen Zeilensprung aus Videoaufnahmen verschwinden zu lassen, hat sich eine Menge getan.
+Natürlich hat die Formatvielfalt zugenommen.
+PowerDVD und WinDVD spielen neuerdings hoch auflösende High-Definition-Filme in Microsofts WMV-Format, PowerDVD versteht auch Videos im neuen Standard H.264.
+DivX wurde bereits in früheren Versionen unterstützt.
+Doch damit wollten sich die Produktmanager bei Intervideo und Cyberlink längst nicht zufrieden geben.
+Wie wäre es zum Beispiel, wenn man die schwarzen Ränder von Kinofilmen wegzaubern könnte?
+Mit einem Breitformat-Monitor oder 16:9-Fernseher kein Problem.
+Aber es geht auch auf einem stinknormalen 4:3-Display.
+Man muss das Bild nur ein bisschen bearbeiten.
+Pano Vision nennt Cyberlink die Bildquetsche, die aus einem Breitformat ein normales macht.
+Bei Intervideo heißt sie Smart Stretch.
+Damit das Ganze möglichst wenig auffällt, werden vor allem die Randbereiche rechts und links gestaucht und mitunter auch etwas beschnitten.
+Die Mitte, in der sich laut Cyberlink ja das Wesentliche vom Film abspielt, bleibt weitgehend unversehrt.
+Dass sich ein Regisseur auch über die Bildaufteilung Gedanken gemacht haben könnte, zählt hier nicht.
+Doch nicht nur die störenden schwarzen Balken bieten Stoff für eine neue Programmversion.
+Auch die schwachen, düsteren Farben in so manchem Streifen.
+Auch dagegen lässt sich etwas machen, ein Computer ist ja schließlich auch ein perfektes Werkzeug zur Bildbearbeitung.
+Die Technologie eigne sich auch ideal für das Korrigieren des Verlusts von Details bei einigen TFT- und Röhren-Monitoren.
+So strahlt das Gesicht von Julia Roberts in optimistischen Farbtönen, obwohl es das ja vielleicht gar nicht soll.
+Die Software kann jedenfalls kaum beim Regisseur nachgefragt haben, wie düster die Szene denn eigentlich gemeint ist.
+Sie interpretiert die Bilder auf ihre Weise.
+Doch zum Glück kann man ihr das auch verbieten: Der innovative Adlerblick ist genauso abstellbar wie die Stauchfunktion Pano Vision beziehungsweise Smart Stretch.
+Dafür gebührt den Entwicklern besonderer Dank.

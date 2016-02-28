@@ -1,0 +1,32 @@
+Was geht, Rekorder?
+Seit CDs zunehmend mit Kopierschutz ausgeliefert werden, boomt Software zum Ziehen analoger Kopien.
+Experten melden Zweifel an.
+Mit ihrer Technologie sei es nicht mehr möglich, analoge Aufnahmen von geschützten Audiodateien zu machen.
+Experten bezweifeln jedoch, dass das funktionieren kann.
+Dazu sei, im Gegensatz zu anderen DRM-Systemen, keine weitere Infrastruktur nötig, also etwa bestimmte Software, die auf den Rechnern der Kunden läuft.
+Keines von ihnen soll analoge Aufnahmen unterdrücken.
+Viele Experten sind sogar der Ansicht, dass das gar nicht möglich sei.
+Niemand könne etwa verhindern, ein Mikrofon vor einen Lautsprecher zu halten und damit einen Song aufzunehmen.
+Das bestreitet auch Dark Noise nicht.
+Nur sollen analoge Kopien, wenn sie von einem Original mit Q-Spoiler-Kodierung gemacht werden, so schlecht klingen, dass sie wertlos sind.
+Dieser Effekt werde erreicht, indem - für Menschen unhörbare - Audiosignale in ein Musikstück eingefügt werden, die die analoge Aufnahmetechnik stören.
+Da das Signal in das Stück selber integriert sei, könne es nicht davon getrennt werden und verhindere damit sogar, Songs in guter Qualität aufzunehmen, die über Digitalradio (DAB) ausgestrahlt werden.
+Für Zuhörer sei das nicht zu erkennen; auch dann nicht, wenn die Original-CD auf der heimischen Stereoanlage oder über den PC abgespielt werde, behauptet Dark Noise.
+Zwar sei es prinzipiell möglich, derartige Daten in Musikstücke einzubauen.
+Doch Kompressionsverfahren wie mp3 basierten gerade darauf, diese unhörbaren Signale herauszufiltern.
+Dabei stellt sich allerdings die Frage, welche Maßstäbe die Hörer anlegen.
+Menschen, die viele Tausend Euro für einen Röhrenverstärker ausgeben, werden sicher auch keine mp3-Dateien darüber anhören, die mit 128 Kilobit pro Sekunde (kbps) komprimiert sind.
+Millionen von mp3-Fans sind mit solchen Aufnahmen allerdings zufrieden.
+Könnte Dark Noise darauf hoffen, dass sich die Kunden an der verminderten Qualität der kodierten Aufnahmen nicht stören würden?
+Viele Geräte, wie etwa Autoradios, digitalisieren Musik intern, um sie weiter zu verarbeiten, erklärt de Leuw.
+Auch diese Geräte würden gestört, wenn Musik mit Dark Noise verschmutzt wäre.
+Das aber gilt für die meisten neueren Produkte.
+Die Aufnahme-Software muss die Option bedienen, Aufnahmen über die analoge Line-In-Schnittstelle zuzulassen: Auch das gilt für viele Programme, darunter auch Free- und Shareware.
+Um eine analoge Kopie zu schaffen, verbindet man nun einfach einen CD-Player über die analoge Schnittstelle mit dem PC - und schneidet den Ton in Echtzeit mit.
+Ob solche analogen Kopien auch nach der Novelle des Urheberrechtes vom Herbst letzten Jahres noch legal sind, ist jedoch umstritten.
+Darüber hinaus hätte eine solche Technik rechtliche Konsequenzen.
+Zwar ist weiterhin umstritten, ob - oder in welchen Fällen - es nach dem neuen Urheberrecht erlaubt ist, eine Kopie von digitalen Originalen herzustellen, wenn diese mit einem Kopierschutz gesichert sind.
+Dass es weiterhin erlaubt ist, analoge Privatkopien zu machen, etwa von CD auf Musikkassetten, bestreitet bisher aber nicht einmal die Musikindustrie.
+Sollte die Dark Noise-Technik funktionieren, würden aber auch diese analogen Kopien unmöglich - und damit die Schranken des Urheberrechts technisch weiter unterlaufen.
+Die Firma bewirbt ihr Produkt mit dem Versprechen, selbst brauchbare Aufnahmen von Fernseh-, Radio- und Digitalradio-Sendungen verhindern zu können, egal ob auf Minidisc, Musikkassette oder DAT.
+In einer bindenden Absichtserklärung kündigte die Firma an, Dark Noise innerhalb 30 Tagen zu übernehmen.

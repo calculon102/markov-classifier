@@ -1,0 +1,29 @@
+Einfach den Rechner einschalten, Kopfhörer mit Mikrofon aufsetzen, ins Netz gehen, und das Telefonat mit der amerikanischen Tante kann beginnen.
+Breitbandverbindungen und kostengünstige Zugänge machen die Internet-Telefonie immer attraktiver.
+Was die Anwender freut, führt bei Polizei und Geheimdiensten zu neuen Begehrlichkeiten.
+Schon vor einigen Jahren hat die amerikanische Bundespolizei FBI den Kongress überzeugt, die Telefonanbieter gesetzlich zur Mithilfe zu verpflichten.
+Die Unternehmen müssen auf Anforderung jederzeit die gewünschten Daten an die Sicherheitsbehörden liefern.
+Ausgenommen waren von dieser Regelung bisher die Anbieter von Internetdienstleistungen.
+Da bis zu 10 Prozent der weltweiten Telefongespräche über das Netz abgewickelt werden, wollen die amerikanischen Behörden auch diese Art der Kommunikation nun genau überwachen.
+Begründet wird das in gewohnter Manier mit dem Kampf gegen den internationalen Terrorismus.
+Ihre deutschen Kollegen haben es da etwas einfacher, denn die rechtliche Grundlage für die Kontrolle besteht bereits.
+Das Bundesministerium der Justiz begnügt sich mit dem Hinweis auf die bestehende Rechtslage.
+Dabei sind die deutschen Behörden bei der Kontrolle der Bürger schon seit langem besonders unternehmenslustig.
+Nach Angaben der Regulierungsbehörde für Telekommunikation und Post ist die Zahl der klassischen Telefonüberwachungen weiter angestiegen.
+Die Telekommunikationsunternehmen haben der Regulierungsbehörde für das vergangene Jahr 21.874 richterliche Anordnungen gemeldet.
+Damit hat es in zehn Jahren bei der Anzahl überwachter Telefongespräche eine Zunahme von 350 Prozent gegeben.
+Ein Gespräch über das Netz basiert auf dem Internet-Protokoll und überträgt die Daten in einzelnen Paketen.
+Dabei werden für den Vorgang verschiedene Begriffe wie Internet Telefonie, IP Telefonie, Packet Voice und auch Voice over IP (VoIP) verwendet.
+Sniffer werden eingesetzt, um Probleme in einem Netzwerk zu erkennen.
+Für die Kommunikation mit multimedialen Daten sind zwei Übertragungswege notwendig.
+Das eigentliche Telefonieren erfolgt dann über den Datenpfad.
+Das erste Experiment zur paketorientierten Sprachübertragung fand 1974 in den USA zwischen Kalifornien und Massachusetts statt.
+Wirklich begonnen hat die Geschichte von VoIP 1995, als die israelische Firma VocalTel das erste Telefongespräch von Computer zu Computer ermöglichte.
+Viele Experten sahen schon düstere Zeiten für die Telefongesellschaften voraus, aber bis heute greifen die Menschen immer noch zum klassischen Telefon.
+Auf der gleichen Übertragungstechnik basiert die Videotelefonie.
+Hersteller wie Microsoft oder Apple bieten leistungsfähige Programme, die es auch dem Laien ermöglichen, mit bewegten Bildern zu kommunizieren.
+Das Abhören eines Telefonats ist für den normalen Nutzer nur ärgerlich, aber für Unternehmen kann es mitunter existenzbedrohend sein.
+CommuniTrust ist ein Programm, das derzeit am Fraunhoferinstitut für Graphische Datenverarbeitung in Darmstadt entwickelt wird.
+Allerdings ist der Aufwand sehr hoch und die Übertragung wird merklich langsamer.
+Der amerikanische Netzwerkspezialist CISCO hat die Unterstützung des Protokolls bereits angekündigt und es wird auch eine kostenlose Open-Source-Lösung geben.
+Keine guten Zeiten für die eifrigen Datensammler.

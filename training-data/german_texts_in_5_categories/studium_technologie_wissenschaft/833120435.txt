@@ -1,0 +1,24 @@
+Am Computer arbeiten, ohne auch nur den kleinen Finger zu rühren - das gab es bislang nur als Fiktion.
+Wissenschaftler aus den USA sind dieser Wunschvorstellung jetzt ein Stück nähergekommen und machen damit auch Patienten mit körperlichen Behinderungen Hoffnungen.
+DPA Elektroden auf dem Kopf: Hat diese Methode bald ausgedient?
+Zum ersten Mal haben Wissenschaftler aus den USA Elektroden direkt am menschlichen Gehirn angebracht und die Patienten nur durch die gemessenen Gehirnsignale Videospiele spielen lassen - bewegen mussten sich die Patienten dabei nicht.
+Bei der so genannten Elektrokortikographie (ECoG) werden die Gehirnsignale direkt von der Gehirnoberfläche abgelesen.
+Im Gegensatz zum herkömmlichen Elektroenzephalogramm (EEG) werden die Elektroden dabei implantiert.
+Beim weit verbreiteten EEG liegen die Elektroden hingegen außen auf der Schädeldecke.
+Eric Leuthardt und Daniel Moran von der Washington University in St. Louis arbeiteten mit vier Epilepsiepatienten.
+Diesen wurden Elektroden implantiert, um die Gehirnareale zu finden, die für die epileptischen Anfälle verantwortlich waren, in der Hoffnung, die betreffenden Areale dann entfernen zu können.
+Mit Einverständnis der Patienten wurden die ECoG-Elektroden mit einem Computer verbunden, auf dem ein Videospiel lief.
+Die Patienten wurden dann gebeten, verschiedene motorische Aufgaben und Sprechaufgaben zu erfüllen.
+Sie bewegten ihre Hände in verschiedenen Richtungen, sprachen gleichzeitig und sollten sich Bewegungen und Worte vorstellen.
+Die Wissenschaftler konnten dabei sehen, welche Bewegungen mit welchen Teilen im Gehirn zusammenhingen.
+Dann spielten die Patienten ein einfaches, eindimensionales Computerspiel, bei dem sie einen Cursor hoch oder runter in Richtung eines von zwei Zielen bewegen mussten.
+Der Vorteil der neuen Technik sei, so die Forscher, dass es nicht wie beim EEG Monate dauere, bis die Patienten damit zu Recht kämen.
+Die Elektrokortikographie hat eine bessere räumliche Auflösung, schlägt genauer aus als frühere Methoden und erlaubt den Wissenschaftlern, mehr Elektroden mit höheren Frequenzen zu benutzen.
+In späteren Versuchen wollen die Forscher ihre Methode auch mit zweidimensionalen Spielen testen.
+Darüber hinaus planen die Wissenschaftler Experimente mit Affen, um zu sehen, wie lange die Implantate zuverlässige Ergebnisse liefern.
+Ziel dieser Testreihen ist es, Geräte zu bauen, die mindestens 10 Jahre im Einsatz sein können.
+Erst dann könne man solche Elektroden permanent auch in menschliche Gehirne implantieren.
+Die Wissenschaftler glauben, mit ihrer Arbeit die Voraussetzung dafür geschaffen zu haben, um später biomedizinische Geräte zu entwickeln, mit denen behinderte Menschen Prothesen nur durch ihre Gedanken bewegen zu können.
+Entsprechende Experimente waren Forschern der amerikanischen Duke University im vergangenen Jahr mit Rhesusaffen geglückt.
+In diesem Jahr platzierte das Team um Miguel Nicolelis 32 Mikroelektroden in den Hirnen von elf Parkinson-Kranken.
+Ein Computer analysierte fünf Minuten lang die Bewegungen und konnte sie schließlich den aufgezeichneten Befehlen aus dem Kopf zuordnen.

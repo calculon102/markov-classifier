@@ -1,0 +1,34 @@
+Seit Anfang Juli werden die P2P-Börsen aufmerksam überwacht, User erfasst und Klagen vorbereitet.
+Die P2P-Gemeinde müht sich, dieses Problem technisch zu lösen: In dieser Woche erscheinen die ersten neuen Programme.
+Anfang des Monats meldete das Marktforschungsunternehmen Yankee Group, die Nutzung der P2P-Börsen sei nach Beginn der neuesten Kampagne des Verbandes der amerikanischen Musikindustrie RIAA noch um 10 Prozent gestiegen.
+Wenige Tage später verkündete Nielsen Netratings, der Datenverkehr sei um 15 Prozent gefallen.
+Vielleicht liegt die Wahrheit irgendwo in der Mitte: Klar ist zumindest, dass die massiven Drohgebärden der Musikindustrie nicht ohne Wirkung blieben; aber auch, dass es trotzdem fröhlich weiter geht im großen Datenkarussell.
+In den nächsten Monaten könnte sich das Downloadtempo allerdings verlangsamen: Immer mehr P2P-Börsen leiten ihre User über Proxyserver.
+Damit lässt sich die Identität der betreffenden User einigermaßen verschleiern, und darum scheint der Proxy im Augenblick das Mittel der Wahl bei den Verteidigungsmaßnahmen der P2P-Börsen gegen die Fahnder der Industrie.
+Die haben nun vor allem die User auf dem Kieker, nachdem sich herausgestellt hat, dass die gerichtliche Verfolgung der Börsenbetreiber weitgehend wirkungslos blieb.
+Nun also setzt die Industrie auf Angst und Abschreckung - und die Börsen tun, was sie können, ihren Usern die Angst zu nehmen.
+Am Dienstag wagte sich Morpheus, einst Star unter den Börsen, heute eher ein zwar verbreiteter, aber auch verlachter Player im Gnutella-Netz, mit einer neuen Programmversion an den Markt.
+Angeblich ist die Software nun von Ad- und Spyware gereinigt und bietet ihren Nutzern zudem Proxies: Lauter kann man kaum um die verlorenen, alten Kunden werben.
+Die sitzen mittlerweile größtenteils im FastTrack-Netzwerk (KaZaA, iMesh, Grokster) und damit direkt im Visier der Industriefahnder.
+KaZaA hat bereits angekündigt, in der nächsten Programmversion einige Funktionen deaktivieren zu wollen, um seine User besser vor Fahndern zu schützen.
+Zu denen gehört unter anderem ein Peerguardian-Filter, der die Kontaktund Schnüffelversuche bekannter Fahnder einfach ausfiltert und unterbricht.
+Zumindest versucht er das: Das Programm gilt aber als nicht sehr verlässlich.
+Alternativ kann man in den neuen Programmen die offenen Ports, über die der Datenverkehr läuft, einseitig schließen: Das ist zwar ein Schutz vor Entdeckung, zugleich aber auch das Ende des Datentausches.
+Der User wird zum reinen Datensauger, und auch damit wäre die RIAA wohl zufrieden, denn mittelfristig ließen sich die P2P-Börsen auch auf diese Weise zerstören.
+Doch all diese Tricks sind nur die schnellen Reaktionen auf eine aktuelle Kampagne der Musikindustrie: Aus deren Perspektive steht zu befürchten, dass hier schnell bessere Mittel gefunden werden.
+Völlig neu ist da die in dieser Woche verkündete Strategie von iMesh, die Fahnder der Musikindustrie mit Ablenkungsmanövern emsig und unschädlich halten zu wollen.
+Das Unternehmen arbeitet angeblich am Aufbau eines Servernetzes, das innerhalb des FastTrack-Netzwerkes laut vor sich hinfunken soll: Computer will iMesh simulieren, über die fiktive User Unmengen von Daten tauschen.
+Doch so, wie viele der Drohungen der Musikindustrie letztlich Drohgebärden sind und bleiben werden, ist vieles von der Zuversicht, die die P2P-Betreiber derzeit demonstrieren, Pfeifen im Wald.
+Klar ist, dass die Industrie nicht Millionen von Usern wird verklagen können.
+Doch die Börsen können ihre User mit technischen Mitteln derzeit auch noch nicht anonymisieren.
+Möglich wäre das weit einfacher innerhalb eines proprietären Netzes mit einem zentralen Server.
+Das aber würde die Börsenbetreiber wieder haftbar machen - siehe Napster.
+Weiter ist da Earthstation5, eine P2P-Software, die weitestgehende Anonymisierung verspricht.
+Noch gilt die Software als zu kompliziert, und die Zahl der User ist so niedrig, dass es schwer fällt, überhaupt fündig zu werden.
+Trotzdem gilt die Earthstation schon jetzt als Alternative.
+Neue P2P-Ansätze sind also in der Entwicklung.
+Dass der Konflikt sich im Laufe des Sommers verschärfen wird, ist eine ausgemachte Sache, und nicht alle P2P-Entwickler werden ihn schadlos überstehen.
+Grokster etwa, der kleinste Partner im FastTrack-Netzwerk, treibt zurzeit Paniktriebe wie weiland die deutsche Fichte im Waldsterben.
+In der ebenfalls Dienstag veröffentlichten Version findet sich kein neues Feature, aber auch keine Spy- und Schnüffelsoftware mehr.
+An der Börse nennt man so was Gewinnmitnahme - ein gutes Zeichen ist das selten.
+Auf der anderen Seite ist es unwahrscheinlich, dass der relativ unbeliebte Grokster viel wird einstreichen können.

@@ -1,0 +1,32 @@
+Eine neuartige Brennstoffzelle könnte die Energiekonzerne in Verlegenheit bringen.
+Der in Dresden entwickelte Stromspender soll zehn Mal länger halten als bisherige Brennstoffzellen und ein ganzes Einfamilienhaus mit Strom versorgen - zu Kosten von maximal 2000 Euro, unabhängig vom bisherigen Stromnetz.
+Die Welt in der nahen Zukunft: Viele kleine Haushalte bilden ein dezentrales globales Energie-Netz, in dem jeder Strom und Wärme per Brennstoffzelle zu Hause erzeugt und seine Überschüsse mit den anderen teilt.
+Das von ihm vorgeschlagene Strom-WWW breche nicht nur die Macht der Energiekonzerne, sondern verringere nebenbei auch Transportverluste und die Gefahr von Stromausfällen.
+Forscher des Fraunhofer-Instituts für Keramische Technologien und Sinterwerkstoffe in Dresden sind Rifkins Vision jetzt einen Schritt näher gekommen.
+Sie haben eine Hochtemperatur-Brennstoffzelle entwickelt, die nicht nur preiswerter, sondern vor allem erheblich langlebiger als bisherige Systeme ist.
+Damit ist die neue Zelle laut Otschik für den Alltagsbetrieb zu Hause geeignet - und ein technologischer Durchbruch.
+Günter Schiller, Leiter der Projektgruppe Hochtemperatur-Brennstoffzellen am Deutschen Zentrum für Luft- und Raumfahrt, hält die Dresdner Erfindung für einen großen Schritt nach vorn.
+Bisher hätten diesen Wert aber nur Prototypen erreicht, die sich für Kraftwerke eigneten - und nicht für Einzelhaushalte.
+Der Grund für die prognostizierte Langlebigkeit ist das Material, aus dem die Zelle besteht.
+Um Strom zu erzeugen, lassen Brennstoffzellen Wasserstoff mit Sauerstoff reagieren.
+Dabei erzeugen sie Wasser und Energie.
+Um den teuren und schwer zu transportierenden Wasserstoff nicht tanken zu müssen, gewinnen ihn viele Zellen aus Erdgas.
+Erdgas aber ist selten chemisch rein und oft mit anderen Stoffen verunreinigt, so dass sich die Zellen im Laufe der Zeit abnutzen.
+Daher setzt Otschiks Team auf eine oxidkeramische Brennstoffzelle, eine so genannte Solid Oxide Fuel Cell, kurz SOFC.
+Wie alle Hochtemperatur-Zellen arbeitet sie bei über 800 Grad Celsius.
+Sie lässt zunächst Erdgas mit Sauerstoff zu Wasserstoff und Kohlenstoffmonoxid reagieren, dann wandelt sie beides in einer weiteren Reaktion mit Sauerstoff zu Kohlenstoffdioxid, Wasser und Energie um.
+Beide Reaktionen finden in den Stacks im Inneren der Zelle statt - aufeinander gestapelten Schichten aus Nickel-Anoden, Keramik-Kathoden und Metallplatten zum Ableiten des Stroms.
+Das Problem: Wegen winziger Unebenheiten liegen diese Schichten nie genau aufeinander, es entsteht ein Kontaktwiderstand, der den Stromfluss behindert.
+Die Fraunhofer-Forscher haben ihre Stacks daher mit einem elastischen Material gefüllt, das die Unebenheiten ausgleichen kann.
+Damit wird der Widerstand extrem verringert, und die Zelle kann 45 Prozent der in ihr erzeugten Energie als Strom abführen.
+Außerdem können weitere 45 Prozent als Wärme aufgefangen werden, so dass der Gesamtwirkungsgrad annähernd 90 Prozent beträgt.
+Gegenüber Niedrigtemperatur-Brennstoffzellen, wie sie künftig etwa in Laptops oder Handys eingesetzt werden können, soll die Fraunhofer-Zelle einen um 15 Prozent höheren Wirkungsgrad besitzen.
+Einen Nachteil hat die neue Technik dennoch: Sie ist nicht klimaneutral.
+Im Gegensatz zu Brennstoffzellen, die aus erneuerbaren Energien erzeugten Wasserstoff verwenden, fällt bei der Fraunhofer-Zelle das Treibhausgas Kohlendioxid an.
+Seine neue Zelle gehe dagegen bedeutend sparsamer mit den fossilen Brennstoffen um.
+Die Forscher wollen mit ihrer Brennstoffzelle jetzt den Massenmarkt erobern.
+Sie haben ihre Erfindung zum Patent angemeldet und hoffen auf Investoren.
+Wenn sie fündig werden, will das Team innerhalb der nächsten drei Jahre eine Variante mit einem Kilowatt Leistung auf den Markt bringen.
+Das würde laut Otschik ausreichen, um ein (sparsames) Einfamilienhaus mit Strom zu versorgen - für 1000 bis 2000 Euro, dem Kaufpreis der Brennstoffzelle.
+Heizwärme müsste man allerdings teilweise dazukaufen: Die Zelle liefert etwas mehr als ein Kilowatt Wärmeleistung.
+Das reicht nur für Niedrigenergiehäuser - alle anderen Haushalte benötigen drei bis vier Kilowatt mehr.

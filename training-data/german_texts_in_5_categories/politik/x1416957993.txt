@@ -1,0 +1,32 @@
+Bürgerrechtler warnen vor winzigen Computerchips, die Verbraucher überall kontrollieren können.
+Dass sie kommen, steht außer Frage: Schon bald sollen sie Barcodes in Supermärkten ablösen.
+Der Beginn wirklich flächendeckender Überwachung durch die Hintertür?
+Barcodes enthalten Informationen zu Ware und Hersteller.
+Die britischen Supermärkte von Tesco haben sie, Real will sie, der Praktiker auch, Kaufhof und Gerry Weber testen sie schon.
+Smartlabels sind Computerchips in der Größe eines Stecknadelkopfes mit einer Antenne, die unter einem Joghurtbecher kleben oder in ein Etikett eingenäht sind.
+Sie senden ihre Codenummer in die Welt hinaus - ihre Signale sind je nach Chip aus bis zu 30 Metern noch messbar.
+Im Supermarkt aufgestellte Empfänger registrieren nicht nur, ob die Regale noch gut gefüllt sind, sie können auch im Handumdrehen Kundenprofile erstellen: Wer nimmt wann welche Waren aus dem Regal?
+Und was wird wieder zurückgelegt?
+Künftig könnten die RFID-Chips sogar die Kassiererer arbeitslos machen.
+An der vollautomatischen Kasse wird einfach alles bezahlt, was aus dem Einkauswagen (und aus der Jackentasche) funkt.
+Beim Handelsriesen Metro ist der Supermarkt der Zukunft seit Realität.
+Der Einsatz der RFID ist von Metro-Gruppe als Modellprojekt angekündigt worden, aber ein Ende der Testphase nicht in Sicht.
+Es ist eher zu erwarten, dass weitere Produkte und Filialen folgen werden.
+Die Chips sind so klein, dass sie sich bequem in den Waren verstecken lassen und der Käufer sie nicht erkennen kann.
+Die Reichweite der eingesetzten Technologie ist auf etwa einen Meter begrenzt und die physikalische Grenze der Verkleinerung wird zurzeit noch durch die Antenne gesetzt.
+In Zukunft bekommen auch Kunden-, Kredit- und Paybackkarten den Chip, was zu völlig neuen Möglichkeiten der Datensammlung führt.
+Statt reine Kaufinformationen zu sammeln, wollen Marktforscher dem Kunden künftig tief in die Seele blicken.
+Kritiker befürchten nicht nur Probleme für den Datenschutz und die Privatsphäre.
+Es ist vorstellbar, dass verschiedenen Kundengruppen auch unterschiedliche Angebote gemacht werden.
+Jeder Kunde bekommt dann einen anderen Preis angezeigt.
+Der Rasierklingen- Hersteller Gilette gehörte zu den Pionieren der RFID-Technik.
+Schon heute haben in Deutschland 24,5 Millionen Menschen eine Kundenkarte von Payback.
+Damit ist bereits ein Großteil der Bevölkerung mit Kundenkarten des Marktführers versorgt, und die Rabattkarten anderer Anbieter sind dabei noch nicht einmal berücksichtigt.
+Nach Angabe des Onlinemagazins CNet will das amerikanische Unternehmen Wal-Mart in den nächsten Jahren drei Milliarden Dollar in die Einführung der Funktechnologie investieren.
+So sollen die wichtigsten Lieferanten bis zum 1. Januar 2005 ihre Produkte mit entsprechenden Chips versehen.
+Die Funktechnologie wird aber auch in anderen Bereichen Einzug halten.
+Der Einsatz der vielseitigen RFID-Chips für elektronische Fahrkarten und Ausweise ist schon geplant.
+Eine private Schule im amerikanischen Buffalo nutzt die Technologie seit kurzem, um die Wege von Schülern und Lehrpersonal zu überwachen.
+Die Europäische Zentralbank will sogar 200-Euro-Scheine mit den Funkchips ausstatten, um Fälschungen zu erschweren.
+Die Bürgerrechtler vom FoeBud in Bielefeld sind derzeit mit der Entwicklung des DataPrivatizer beschäftigt.
+Mit dem kleinen Gerät sollen Kunden schon Anfang nächsten Jahres die versteckten Funkchips aufspüren können.

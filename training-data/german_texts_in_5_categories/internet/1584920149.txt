@@ -1,0 +1,24 @@
+Die EU-Entscheidung über die umstrittene Einführung von Software-Patenten ist vertagt.
+Die britische Labour-Abgeordnete Arlene McCarthy scheiterte mit ihrem Vorhaben, die Abstimmung über Softwarepatente in der Europäischen Union auf den 30. Juni vorzuziehen.
+Patente - eine Gefahr für Linux-Maskottchen Tux?
+London - Einige Abgeordnete und Gegner der Patente konnten den Termin in letzter Minute verhindern.
+Das Parlament wird in seiner Sitzung am 1. September über den Gesetztentwurf entscheiden.
+Im Juni hatte der Ausschuss für Recht und Binnenmarkt einen Vorschlag zur Patentierbarkeit von computerimplementierten Inhalten angenommen.
+Der Entwurf stammt aus dem Büro von Arlene McCarthy, der Vorsitzenden des juristischen Komitees.
+Der Ausschuss verspricht sich von einer Vereinheitlichung der Rechtslage eine Verbesserung der Wettbewerbsposition europäischer Firmen.
+Kritiker befürchten dagegen, dass die anstehenden Änderungen das wirtschaftliche Ende für kleine Softwarefirmen bedeuten und die Entwicklung freier Software unmöglich machen.
+Auch die Grünen im europäischen Parlament befürchten eine weitere Monopolisierung des Marktes und setzen sich für eine andere Regelung ein.
+Bereits heute existieren etwa 30.000 europäische Patente auf Software, die nicht nur auf den ersten Blick wenig Sinn machen.
+Der Fortschrittsbalken gehört zum Inventar der meisten Programme und er zeigt den Stand bei der Installation an.
+Für diese nützliche Anwendung besteht in Europa ein Patent und jeder der den Balken ohne Lizenz in seiner Software einsetzt, muss mit einer Klage rechnen.
+Auch für die nützlichen Reiter auf Menüoptionen, die an die guten alten Karteikästen erinnern, wurde im August 2001 ein europäisches Patent erteilt.
+Dieser Widerspruch in der Rechtslage soll durch die Gesetzgebung zu Softwarepatenten aufgehoben werden.
+Software ist heute bereits durch das Urheberrecht geschützt und Programme dürfen nicht ohne weiteres kopiert werden.
+Es existiert die Trennung zwischen dem Quelltext und dem ausführbaren Programm.
+Wer die Entwicklung kommerzieller Anwendungen betreibt, behält den Quelltext für sich und veröffentlicht nur die Programme.
+Der Entwickler ist der einzige, der die Software weiterentwickeln und Serviceleistungen anbieten darf.
+Jeder der ein Computerprogramm von Anfang an selbstständig entwickelt, kann heute davon ausgehen, dass er keine Rechte Dritter verletzt.
+Bestehen Patente auf untergeordnete Elemente, wie den Fortschrittsbalken oder einzelne Algorithmen, dann wären aufwendige Recherchen nach bereits erteilten Patenten notwendig.
+Kleine Firmen oder einzelne Programmierer können sich das nicht erlauben und ihre Arbeit ist damit gefährdet.
+Für die Rechtsabteilung großer Unternehmen aus der IT-Branche stellt das kein Problem dar und Patente verschaffen ihnen auch neue Möglichkeiten im weltweiten Wettbewerb.
+Auch wenn die Abstimmung im europäischen Parlament verschoben wurde, rücken die europäischen Softwarepatente immer näher.

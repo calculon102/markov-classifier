@@ -1,0 +1,20 @@
+Berlin - In den Verbraucherzentralen häufen sich in letzter Zeit die Beschwerden von Internetsurfern: Statt Zugang zu Pornofotos zu bekommen, haben sich viele unwissentlich ein so genanntes Dialerprogramm auf den heimischen PC heruntergeladen.
+Diese Programme unseriöser Anbieter wählen automatisch teure 0190-Nummern an und treiben den Verbindungspreis auf bis zu dreistellige Summen pro Stunde.
+Die besonders perfide Variante ist, wenn die Prozedur vom Nutzer unbemerkt im Hintergrund abläuft.
+In beiden Fällen wird der Einbruch im heimischen Computersystem am Monatsende deutlich: durch eine exorbitante Telefonrechnung.
+Einsprüche wurden von den Gerichten bislang meist zurückgewiesen, weil die bestehenden Gesetze die unseriösen Anbieter schützen.
+Verbraucherministerin Renate Künast (Grüne) versprach bereits Anfang Mai eine rasche Lösung des Problems.
+Unter anderem sollte diese Lösung beinhalten, dass die Anbieter von 0190-Diensten ihre finanziellen Forderungen direkt an den Kunden richten müssen.
+Bisher dienen die Netzbetreiber wie die Deutsche Telekom ihnen als Inkassounternehmen, indem sie die Beträge über die monatlichen Telefonrechnung beim Kunden einziehen.
+Die Beweislast würde so auf den 0190-Anbieter übertragen.
+Fraglich ist zudem, ob die Umkehr der Beweislast ausreicht, um der Abzocke Einhalt zu gebieten.
+Auch so könnten Internetsurfer weiter in die Anwahl-Falle gelockt werden, warnte die ehemalige Justizministerin Sabine Leutheusser-Schnarrenberger (FDP).
+Viel wichtiger sei es, dass die Regulierungsbehörde vor der Vergabe der teuren Einwahl-Nummern die Seriosität der Anbieter prüft, anstatt sie einfach sorglos jedem Antragsteller zuzuteilen.
+Auch dieser Vorschlag werde geprüft, versicherte Künasts Sprecherin.
+Auch nach der geplanten Gesetzesänderung wird der Internetsurfer aber am besten selbst für seinen Schutz sorgen.
+Ein Instrument dafür bot zunächst der Virenschutzhersteller H+BEDV: Dessen Software-Ingenieure integrierten eine Sperre für die 0190-Anwählprogramme in sein Programm.
+Doch dummerweise gab das Programm auch Virenwarnungen für juristisch einwandfreie Dialer aus.
+Mit Hilfe dieses Programms können sich Kunden Logos und Klingeltöne für das Handy herunterladen.
+Dieser Vorgang ist jedoch juristisch einwandfrei, da auf die anfallenden Kosten von 1,86 Euro pro Minute hingewiesen wird und der Download des Programms mit Billigung des Nutzers geschieht.
+Darum mussten die Virenschützer ihr Programm zunächst zurückziehen.
+Aber die Software-Hersteller versprechen Besserung: Vom Virenprogramm soll es bald ein Update geben, dass legale und illegale Dialer juristisch einwandfrei unterscheiden soll.

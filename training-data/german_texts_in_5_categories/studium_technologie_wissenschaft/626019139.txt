@@ -1,0 +1,24 @@
+Stundenlang zappenduster in Metropolen wie New York - dieses Szenario wird sich nach Meinung von Wissenschaftlern noch öfter wiederholen.
+Die Stromausfälle seien eine logische Folge des Netzaufbaus und nur mit hohen Investitionen zu verhindern.
+Die Crashs im US-Stromnetz im vergangenen Jahr waren ein Schlag gegen das Selbstbewusstsein einer ganzen Nation.
+Wenn die Thesen stimmen, die zwei amerikanische Wissenschaftlerteams unabhängig voneinander aufgestellt haben, sind Zusammenbrüche der Energieversorgung im System programmiert.
+John Kappenmann, der die US-Regierung in Energiefragen berät, warnte auf einer Tagung von Meteorologen in Seattle vor geomagnetischen Stürmen.
+Diese könnten noch größere Blackouts verursachen als bisher geschehen.
+Die Art und Weise, wie das Netz ausgebaut werde, mache es noch verwundbarer.
+Magnetische Stürme von der Sonne, auf die auch das Polarlicht zurückgeht, würden in den Leitungen des Netzes hohe Ströme induzieren, mit denen das auf Wechselstrom ausgerichtete System jedoch nicht zurecht komme.
+Der Effekt könne verheerend sein.
+Kappenmann berichtete von einem solaren Magnetsturm aus dem Jahr 1989, der binnen 90 Sekunden das Leitungsnetz von Quebec lahm legte.
+Je größer ein Netz werde und je mehr Verbindungen es enthalte, umso verwundbarer sei es, unterstrich der Energieexperte.
+In den letzten 50 Jahren habe sich die Länge der Stromleitungen in den USA verzehnfacht.
+Während Kappenmann die immer stärkere Vernetzung als Risiko betrachtet, kommt eine Wissenschaftlergruppe der Pennsylvania State University zu ganz anderen Ergebnissen.
+Réka Albert und ihre Kollegen glauben, dass eher ein zu dünn geflochtenes Netz für die Stromausfälle im vergangenen Sommer verantwortlich ist.
+Die Physiker entwickelten ein Modell, mit dem sie das Verhalten des US-Stromnetzes simulierten und stellten fest, dass sich Ausfälle im Netz als Kaskade fortpflanzten.
+Leitungen wurden automatisch unterbrochen, wenn die Spannung bestimmte Werte überstieg.
+Als Folge fuhren Kraftwerke und Generatoren ihre Leistung herunter, weil ihr Strom keine Abnehmer mehr fand.
+Die verbliebenen Kraftwerke und Leitungen konnten das Defizit nicht ausgleichen und fielen ebenfalls aus - der Blackout war da.
+Die Einzelteile funktionierten weitgehend autark, allerdings spielten wenige Knotenpunkte mit besonderes vielen Verbindungen eine ausschlaggebende Rolle.
+Sobald nur vier Prozent dieser so genannten Hubs ausfielen, könnten 60 Prozent des Netzes zusammenbrechen.
+Albert empfiehlt deshalb, die Zahl der Leitungen zwischen Knotenpunkten zu erhöhen, damit der Ausfall einzelner Strecken nicht mehr so ins Gewicht falle.
+Eine Empfehlung, vor deren direkter Umsetzung Kappenmann warnt: Sie würde das Netz verwundbarer machen gegenüber Magnetstürmen.
+Um das Netz zu schützen, müssten zusätzlich Sperren integriert werden, die die induzierten Ströme um 60 bis 70 Prozent verringerten, erklärt der Energieexperte.
+Fachleute schätzen, dass ein Ausbau des US-Stromnetzes, der künftige Blackouts weitgehend ausschließt, 100 Milliarden Dollar kosten könnte.

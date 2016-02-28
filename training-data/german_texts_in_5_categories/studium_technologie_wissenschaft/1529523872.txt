@@ -1,0 +1,31 @@
+Drei Jahre nach dem misslungenen Rekordflug wagt die Nasa morgen einen neuen Versuch.
+Der Superjet X-43A soll für wenige Sekunden siebenfache Schallgeschwindigkeit erreichen.
+Militärs haben bereits ein Auge auf die neue Antriebstechnik geworfen.
+Am morgigen Samstag will die US-Raumfahrtbehörde ein neues Kapitel in der Antriebstechnik aufschlagen.
+Der 3,6 Meter lange und 1,6 Meter breite Hyperschall-Jet X-43A soll für rund zehn Sekunden mit einer Geschwindigkeit von 8000 Stundenkilometern durch die Lüfte rasen.
+Der unbemannte Flieger wäre damit sieben Mal so schnell wie der Schall.
+Die X-43A nutzt als Antrieb keine herkömmliche Raketentechnik, denn der Jet hat nur Treibstoff und keinerlei Sauerstoff an Bord.
+Den Sauerstoff holt sich die Maschine direkt aus der Luft.
+Bei Düsentriebwerken verdichten rotierende Schaufeln die einströmende Luft, bevor in ihr der Treibstoff gezündet wird.
+Bei der X-43A soll diese Verdichtung allein durch die Geschwindigkeit des eigenen Vortriebs erreicht werden.
+Der Flug gilt als Test, ob diese so genannte Scramjet-Technik tatsächlich funktioniert und in ferner Zukunft bei Flugzeugen oder Raumgleitern zum Einsatz kommen könnte.
+Um letztlich auf siebenfache Schallgeschwindigkeit zu kommen, braucht der Superjet gleich eine zweifache Schubhilfe.
+Ein umgebauter B-52-Bomber und eine Pegasus-Rakete beschleunigen den Superjet auf etwa fünffache Schallgeschwindigkeit, bevor er seinen eigenen Antrieb startet.
+Die Scramjet-Technik erfordert derartig hohe Anfangsgeschwindigkeiten, um überhaupt zu funktionieren.
+Laut Nasa wird der Hyperschall-Antrieb genau zehn Sekunden arbeiten.
+Dann soll, so hoffen die Techniker, der Geschwindigkeitsmesser bei siebenfacher Schallgeschwindigkeit stehen.
+Ein erster Rekordversuch mit einem X-43A-Jet vor drei Jahren wurde zum Fiasko.
+Schon in der Anfangsphase geriet die Trägerrakete Pegasus außer Kontrolle.
+Die Nasa sprengte daraufhin den Prototyp des Superjets.
+Die Trümmer fielen in einem vorher geräumten Testgebiet vor der Küste Kaliforniens ins Wasser.
+Es gab weder Verletzte noch Sachschäden.
+Die nachfolgende Untersuchung ergab, dass vorherige Simulationen nicht ausgereicht hatten, um die Pegasus-Rakete präzise genug zu steuern.
+Die Technik wurde deshalb überarbeitet - Tests mit derartig hohen Geschwindigkeiten im Windkanal bleiben jedoch schwierig.
+Als besonders riskant gilt die Abkopplung des Jets von der Pegasus-Rakete.
+Das gesamte Hyper-X-Programm der Nasa zur Entwicklung von neuen Antriebstechniken umfasst 250 Millionen US-Dollar.
+Der Etat wurde jüngst gekürzt.
+Ein Sprecher der Weltraumbehörde betonte, dass Hyper-X trotz aller Kürzungen weiterlaufe.
+Es könne zu zeitlichen Verschiebungen kommen, das Programm selbst stehe jedoch nicht in Frage.
+Scramjets könnten eines Tages sowohl militärisch als auch zivil genutzt werden.
+Geschwindigkeiten über Mach 10 sind theoretisch möglich, der Antrieb könnte sogar Raumgleiter in eine Erdumlaufbahn schießen.
+Die Nasa hofft mit der neuen Technik, eines Tages die hohen Transportkosten für Fracht ins All senken zu können.

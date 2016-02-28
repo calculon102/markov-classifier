@@ -1,0 +1,24 @@
+Jetzt wird es Ernst für die Betreiber der Tauschbörse KaZaA: Vor dem australischen Bundesgericht wollen Musik- und Filmbranche die Börse für Copyrightverstöße der Benutzer verantwortlich machen.
+Mehr als 50 Anwälte drängeln sich ab heute in einem Gerichtssaal des Federal Court in Australien.
+Bei dem Mammutverfahren, das mehrere Monate in Anspruch nehmen dürfte, geht es um die Frage, ob Tauschbörsenbetreiber für das verantwortlich sind, was die Nutzer mit ihrer Software anstellen.
+Gleich zu Beginn der Verhandlung bekam Richter Murray Wilcox eine Einführung in P2P: Anwälte zeigten ihm, wie man sich bei KaZaA anmeldet und suchten unter anderem nach Songs der Punkband The Sex Pistols.
+Zum Zeitpunkt des Einloggens zeigte KaZaA 2,1 Millionen angemeldete Benutzer an, die gerade 1,17 Milliarden Dateien tauschten.
+Die Film- und Musikbranche wirft dem KaZaA-Betreiber Sherman Networks vor, nichts gegen das illegale Kopieren von urheberrechtlich geschützten Songs und Filmen zu unternehmen, und verlangen von KaZaA Entschädigung.
+Sollten sie im Prozess erfolgreich sein, wollen sie die Entschädigung in einem zweiten Verfahren einklagen.
+Das Verfahren genießt ein großes Medieninteresse, denn die erwartete höchstrichterliche Entscheidung dürfte eine weltweite Signalwirkung haben, wie auch immer sie ausfällt.
+Sollte die Klage der Medienbranche fehlschlagen, könnte Australien zur Wahlheimat für Tauschbörsenbetreiber werden.
+Angeklagt sind unter anderem die Firma Sharman Networks, CEO Nicola Hemming sowie die Partnerfirma Brilliant Digital, die Spyware über das KaZaA-Netz vertreibt.
+Sharman lehnt die Offenlegung seiner Eigentümer ab.
+Offizieller Firmensitz ist der Inselstaat Vanuatu im Südpazifik, auf der Informationen über Privatfirmen absoluten Schutz genießen.
+Weil Sharman jedoch Büros in Australien betreibt, klagte die Medienbranche vor dem Federal Court.
+Sharman Network hatte immer wieder erklärt, die KaZaA-Benutzer aufgefordert zu haben, nicht gegen Copyright-Bestimmungen zu verstoßen.
+Das Unternehmen habe jedoch keine Kontrolle darüber, was mit seiner Software tatsächlich getauscht werde.
+Tony Bannon, einer der Anwälte von Australiens Musikindustrie, will das jedoch nicht glauben.
+Die Tauschbörsensoftware könne sehr wohl Dateien ausfiltern, etwa Viren oder Pornografie.
+Filter für urheberrechtlich geschütztes Material würden jedoch nicht angeboten.
+Interessant zu werden verspricht auch die Diskussion über die Altnet-Software, die gemeinsam mit KaZaA-Software ausgeliefert wird.
+Mit ihr können Anbieter von Bezahl-Inhalten auch Peer-to-Peer-Netze für den Vertrieb nutzen.
+Altnet bildet ein eigenes P2P-Netz, das allerdings offenbar mit KaZaA verbunden ist.
+Wenn Altnet die Kontrolle über Bezahlinhalte ermögliche, dann müsse die Kontrolle über urheberrechtlich geschützte Inhalte auch mit KaZaA möglich sein, lautet die Argumentation von Bannon.
+Mit Spannung wird auch die Präsentation möglicher Beweise erwartet, die Anwälte der Musikindustrie Anfang des Jahres bei Razzien gesichert haben wollen.
+Damals waren Büros von Sharman Networks und der Partnerfirma Brillant Digital sowie Wohnungen führender KaZaA-Manager durchsucht worden.

@@ -1,0 +1,36 @@
+Funksignale schwirren scheinbar frei umher, aber sie bewegen sich in einem streng vom Gesetzgeber regulierten Rahmen.
+Neue Technologie und ein politischer Schwenk der EU könnten sie befreien und der drahtlosen Kommunikation zusätzlichen Schub verleihen.
+Ein juristischer Zaun namens Frequenzbereichs-Zuweisungsplanverordnung grenzt in Deutschland eine Weide ab, die nach Meinung mancher wieder zur offenen Prärie werden sollte: das elektromagnetische Spektrum.
+Moglen sieht nicht ein, wie man Funkfrequenzen besitzen kann.
+Bisher verschenkt, verkauft, versteigert, verpachtet und vermietet der Staat die Nutzungsrechte an Frequenzen nach Belieben.
+Jetzt aber erhalten Moglen und seine Mitstreiter Unterstützung von politisch unverdächtiger Seite.
+Den jeweils rechten Weg zwischen den Optionen bisheriger zentralisierter Verwaltungsentscheidungen, marktorientierter Lösungen und gänzlich lizenzfreier Frequenznutzung werden die Gremien suchen müssen.
+Besagter Bericht schlägt mit Sympathie für letztere Variante geradezu libertäre Töne an.
+Die USA haben eben diesen Weg bereits eingeschlagen.
+Nicht die Funkwelle an sich ist das kostbare Gut, sondern ihr Potenzial, Information ohne materielle Verbindung zu übertragen.
+Zunächst bediente sich das Militär, dann die Post und später Rundfunk sowie Fernsehen.
+Kleine Spielwiesen eröffneten sich den Funkamateuren und anderen Freizeitfunkern.
+Sie alle konnten ihre elektromagnetischen Felder kostenlos oder zu kleinen Gebühren beackern, bis Handys die Verfügung über Frequenzen zum unverzichtbaren Rohmaterial eines Geschäftsmodells mit Massenwirkung machten.
+Nach klassischer Auffassung wird für dieses Wachstum Platz benötigt.
+Wo eine Anwendung eine Frequenz belegt, darf kein anderer dazwischenfunken.
+Frequenzen sind wie Privatstraßen.
+Und selbst wenn ihre Besitzer schlafen, darf kein anderer darauf fahren.
+Das führt dazu, dass etwa in den USA lediglich fünf Prozent der für den Staat reservierten Frequenzen auch tatsächlich genutzt werden.
+Viel besser wirkte die Freigabe weniger schmaler und schon jetzt weltweit kostenlos nutzbarer Bänder.
+In ihnen wuchsen Drahtlos-Technologien wie Bluetooth und Wi-Fi, die Wirtschaft und Gesellschaft enorm stimulierten.
+In den USA soll dieser Erfolg jetzt mit UWB potenziert werden.
+UWB überträgt Information mit Impulsen im Picosekundenbereich.
+Wegen ihrer extremen Kürze belegen sie einen breiten Frequenzbereich, so dass sich Sendungen kaum von Rauschen unterscheiden.
+Damit lässt sich die Information auf beinahe beliebigen Frequenzen empfangen und mit geeigneten Algorithmen decodieren - es gibt keine Privatstraßen mehr, sondern nur noch Zugang zum gesamten Spektrum.
+Wenn sich mit UWB mehrere Sender einen Frequenzbereich teilen können, dürfen sich die Regulierer diesseits und jenseits des Atlantiks nun zurücklehnen und den Äther sich selbst überlassen?
+Denn noch ist nicht absehbar, wie stark die Sender in einer frequentierten UWB-Welt sich gegenseitig und andere Signale stören.
+Aber wird dieses Rauschen jedes sinnvolle Signal übertönen?
+Oder ergibt es einen harmlosen Hintergrund, der ohne technische Schwierigkeiten herauszufiltern ist?
+Womöglich erzeugt UWB wieder neuen Regelungsbedarf, etwa durch Beschränkung von Datenrate und Signalstärke.
+Die Legislative diesseits und jenseits des Atlantiks sollte die Frequenzfreigabe nicht überstürzen, solange die kritische Dichte von UWB-Sendern unbekannt ist.
+Die Praxis könnte dies bald klären.
+Zum Weihnachtsgeschäft wollen mehrere Hersteller mit UWB für die Heimelektronik den amerikanischen Massenmarkt erobern.
+Damit jedoch steht das technisch und rechtlich innovative Konzept UWB erst am Anfang.
+Was zunächst nur für die Kommunikation im Nahbereich zu taugen scheint, macht durch Vernetzung von Hotspots die beliebig weite Verbreitung von Daten denkbar.
+Wer indes 50 Milliarden Euro in Frequenzrechte investiert hat, wird das ebenso ungern hören wie der Empfänger dieses Geldes.
+Den Trend werden sie nicht stoppen können: Dank Digitaltechnologie scheint die einst begrenzte Ressource Funkfrequenz nun fast beliebig vermehrbar.

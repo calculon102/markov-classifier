@@ -1,0 +1,22 @@
+Inzwischen ist auch klar, dass Sobig mehr ist als nur ein Ärgernis: Der Wurm installiert einen Trojaner - und öffnet den PC damit für weit gefährlichere Angriffe.
+Damit meint er eine Eins und sechs Nullen - denn das entspricht der Zahl der Sobig.F-Viren, die das Unternehmen am ersten Tag der Virenverbreitung aus dem Web filterte.
+Das kürt Sobig.F zum Weltmeister unter den Viren.
+Andere IT-Sicherheitsunternehmen schließen sich der Einschätzung an.
+In den aktuellen Virencharts der häufigsten Neuinfektionen der letzten 24 Stunden führt Sobig.F auch bei Trend Micro unangefochten.
+Zu erklären sei all das nur durch den Einsatz von Spam-Techniken, glaubt man bei Sophos und Kaspersky Labs.
+Den Zeitpunkt der Verbreitung hält Sophos-Security-Analyst Chris Belthoff nicht unbedingt für einen Zufall: Die Veröffentlichung des Blaster-Wurms in der letzten Woche könnte auf andere Virenautoren als Herausforderung gewirkt haben.
+Wahrscheinlich wurde Sobig.F in mehreren Hunderttausend Kopien zur selben Zeit ins Web gepumpt.
+Anders als Slammer oder Blaster kann Sobig.F nämlich kaum als sonderlich cleveres Virus gelten: Der Verbreitungsmechanismus ist altbacken und galt seit langem als wenig erfolgsträchtig.
+Viren dieses Strickmusters waren in den letzten zwei Jahren selten erfolgreich: Die PC-Nutzer haben längst verinnerlicht, dass File-Attachments ein echtes Risiko darstellen.
+Was unverlangt ins Postfach schneit, bleibt immer öfter ungeöffnet.
+Anders als bei anderen Viren begann die Verbreitung von Sobig.F nicht zunächst vereinzelt, um dann anzuwachsen - das Virus war einfach mit einemmal da.
+Virenexperten glauben, dass der Sinn hinter den Sobig-Viren nichts anderes sei, als herauszufinden, welche Verbreitungsmethoden für Viren den größtmöglichen Erfolg bringen.
+Damit wäre Sobig eine Art Experimenten-Kette.
+Sobig.F aber könnte eine neue Phase einleiten.
+Kaspersky Labs und andere warnen vor einem Trojaner, den der Sobig-Wurm auf dem befallenen Rechner installiere.
+Der Virenschreiber könne so die Kontrolle über Rechner und Netzwerke erlangen, von dort aus weitere Attacken starten oder das befallene System schädigen oder zerstören.
+Zu festgesetzten Zeitpunkten - an Wochenenden zwischen 19 und 22 Uhr UTC-Zeit - rufe der Trojaner Informationen aus dem Web ab, um sich selbst zu aktualisieren.
+Die Verbreitungsgeschwindigkeit von Sobig.F hat nach dem ersten Auftauchen am Montagabend und Dienstag merklich abgenommen, gilt aber immer noch als außergewöhnlich hoch.
+Alle IT-Sicherheitsunternehmen stellten mittlerweile Updates ihrer Virenscanner bereit, mit denen sich Sobig entfernen lässt.
+Das Virus verbreitet sich unter gefälschten - besser: gestohlenen - Absenderadressen.
+Das erschwert eine Rückverfolgung zu den befallenen PCs, die an der Verbreitung beteiligt sind.

@@ -1,0 +1,30 @@
+In Zeiten der Werbemüll-Überflutung ist es ein echtes Verkaufsargument, die Postfächer der Kunden Spam-frei halten zu können.
+Die Mail-Dienstleister investieren Millionen in effektive Filter.
+Spam gab es schon, bevor das Internet populär wurde.
+Die ersten unerwünschten Werbebotschaften landeten bereits in den Postfächern der Teilnehmer an Diskussionsforen im Usenet.
+Inzwischen ist aus dem einstigen Ärgernis Spam jedoch eine regelrechte Seuche geworden, die seit einigen Monaten auch deutsche Nutzer voll erwischt hat.
+Nach einer Untersuchung des IT-Sicherheitsunternehmens MessageLabs überstieg die Spam-Rate gemessen am gesamten weltweiten E-Mail-Verkehr im Mai erstmals die 50-Prozent-Marke.
+Im Klartext heißt das: Mindestens jede zweite E-Mail enthält eine Werbebotschaft, die der Adressat nicht haben will.
+Dabei feilen die Spam-Versender ständig an ihren Strategien, sagt Yahoo-Deutschland-Sprecherin Patricia Rohde.
+Sie verschicken die Post mit unterschiedlichen E-Mail-Adressen und unterschiedlichen Betreffzeilen, in denen sie in manchen Fällen dem Nutzer auch suggerieren, ihn zu kennen.
+Selbst gebaute Filter der Internetnutzer können gegen diese Strategien wenig ausrichten.
+Die E-Mail-Adressen suchen sich die Versender aus Internetforen klauben sie mithilfe automatischer Software von Websites und finden sie in Newsgroups.
+Selbst Internetnutzer, die ihre E-Mail-Adresse behüten und weder Newsletter bestellen noch sich mit ihr an Diskussionen im Netz beteiligen, sind vor Spam oft nicht mehr sicher.
+Da der Versand der Werbemails kaum etwas kostet, können sie es sich leisten, dass nur ein Teil der Botschaften in einem Postfach landet.
+Damit ist Spam zu einem bedeutenden Problem für die E-Mail-Anbieter geworden.
+Die unerwünschten Mails in Millionenzahl belegen Leitungen und binden Rechenkapazitäten.
+Und wenn ein Anwender sein Postfach nicht mehr benutzen kann, weil er zwischen der Werbung seine Post nicht mehr findet, dann machen sie auch das Geschäft kaputt.
+Die meisten Anbieter setzen deshalb inzwischen Filter ein, um die Mailboxen sauber zu halten.
+Bei Lycos Europe bindet der Kampf gegen den Werbemüll einen beträchtlichen Teil der Kapazitäten in der Mailentwicklung, sagt Unternehmenschef Christoph Mohn.
+Web.de findet auf seinen Rechnern im Durchschnitt neun Millionen Spam-Mails am Tag, die Hälfte der im gleichen Zeitraum neu eingehenden E-Mails.
+Der Münchner E-Mail-Anbieter GMX beziffert die Kosten für Filterentwicklung, Personal und Serverkapazitäten auf einen siebenstelligen Euro-Betrag pro Jahr.
+Die Filter der einzelnen Anbieter arbeiten unterschiedlich, verfolgen jedoch ein Ziel: Im Postfach des Nutzers soll nach Möglichkeit keine Werbe-E-Mail mehr landen, die dieser nicht bestellt hat.
+In einem zusätzlichen Ordner landen die Mails, die in Spam-Verdacht stehen.
+Web.de bietet seinen Kunden ein selbst entwickeltes Drei-Wege-System.
+Neben dem Postfach und dem Ordner für unerwünschte Nachrichten gibt es einen weiteren Ordner, in dem Nachrichten von unbekannten Absendern landen.
+Das sind zum Beispiel Newsletter oder auch E-Mails aus Mailinglisten.
+Nach und nach kann der Nutzer seinem Filter beibringen, welche E-Mails er als Spam empfindet.
+Die wesentliche Arbeit gegen die unerwünschte Werbung erledigen allerdings Filter, die im Hintergrund arbeiten und Mails auf typische Begriffe, Absender sowie IP-Nummern bestimmter Server untersuchen.
+Für die Nutzer bedeutet die Spam-Flut, dass sie neben dem Umgang mit der eigenen E-Mail-Adresse auch mit der Wahl des E-Mail-Anbieters über die Zahl der Werbemails in ihrem Postfach entscheiden.
+Web.de, GMX, Yahoo, Lycos und Arcor haben Filter in ihre kostenlose Angebote integriert, die man deshalb erst einmal unverbindlich ausprobieren kann.
+Gegen eine monatliche Gebühr fügen manche Anbieter noch einige Funktionen hinzu.

@@ -1,0 +1,23 @@
+Endlich - oder nur wieder einmal?
+Großfirmen telefonieren intern über ihre Netzwerke, und extern zumindest mit ihren Dependancen.
+Am Heimrechner hat sich die wohl günstigste Form der Telefonie hingegen nie durchsetzen können.
+Zuletzt warf in NRW das Kabelunternehmen ish das Handtuch, nachdem sich abzeichnete, dass auf diesem Markt wohl noch immer keine Mark zu machen sei.
+Denn am wichtigsten Grund gegen VoIP kam bisher kein Anbieter vorbei: Attraktiv wird die Sache erst, wenn eine kritische Masse erreicht ist.
+Es gibt einfach nicht genug VoIP-Teilnehmer.
+Genau hier will MP3.com-Gründer Michael Robertson mit seiner neuesten Firmengründung ansetzen.
+Und das, glaubt Robertson, wird ein Knaller, weil er die Vermittlung gleich mit aus der Taufe hebt: Die Website des Unternehmens soll sich zu einer Art internationaler Auskunft der SIPphone-Nutzer mausern.
+Denen bietet Robertson die schmucklosen Telefone gleich im Doppelpack an: Eines für den Heimgebrauch, eines für Oma?
+Dem steht nichts entgegen, so lange diese über einen DSL-Anschluss verfügt, denn Breitband ist bei VoIP Pflicht.
+Dass die Technik trotzdem erfolgreich sein kann, beweist jedoch das Beispiel Japan: Dort telefonieren angeblich bereits 2,4 Millionen Kunden über das Internet.
+Die verbleiben dabei jedoch in den liebenden Armen ihrer Telekommunikationsunternehmen, während Robertson seine Kunden lieber auf eine DSL-Flatrate setzen möchte.
+Nichts ist unmöglich, doch dass sich daraus eine zweite, mit dem Festnetz ernsthaft konkurrierende Telefonie-Welt entwickeln könnte, scheint doch zweifelhaft.
+Vielleicht doch eher Enum?
+Und doch könnte es noch dazu kommen, denn weit weniger publikumswirksam, dafür aber gründlich arbeitet ein mächtiger Konkurrent an einem System, das Herrn Robertson das Geschäft verderben könnte: Enum.
+Hinter dem kryptischen Kürzel verbirgt sich ein technisches Protokoll der Internet Engeneering Task Force IETF, mit dessen Hilfe die Welten von Web und Telefon verschmelzen sollen.
+Unter dem Enum-Protokoll bekämen verschiedenste elektronische Kommunikationsapparate eines Nutzers eine einheitliche Nummer, unter der sie zu erreichen wären.
+Im Klartext: Die Frage nach der VoIP-Nummer eines potenziellen Partners entfiele.
+Enum-Versuche laufen weltweit, jetzt fehlt nur noch ein finanzkräftiges Unternehmen, das lautstark genug dafür trommelt.
+In den Startlöchern steht beispielsweise das ehemals mittelständische Unternehmen Microsoft - und wie es sich anfühlt, mit der IT-Weltmacht Bill Gates zu boxen, weiß Robertson ja aus eigener Erfahrung.
+Für die Vermittlungsdienste von ISPphone gäbe es dann wohl schnell keinen Bedarf mehr, und Herr Robertson würde zum bloßen Telefonverkäufer - was für sein Geschäft vielleicht noch nicht einmal schlecht wäre.
+Abwarten, Tee trinken, und vielleicht ist Robertson ja doch kein Vorprescher, sondern die Zeit ja wirklich reif: Geiz ist ja bekanntlich geil.
+Wenn nicht, werden wohl wie üblich die Letzten die Ersten sein.

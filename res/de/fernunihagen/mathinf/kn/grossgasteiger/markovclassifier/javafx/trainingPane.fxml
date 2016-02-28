@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.input.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.common.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" styleClass="trainingPane"
+	fx:controller="de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.training.TrainingController"
+	fx:id="trainingPane"
+	minHeight="600">
+
+	<top>
+		<VBox spacing="12">
+			<padding>
+				<Insets bottom="12" top="12" left="24" right="24" />
+			</padding>
+			<Label styleClass="header" text="%training.header" />
+			<Label text="%training.desc" wrapText="true" />
+		</VBox>
+	</top>
+
+	<center>
+		<VBox spacing="12" minWidth="400" prefWidth="666">
+			<padding>
+				<Insets bottom="12" top="12" left="24" right="12" />
+			</padding>
+
+			<Label styleClass="subheader" text="%training.classes.head" />
+			<Label text="%training.classes.desc" wrapText="true" />
+
+			<TreeTableView minHeight="60" prefHeight="300" fx:id="coocsByClassTreeTable" showRoot="false" onKeyPressed="#onKeyPressedCoocTable">
+				<columns>
+					<TreeTableColumn minWidth="120"
+						text="%training.classes.col.className">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="className" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="90"
+						text="%training.classes.col.word1">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="word1" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="90"
+						text="%training.classes.col.word2">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="word2" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.classes.col.significance" styleClass="rightAlignment">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<DoubleSig2StringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="significance" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.classes.col.countCoocs" styleClass="rightAlignment">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<LongStringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="countCoocs" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.classes.col.meanSignificance" styleClass="rightAlignment">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<DoubleSig2StringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="meanSignificance" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.classes.col.sumSignificance" styleClass="rightAlignment">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<DoubleSig2StringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="sumSignificance" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.classes.col.countWords" styleClass="rightAlignment">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<LongStringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="countWords" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.classes.col.countSentences" styleClass="rightAlignment">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<LongStringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="countSentences" />
+						</cellValueFactory>
+					</TreeTableColumn>
+				</columns>
+			</TreeTableView>
+
+
+			<Label styleClass="subheader" text="%training.words.head" />
+			<Label text="%training.words.desc" wrapText="true" />
+
+			<TreeTableView minHeight="60" prefHeight="300" fx:id="wordsTreeTable" showRoot="false">
+				<columns>
+					<TreeTableColumn minWidth="90" text="%training.words.col.word">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="word" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="90"
+						text="%training.words.col.className">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="className" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="90" text="%training.words.col.otherWord">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="otherWord" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.words.col.count" styleClass="rightAlignment">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<LongStringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="count" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.words.col.significance" styleClass="rightAlignment">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<DoubleSig2StringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="significance" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.words.col.classesCount" styleClass="rightAlignment">
+					     <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<LongStringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="classesCount" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%training.words.col.otherWordsCount" styleClass="rightAlignment">
+					     <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<LongStringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="otherWordsCount" />
+						</cellValueFactory>
+					</TreeTableColumn>
+				</columns>
+			</TreeTableView>
+
+			<Label fx:id="wordCountLabel" text="%training.words.count" />
+		</VBox>
+	</center>
+
+	<right>
+		<VBox spacing="9" minWidth="100" prefWidth="333" maxWidth="500">
+			<padding>
+				<Insets bottom="12" top="12" left="12" right="24" />
+			</padding>
+
+			<Label styleClass="subheader" text="%training.import.header" />
+
+			<Label text="%training.import.desc" wrapText="true" managed="true" />
+			<Button text="%training.import.button" onAction="#onImportTrainingData"
+				fx:id="importButton" />
+
+			<Label styleClass="subheader" text="%training.settings.header">
+				<padding>
+					<Insets bottom="0" top="9" left="0" right="0" />
+				</padding>
+			</Label>
+
+			<Label text="%training.import.coocs.threshold" wrapText="true" />
+			<NumberTextField fx:id="coocsThresholdSlider" text="2" defaultValue="2" />
+
+			<Label text="%training.import.maxFiles" wrapText="true" />
+			<NumberTextField fx:id="maxFilesField" text="10" defaultValue="10" />
+		</VBox>
+	</right>
+</BorderPane>

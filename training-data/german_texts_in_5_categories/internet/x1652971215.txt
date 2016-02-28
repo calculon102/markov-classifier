@@ -1,0 +1,26 @@
+Nikki Hemming gehört zu den geheimnisumwittertsten Persönlichkeiten im Internet-Geschäft.
+Die Chefin von Sharman Communications blickt zwar auf eine Management-Karriere im Unterhaltungsgeschäft zurück, doch seit ihr Unternehmen die umstrittene P2P-Tauschbörse KaZaA aufkaufte, fiel sie sehr selten durch öffentliche Äußerungen auf.
+Doch mit einem Mal ist sie da: Mit Statements auf allen Kanälen, mit einem ersten Interview, das sie Cnet Australien gewährte.
+Der Verkauf an das angeblich australische Unternehmen wirkte wie ein Befreiungsschlag: Man kann keinen Dienst einstellen, über den man keine Kontrolle mehr hat.
+Das Unternehmen Sharman aber wirkte lange wie ein Phantom.
+War es nur gegründet worden, um KaZaA aus der juristischen Klemme zu helfen?
+War Sharman eine Briefkastenfirma?
+Und wenn ja: Wo hängt der Briefkasten?
+Denn in Australien ist Sharman nicht bekannt.
+Das Unternehmen ist in keinem Handelsregister verzeichnet.
+Schnell entwickelte sich KaZaA - vor allem nach dem durch den Rauswurf aus dem FastTrack-Netzwerk bedingten Zusammenbruch von Morpheus - zur zahlenmäßig stärksten P2P-Börse weltweit.
+Und das, obwohl die Software im dringenden Verdacht steht, Spyware zu transportieren.
+Nikki Hemming lässt das alles nicht gelten.
+Sharman sei als Investment-Firma von einem Kreis von Investoren gegründet worden, die lieber anonym blieben.
+Diese wollten in Internet-Projekte investieren und hätten sich zu einem bestimmten Zeitpunkt für KaZaA entschieden.
+Sharman finde man deshalb nicht in Australien, weil die Firma ihren Sitz auf Vanuatu habe - einer aus rund 80 Inseln bestehenden Inselgruppe im Südpazifik.
+Denn sie selbst sei nur Angestellte, ohne finanzielles Engagement bei Sharman.
+Womit so ziemlich jeder so weit wie möglich aus der Schusslinie genommen wäre, den man verklagen könnte.
+Denn in dieser Beziehung juckt es die Vertreter der Musikindustrie durchaus in den Fingern.
+Das Risiko, dass so etwas geschehen könnte, ist ihr aber durchaus bewusst.
+Schließlich gibt es da noch die alten Klagen gegen die niederländischen KaZaA-Entwickler.
+Auch KaZaA/Sharman wollten schließlich Geld verdienen - und das ginge nur, indem man die P2P-Börse auf eine legale, kostenpflichtige Basis stelle.
+Dafür scheinen die Weichen bereits gestellt.
+Am Dienstag wurde ein Vertragsabschluss mit der Online-Werbefirma Doubleclick bekannt.
+Doch die BDE-Software versorgt nicht nur den User mit Informationen, sondern auch sich selbst - mit Informationen über den User.
+Zu allem Überfluss baut sie - neben dem FastTrack-Netzwerk, ein eigenes Netzwerk auf, dass dazu genutzt werden könnte, auf den Rechnern der angeschlossenen User Rechenoperationen auszuführen.

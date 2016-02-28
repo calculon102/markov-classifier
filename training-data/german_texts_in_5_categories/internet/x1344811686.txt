@@ -1,0 +1,44 @@
+Kaum hat man kapiert, dass es Plus-, Minus- und RAM-Rohlinge gibt, da stiften die Hersteller schon neue Verwirrung.
+Dual-Layer-Scheiben mit doppelter Kapazität und neue Formate für hochauflösende Videos machen das Chaos perfekt.
+DVD-Rohling: Standard oder Auslaufmodell?
+Heute wiederholt sich das Gleiche, wenn auch auf höherem Niveau.
+Statt Kassetten landen die Filme auf DVDs.
+Der Standard für DVD-Videos ist zwar eindeutig definiert, bei den Rohlingen herscht aber die altbekannte Formatvielfalt.
+Das DVD+RW-Lager, hinter dem HP, Dell und Philips stehen, wetteifert mit den DVD-RW-Jüngern aus den Häusern Toshiba, Panasonic und Pioneer.
+Plus scheint dabei die Nase vorn zu haben.
+Selbst Apple, lange ein Unterstützer von -RW, unterstützt mit seinem neuen Betriebssystem Panther auch Plus-Brenner.
+Bereits abgeschlagen ist das dritte Format im Bunde, DVD-RAM.
+Für den Verbraucher ist die Wahl zwischen Plus und Minus theoretisch egal, weil DVD-Player beide Rohlingstypen abspielen sollten.
+Das stimmt (meist) auch.
+Aber wer kauft schon gern einen Rekorder, wenn ungewiss ist, ob es in ein, zwei Jahren noch Rohlinge dafür gibt?
+Oder wenn die mittlerweile exotischen Scheiben nur noch zum Liebhaberpreis zu haben sind?
+Immerhin haben die Hersteller auf die Verunsicherung reagiert und schrauben immer mehr Kombi-Brenner zusammen, die Plus und Minus verstehen.
+Aber der Widerstreit der Rohlinge ist damit nicht etwa im Konsens beigelegt.
+Für das Jahr 2004 kommen schon wieder neue Formate auf den Markt - ein branchenübergreifender Standard ist nicht in Sicht, obwohl damit allen geholfen wäre.
+Filmkopierer freuen sich aber trotzdem schon auf die ersten Dual-Layer-DVD-Brenner.
+Diese schreiben doppelt so viele Daten wie bisher auf einen Rohling, weil sie durch unterschiedliche Fokussierung des Laserstrahls zwei Speicherschichten nutzen können.
+Kommerzielle Film-DVDs sind meist ebenfalls im Dual-Layer-Verfahren hergestellt; für zu Hause gibt es die Technik bislang nicht.
+Beim Kopieren von DVDs müssen die Videodaten bisher noch weiter eingedampft werden, damit der Film überhaupt auf einen Single-Layer-Rohling mit 4,3 Gigabyte passt.
+Dieser Schritt, das Transkodieren, der auch an der Bildqualität kratzt, fällt mit Dual-Brennern weg.
+Die verlustfreie Eins-zu-Eins-Kopie wird möglich - bei kopiergeschützten DVDs freilich nur unter Zuhilfenahme verbotener Software, das neue Urheberrecht lässt grüßen.
+Plus-Brenner für Dual-Layer-Rohlinge mit 8,5 Gigabyte sollen im Frühjahr auf den Markt kommen - zunächst als Einbaugerät für PCs.
+Für den Sommer sind die ersten Dual-Rekorder angekündigt, die als Standalone-Gerät den Videorekorder ersetzen.
+Die Minus-Fraktion will ebenfalls 2004 mit den Dual-Layer-Brennern an den Start gehen.
+Ein Pioneer-Sprecher wollte sich jedoch auf keinen konkreten Termin festlegen.
+Denn dieses bringe den Dual-Brenner als erster heraus.
+Auch bei Sony glaubt man, dass die Plus-Brenner beim neuen Format die Nase vorn haben werden, wie der Marketing Manager Robert DeMoulin bestätigte.
+Die Doppelschicht-DVD ist aber nur ein Zwischenschritt.
+Die Industrie bastelt schon länger am Nachfolger der Video-DVD, deren Absatz gerade so richtig boomt.
+Wenn sich Millionen Filmenthusiasten für viel Geld mit den DVDs ihrer Lieblingsfilme bestückt haben, sollen hochauflösende Videoscheiben für neue Umsatzrekorde sorgen.
+Das ist zumindest der Plan.
+High Definition heißt das Zauberwort, oder kurz HD.
+Statt der bei DVDs üblichen 720 mal 576 Pixel speichern HD-Formate bis zu 1920 mal 1080 Pixeln je Einzelbild ab.
+Die Bildqualität ist dann tatsächlich mit der im Kino vergleichbar.
+Auf Filmfans kommt jedoch einiges an Kosten zu, wenn sie auf HD umsteigen: Aktuelle Fernseher können die hohen Auflösungen nicht darstellen, DVD-Player kommen mit den HD-Scheiben nicht zurecht.
+Blue Ray, benannt nach dem dabei genutzten blauen Laser, und Advanced Optical Disc treten gegeneinander an.
+Philips und Sony gegen Toshiba und NEC, es ist das altbekannte Spiel.
+Und selbst Microsoft will auf den Filmscheiben der Zukunft mit von der Partie sein.
+DVDs nutzen zur Videokompression den MPEG-Standard, der Redmonder Softwaregigant möchte aber gern sein eigenes Videoformat Windows Media durchsetzen.
+In China arbeiten Ingenieure derweil an einem eigenen DVD-Format namens EVD; vor allem, weil sie die für DVDs fälligen Lizenzgebühren sparen wollen.
+Dank eines moderneren Videokompressionsverfahren sollen auch High-Definition-Filme auf die Scheiben passen.
+Eins ist jedenfalls gewiss: Das Formate-Wirrwarr bleibt uns erhalten.

@@ -1,0 +1,49 @@
+Statt jederzeit mit Vollgas durchs Internet brettern zu können, musste der Ur-User erst einmal Schlange stehen.
+Wer geduldig wartete, konnte sich in einem kieselgrauen Acht-Personen-Netz umtun - falls die Verbindung mitspielte.
+Connected to circus.tecs.de.
+Escape character is '^]'.
+Akkustikkoppler: Relikt aus der Prä-Modem-Zeit.
+Ich bin drin.
+Seit zwei Stunden hocke ich in der Dachkemenate eines Reihenhauses in Pinneberg und versuche, mich in die Tornado-Mailbox einzuwählen.
+Mit einem Telefon der Deutschen Post, Modell FeTAp 611 (lindgrün), das mit einem Akustikkoppler verbunden ist.
+Die zwei Weichgummimuffen dieses Urmodems habe ich auf Hör- und Sprechmuschel gesteckt, danach gewählt. 040/5277016, per Wählscheibe, immer wieder.
+Was mir wenig nützt, weil die Scheiß-Leitung ständig besetzt ist.
+Dabei versuche ich ja nicht, in irgendeine Mailbox reinzukommen, sondern in die Tornado.
+Die legendäre Hamburger Mailbox war 1987 für damalige Verhältnisse bereits eine Großveranstaltung: Acht Anschlüsse (Ports) hatte sie - bei kleineren Boxen konnte sich hingegen immer nur einer einwählen.
+Dennoch gab es schon damals reichlich Nerds mit zu viel freier Zeit, die alle nichts Besseres zu tun hatten, als sich dauernd in der Tornado einzuloggen und die Leitungen zu verstopfen.
+Deshalb flog man auch nach 40 Minuten automatisch raus, der Chancengleichheit wegen.
+Dann musste man sich wieder hinten anstellen.
+Ich war gleich doppelt im Nachteil: Erstens musste ich immer spät nachts an die Wählscheibe, denn Ortsgespräche waren noch teuer und meine Eltern hätten mich gehäutet, wenn ich tagsüber ihre Telefonrechnung in die Höhe getrieben hätte.
+Zweitens war ich mit meinem geliehenen 300er-Koppler schon damals eine Krücke.
+Nicht nur, dass die Übertragungsrate auf mickrige 300 Baud (das sind stolze 30 Zeichen pro Sekunde) beschränkt war.
+Es gab, wie gesagt, auch keine Wiederwahl-Funktion.
+Ein Freund hatte mal von einem gehört, der einen Koppler mit Redial gehabt haben soll.
+Unerschwinglich - also immer wieder wählen, bang dem muffigen Klacken des Impulswahltelefons lauschen und auf ein seltenes Freizeichen hoffen.
+Deshalb auch das ali-babaeske Triumphgefühl, wenn sich die Tür nach stundenlangen Beschwörungen endlich öffnet.
+Verglichen mit dem Internet war natürlich selbst eine Megabox wie die Tornado eine kieselgraue Veranstaltung.
+Von der Struktur her handelte es sich um einen großen Karton, in dem viele kleine Kartons standen.
+Und jeder hatte eine Nummer.
+Andere Attraktionen waren schwarze Bretter, eine Liste mit den besten Garfield-Sprüchen, Programm-Downloads und der Chat.
+Der Chat war das Allerbeste - vor allem für einen Provinzler wie mich.
+Einfach einloggen und schon war ich kein Kuhdorf-Kiddie mehr, sondern ein virtueller Hanseat.
+Klar, ich hätte in den zwei Stunden, die ich bis zum Freizeichen brauchte, auch mit dem Fahrrad bis an die Binnenalster radeln können.
+Aber da wären mir bestimmt nicht so viele Bitkids über den Weg gelaufen.
+Und ich hätte mir auch keinen (meiner damaligen Ansicht nach) mächtig coolen Spitznamen (so genanntes Alias) zulegen können.
+Häufig war das interaktive Forum leider voll von Wichtigtuern und Windmachern, die mit ihrem neuen 2400er-Koppler oder ihrer geilen Bull-AT-Festplatte angeben wollten.
+Wer sich schlecht benahm, flog raus - denn Thomas Schewe, der System Operator (Sysop) wachte höchstselbst darüber, dass niemand aus der Boxfamilie zuviel Unflat und Sauereien verbreitete.
+Papa Sysop hatte keine großen Probleme, das Treiben im Griff zu behalten, denn die Anzahl der Accounts lag irgendwo im dreistelligen Bereich.
+Bei Ärger folgte nach einigen Verwarnungen oder gekappten Verbindungen die schlimmste aller Strafen: das Exil.
+Ich glaube, sie kamen sich ein bisschen wie Wild-West-Desperados vor.
+Im Chat fand man Leute, mit denen Software oder anderes getauscht werden konnte.
+Connection closed by foreign host.
+Nicht jetzt!
+Inzwischen ist es 3 Uhr durch.
+Aber egal: Muffen zurechtrücken, wieder Wählscheibe, Freiton abwarten, Telnet auf dem Amiga 500 starten.
+Bis 4 Uhr schaffe ich es noch dreimal, mich einzuwählen.
+Guter Schnitt, allerdings ist die Verbindung sehr instabil.
+Wir haben dann telefoniert.
+Der Typ war eine ziemliche Nervensäge.
+Seine Rhodan-Heftchen hat er auch nicht rausgerückt.
+Als er nur aus Fiepstönen und ASCII-Zeichen bestand, war er mir viel sympathischer.
+Datum: 03.09.1987 / Uhrzeit: 0:59:16 CONNECT 38400 384 !
+Rufen Sie doch bald mal wieder an.

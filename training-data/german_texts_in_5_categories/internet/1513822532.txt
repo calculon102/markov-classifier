@@ -1,0 +1,46 @@
+Wer hat Schuld an P2P?
+Im April letzten Jahres endete der Prozess der Musikindustrie gegen Grokster und Morpheus mit einem Sieg für die P2P-Börsen: Sie seien für Copyright-Verletzungen nicht verantwortlich.
+Jetzt läuft die Revision - und der Ausgang des Prozesses könnte entscheiden, ob und wie es weitergeht mit P2P.
+Für die Entertainmentindustrie war das Urteil ein Schock, für die P2P-Szene ein Triumph.
+Nach vier Jahren des gerichtlichen Dauer-Bombardements, dem Napster und Audiogalaxy, Aimster und viele andere zum Opfer fielen, schien eine neue Zeit anzubrechen.
+Vor amerikanischen Gerichten, zeichnete sich ab, würde die Industrie so schnell nicht mehr punkten können.
+Zu einem ganz ähnlichen Urteil kam kurz darauf ein niederländisches Gericht in einer Verhandlung gegen KaZaA.
+Die schwer gebeutelte Industrie begann damit, statt der Börsenbetreiber deren Nutzer zu verklagen.
+Aufs damit verbundene Buhmann-Image pfeift die Branche, denn mittlerweile sieht sie ihren Kampf gegen P2P als Notwehr.
+Umsatzeinbrüche von 40 Prozent in zwei Jahren machen deutlich, wie es um die wackelnden Marktriesen steht.
+Nachrichten und Studien, die die Wirkung der Klagewelle gegen KaZaA-Nutzer zeigten, wurden dementsprechend mit Applaus aufgenommen.
+Vor Gericht hofft die Industrie nun auf eine Entscheidung, die ihr auch wieder den Weg zu direkten Klagen gegen die Börsenbetreiber eröffnet.
+Ihre Gegner sind Morpheus und Grokster: Vor einer Woche noch hätte man die treffend als P2P-Zombies beschreiben können.
+Grokster ist das als Lizenznehmer im FastTrack-Netzwerk auch weitestgehend, ist völlig von KaZaA abhängig und wird nur von wenigen Leuten genutzt.
+Anders als KaZaA gibt sich Grokster wenig aggressiv und selbstbewusst.
+Morpheus dagegen war einst ein Star, die erfolgreichste P2P-Börse weltweit und im FastTrack-Netzwerk sowieso, wo sie als einzige Software ohne Schnüffelprogramme Erfolge feierte.
+Im Gegensatz zu KaZaA, den eigentlichen Betreibern des Netzwerkes, deren Ruf durch Spyware vom ersten Tag an versaut war.
+Es kam zum Konflikt, Morpheus flog aus dem KaZaA-Netz - und verkümmerte als mittelprächtiger Gnutella-Client.
+Für Morpheus interessierten sich in den letzten zwei Jahren allenfalls die Gerichte.
+Comeback - oder Paniktriebe?
+Am Montag, dem 2. Februar, veröffentlichten die Morpheus-Macher die Version 4.0 ihres Programmes - und versprechen eine Menge.
+Sämtliche großen P2P-Netzwerke will Morpheus nun abgreifen, von Gnutella über G2, über FastTrack und eDonkey bis hin zu iMesh und Limewire.
+Der plattformübergreifende Ansatz ist Trend in der P2P-Szene, aber ein solches Angebot ist auch aus anderem Grund verlockend.
+Was die P2P-User lockt, ist die Aussicht auf eine KaZaA-Alternative.
+Der Dienst wird von seinen Nutzern gehassliebt wie kein anderer: So schnell er ist, so undurchsichtig und neugierig ist er.
+KaZaA verseucht die Festplatte mit Schnüffelprogrammen und angeblicher Werbesoftware.
+KaZaA Lite jedoch, die gehackte, Spyware-freie Version, wird seit einigen Wochen Stück für Stück aus dem Netzwerk gedrängt.
+Auftritt: Morpheus, der P2P-Zombie als strahlender Wiedergänger.
+Doch der hat seinen Relaunch offenbar nach dem Termin der Revisionsverhandlung in Pasadena getimed: Das Gericht als Werbeplattform.
+Warten aber konnte oder wollte Morpheus offenbar nicht.
+Kein Wunder: Im Berufungsprozess in Pasadena geht es um die Wurst.
+Als sicher gilt, dass ein Urteil gegen Morpheus und Grokster umgehend eine Klagewelle der Musikindustrie gegen sämtliche großen P2P-Börsen zur Folge hätte.
+Genau damit hatte sich Napster monatelang gequält, genau daran war Napster gescheitert.
+Das aber macht sie auch in den Augen ihrer eigenen Kundschaft ein gutes Stück entbehrlicher: Eine in Grund und Boden geklagte Software würde einfach durch eine neue ersetzt.
+KaZaA zeigt (dem Gegner), wie es geht Man kann eine P2P-Software also regelrecht verschwinden lassen: Einmal mehr demonstrierte KaZaA im letzten Jahr in seinem auch gerichtlich geführten Kampf gegen die Spyware-freie Hack-Version KaZaA Lite, wie das geht.
+Binnen weniger Wochen schaffte es KaZaA Ende letzten Jahres - ein stärkendes Urteil im Rücken - den lästigen Konkurrenten weltweit verschwinden zu lassen.
+KaZaA hatte einfach sämtliche Verteiler der Software abgemahnt: Webseiten-Betreiber und Service-Provider.
+Genau da sieht auch die Industrie den Königsweg im Kampf gegen P2P: In juristischen Maßnahmen gegen P2P-Software-Entwickler, P2P-Nutzer und Provider.
+Das Problem P2P ist aus Sicht der Industrie nur unter Kontrolle zu bekommen, wenn man die Werkzeuge zerstört, die Verteilwege unterbricht und die Nutzer verklagt.
+Entscheidend für eine solche Taktik ist die Rückendeckung durch Justitia, und die fehlte der Musiklobby RIAA zumindest in den USA seit April letzten Jahres.
+Erfolgreich wehrten sich da sogar die Serviceprovider dagegen, Daten über ihre Nutzer einfach auf Zuruf herauszugeben.
+Das werden sie wohl wieder müssen, wenn das Gericht in Pasadena das Wirken der P2P-Firmen als Rechtsbruch definiert.
+Europaweit drängt die Industrielobby IFPI darauf, die Rechtsbasis auch für Klagen gegen P2P-Nutzer zu schaffen.
+Das Urteil von Pasadena wird auch in dieser Hinsicht Signalcharakter haben und entscheiden, ob und wie es mit P2P in den nächsten Jahren weitergeht - respektive mit dem Kampf der Industrie gegen P2P.
+Die Richter scheinen sich darüber sehr bewusst zu sein.
+Wie auch immer der Prozess ausgehen werde, signalisierten sie zum Beginn des Berufungsverfahrens, das Urteil werde schnell erfolgen.

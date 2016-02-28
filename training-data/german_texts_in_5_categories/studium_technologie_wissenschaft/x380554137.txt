@@ -1,0 +1,21 @@
+Eine Forschergruppe aus Singapur entwickelt Spiele, bei denen in realen Umgebungen Fantastisches auftaucht.
+Wer früher das Bedürfnis hatte, Dinge zu sehen, die nicht wirklich da sind, musste zu illegalen Substanzen greifen - kein rundum empfehlenswerter Ansatz.
+Inzwischen gibt es weniger drastische Methoden - wenn auch erst in der Entwicklung.
+Das neueste Projekt der Forschergruppe um Adrian Cheok: Ein Kinderspielzeug mit überraschendem Inhalt.
+Die Würfel können auf verschiedene Weise auseinandergefaltet werden, dabei werden kleine Rätsel oder Bilder sichtbar.
+In der AR-Version erzählt der Würfel, wenn man ihn korrekt aufklappt, die Geschichte von Noahs Arche - und zwar als dreidimensionale Animation.
+Auf der aufgeklappten Fläche erscheinen Landschaften und Figuren, wie ein Video zeigt, dass sich hier per Rechtsklick herunterladen lässt.
+Herz des Systems, das von den Studenten Zhou Zhi Ying und Pan Ruth mitentwickelt wurde, ist ein am Kopf zu tragendes Headset mit Virtual Reality Brille und einer Kamera.
+Die fängt die Bilder vor den Augen des Betrachters ein, das Signal wird dann mit dem aus einem Computer stammenden AR-Signal verknüpft.
+Das Ergebnis: Die virtuellen Einblendungen scheinen tatsächlich in der realen, mit den Händen manipulierbaren Umwelt aufzutauchen.
+Der magische Würfel ist nicht das einzige Projekt von Adrian Cheok und seinem Forscherteam.
+Auf der fröhlich bunten Webseite des Labors kann man sich verschiedene verblüffende Anwendungen ansehen, viele davon auch als Videodateien.
+Die Kugeln existieren nur im Display am Kopf des Spielers - und in dem Rechner, der das System koordiniert.
+Daten über Position und Bewegung der Spieler werden über eine Kombination verschiedener Systeme bestimmt, unter anderem ein GPS-Modul und Trägheitssensoren.
+Damit den Spielern im Freien nicht zu schnell die Energie ausgeht, arbeiten einige im Mixed Reality Lab auch daran, menschliche Bewegungen in Strom umzuwandeln.
+Ein Spezialschuh soll beispielsweise durch den Druck auf die Sohle bei jedem Schritt kleine Spannungen erzeugen, die dann drahtlos direkt an einem Empfänger weitergegeben werden können.
+Andere Projekte sind unter Anderem reale Bilderbücher oder Reiseführer, in denen beim Blättern dreidimensionale Animationen auftauchen.
+Der Betrachter kann gleichzeitig Text und Bilder auf der Seite sehen und einem lebensechten virtuellen Reiseführer, der auf der Seite steht, lauschen.
+Die recht unhandlichen Head Mounted Displays werden wohl noch eine Zeit lang verhindern, dass sich die elektronisch erweiterte Realität auf dem Massenmarkt durchsetzen kann.
+Die Entwicklung wird in diesem Bereich aber weltweit kräftig vorangetrieben.
+Wundern Sie sich also nicht, wenn sie demnächst die kleine Raupe Nimmersatt über den Kinderzimmertisch kriechen sehen.

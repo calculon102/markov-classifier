@@ -1,0 +1,58 @@
+Der öffentliche Betatest der neuen Suchtechnik protzt mit fünf Milliarden erfassten Webseiten.
+Google kontert mit acht Milliarden.
+Neue Konkurrenz: Kippt Googles Machtstellung?
+Macht's die Masse?
+Nicht allein, das wissen auch die Google-Macher.
+Trotzdem kann ein börsennotiertes Unternehmen, das von der Fama der unschlagbaren Suchmaschine lebt, nicht einfach still sitzen, wenn ein potenziell starker Konkurrent auftritt.
+Seit Donnerstag sucht Microsoft mit Google um die Wette und will beweisen, dass seine neue Suchtechnik auf dem Weg ist, die beste der Welt zu werden.
+Wohl kaum zufällig trommelte darum auch Google in eigener Sache.
+Acht Milliarden Seiten im Web, so die Nachricht, erfasse der neue Google-Index nun, und außerdem könnten die glücklichen Besitzer eines Gmail-Accounts sich ihre E-Post künftig auf den eigenen Pop3-Account umleiten lassen.
+Ah, ja?
+Nach rund eineinhalb Jahren Entwicklungsarbeit ging Donnerstag früh der Betatest des MSN-Suchdienstes online, mit dem Microsoft Google kräftig Marktanteile abgraben will.
+Doch wichtig ist, was eine Suchmaschine aus diesem Seitenwust macht, respektive herausfiltert.
+Wie relevant sind die Ergebnisse?
+Fühlt man sich informiert oder eher verwirrt?
+Wie sind die Ergebnisse aufbereitet?
+Am ersten Tag ging erst einmal gar nichts, aber so etwas kommt vor.
+Am Freitagmorgen dann lief die MSN Suche mehr oder minder mackenfrei, von zeitweiligen Ausfällen abgesehen.
+Gegenüber der alten Suchmaske hat sich so einiges verändert.
+MSN Suche kommt äußerst reduziert daher.
+Begriffe, die sich nur auf den ersten Blick selbst zu erklären scheinen.
+Zunächst aber sucht MSN in Deutschland, internationale Inhalte finden sich erst weit hinten auf den Fortlaufseiten der Ergebnisliste.
+Ob man das nun gut findet, ist eine Geschmacksfrage und eine Frage der Suchbedürfnisse: Für viele deutsche Websurfer ist das WWW ein zumindest bilingualer Raum, in dem die attraktiveren Angebote oftmals jenseits des Atlantik abgelegt sind.
+Ein anderes Feature, das im englischen MSN-Dienst angeblich bereits implementiert ist, fehlt bisher im deutschen Angebot: die Möglichkeit, echte Fragen zu stellen.
+Anders als bei Microsoft steht dort aber an Platz 2 bereits eine Anti-Schröder-Seite - direkt nach dem Kanzleramt.
+Moderne Searchengines, lernen wir, können eben schon eine ganze Menge.
+Aber was kann MSN, das Google nicht drauf hätte?
+Zum Beispiel zielgenau sehr aktuelle Nachrichten finden.
+Prominent platziert ist nicht nur, was kreuz und quer in möglichst vielen Medien wortgleich nachgebetet wird (bekanntlich Newsgoogles größtes Problem) oder gerade eben heiß über die Leitungen tickerte.
+So hält sich eine Nachricht bei MSN schon mal gut und gern 40 Stunden auf der Überblicksseite - das riecht nach Eingriffen menschlicher Hand.
+Die war wohl auch im Spiel, als die Vorfilterung der Bilder-Suche entworfen wurde.
+Die funktioniert ganz prächtig, so lange man keinen Schweinkram sucht - und genau dafür (und für Bilder-Diebstahl) werden Searchengine-Fotosuchen vornehmlich genutzt.
+Doch Microsofts Angebot ist voll Kinder-kompatibel, da rutscht nichts durch oder rein.
+Bätsch, lange Nase: Geh doch zu Google, wenn Du so was willst (sagt MSN Search zwar nicht, aber meint es wohl).
+Man kann das alles auch ernster sagen: Offensichtlich zensiert MSN Suche Web-Inhalte.
+Dass sie das mit Pornografie tut, wird vielen gefallen.
+Aber wo geschieht es noch?
+Selbst eingreifen kann man dagegen in die Vorfilterung der allgemeinen Suche, und das ist in dieser Form ein Novum.
+Und an Schiebereglern spielen wir doch alle gern.
+Doch Spaß beiseite: Ist das nun wirklich schon der angekündigte Großangriff auf Google?
+Wackelt nun das quasi-Monopol des Suchmaschinen-Riesen?
+Wohl noch nicht, aber das kann noch kommen.
+MSN Suche bringt völlig respektable Ergebnisse, die mal besser, mal schlechter scheinen als die von Google.
+Das ist weniger ein Fazit, als eine Binsenweisheit, denn das gilt für alle modernen Suchmaschinen auf der Höhe der Zeit.
+Die Fama von Googles Unschlagbarkeit ist seit langem übertrieben.
+Web-Rechercheure wissen, dass man zu wirklich guten Ergebnissen in aller Regel erst durch die Kombination verschiedener Suchmaschinen und -methoden kommt.
+In diese Liga der guten Suchmaschinen zieht Microsoft nun ohne jede Frage ein - und ja, der IT-Riese wird somit zum direkten Konkurrenten für Google.
+Es gibt Aspekte, in denen sich die Angebote grundlegend unterscheiden: MSN erscheint dort weniger als ein Frontalangriff auf Google, als vielmehr als Besetzung einer anderen Nische im Biotop der möglichen Suchinteressen.
+Völlig unverständlich ist dagegen, warum Microsoft bei seiner neuen Suchmaschine die MSN-eigenen Features hinausgekickt hat.
+Warum lässt sich eine Suche nicht mehr auf die Encarta begrenzen?
+Das wäre einfacher gewesen, als die Suchenden mit einem offenbar noch nicht funktionierenden Sprachtool auf Umwegen dorthin zu schicken.
+Vielleicht hat Microsoft beschlossen, in diesem Fall einmal Bescheidenheit eine Zier sein zu lassen: Zwar tönte Co-Chef Steve Ballmer schon wieder gewohnt vollmundig, mit MSN Search werde Microsoft Google nicht nur einholen, sondern überholen.
+Zugleich aber hat sich Microsoft noch nie einen ähnlich offenen Betatest geleistet.
+Nach angeblich nur 18 Monaten Entwicklungszeit geht der Softwareriese mit einer selbst nach eigenem Bekunden unfertigen Maschine online und bittet die User an jeder möglichen Stelle um Mithilfe und Feedback: Auch das ist ein Novum bei Microsoft.
+Und es mag weise sein.
+Ob MSN Suche sich gegen Google durchsetzen kann, liegt nämlich nicht nur an seinen vorhandenen oder fehlenden Qualitäten.
+Google hat seit langem die Nase auch vor Konkurrenten, die in bestimmten Bereichen bessere Ergebnisse erzielen.
+Aber Google hat ein mörderisch starkes, bisher durch und durch positives Image.
+Das müssten sich MSN und Microsoft erst einmal erkämpfen.

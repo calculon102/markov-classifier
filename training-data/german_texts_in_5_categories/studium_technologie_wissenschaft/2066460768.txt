@@ -1,0 +1,39 @@
+AMD VS.
+Die beiden großen Prozessorhersteller ringen miteinander um die beste Produktstrategie für den boomenden Laptop-Markt.
+AMD setzt schon heute auf 64-Bit-Verarbeitung, obwohl dazu passende Software noch Mangelware ist.
+Intel zögert noch und bleibt vorerst bei 32 Bit.
+Der Kampf um Kunden tobt auf dem PC-Markt vor allem im Notebook-Segment.
+Ständig sinkende Einstiegspreise bei zugleich weiter verbesserter Technik motivieren immer mehr Privatanwender, ihren klobigen Desktop-PC gegen einen handlichen Laptop auszutauschen.
+Die Leistung der Mobil-Rechner genügt inzwischen fast allen Ansprüchen.
+Für die gängigen Office- und Internetanwendungen sind sie fast schon überdimensioniert.
+Selbst zum Spielen eignen sich einige Modelle.
+Nicht verwunderlich ist es daher, dass Marktforscher regelmäßig von deutlichen Wachstumsraten im Notebook-Markt berichten - im Gegensatz zum Desktop-Markt, der sich in der Vergangenheit eher schwach entwickelt hat.
+Im ersten Quartal ist der Desktop-Bereich im Privatkundensegment in Deutschland nach einer Studie des Marktforschungsunternehmens Gartner gar um zwölf Prozent geschrumpft.
+Der Notebook-Absatz hat dagegen um satte 42 Prozent zugelegt.
+Die Hersteller locken Anwender allerdings nicht mehr nur mit mehr Prozessorleistung, sondern auch mit Zusatzfunktionen.
+In der leistungsfähigeren und daher auch schweren Klasse bieten Laptops eine vollwertige Alternative zum Desktop-Rechner: mit schnellem Prozessor und leistungsfähiger Grafik, großer Festplatte sowie DVD- und CD-Brenner.
+Darüber hinaus sind auch besonders leichte Mobil-Rechner inzwischen erschwinglich geworden.
+Statt maximaler Rechengeschwindigkeit glänzen sie mit langen Akku-Laufzeigen, integriertem Wireless LAN und einem Gewicht, das zum Teil deutlich unter zwei Kilogramm liegt.
+Die beiden relevanten Prozessorhersteller, Weltmarktführer Intel und der ewige Zweite AMD, kämpfen dabei mit sehr unterschiedlichen Konzepten um Kunden.
+Intel entwickelt zunächst mit seiner Centrino Mobiltechnologie die herkömmlichen 32-Bit-Prozessoren weiter.
+Bestandteile sind der Pentium M, den das Unternehmen gerade in einer neuen, leistungsfähigeren Version mit bis zu zwei Gigahertz Taktfrequenz vorgestellt hat, sowie ein spezielles Chipset und ein WLAN-Modul.
+Mit Centrino will Intel besonders leichte und zugleich leistungsfähige Notebooks ermöglichen, die sich mittels Funktechnik auch unterwegs mit einem Breitband-Internetzugang verbinden lassen.
+AMD setzt dagegen bereits auf eine neue Generation von 64-Bit-Prozessoren.
+Der Halbleiterhersteller - wie Intel auch im kalifornischen Silicon-Valley südlich von San Francisco beheimatet - hat gerade mit den Modellen 2800+ und 2700+ zwei neue Varianten seiner Notebook-Chips vorgestellt.
+Auch sie bieten Stromspareigenschaften für längere Akkulaufzeiten und kompaktere Mobil-Rechner.
+Im Gegensatz zu den Intel-Chips können 64-Bit-Prozessoren im Zusammenspiel mit entsprechender Software mehr Daten auf einmal und daher schneller verarbeiten.
+Entsprechende Linux-Varianten gibt es bereits, etwa von Suse.
+Eine 64-Bit-Version des Betriebssystems Windows wird nach Auskunft des Software-Konzerns allerdings erst in der zweiten Jahreshälfte auf den Markt kommen.
+Erst dann werden Nutzer - entsprechende 64-Bit-Anwendungen vorausgesetzt - die volle Leistung der Prozessoren ausnutzen können.
+AMD-Sprecher Jan Gütter begründet den frühen Marktstart gerade im Notebook-Segment mit der Zukunftssicherheit der Prozessoren.
+Ein Notebook kaufe sich ein Privatanwender nicht nur für ein Jahr, sagt Gütter.
+Die Geräte würden in der Regel drei Jahre oder sogar länger genutzt.
+Deshalb sei der 64-Bit-Chip die sichere Investition.
+Konkurrent Intel lässt dieses Argument nicht gelten.
+Nach den Worten von Unternehmenssprecher Christian Anderka will der Weltmarktführer seinen Kunden erst dann 64-Bit-Prozessoren anbieten, wenn die entsprechende Software zur Verfügung steht.
+Abgesehen von den fehlenden Anwendungen für 64-Bit-Prozessoren nutzen Privatanwender auch die Möglichkeiten von 32-Bit-Chips noch nicht aus.
+Ein solcher Prozessor kann pro Anwendung immerhin zwei Gigabyte Hauptspeicher zuweisen und maximal vier GB verwalten.
+Selbst gut ausgestattete Notebooks verfügen heute nur über einen Arbeitsspeicher von 512 Megabyte.
+Die Stromspartechniken der Halbleiterhersteller nützen kaum etwas, wenn der Hersteller eine Energie fressende Festplatte oder ein DVD-Laufwerk mit hoher Leistungsaufnahme einbaut.
+Die Leistung aktueller Prozessoren - egal ob aus der 32- oder 64-Bit-Familie - reicht für gewöhnliche Ansprüche bei weitem aus.
+Und wer wirklich auf die jeweils maximal verfügbare Leistung angewiesen ist, muss sowieso einmal im Jahr einen neuen Rechner kaufen.

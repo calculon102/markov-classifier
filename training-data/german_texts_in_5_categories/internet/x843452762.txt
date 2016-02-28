@@ -1,0 +1,20 @@
+Der Mathematik-Professur Lothar Gerritzen hat mit seinen Forderungen, die deutsche Zahlenbenennung zu reformieren, eine Menge Aufmerksamkeit erregt.
+Erregen kann er sich auch über die im IT-Bereich üblichen Mega-, Giga-, Peta-Zahlen - denn die bedeuten längst nicht für jeden dasselbe.
+SPIEGEL ONLINE: Herr Gerritzen, Rechner und Netze werden immer leistungsfähiger.
+Die Festplatten zum Beispiel werden immer größer, wodurch Worte wie Gigabyte, Terabyte und Petabyte Einzug in die Alltagssprache halten.
+Lothar Gerritzen: Keine Ahnung.
+SPIEGEL ONLINE: Auf Peta folgt Exa, Zetta, Yotta.
+Letzteres entspricht einer Quadrillion.
+Müssen deutsche Schüler in Zukunft das kleine Ein-Mal-Giga pauken, um mitreden zu können?
+Gerritzen: Kaum.
+Diese Vorsilben kommen aus der Ingenieurswissenschaft.
+Wir Mathematiker sagen statt einer Quadrillion lieber zehn hoch 18. Das wird sich bei den Ingenieuren auch irgendwann durchsetzen.
+SPIEGEL ONLINE: Sie würden also die Gigabyte-Festplatte lieber als Zehn-hoch-neun-Platte bezeichnen?
+Gerritzen: Irgendetwas in dieser Richtung wäre sinnvoll, und das aus mehreren Gründen.
+Aus diesem sprachlichen Durcheinander entstehen unendliche viele Missverständnisse.
+Gerritzen: Das macht die Sache auch nicht besser.
+Denn selbst unter Ingenieuren führen die griechischen Vorsilben zu Missverständnissen.
+Diese Ungenauigkeit im Prozentbereich sorgt für erhebliche Verwirrung.
+SPIEGEL ONLINE: Und wieso wird trotzdem an diesem Giga-Gaga festgehalten?
+Gerritzen: Weil viele Menschen nicht ganz verstehen, wie das Rechnen mit Zehnerpotenzen geht.
+Hier beißt sich die Katze in den Schwanz: Um weitere mathematische Verwirrung zu verhindern, müsste erst einmal der Mathe-Unterricht in dieser Hinsicht besser werden.

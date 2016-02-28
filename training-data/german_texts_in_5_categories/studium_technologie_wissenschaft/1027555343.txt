@@ -1,0 +1,22 @@
+Der Nobelpreis für Medizin geht in diesem Jahr an den US-Amerikaner Paul C. Lauterbur und den Briten Sir Peter Mansfield.
+Die Forscher werden für Entdeckungen ausgezeichnet, die zur Entwicklung der Magnetresonanz-Tomographie führten.
+Der Amerikaner Lauterbur, 74, entdeckte die Möglichkeit, zweidimensionale Bilder mit Hilfe so genannter Gradienten zu erzeugen.
+Damit konnten Strukturen abgebildet werden, die auf Röntgenbildern unsichtbar blieben.
+Der Engländer Mansfield, 69, entwickelte nach Angaben des Nobelkomitees die Nutzung von Gradienten im Magnetfeld weiter, so dass durch seine Forschung schließlich eine anwendbare Abbildungstechnik entwickelt werden konnte.
+Die beiden Wissenschaftler teilen sich den Preis in Höhe von zehn Millionen Kronen (1,1 Million Euro).
+Lauterbur und Mansfield erzielten bereits zu Anfang der siebziger Jahre bahnbrechende Forschungsergebnisse, die dazu führten, dass die Magnetresonanz mit der Zeit auch bedeutungsvolle medizinische Anwendungsbereiche finden sollte.
+Die Magnetresonanz-Tomographie ist anderen Abbildungstechniken häufig überlegen und hat die Diagnostik bei zahlreichen Krankheiten stark verbessert.
+Die Methode ersetzt mittlerweile etliche beschwerliche und risikoreiche Untersuchungsmethoden.
+Die Magnetresonanz-Tomographie, auch als Kernspintomographie bekannt, liefert präzise Bilder von Organen wie Hirn und Leber, aber auch von Gelenken wie dem Knie.
+Dabei werden keine Röntgenstrahlen oder Radioaktivität eingesetzt, die Methode macht sich Eigenschaften von Wasserstoff-Atomkernen zu Nutze.
+Auf Grund des hohen Wassergehalts der Körperzellen eignen sich die Wasserstoff-Atomkerne besonders gut für derartige Untersuchungen.
+Die MRT beruht auf der Beobachtung von Radiofrequenzsignalen, die von den Wasserstoff-Atomkernen im Gewebe ausgesendet werden.
+Dafür müssen sie sich in einem starken Magnetfeld befinden und mit einem kurzen Impuls aus Ultrakurzwellen angeregt werden.
+Die Methode baut darauf auf, dass sich die Wasserstoff-Atomkerne wie winzige Kreisel um ihre eigene Achse drehen und sich wie kleine Magneten verhalten.
+Auf ein äußeres Magnetfeld hin richten sie sich wie winzige Kompassnadeln aus.
+Der UKW-Impuls bringt die gleichmäßig ausgerichteten Atomkerne ins Schlingern.
+Anschließend pendeln die Kerne wieder zurück und senden dabei die Radiowellen aus.
+Im vergangenem Jahr hatten die Briten Sydney Brenner und John Sulston sowie der US-Forscher Robert Horvitz den Medizinnobelpreis erhalten.
+Sie haben herausgefunden, auf welche Weise die Gene unsere Organe steuern.
+Zudem haben sie entscheidende Erkenntnisse darüber gewonnen, wie der Körper nicht mehr benötigte Zellen gezielt absterben lässt.
+Am Dienstag folgen die Bekanntgaben der Träger des Physik- und am Mittwoch des Chemie-Nobelpreises.

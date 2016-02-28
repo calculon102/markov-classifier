@@ -1,0 +1,40 @@
+Echte Astronauten werden erst in Jahrzehnten zu den Planeten aufbrechen.
+Doch simulieren lassen sich die Sternenhimmel der fremden Weltraumwelten bereits heute: Am PC auf dem eigenen Schreibtisch.
+Weihnachtszeit - Reisezeit.
+Doch Hand aufs Herz: Auf unserem Planeten haben wir fast alle interessanten Ziele abgeklappert.
+Kein Grund zu verzagen, es gibt eine Alternative zur heimeligen Christbaum-Routine!
+Buchen sie eine Kreuzfahrt in die kosmischen Gefilde der Monde und Planeten, kleinere Exkursionen als Zeitreisender sind sogar inklusive.
+Und bevor Bedenkenträger ihre warnende Stimme gegen die Drangsale von Weltraumreisen erheben, sei ihnen entgegnet: Weder kosmische Strahlung noch fataler Hüllenbruch können unsere Reisenden gefährden.
+Einem Absturz folgt lediglich der Neustart des Heim-PC, dem eigentlichen Raumschiff der simulierten Weltraum-Odyssee.
+Mit dem Kauf des neuen Release der Planetariums-Software Redshift 5.0 löst der Bürostuhl-Astronaut sein Ticket.
+Wie in den Kuppelbauten der echten Sternentheater wird das Himmelsgeschehen mit dem Programm realistisch simuliert.
+Zwanzig Millionen Sterne, weit mehr als ein Kaufhausfernrohr einer Urlaubsnacht entlocken könnte, haben aus den Sternkatalogen Eingang in die Software gefunden.
+Dazu kommt die ganze Palette der Objekte, die den Nachthimmel bevölkern: Gasnebel und Galaxien, Asteroiden, Meteorströme und sogar Erdsatelliten und Raumsonden.
+Den Planeten und deren Monden haben die Programmierer mit Open-GL-Technik die realistische Darstellung der planetaren Oberflächen spendiert - zumindest soweit diese bekannt sind.
+Der virtuelle Standort des Himmelsbeobachters ist fast frei wählbar - nehmen Sie Platz irgendwo in den Weiten des Sonnensystems.
+Auch der Himmel über jedem beliebigen Punkt der Erdoberfläche lässt sich auf den Bildschirm zaubern.
+So etwa die Stellung der Gestirne zum Geburtstermin, als der PC-Spökenkieker zum ersten Mal das Licht der Welt erblickte - für Redshift kein Problem.
+Immerhin eine Möglichkeit, die Daten zu checken, auf deren Basis die Astrologenzunft Geburtshoroskope fabriziert.
+Aus dem Weltall lohnt sich ein Blick erdwärts.
+Die animierte Himmelsdarstellung zeigt beispielsweise, wie sich unser blauer Planet von der Warte der kreisenden Mondsonde Smart-1 aus darstellt.
+Weltraum-Enthusiasten bietet der Gestirnsimulator eine Art Bordkarte für Flugtrips zu den Planeten.
+Raumvehikel gleichsam noch überholt werden.
+Ihr Landegebiet - die marsianische Äquatorebene Isidis Planitia - ist schnell in einem Menü aus Hunderten von Destinationen auf dem Wüstenplaneten ausgewählt.
+Welchen Sternen wird sich also der ESA-Lander entgegen recken, wenn er nach der ruppigen Landung seinen Instrumentenmast in die eisige Marsluft streckt?
+Während bei uns der nächtliche Schlaf der Gerechten geschlafen wird, ist es in der Isidis-Ebene früher Nachmittag.
+Im Südwesten steht die Erde noch zwei Hand breit über dem Horizont im Sternbild Jungfrau.
+Sie wird in gut einer Stunde untergehen.
+Gegenüber, hoch im Südosten, zieht der Marsmond Phobos seine Bahn.
+Mit seinem engen Orbit leistet sich der kartoffelförmige Minimond eine anarchische Eigenwilligkeit: Er geht im Westen auf und im Osten unter - gegen den Lauf der anderen Gestirne am Marshimmel.
+Seine Bahn führt vorbei an der altgedienten Sonde Voyager-2 über den gesamten Himmel, um tief im Osten zwei amerikanische Marssonden zu passieren.
+Mit dem Sonneuntergang geht in Isidis ein vergleichsweise ereignisreicher Tag zu Ende und Redshift simuliert eine zauberhaft rote Mars-Dämmerung auf den Bildschirm.
+Der Planetariumssimulator hat den PC-Astronauten optisch besser ausgerüstet als die ESA ihr Landegerät.
+Die Redshift-Zoom-Funktion gewährt einen sehnsüchtigen Fernrohrblick zurück zur Erde.
+Bei 2000-facher Vergrößerung werden die Ozeane und Kontinente und - falls angeklickt- die weißen Wolken der irdischen Lufthülle sichtbar.
+Der Sternenhimmel über dem Mars...
+Leider gibt sich der Himmelssimulator wenig Mühe mit der Szenerie unterhalb des Firmamentes: Die Marslandschaft wird lediglich als braune, konturlose Ebene dargestellt - hier zeigen echte Planetarien mehr Detailverliebtheit.
+Insgesamt jedoch hat die Software viele beeindruckende Simulationen zu bieten.
+Dem vom planetaren Fernweh getriebenen Sternengucker droht jedoch eine ernste Gefahr.
+Zwischen all den virtuellen Weltraumzielen und den zahllosen Programmfunktionen vergehen die realen Stunden wie im Fluge.
+Am Ende hat er trotz ausgedehnter Weltraumfahrten seine Wohnung nicht verlassen.
+Und die echten Sterne womöglich nie gesehen.

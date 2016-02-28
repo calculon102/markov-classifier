@@ -1,0 +1,20 @@
+Echte Hacker sehen auf die Viren-schreibenden pubertären Skript-Kiddies nur hinab.
+Für sie scheidet sich die hackende Community in nur zwei ernst zu nehmende Lager: Die Hacker oder Whitehats auf der einen und die Cracker oder Blackhats auf der anderen Seite.
+Die einen sehen sich als die Helden von Digitalien, die anderen sind kriminell.
+Das jedoch heißt nicht, dass sie keine Programme schreiben könnten, die Hackern wie IT-Sicherheitsexperten Respekt abnötigen.
+Denn migmaf, scheinbar zunächst nicht mehr als einer der üblichen, vielen Hundert lästigen Trojaner, entpuppte sich schnell als etwas Außergewöhnliches.
+Wahrscheinlich seit Anfang Juni ist der Schädling unterwegs und befiel seitdem nur einige Tausend Rechner.
+Das ist zunächst nicht viel - aber mehr will das Virus anscheinend auch gar nicht.
+Denn migmaf kredenzt seinen Kontrolleuren - wahrscheinlich russischen Crackern - einen Zugang zum befallenen Rechner.
+Die vollenden dann die Installation eines für das Opfer kaum zu bemerkenden Proxy-Servers: Das Opfer wird zum Teil des Crack-Netzwerkes - und in den Augen vieler hundertausend danach bespamter E-Mail-Kontenbesitzer zum Täter.
+Mit migmaf wird also wirklich und endlich jeder ein Sender - ob er nun will oder nicht.
+Damit baut migmaf nicht nur eine außerordentlich hohe Kapazität für den Versand von Spam auf, sondern verwischt auch relativ effektiv die Spuren zum wirklichen Verursacher.
+Doch es geht noch weiter.
+Sicherheitsexperten gehen davon aus, dass es bereits mehrere Versionen des Virus gibt, die großen Virenschutz-Entwickler arbeiten an Programmen, migmaf und ähnliche Programme zuverlässig erkennen zu können.
+Bis dahin bleibt nur die Mahnung vor allem an die Nutzer von DSL-Leitungen, diese nie ohne eine gut funktionierende Firewall zu betreiben.
+Denn zumindest die Frage, was all das für einen Sinn haben soll, war sehr schnell erklärt: migmaf leistet nichts anderes als den Aufbau eines P2P-Netzwerkes ausschließlich zur Verteilung von Spam.
+Und weil diese nicht von einem, sondern von Tausenden ständig wechselnden Servern verteilt werden, hat es die Spamfilter-Software schwer, mitzuhalten.
+Sicherheistexperten des US-Unternehmens LURHQ gelang es Ende letzter Woche, das erste nachgewiesene migmaf-Netzwerk stillzulegen.
+Keine leichte Aufgabe: Die Experten berichteten, dass sie für IP-Rückverfolgungen, für die sie normalerweise wenige Minuten brauchten, satte sieben Tage gebraucht hätten.
+Eines aber scheint klar: Prinzipiell lassen sich migmaf-Trojaner mit Hilfe jedes Virus ausliefern, und ungezählte migmaf-Spamnetze ließen sich parallel betreiben.
+Sieht so aus, als würde das noch schwerer als gedacht: Schöne Aussichten sind das nicht.

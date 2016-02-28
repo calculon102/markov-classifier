@@ -1,0 +1,22 @@
+Manche Leute machen einen Grundsatzstreit daraus: Ist das Betriebssystem Linux etwas Besseres als Microsoft Windows oder nicht?
+Auf der einen Seite der böse Monopolist Bill Gates, auf der anderen Seite das freie, kostenlose, sympathisch anarchische Linux.
+Das sicher und stabil läuft, viel stabiler jedenfalls als Windows Me (was freilich keine sonderlich große Kunst ist).
+Oder, das umgekehrte Vorurteil: Windows, die Produktfamilie aus einem Guss, simpel genug, dass selbst Laien schnell ihre kleinen Erfolgserlebnisse haben.
+Linux dagegen, ein Betriebssystem, das man nur mit Mühe zum Laufen kriegt, das permanent weiterentwickelt wird, und deshalb nie ganz, sondern immer nur beinahe so funktioniert, wie man sich das vorstellt.
+Zumindest die Installation soll jetzt einfacher geworden sein.
+Das verspricht die Firma Suse, Linux-Marktführer in Deutschland.
+Seit kurzem ist ihre Suse-Linux-Version 8.0 auf dem Markt.
+Tatsächlich ist das Installieren gegenüber früheren Versionen leichter geworden.
+Das System erkennt die Hardware zuverlässig, TV-Karten, DSL-Zugang oder Sound sind schnell und problemlos eingerichtet.
+Für Linuxfans ist es fast ein bisschen enttäuschend, wie viel Administration ihnen die neue Version abnimmt.
+Das ist fast wie unter Windows: Immer auf den OK-Button hauen reicht aus.
+Und zum Abschluss braucht man noch nicht einmal einen Neustart.
+Das heißt, das Brenn-Programm könnte komfortabel sein, wenn es denn auf Anhieb laufen würde.
+Spätestens jetzt zeigt sich, dass Linux eben doch kein reines Plug Play-System ist.
+Linux kann nämlich mit den meisten Brennern erst einmal nichts anfangen.
+Sie werden zwar als Brenner erkannt, können aber erst nach Eingabe einer Menge kryptischer Befehlszeilen auch eingesetzt werden.
+Und wer DVDs brennen will, muss auf ein grafisches Interface völlig verzichten.
+Alternativen werden zwar geliefert, allerdings benötigt man je nach Filmformat völlig unterschiedliche Programme.
+Man kann an der neuen Linuxversion große Freude haben, muss als User aber Spaß am Administrieren mitbringen.
+Wer das Herumfrickeln mag, für den eignet sich Linux besser als Windows.
+Wer aber wirklich einen einfachen Plug Baller-Rechner möchte, bleibt besser bei Microsoft.

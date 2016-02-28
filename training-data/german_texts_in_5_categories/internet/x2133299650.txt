@@ -1,0 +1,41 @@
+Vorsicht - Bissiger Plagiate-Spürhund!
+Wer heutzutage noch einen Text selber schreibt, ist schön doof.
+Das Internet steckt voller Inspirationen, ein bisschen hier, ein bisschen da kopiert - fertig ist das Referat.
+Doch Vorsicht: Eine neue 100-Euro-Software überführt Plagiate auf Knopfdruck.
+Text entlehnen, übernehmen, klauen, abschreiben oder ganz dreist kopieren - das Schmücken mit fremden Federn kennt vielerlei Facetten.
+Bei einer Studie unter 20.000 US-amerikanischen Schülern räumten im Jahr 2003 immerhin 37 Prozent der Befragten ein, beim Verfassen von Texten und Referaten mindestens ein Mal Sequenzen aus dem Internet kopiert zu haben.
+Im Jahr 1999 waren es noch zehn Prozent.
+Weil jedoch nur 20 Prozent der Lehrer in den USA überhaupt Plagiate-Aufspür-Programme einsetzen, kommen die meisten Kopierer ungeschoren davon.
+Wie groß das Problem tatsächlich ist, lässt sich nur schwer einschätzen.
+Die Hersteller professioneller Anti-Plagiate-Software neigen verständlicherweise zu Übertreibungen - man will ja den Absatz der eigenen Produkte fördern.
+Als jüngst ein AP-Reporter wissen wollte, wer eigentlich alles die Dienste von MyDropBox, einem amerikanischen Plagiate-Finde-Service, nutzt, bekam er von dessen Erfinder Max Litvin nur eine ausweichende Antwort.
+Die meisten, so Litvin, wollten nicht, dass bekannt wird, dass sie Plagiate-Suchprogramme einsetzen.
+Kein Kontakt zu Nutzern von MyDropBox also - vielleicht weil es noch gar nicht so viele gibt?
+Die kalifornische Firma iParadigm prahlt immerhin mit 2.500 amerikanischen High Schools, die mithilfe des Programms Turnitin kleine und große Betrüger ausfindig machen.
+Sowohl Turnitin als auch MyDropBox arbeiten Internet-basiert - man muss die zu überprüfenden Texte dem jeweiligen Anbieter über dessen Website zukommen lassen.
+Dieser checkt sie mit eigenen Datenbanken und schickt die Ergebnisse am nächsten Tag zurück.
+Das Ganze ist nicht billig: Pro Schule kassiert etwa iParadigm 500 Dollar Jahresgebühr zuzüglich 60 Cent pro Schüler und Arbeit.
+Unternehmen zahlen 1000 Dollar Pauschale plus zehn Dollar je Text.
+Für die mittelarmen deutschen Schulen, deren Wände mitunter von den Eltern mit selbst bezahlter Farbe gestrichen werden, kommt so etwas kaum in Frage.
+Es läuft auf Windows-PCs und benötigt eine möglichst schnelle Internetverbindung.
+Das Programm durchkämmt auf Wunsch gleich einen ganzen Klassensatz von Referaten und greift dabei intern auf die altbewährte Suchmaschine Google zurück.
+Der Plagiarism-Finder zerlegt den Text in Gruppen von sieben aufeinander folgenden Wörtern und sucht nach jeder dieser Wortgruppen im Internet.
+Je öfter das Programm fündig wird, umso größer die Wahrscheinlichkeit, dass es sich um einen abgekupferten Text handelt.
+Die Suche lässt sich feintunen.
+Im Report listet das Programm gefundene Quellen auf - als Link direkt im Text und als Liste darunter.
+Der Hersteller Mediaphor empfiehlt jedoch immer, die Treffer nochmals manuell nachzuprüfen.
+Das Programm zielt übrigens einzig und allein auf faule Schummler, die Textsequenzen unverändert übernehmen.
+Wer mit viel Sorgfalt komplett umformuliert, fällt durch das Erkennungsraster.
+Wielage weiß, dass sein Programm mit professionellen Diensten wie Turnitin nicht mithalten kann.
+Diese durchsuchen nicht nur das Internet sondern auch Datenbanken von Zeitungen und Zeitschriften, die per Google meist nicht durchkämmt werden können.
+Doch für einfache Plagiate bei Hausarbeiten dürfte der Plagiarism-Finder allemal reichen.
+Lehrern könnte das Programm eine Menge Handarbeit mit Suchmaschinen ersparen.
+Bislang mussten Sie verdächtige Sätze einzeln suchen.
+Allenfalls auffällige Rechtschreibfehler, die aus dem Netz mitkopiert wurden, halfen bei der schnellen Fahndung nach dem Original.
+Auch ein unerwarteter Stilwechsel galt als Indiz für kopierte Passagen.
+Wem die 100 Euro für das Programm zu viel sind, der kann zu der 20-Dollar-Software Eve2 des amerikanischen Herstellers Canexus greifen.
+Die Oberfläche ist allerdings nur englischsprachig.
+Auch die Einstellmöglichkeiten sind eingeschränkter als bei dem Mediaphor-Programm.
+Clevere Schüler bewaffnen sich jedenfalls schon mal mit dem Synonymwörterbuch, um kopierte Textbausteine flott in selbst verfasste Text umzufrisieren.
+Vielleicht entwickelt ja bald auch jemand ein Umformulierprogramm, das die mühsame Arbeit automatisch erledigt.
+Das wäre eine echte Herausforderung, denn mit intelligenter Spracherkennung tun sich Computer nach wie vor schwer.

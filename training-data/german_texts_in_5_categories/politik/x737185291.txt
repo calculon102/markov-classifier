@@ -1,0 +1,35 @@
+Während auf dem Uno-Informationsgipfel nun drei Tage lang verhandelt wird, wie die weltweite Informationsgesellschaft organisiert werden kann, arbeiten Visionäre schon an den Netzen von morgen und übermorgen.
+Web-Erfinder Tim Berners-Lee stellte seine Pläne jetzt in Genf vor.
+Berners-Lee ist für eine zweitägige Konferenz zur Rolle der Wissenschaft in der Informationsgesellschaft an den Ort seines größten Triumphs zurückgekehrt.
+Denn hier hatte er das World Wide Web (WWW) erfunden.
+Damals war der Brite mit einem Sechs-Monatsvertrag ans CERN gekommen.
+In seinem Büro am Stadtrand von Genf, kurz vor der schweizerisch-französischen Grenze, tüftelte er an einem Programm, das die Informationen auf seinem Schreibtisch und aus seiner Abteilung zusammenhalten und organisieren konnte.
+Seine Vision dabei: Der einfache Zugriff auf einen einheitlichen Raum von Informationen, die auch auf verschiedenen Rechnersystemen verstreut sein konnten.
+Und um dieser Vision näher zu kommen, schlug er seinen Vorgesetzten 1989 die Entwicklung eines Informationsnetzwerks vor.
+Auch wenn die nicht sofort Feuer und Flamme waren, machte sich Berners-Lee an die Arbeit.
+Was danach kam, ist Geschichte.
+Bei einem großen Teil vom Rest der Welt verhielt es sich ähnlich.
+Binnen zehn Jahren revolutionierte das Web Berufs- und Privatleben von Millionen Menschen weltweit.
+Berners-Lee, der aus seiner Entwicklung kein Kapital schlagen wollte, wechselte im Sommer 1994 an die Spitze des World Wide Web Committee (W3C) und zog ans Massachusetts Institute of Technology (MIT).
+Beim W3C erarbeiten Experten die Standards für das Web.
+Sie werden als Empfehlungen veröffentlicht und gelten deswegen nur für den, der sich auch daran halten will.
+Seit einiger Zeit kümmern sich die Experten vom W3C nun um Berners-Lees jüngstes Baby, das Semantic Web.
+Es soll in Zukunft vor allem das Suchen im Netz einfacher machen.
+Die Idee dabei: Die Computer, auf denen Daten gespeichert sind, sollen eines Tages wissen, um was für Daten es sich handelt.
+Dabei helfen ihnen verschiedene Beschreibungssprachen, die Informationen so aufbereiten, dass sie die Maschinen verstehen.
+Statt auf neuer Hardware ist das Netz der Zukunft also eher auf eine neue Schicht von Software angewiesen, die solche Beschreibungssprachen interpretieren kann.
+Schon in wenigen Jahren könne es für ernsthafte Unternehmen quasi eine Verpflichtung sein, ihre Angebote im Semantic Web zu positionieren, sagt er.
+So, wie es heute schon im Web sei.
+Doch wer neben den technischen Plänen für das Semantic Web von Tim Berners-Lee weitergehende Visionen für die Zukunft der Informationsgesellschaft erwartet, der bekommt eher wenig konkretes zu hören.
+Zu den drängendsten Fragen des Uno-Informationsgipfels will er sich kaum äußern.
+Der Web-Erfinder ist weniger Prophet als Pragmatiker.
+Viele der Fragen, die ab Mittwoch in Genf besprochen würden, hätten nicht in erster Linie mit dem Internet zu tun, so Berners-Lee.
+Natürlich sei es sehr wichtig, die digitale Kluft zwischen reichen Staaten im Norden und armen Staaten im Süden zu überwinden.
+Doch wie genau das geschehen könne, das müssten Politiker klären - und weniger die Entwickler des Netzes.
+Ebenso die Lage bei der Förderung von Open Source Software und die Auslegung von Copyright-Regeln.
+Außer gut gemeinten Allgemeinplätzen ist von Berners-Lee wenig zu hören.
+Open Source sei gut, kommerzielle Software müsse aber auch ihren Platz haben.
+Dabei hat das W3C unlängst deutlich direktere Töne angeschlagen.
+In einem Papier heißt es, kostenpflichtige Standards oder Patente sollten in keinem offiziellen Vorschlag des Committees eingesetzt werden.
+An den eigentlichen Verhandlungen des Informationsgipfels wird Berners-Lees noch nicht einmal teilnehmen.
+Er überlässt das Feld einer Kollegin vom W3C und beschränkt sich aller Voraussicht nach auf einen eher symbolischen Akt: Zusammen mit UN-Generalsekretär Kofi Annan will er von einem Messestand aus E-Mails an Schulen in der ganzen Welt senden.

@@ -1,0 +1,29 @@
+Mediziner haben bei Mikroskop-Untersuchungen eine bizarre Entdeckung gemacht: Einzelne Zellen können dumpf murmeln, sphärische Lieder singen und nervenzerfetzenden Lärm schlagen.
+Krankheiten, hoffen die Forscher, könnten so eines Tages hörbar werden.
+Hefezellen schaffen gewöhnlich, woran schon so manche Opernkarriere gescheitert ist: das hohe C. Sind sie aber tot, hört man nur noch ein tiefes Murmeln.
+Krebszellen dagegen produzieren vor allem eines: Lärm.
+Eines Tages könnten Ärzte dem Singsang der Zellen lauschen und Krankheiten erkennen, bevor sie ausbrechen.
+Das jedenfalls hoffen Chemie-Professor James Gimzewski und sein Doktorand Andrew Pelling von der University of California in Los Angeles.
+Gimzewski kennt sich aus in der Welt des mikroskopisch Kleinen.
+Vor seiner Zeit in Kalifornien entwickelte er am IBM-Forschungslabor in Zürich einen molekularen Propeller, der so winzig ist wie das Millionstel eines Millimeters, und den kleinsten Abakus der Welt: Er besteht aus Molekülen.
+Die Idee, Zellen zu belauschen, kam dem 52-Jährigen, nachdem ihm ein Mediziner erzählt hatte, dass Herzzellen - solange sie mit den erforderlichen Nährstoffen in eine Petrischale gelegt werden - weiterhin kräftig pulsieren.
+Sollte es möglich sein, fragte er sich, dass auch andere Zellen vibrieren?
+Und wenn ja, würden sie Geräusche erzeugen und könnte man sie mit dem menschlichen Ohr hören?
+Auf die Spur gekommen sind die beiden Kalifornier den musikalischen Zellen mit Hilfe der Nanotechnologie.
+Um Atome und Moleküle zu untersuchen, setzen Wissenschaftler ihr bestes Stück ein: das Rasterkraftmikroskop (AFM).
+Normalerweise erstellt dieses Mikroskop das Bild einer Zelle.
+Am Ende eines Biegearms sitzt eine winzige Spitze.
+Während sich diese Spitze über eine Zelle bewegt, misst es jede Vertiefung und Wölbung.
+Diese Daten werden dann vom Computer in eine dreidimensionale Abbildung der Zelle umgewandelt.
+Die beiden Ton-Forscher benutzen das Mikroskop etwas anders, mehr wie einen Plattenspieler: Sie halten die Spitze wie eine Schallplattennadel in einer festen Position und berühren damit leicht die Zelle.
+Die Vibrationen der Zelle werden so messbar.
+Das erzeugte Geräusch ist zu leise, um direkt hörbar zu sein.
+Das ungewöhnliche Experiment hat in der Fachwelt Bewunderung ausgelöst, aber auch Skepsis.
+Alle bis jetzt durchgeführten Kontrollexperimente, freut sich Pelling, bestätigen die Theorie der singenden Zellen.
+Bisher sind es vor allem Hefezellen, denen die Wissenschaftler ihr Ohr geliehen haben.
+Bei dieser Spezies vibrieren die Zellwände im Schnitt tausend Mal pro Minute, was Töne wie das hohe C oder D ermöglicht.
+Genetisch manipulierte Hefezellen haben eine deutlich andere Klangfarbe, was die Neugier von Michael Teitell erregte.
+Sie klingen wie Lärm oder atmosphärische Störungen im Radio, beschreibt Pelling.
+Derzeit sind die Forscher dabei, verschiedene Zellen in verschiedenen Situationen zu testen.
+Ob es letztlich zur Marktreife langt, ist ungewisser als ein Nebenprodukt der künstlerischen Art, das kurz vor der Vollendung steht.
+Pelling arbeitet zusammen mit der deutschen Medienkünstlerin Anne Niemetz am ersten Multimedia-Konzert der Welt, in dem singende Zellen den Ton angeben werden.

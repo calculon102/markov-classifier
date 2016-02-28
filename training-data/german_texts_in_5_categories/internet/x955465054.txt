@@ -1,0 +1,21 @@
+Großalarm in Redmond: Der US-Softwareriese Microsoft hat eingeräumt, dass Teile des streng gehüteten Quellcodes seines Betriebssystems Windows über das Internet verbreitet wurden.
+Seattle - Einige unvollständige Passagen des Windows-2000- und des Windows-NT4-Quellcodes seien illegal verfügbar gemacht worden, sagte Microsoft-Sprecher Tom Pilla.
+Mit dem Wissen aus den Codes können Hacker die Millionen Rechner mit Windows-Betriebssystemen in aller Welt noch leichter angreifen.
+Der Quellcode ist der für Menschen lesbare, in einer Programmiersprache geschriebene Text eines Computerprogramms.
+Die Mehrheit der Softwarehersteller schützt ihren Code und gibt ihn nur unter Einschränkungen an Dritte weiter.
+Microsoft ist bei Windows' Quellcode besonders zurückhaltend, der Konzern aus Redmond hütet seine Daten ähnlich argwöhnisch wie Coca-Cola die Zusammensetzung seiner Zuckerbrause.
+Microsoft sei Donnerstag vergangener Woche auf die Codes im Internet aufmerksam gemacht worden, sagte Pilla weiter.
+Die Quelle sei noch unklar, ebenso wie viele Menschen Zugang zu den Codes erhalten hätten.
+Es wäre nicht das erste Mal, dass Fragmente des Quellcodes an die Öffentlichkeit gelangten.
+Diesmal jedoch scheint es sich um umfängliche Dateien zu handeln.
+IT-Sicherheitsexperten warnen, Hacker könnten den Einblick in den Quellcode nutzen, weitere Schwachstellen des Systems zu identifizieren und für Hacks oder Virenversendungen zu nutzen.
+Das allerdings setzte voraus, dass ein wirklich substanzieller Teil des Quellcodes im Internet kursierte: Bruchstücke würden nicht hinreichen, das Betriebssystem daraus zu kompilieren.
+Wie gefährlich die Panne für Microsoft also wirklich ist, bleibt fraglich.
+Hochgradig peinlich ist sie allemal.
+Seit Bill Gates die Sicherheit der Software zum Unternehmensziel erklärte, steht Microsoft unter erhöhtem Erwartungsdruck.
+Statt da aber stolz auf Erfolge verweisen zu können, erwägt Microsoft derzeit, den Veröffentlichungsrythmus von Sicherheitsleck-Flicken wieder von monatlich auf wöchentlich umzustellen.
+Vor wenigen Tagen erst musste Microsoft wieder einmal vor einer gefährlichen Sicherheitslücke in der eigenen Software warnen.
+Entdeckt worden war dieses Leck vom Unternehmen EEye, das Microsoft bereits vor sechs Monaten darüber informiert hatte.
+MS brauchte ein halbes Jahr, um dieses Leck zu stopfen - und ist wohl auch derzeit gut beschäftigt, die nächsten gravierenden Lücken zu schließen, sagt EEye.
+Denn zum Teil schon vor fünf Monaten habe EEye sieben weitere Sicherheitslecks von Windows an Microsoft gemeldet, die noch nicht geschlossen seien.
+Der Gedanke, dass irgendjemand im Internet auch nur über Teile des Quellcodes des immer wieder einmal löchrigen Betriebssystems verfügen könnte, kann Microsoft da kaum behagen.

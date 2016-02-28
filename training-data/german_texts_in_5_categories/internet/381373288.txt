@@ -1,0 +1,42 @@
+Vom Rebellen zum Vertreter?
+Wenn Shawn Fanning sich bewegt, raschelt es im Blätterwald.
+Brandheiß wird berichtet, der Erfinder der P2P-Software Napster diene sich nun der Musikindustrie an.
+Shawn Fanning: Teilen, teilen, das macht Spaß...
+Was wäre das Web ohne seine Legenden?
+Ein nüchternes Arbeitsmittel, das Kommunikationsmöglichkeiten, Dienstleistungen und Lesestoff offeriert.
+So richtig aufregend ist das nicht, letztlich sitzt man immer vor einem Bildschirm.
+Selbst P2P, der Software-Trend, der die Musikindustrie - da gehen die Meinungen auseinander - entweder revolutionieren oder ruinieren wird, ist keine Fun-Veranstaltung, sondern von schier endloser Warterei gezeichnet.
+Wie gut, dass das Netzwerk seine Helden hat, um die sich Geschichten und Legenden spinnen.
+Wie die von Shawn Fanning, dem Napster-Mitbegründer, der kurze Zeit zum Robin Hood der Cyberwelt wurde.
+Gerade seine Geschichte ist bekannt, obwohl man über ihn selbst kaum etwas weiß: 19 Jahre alt war er, als er - zusammen mit einem Kommilitonen - Napster entwickelte.
+Zunächst als Mini-Tauschbörse fürs Uni-Netz, so wird erzählt, und weil alles so toll und phantastisch funktionierte, schenkte er Napster der Web-Gemeinde und leitete damit die P2P-Welle ein.
+Der Rest der unendlich oft wiederholten Legende: Die Industrie erschrak und klagte gegen Napster.
+Bertelsmann trat als Retter in der Not auf, nur, um von den neidischen Konkurrenzlabels ebenfalls mit Klagen eingedeckt zu werden.
+Bitterböse Richter sorgten dann dafür, dass Napster nach zwei Jahre dauernder Agonie seinen Häschern erlag.
+Getragener, dramatisch-schwülstiger Tusch: Doch sein Geist lebt fort...
+Anders als seine Fans hat sich Fanning wohl nie als Opponent der Musikindustrie gesehen.
+Schnell hatte er erkannt, dass Napster und P2P eine späte, aber prächtige Chance bedeuten könnten, durch das Web schnell reich zu werden.
+Das offensichtliche Bedrohungspotenzial der Musikbörse versuchte er, in Deals mit der Industrie zu versilbern.
+Das Geld zum Aufbau des Unternehmens kam zunächst von einem geschäftstüchtigen Onkel, der ihn mit Venture-Capital-Gebern zusammenbrachte, die sich von Napster ebenfalls schnelle Profite erhofften.
+Deren Vertreter in Napsters Geschäftsführung war der ein Jahr nach Firmengründung zum Chef erhobene Hank Barry, in der Öffentlichkeit lange Zeit irrtümlich mit einer Art Rebell verwechselt.
+Jetzt, melden amerikanische Zeitungen im Ton der Überraschung, wolle Fanning seine Dienste der Musikindustrie anbieten, deren erbitterter Gegner er angeblich einst gewesen sei.
+Dabei geht es um Digital Rights Management (DRM) und um Möglichkeiten des Micropayments: Tatsächlich sucht die Musikindustrie nach Möglichkeiten, die Bewegungen kopierter Dateien im Netz zu verfolgen und die Kunden entsprechend zur Kasse zu bitten.
+Wie viele andere auch setzt Fanning dabei auf eine digitale Wasserzeichen-Technik.
+Seine, behauptet Fanning, funktioniere aber nicht nur innerhalb kommerzieller Musik-Downloadshops, sondern auch innerhalb von P2P-Börsen.
+Die Wasserzeichen der Dateien würden erkannt und mit einer Datenbank abgeglichen, sobald der Nutzer einer Tauschbörse eine Datei online stelle.
+Daran könne man eine Abrechnungsmöglichkeit knüpfen, die den User pro Download zur Kasse bittet.
+Fanning soll seine Idee bereits bei mehreren Plattenfirmen vorgestellt haben.
+Sollten die Labels die Technik unterstützen, will Fanning sie auch bei KaZaA und anderen Tauschbörsen integriert sehen, sagt er.
+Shawn Fanning meldet sich also öffentlichkeitswirksam zurück im Geschäft.
+Dass er den Deal mit der Industrie sucht, ist dabei weder neu noch originell: Genau das wollen auch die angeblichen Rebellen von KaZaA, die im Übrigen ähnliche Techniken erproben.
+Zudem wollten die User nicht für jedes Stück extra zahlen, sondern unbegrenzten Download für ihr Geld.
+Darüber kann man - siehe Apple - streiten.
+Aber darum geht es auch gar nicht.
+Fannings Wiederauftauchen aus der Versenkung markiert den Beginn der nächsten Phase im Verhältnis zwischen den Vertretern der P2P-Unternehmen und der Industrie.
+Die beginnt sich gerade darauf zu verlegen, statt der schwer zu greifenden P2P-Entwickler und -Betreiber deren Nutzer zu verklagen.
+Die Angst davor, hofft die Industrie, könnte die P2P-Nutzer dazu motivieren, endlich für Downloads zu bezahlen.
+Erst wenn sich auch für sie die Geldbörsen der Nutzer öffnen, hat sich das geschäftliche und juristische Risiko gelohnt.
+Was sie von der verpönten Industrie unterscheidet ist, dass sie nicht selbst hineingreifen, sondern hineingreifen lassen.
+Das Geschäftsmodell von P2P ist, der Industrie zunächst die Kunden zu entziehen und ihr dann die Werkzeuge zu verkaufen, wieder bei ihnen zu kassieren.
+Mit so einem Werkzeug tingelt Shawn Fanning gerade durch die Chefetagen der Musikbranche.
+Zu glauben, das sei eine Wandlung des Rebellen zum Vertreter, wäre ein kapitales Missverständnis.

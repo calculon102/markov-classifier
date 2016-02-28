@@ -1,0 +1,59 @@
+Vor zehn Jahren begann der Siegeszug von MiniDV bei Camcordern.
+Doch die Konkurrenz schläft nicht: Mit DVD-, Flashkarten- oder Festplatten-Videokameras versuchen die Hersteller, neue Formatstandards zu setzen.
+Lohnt der Wechsel?
+Jahrelang stand fest: Wer beim Camcorder auf Bildqualität setzt, kauft ein MiniDV-Modell.
+Doch nun ist der Markt wieder in Bewegung gekommen.
+Die Hersteller drängen mit neuen Systemen auf den Markt.
+Das macht ihn interessant - aber für Laien derzeit fast undurchschaubar.
+Soviel voraus: Trotz neuen Technikavancen hat jeder Hersteller nach wie vor DV-Camcorder im Programm.
+Zur Cebit gibt es sogar gleich eine ganze Flut von neuen DV-Camcordern: 41 Stück an der Zahl. Die Preise rutschen schneller als den Herstellern lieb ist.
+Die Einstiegsklasse ist bereits bei einer Preisempfehlung von 500 Euro angekommen - das Internet sorgt dann für noch günstigere Preise.
+Für den Filmer bringen alle MiniDV-Modellen dank Firewire-Schnittstelle eine bequeme Datenübertragung in den Computer.
+Die schnelle Schnittstelle gehört bei neuen Rechnern bereits zum Standard - das Nachrüsten stellt weder ein Problem noch einen hohen Kostenaufwand dar.
+In Sachen Bildqualität und Verbrauchskosten ist DV immer noch unschlagbar.
+Softwareunterstützung zur Nachbearbeitung für DV gibt es wie Sand am Meer.
+Auch das von Sony entwickelte Digital-8 gehört bereits zu den Veteranen.
+Die klobigen, aber preisgünstigen Digital-8-Camcorder bannen digitale Signale auf Hi-8-Bänder.
+Wegen der baugleichen Kassettenform können diese Camcorder das analoge Hi-8-Material weiterhin abspielen.
+Damit ist das Digital-8-System interessant für Filmer, die ihr analoges Material digitalisieren möchten - aber wer braucht das nach zehn Jahren Digitaltechnik noch?
+Die Übertragung erfolgt ebenfalls über Firewire, was die einfache Nachbearbeitung sichert.
+Bei der Qualität muss der Hobbyfilmer jedoch gegenüber DV Abstriche machen.
+Die von Sony eingesetzte Bildverarbeitungselektronik führt bei vielen Geräten zu einer schlechteren Signalverarbeitung als bei DV.
+Bereits vor knapp zwei Jahren hat Sony ein drittes Camcorder-System auf den Markt geworfen: das Micro-MV-Format mit noch mal stärker miniaturisierten Camcordern.
+Die hier eingesetzten Magnetbänder messen nur die Hälfte der Mini-DV-Kassette.
+Die Sony-Ingenieure haben sich für MPEG-2 mit einer Datenrate von 12 Mbit/s entschieden, um die großen Datenströme auf dem winzigen Band unterzubringen.
+Dabei kommt man fast an die Bildqualität von DV heranaber wegen der stärkeren Videokompression eben nicht ganz.
+DV arbeitet mit 25 MBit/s - speichert also doppelt so viele Informationen je Sekunde, was man dem Bild auch ansieht.
+Der Haken am Sony-System ist die Nachbearbeitung.
+Damit die Daten auf den Rechner wandern können, müssen Sony-eigene Codecs und Programme installiert werden.
+Nur wenige Schnittprogramme verstehen sich mit dem von Sony definierten MPEG-2-Datenstrom von MicroMV.
+Zudem muss trotz MPEG-2 der Datenstrom für die Ausgabe auf DVD konvertiert werden, denn dafür ist die Datenrate zu hoch.
+Da erscheint eine Direktaufnahme auf DVD-Rohlinge sinnvoller.
+Vorreiter unter den Camcorderproduzenten ist Hitachi - dort hat man sich ganz von den DV-Modellen verabschiedet.
+Die DVD ist derzeit das effektivste und verbreitetste Speichermedium.
+Nichts liegt also näher als auf diesem Format aufzuzeichnen.
+Damit die Camcorder noch kompakt bleiben, passen allerdings nur die kleinen acht Zentimeter Scheiben rein.
+In bester DVD-Qualität fast eine solche DVD gerade mal 20 Minuten Video.
+Neben den gewöhnlichen DVD-Rs nehmen die Camcorder auch auf wiederbeschreibbare Medien auf.
+Die Bildqualität kommt an DV-Gegenspieler auch in höchster Qualitätsstufe nicht ganz heran.
+Der größte Haken bei den DVD-Camcordern: Die wiederbeschreibbaren Medien sind nur selten mit den DVD-Playern kompatibel und die Übertragung der Videodaten zum Rechner ist nur etwas für versierte Computeranwender.
+Mit der SV-AV 100 hat Panasonic als Pionier erfolgreich das erste Ultra-Mini-Modell eingeführt, dass aus dem Labor vom James-Bond-Ausrüster Q stammen könnte.
+Auf der Cebit kommen die Nachfolger SV-AV 25 und SV-AV 50. Gespeichert wird auf SD-Flashkarte mit MPEG-2 oder MPEG-4-Kompression - wie bei einer digitalen Fotokamera.
+Durch den Wegfall von Laufwerken können die Recorder noch kleiner gebaut werden.
+Dafür reicht auch hier die Qualität noch nicht an DV heran, was vor allem an der niedrigen Datenrate liegt.
+Die geringe Aufnahmekapazität und der vergleichsweise hohe Preis der SD-Speicherkarten tun ihr übriges.
+Die Annäherung zum Computer zeigte Samsung bereits 2003.
+Der Camcorder ITCM zeichnet auf eine kompakten Ein-Zoll-Festplatte auf.
+Mit nur 1,5 Gigabyte Platz wird in MPEG-4 aufgezeichnet.
+Die Technik ist auch hier noch nicht ausgereift, deshalb ist nach etlichen Terminverschiebungen fraglich ob der ITCM überhaupt Marktreife erreichen wird.
+Schade, denn die neue Technologie bietet praktische Vorteile wie kompakte Bauform der Camcorder, hohe Datenrate und schnelleren Datentransfer ins Schnittsystem.
+Die Zukunft auf der Cebit zu sehen?
+HDTV ist in aller Munde- der ersten Sender Euro1080 strahlt in Europa das hochauflösende Material aus.
+Es fehlen nur noch die geeigneten Fernsehgeräte und Beamer.
+Die großen Camcorderhersteller haben sich schon mal auf einen gemeinsamen Standard für die Filmer geeinigt: HDV soll es heißen.
+Einzig Panasonic fehlt in dieser HDV-Allianz, die auf herkömmliche DV-Bänder Auflösung von 1280 x 720 oder 1440 mal 1080 Pixeln aufgezeichnet wollen.
+Zum Vergleich: DV arbeitet wie Fernsehen und DVDs mit einer Aufösung von 720 mal 576.
+Sogar bei der Nachbearbeitung tut sich schon etwas: Adobe will mit dem Klassiker Premiere den HDV-Schnitt unterstützen.
+Fazit: Die Nachfolger stehen in den Startlöchern, kommen jedoch an MiniDV einfach noch nicht heran.
+Die enorme Speicherkapazität des DV-Bandes ist derzeit nicht zu schlagen.
+Sollte sich hochauflösendes Fernsehen in Europa durchsetzten, könnte das Band sogar eine zweite Blüte bevorstehen, denn Qualität bleibt oberstes Gebot.

@@ -1,0 +1,29 @@
+Einnetzen im Netz: Wissenschaflter vom MIT Media Lab in Dublin haben ein Spiel entwickelt, bei dem man mit einem echten Fußball gegen einen menschlichen Gegner spielen kann - auch wenn der auf einem anderen Kontinent kickt.
+Dank aktueller Entwicklungen könnte solcher Distanz-Sport bald jedermann offenstehen.
+Dass man Fußball auch online spielen kann, ist nichts Neues: Kommerzielle Spiele-Hersteller bieten Internet-Portale für Turniere an, und auch eine nicht-kommerzielle Liga von Fans für Fans gibt es.
+Bei letzterer hat man sich des Half-Life Grafik-Engines bedient, um ein Fußballspiel zu basteln, an dem man sogar als Einzelspieler aus der First-Person Sicht teilnehmen kann.
+Mit echten Fußbällen auf den Monitor zu schießen, ist bislang eher nicht zu empfehlen.
+Eine Forschergruppe im europäischen Ableger des MIT Media Lab ist jetzt angetreten, das zu ändern.
+Sie haben ein Spiel entwickelt, das entweder mit einem Fußball oder mit Tennisball und -schläger gespielt werden kann.
+In Anlehnung an einen Videospiel-Klassiker, bei dem mit einem beweglichen Schläger und einem springenden Ball Ziegel aus einer Wand geschossen werden müssen, nennen sie ihre Schöpfung Breakout for Two.
+Die Spieler müssen ihren Ball wie beim Sqash gegen eine reale Wand schießen, die per Videoprojektion in einzelne Segmente aufgeteilt ist.
+Der Clou: Hinter der virtuellen Scheibe ist ein echter Gegner zu sehen - ebenfalls als Projektion.
+Wer zuerst von seiner Seite aus die meisten Segmente abgeschossen hat, gewinnt die Runde.
+Der Gegner kann dank Konferenztechnik nicht nur sportlich bekämpft sondern auch beschimpft oder gelobt werden - je nach Gemütslage.
+Dank Projektion und Vernetzung können sich die beiden Gegner theoretisch an jedem Ort der Welt befinden, wenn sie gegeneinander antreten.
+Voraussetzung ist allerdings ein vergleichsweise kompliziertes Interface: Neben der Kamera, die den Spieler aufnimmt, und dem Projektor, der den Gegner an die Wand zaubert, ist ein Gitter von hinter der Wand montierten Mikrophonen nötig.
+Die erfassen per Lautstärkevergleich, wo der Ball auftrifft.
+Für den Heimgebrauch wird die virtuelle Torwand in nächster Zeit also wohl kaum zu haben sein - aber das ist auch gar nicht das Ziel der MIT-Wissenschaflter.
+Personalentwickler machen sich dieses Phänomen schon seit langem zunutze, etwa indem sie Arbeitsgruppen gemeinsam auf Seilbrücken Flüsse überqueren oder sie in Geländespielen gegeneinander antreten lassen - gemeinsam Schwitzen verbindet.
+Agamanolis kann sich vorstellen, mit schweißtreibenden virtuellen Sportgeräten wie Breakout for Two für Annäherung unter den global verstreuten Mitarbeitern internationaler Konzerne zu sorgen.
+Bislang gibt die Empirie den Forschern recht: Die 56 Versuchspersonen, die am virtuellen Scheibenschießen teilnahmen amüsierten sich nicht nur blendend - sie fühlten sich ihren Gegenspielern nach einer halben Stunde Sport auch verbunden.
+Weniger intensive Bindungserlebnisse hatten die Teilnehmer in der Kontrollgruppe, die ein vergleichbares Spiel am Computer, also ohne körperliche Anstrengung gegeneinander spielten.
+Den ganzen Körper zum Spielen am Bildschirm einzusetzen wir immer populärer.
+Gerade in Deutschland ist das optische Ganzkörper-Gamepad sehr beliebt: 570.000 Eyetoys hat Sony hierzulande bislang abgesetzt.
+EyeToy-Kamera: Interkontinentale Bildschirmgymnastik?
+Parallel dazu entwickeln sich Onlinespiele mit rasanter Geschwindigkeit, Daddeln über geographische Grenzen hinweg gehört für viele schon zum Alltag.
+Der Marktinformationsdienst Juniper Research prognostizierte vor kurzem, dass es allein bei den Konsolebesitzern bis 2008 weltweit 25 Millionen Onlinespieler geben wird.
+Sony hat externe Spieleentwickler bereits aufgefordert, EyeToy in Online-Spiele zu integrieren, etwa um mit den Mitspielern zu kommunizieren.
+Bei Microsofts X-Box ist das bereits möglich - aber nur akustisch, per Headset.
+Möglicherweise haben Agamanolis und seine Mitstreiter mit ihrem Fußball-Breakout tatsächlich eine Killer-Application für die Breitbandnetze der Zukuft geschaffen.
+Schon bald könnten internationale Manager in der Mittagspause nicht mehr zum Bälle schlagen auf die Driving Range in der Innenstadt pilgern, sondern gegen die Kollegen jenseits des Ozeans zum virtuellen Boxkampf antreten - fürs Betriebklima.

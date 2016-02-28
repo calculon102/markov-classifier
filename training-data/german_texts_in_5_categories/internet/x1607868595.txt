@@ -1,0 +1,31 @@
+So steht es in den Vertragsbedingungen der QSC AG zu lesen, die wichtigsten anderen deutschen DSL-Anbieter haben ähnliche Klauseln in ihren Verträgen - obwohl eine Überprüfbarkeit zweifelhaft scheint.
+Die Telekom-Anbieter wissen, warum sie ihre Verträge derart ausgestalten.
+Denn kaum ein DSL-Kunde nutzt die zur Verfügung stehende Bandbreite voll aus.
+Bildlicher ausgedrückt: Internetnutzer mit DSL und Flatrate besitzen einen Bus - haben aber keine Erlaubnis, darin Leute mitzunehmen.
+Die Initiative NYCwireless, eine Art Bürgerinitiative von Internetidealisten, die aber geschäftstüchtig genug sind, ihren Markennamen schützen zu lassen, ruft daher zum Teilen der nicht genutzten Bandbreite auf und gibt Hilfestellung dabei.
+Sie wollen den Traum des Netzbürgers verwirklichen: Internetzugang ohne Kabel überall.
+In der Nachbarschaft, in Cafés oder Parks.
+In vernünftiger Geschwindigkeit.
+Gehen Sie vor ihrem nächsten New York-Besuch auf die Seite www.nycwireless.net und finden Sie auf einer interaktiven Stadtkarte heraus, wo man sich im Big Apple kostenlos einloggen kann.
+Nun brauchen Sie noch eine WLAN-Karte für den Laptop oder entsprechende Ausstattung am PDA, und schon steht dem unbeschwerten Netzzugang nichts mehr im Wege.
+Wenn das so einfach ist, warum warten alle auf DSL, Internet per TV-Kabel oder gar UMTS?
+Weil drahtlose Netze nicht sehr weit verbreitet sind, Eigeninitiative erfordern - und keine Lobby haben.
+Eben das wollen NYCwireless und verwandte Initiativen ändern.
+Die Chancen stehen nicht so schlecht: Die Breitband-Industrie in den USA hat sich zum Ziel gesetzt, bis 2010 mindestens 100 Millionen neue Zugänge zu etablieren - das wäre eine Marktpenetration von gut 45 Prozent.
+Heute gehen erst rund zehn Prozent der Amerikaner, also gut 27 Millionen, breitbandig ins Netz.
+Und wenn auch nur ein Prozent der angestrebten neuen Zugänge bereit ist, ihre Bandbreite zu teilen, wären das immerhin eine Million Zugangspunkte.
+Ihre Aufgabe sehen die Aktivisten vor allem darin, die Vernetzung der Netzwerker zu fördern.
+Dazu dient die Webseite, die neben der Karte mit den Zugangspunkten auch ein Forum für den Austausch bereithält.
+Darüber hinaus werden Workshops und monatliche Treffen der Aktivisten organisiert sowie Presse- und Lobbyarbeit geleistet.
+Denn WLAN gerät in den USA zunehmend unter Beschuss.
+Mobilfunkanbieter argumentieren gegen den offenen Standard, der dank hoher Datenübertragungsraten der UMTS-Technik Konkurrenz machen könnte - es droht Gefahr für die teuer erworbenen Lizenzen.
+Aber auch die Betreiber von Telefon- oder Fernsehkabel sind skeptisch.
+Ihr Businessmodell baut nicht zuletzt darauf, dass der Zugang zum Endkunden eben auch die Kontrolle über dessen Mediennutzung ermöglichen könnte.
+Wer beispielsweise über AOL ins Netz geht, könnte in Zukunft feststellen, dass Seiten mit Medienangeboten, die nicht von AOL Time Warner betrieben werden, langsamer geladen werden als konzerneigene.
+Theoretisch könnte ein Zugangsanbieter sogar seine Netzkunden von allen konzernfremden Angeboten ausschließen.
+Aber: Wie funktioniert das denn nun mit dem Teilen?
+Dazu muss der Zugang an eine WLAN-Basisstation angeschlossen werden, die über eine Antenne das ankommende Signal im Umkreis von mehreren hundert Metern aussendet.
+Entsprechend ausgerüstete Geräte können es dann empfangen und nutzen.
+Dabei lässt sich seitens des Zugangsbesitzers sicherstellen, dass nicht zu viele externe Nutzer den eigenen Netzzugang beeinträchtigen.
+Der benutzte Funkstandard war ursprünglich für den Betrieb von drahtlosen Netzwerken innerhalb von Gebäuden geschaffen worden und nutzt ein kleines, lizenzfreies Funkspektrum und durchdringt problemlos Wände - Reichweite mehrere hundert Meter.
+Dorthin, wo große Anbieter in den USA bis zu 1500 Dollar für den Anschluss eines einzigen Kunden in den Ausbau ihrer Leitungen investieren müssten.

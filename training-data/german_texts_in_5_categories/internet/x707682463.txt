@@ -1,0 +1,68 @@
+Mensch, Maschine, Krokodile!
+Es komme schon darauf an, welcher Spezies die Spieler angehören: Während Kasparow für Fritz nichts als eine Nummernfolge sei, ist Fritz für Kasparow eine Art Krokodil.
+Wenn Kasparow bei einem Turnier nur die Bühne betritt, ist das allein schon ein Ereignis.
+Er schaut sich um und jeder Blick sagt: Hier bin ich, der beste Schachspieler der Welt.
+Dann geht er an seinen Tisch, setzt sich, die Partie beginnt.
+Nach den Eröffnungszügen wird er seine Uhr ausziehen - jetzt geht es los.
+Manchmal zieht er auch sein Jackett aus und hängt es über die Stuhllehne - schwierige Partie.
+Spätestens, wenn er seine Uhr wieder anzieht, ist alles gelaufen.
+Deutliches Signal an den Gegner: Gib auf!
+Er macht noch Züge?
+Kopfschütteln, Augenbrauen hoch: Was soll denn das?
+Siehst du denn nicht, dass das Endspiel klar gewonnen ist, du Patzer?
+Kasparows Körpersprache ist berühmt.
+Manchmal geht er auf der Bühne herum und schaut sich die Partien an den Nebentischen an.
+Dann muss er schon mal laut lachen, weil zum Beispiel Nigel Short, Vizeweltmeister von 1993, einen so lächerlich schlechten Zug gemacht hat.
+Viele seiner Kollegen lassen sich durch Kasparow Präsenz einschüchtern und spielen gegen ihn unter Wert.
+Dem Computer passiert das natürlich nicht.
+Kasparow ist für ihn nur eine Zeichenkette, die im Speicher für die Kopfdaten genau acht Bit belegt.
+Zeichen ohne Bedeutung.
+Eine Bedeutung bekommt die Kette erst in der Interpretation durch den Menschen: Oh, Kasparow, der beste Schachspieler der Welt, Elo 2830!
+Das sind vier Zeichen mehr, sonst nichts.
+Das Spiel gegen den Rechner ist auch sonst ein ganz anderes als gegen einen anderen Menschen.
+Es ist anderes Schach.
+So, als gäbe es Ringkämpfe zwischen Mensch und Krokodil: Man muss dann besonders unten herum mehr aufpassen.
+Wenn der Mensch ein paar Mal ins Bein gebissen wurde, weiß er das, und es spricht sich auch unter denen herum, die noch nicht gebissen wurden.
+Je mehr Figuren ziehen können, desto komplizierter wird die Stellung im mathematischen Teil des Schachs und desto besser kommen die Rechenkrokodile ins Spiel.
+Da die Menschen jedoch lernfähig sind, wollen sie solche Positionen vermeiden und streben geschlossene Stellungen an.
+Hier findet der Rechner nichts zum Beißen und wird niedergerungen.
+Um im Bild zu bleiben: Der Mensch springt erst auf einen Baum und versucht dann von oben auf das Krokodil zu springen.
+In der dritten Partie hat Kasparow das in Reinkultur demonstriert.
+Umgekehrt funktioniert es nicht.
+Schachprogramme können nichts lernen, sammeln keine Erfahrung und sind zu Beginn jeder Partie genauso schlau beziehungsweise dumm wie vor der vorherigen.
+Es fehlt ihnen an Selbstreflexion.
+Deshalb weiß das Schachkrokodil nicht, dass es in geschlossenen Stellungen völlig ahnungslos ist und pro Sekunde 3,4 Millionen Positionen für den Papierkorb gerechnet hat.
+Wie ein Krokodil, das wild um sich schnappt, aber immer nur in die Luft beißt.
+Auf einem schnelleren Rechner kann es noch schneller schnappen, das nützt aber auch nichts.
+Es gibt noch etwas, was den Maschinen fehlt: der Wunsch zu siegen.
+Maschinen haben keine Wünsche.
+Das Ereignis Schachmatt ist zwar mathematisch unendlich hoch definiert, doch der damit verbundene Sieg in der Partie wird vom Programm gar nicht zur Kenntnis genommen.
+Maschine zwar immer die Stellung zu verbessern und am Ende auch Matt zu setzen, doch die große Befriedigung des Sieges, für den Menschen das höchste Ziel im Schach, kennt sie nicht.
+Um zum Sieg zu kommen, greift der Mensch zu Tricks: Oft spielt er nicht den besten Zug, sondern den, der dem Gegner den meisten Raum für Fehler lässt.
+Oder versucht den Gegner in Zeitnot durch schnelles Ziehen unter Druck zu setzten.
+In der ersten Partie hat Kasparow Deep Fritz eine vergiftete Leberwurst in Form des Bauern f2 als Köder ausgelegt.
+Natürlich hat Fritz danach geschnappt.
+Eigentlich hätte er die folgenden Bauchschmerzen nicht überleben sollen.
+Das Schachprogramm würde so etwas nie machen.
+Es spielt immer den nach seiner Programmierung besten Zug, auch wenn der menschliche Gegner dann leichtes, weil unkompliziertes Spiel hat.
+Wie man gegen Schachprogramme zu spielen hat, ist zwar allgemein bekannt.
+Doch immer weniger Großmeistern gelingt es, die Wunschstellungen aufs Brett zu bekommen.
+Kasparow hat in der dritten Partie gezeigt, wie es gehen könnte.
+Beim nächsten Mal spielt der Rechner aber eine andere Eröffnung und dann klappt es wieder nicht.
+In der zweiten Partie ist Kasparow auch schon einmal schlimm gebissen worden.
+Und dabei ist er nicht weniger als der beste Spieler auf dem Planeten.
+Es naht die Zeit der Krokodile...
+Vielleicht gibt es noch fünf Menschen, die gegen ein Spitzenprogramm auf einem schnellen Rechner ab und an eine Partie gewinnen können.
+Ein paar mehr Spieler sind noch in der Lage, rechtzeitig vor dem heran nahenden Krokodil auf einen Baum flüchten und dort auch zu bleiben, sprich: Sie halten stille und schaffen ein Remis.
+Aus den recht wenigen Wettkämpfen mit den besten Spielern lernen die Schachprogrammierer jedoch eine Menge.
+Die Programme werden besser, die Luft für die Großmeister immer dünner, das heißt: Die Bäume immer niedriger.
+Die Zuschauer sehen den nur mit einem Helm, einer 3D-Brille bewaffneten Menschen, der es mit einem sehr großen und besonders bissigen Krokodil zu tun hat.
+Die Leute wollen einen spannenden Kampf sehen und am Ende einen verdienten Sieger bejubeln.
+Blut muss fließen.
+Auch nicht anders als vor 2000 Jahren im Kolosseum - wenn man davon absieht, dass es damals keine launigen Kommentare zum Spektakel gab, wie sie zurzeit der Kabarettist und passionierte Schachspieler Mathias Deutschmann liefert.
+Mal sehen, ob jung Siegfried Kasparow heute noch einmal den Drachen töten will und kann.
+Die anwesenden Menschen sind dort nur die Peripheriegeräte zur Eingabe von Zügen.
+Meist kommt es zu blutigen Beißereien zwischen den Programmen.
+Manchmal sind aber auch beide Krokodile einer Partie durch einen Zufallseffekt des Eröffnungsbuches auf den Baum gesprungen und rechnen dort fauchend ihre 3,4 Millionen Stellungen pro Zug.
+Der beste ist am Ende Computerschachweltmeister.
+Er bekommt davon allerdings nichts mit.

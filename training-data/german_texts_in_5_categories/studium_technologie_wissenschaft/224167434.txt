@@ -1,0 +1,21 @@
+Seit zwei Wochen spekulieren Sicherheitsexperten darüber, wann der erste Schädling auftaucht, der die jüngst publik gewordenen Sicherheitslücke bei JPEG-Dateien ausnutzt.
+Jetzt ist es offenbar so weit.
+Dass bestimmte Bilder gefährlich sein können, ist unter PR-Beratern und Politikern ein alter Hut.
+Seit zwei Wochen steht nun jedoch fest, dass Fotos nicht nur ungewollte Emotionen wecken können sondern auch PCs crashen.
+Am 14. September informierte Microsoft die Öffentlichkeit über eine kritische Sicherheitslücke bei der Verarbeitung von JPEG-Bildern.
+Aufgrund eines Fehlers in einer bestimmten DLL-Datei, die der Internet Explorer nutzt, könne mit Hilfe eines manipulierten Fotos beliebiger Code auf einem PC-System ausgeführt werden.
+Im schlimmsten Fall könne ein Angreifer die vollständige Kontrolle über ein System erlangen - allein dadurch, dass sein Opfer ein JPEG-Bild im Browser öffnet, was praktisch ständig passiert, denn das WWW ist voller JPEGs.
+Microsoft veröffentlichte eine Reihe von Patches - betroffen war nicht der Internet Explorer allein, auch mehrere Office-Versionen und Bildbearbeitungsprogramme des Softwareriesen erwiesen sich als anfällig.
+Doch die Sache ist damit für Microsoft noch lange nicht ausgestanden.
+Nach einem Bericht von heise security kann ein System selbst dann gefährdet sein, wenn alle Patches aufgespielt sind.
+Viele Anwendungen lieferten ihre eigenen Versionen mit.
+Die Patches von Microsoft würden verwundbare DLLs von Drittanbietern nicht aufspüren, das System bleibe weiter gefährdet.
+Nachdem Sicherheitsexperten zwei Wochen lang über die das Gefahrenpotential der JPEG-Lücke diskutiert haben, sind nun offenbar die ersten so genannten Exploits aufgetaucht, die die Lücke ausnutzen.
+Nach einem Bericht von BBC Online sind am Wochenende erste JPEG-Schädlinge in einer Porno-Newsgroup aufgetaucht.
+Sobald das Bild von einem verwundbaren System aus geöffnet werde, nehme dieses System Kontakt zu einem Webserver auf, um von dort ein Programm herunter zu laden, das das System für Angreifer öffne.
+Die IT-Sicherheitsfirma F-Secure teilte mit, dass es sich bei den kursierenden Bildern um keine Viren handle, weil sie keinerlei Mechanismus zur Weiterverbreitung besäßen.
+Experten sind sich jedoch einig, dass es nur noch eine Frage der Zeit ist, bis ein solcher JPEG-Virus auftaucht.
+Um das eigene System von einem solchen Schädling zu schützen, sollten Anwender der betroffenen Windowssoftware (komplette Liste bei Microsoft) unbedingt die Sicherheitspatches installieren.
+Ein Virenscaner bietet keinen ausreichenden Schutz, weil dieser möglicherweise erst Alarm schlägt, wenn der Schädling bereits aktiv ist.
+Außerdem werden JPEGs von Virenscannern in der Default-Einstellung meist gar nicht untersucht.
+Ausführliche Hinweise zum JPEG-Sicherheitsloch bietet das Bundesamt für Sicherheit in der Informationstechnik.

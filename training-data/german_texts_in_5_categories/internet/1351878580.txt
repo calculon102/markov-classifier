@@ -1,0 +1,28 @@
+Sammelt KaZaA Daten über seine Nutzer?
+Kann die P2P-Börse Kontrolle über das getauschte Material ausüben?
+Im australischen Prozess gegen die einst führende P2P-Börse geht es heiß zur Sache.
+Im laufenden Kreuzverhör der geladenen Experten wird bisher nur eines klar: Alle Seiten haben die Nebelwerfer wohl gefüllt..
+Wäre die laufende Gerichtsverhandlung gegen die P2P-Börse KaZaA und ihre Betreiberfirma Sharman in Sydney ein Boxkampf, dann ging die gestrige Runde wohl an die Anwälte der Musikindustrie.
+Am Mittwoch sah die Sache schon wieder ganz anders aus, und KaZaA konnte punkten.
+Denn am Mittwochmorgen gingen KaZaAs Anwälte ins Kreuzverhör - und befragt wurde Leon Sterling.
+Der hatte es, wie die KaZaA-Anwälte dokumentieren konnten, im Vorfeld des Prozesses abgelehnt, für KaZaA als Experte auszusagen.
+Brisant seine Begründung: Schriftlich hatte er den P2P-Betreibern mitgeteilt, seine Expertise reiche dafür nicht aus und er könne sich in der Kürze der Zeit nicht adäquat genug in das Thema einarbeiten.
+Die Sharman-Anwälte sprachen dem Professor an der Universität Melbourne daraufhin die Kompetenz ab.
+Stand KaZaA am Dienstag regelrecht am Pranger, saß am Mittwoch der Zeuge der Musikindustrie leicht blamiert da.
+Die Anwälte der Musikindustrie konnten den negativen Eindruck im Verlauf des Kreuzverhöres relativieren, doch ihrem Angriff auf KaZaA ist vorerst die Schärfe genommen.
+Was also hatte Sterling genau gesagt, das das Gericht gleich mehrere Tage beschäftigte?
+Nach Sterlings Aussage vom Dienstag bestünde die technische Möglichkeit, dass KaZaA das Verhalten seiner Nutzer beobachtet und dokumentiert.
+So etwas sei beim Monitoring eines Netzwerkes ganz normal.
+Im Kreuzverhör musste Sterling am Folgetag jedoch zugeben, dass er diese Möglichkeit nur theoretisch erschlossen, nicht aber durch Einblick in das System von KaZaA analysiert hatte.
+Den aber, argumentierten die KaZaA-Anwälte, gäbe es gar nicht mehr.
+Sterlings Ausführungen fußten damit auf einem veralteten Kenntnisstand.
+Die P2P-Börse bestreitet auch, ihre User zu überwachen.
+Richtig sei zwar, dass KaZaA bis 2002 rund 15 Millionen E-Mailadressen gespeichert habe, die von der Software bei der Programmanmeldung abgegriffen wurden.
+Daraufhin habe KaZaA die Sammlung der Adressen aufgegeben.
+Morle bestritt einmal mehr, dass KaZaA auf seine Nutzer größeren Einfluss nehmen könne.
+Selbst das Upgrade zu einer neuen Softwaregeneration ließe sich inzwischen nicht mehr erzwingen: Auch so etwas könne man dem User nur anbieten.
+Gehe er nicht darauf ein, könne der User einfach die alte Version weiter nutzen.
+Leon Sterling als Experte der Musikindustrie gab zu, dass Blockierungsoder Filtertechniken tatsächlich wohl nicht zu einhundert Prozent zuverlässig einzuführen wären.
+Am Donnerstag wird KaZaA-Cheftechniker Philip Morle im Kreuzverhör auf dem Zeugenstuhl Platz nehmen.
+Vom Ausgang des Prozesses in Sydney könnte der Fortbestand von KaZaA/Sharman abhängen.
+Offiziell residiert das Unternehmen zwar auf Vanuatu, operiert aber tatsächlich wohl von Australien aus.

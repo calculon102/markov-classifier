@@ -1,0 +1,22 @@
+Plus-minus zehn Prozent?
+Hick-Hack um Wahlmaschinen jeglicher Bauart hat in den USA Tradition.
+Die neueste Episode: Zehn Prozent der für die kalifornische Gouverneurswahl installierten Touchscreens haben keinen Drucker.
+Eine Überprüfung des Abstimmverhaltens ist damit unmöglich.
+Diebold AccuVote-TS: Hightech mit neuen Risiken?
+Futter dafür bekommt sie immer, zuverlässig: So stehen die nach der Bush-Gore-Wahl landesweit favourisierten elektronischen Abstimmappararte der Firma Diebold seit Jahren im Verdacht, potenziell hackbar zu sein.
+Im Juli legten die Universitäten John Hopkins und Rice eine für Staat und Diebold peinliche Studie vor, die dann den Nachweis führte, dass Amerikas Wählmaschinen tatsächlich angreifbar sind - ohne größeren Aufwand.
+Jeder halbwegs clevere Hacker, ergab eine Analyse des Wahlprogramm-Sourcecodes, könnte sich Hintertürchen ins System legen, mit denen sich das Ergebnis der Auszählung manipulieren ließe.
+Allerdings nur potenziell, beschwichtigte Diebold einerseits bisher zu recht, andererseits erfolgreich, denn noch ist so etwas nicht passiert.
+Wenn es allerdings passieren würde, wäre der Nachweis auch so gut wie unmöglich, wie nun das Beispiel der kalifornischen Gouverneurswahl zeigt.
+Denn zehn Prozent der dort von Diebold installierten Touchscreens verfügt über keinen Drucker.
+Prinzipiell bietet die Diebold-Maschine die Möglichkeit des Ausdruckes über einen kleinen Thermodrucker.
+Der aber ist nicht so konfiguriert, dass er die Wahlergebnisse auf Papier dokumentiert und dem Wähler so schwarz auf weiß eine Rückmeldung über seine Stimmabgabe gäbe.
+Damit enfällt - beispielsweise im Falle eines Systemausfalles oder einer Ergebnis-Anfechtung - jede Möglichkeit, die Stimmen noch einmal zu zählen.
+Der Ausgang der Wahl würde zur Glaubensfrage, plus-minus zehn Prozent.
+Da hat er recht, und ein klitzekleiner Papierstreifen hätte das Problem gelöst: Nach jedem Wahlvorgang direkt in eine versiegelte Urne entsorgt wäre man auf jede Eventualität vorbereitet.
+Kritiker des elektronischen Wahlsystems fordern gar, dass auch der Wähler selbst einen Ausdruck bekommen solle: Wie sonst solle der Wähler nachvollziehen können, dass die Maschine wirklich den Kandidaten zählte, den dieser auch wählen wollte?
+Selbst IT-Sicherheitsexperten stützen diese Ansicht.
+Das Misstrauen sitzt eben tief, nachdem bei der letzten Präsidentschaftswahl landesweit rund sechs Prozent der Stimmen fehlerhaft gezählt worden waren, wie eine Analyse von MIT und Caltech zeigte.
+Der Zirkus um möglicherweise falsch gezählte Stimmen gehört nun schon im Vorfeld zur Wahl.
+Diebold hält das eigene System für sicher genug.
+In jedem Wahlbezirk werde eine Stichprobe von einem Prozent der Wähler genommen und in ausgedruckter Form gegengezählt, um mögliche Abweichungen aufzuspüren.

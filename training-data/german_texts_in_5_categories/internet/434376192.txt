@@ -1,0 +1,23 @@
+Für etwa drei Stunden ging am Montag selbst Google virtuell in die Knie, als MyDoom.O die Suchmaschine mit Anfragen nach E-Mail-Adressen überflutete.
+Das Resultat der bösartigen Suchaktion ist heute Morgen in unzähligen E-Mail-Fächern zu besichtigen.
+Betroffen von der MyDoom.O-Attacke waren neben Google auch Yahoo, Altavista und Lycos.
+Bis zu drei Stunden lang war etwa Google in den USA nicht oder nur schwer zu erreichen.
+In Europa fiel das weniger auf: Dank des Zeitunterschiedes bekamen diesen Aspekt der neuesten MyDoom-Attacke nur nächtliche Surfer mit.
+Dafür dürfte sich Virenmail am heutigen Dienstagmorgen auch in E-Mail-Fächern finden, die sonst weitgehend davon verschont bleiben.
+Die meisten Viren stehlen sich ihre Adressdaten aus den E-Mail-Accounts befallener Rechner zusammen - was dazu führt, dass häufig korrespondierende E-Mailer auch überdurchschnittlich oft zum Ziel von Viren- und Spamaussendungen werden.
+Das massenhafte Abfischen von E-Mail-Adressen über große Suchmaschinen dürfte jedoch auch zahlreiche im Web verzeichnete Firmen-E-Mail-Adressen betreffen.
+Gerade im Unternehmensbereich liegen nicht nur darum die Hauptrisiken der aktuellen MyDoom-Attacke.
+MyDoom.O erreicht seine potenziellen Opfer per E-Mail, ganz klassisch als Dateianhang verpackt.
+Deren Wortlaut variiert.
+Your account was used to send a large amount of spams during this week.
+Obviously, your computer had been compromised and now runs a trojan proxy server.
+Please follow instruction in order to keep your computer safe.
+Im Dateianhang wartet dann ein angebliches Tool, respektive Infos zur Entfernung des imaginären Trojaners, in Wahrheit jedoch das MyDoom.O-Virus.
+Ein relativ hoher Prozentsatz der Virenmails wird ohne jeden Betreff versendet.
+Bisher kursiert das Virenschreiben nur in englischer Sprache, was das Schadenspotenzial für Deutschland einschränken dürfte.
+Die Hersteller von Virenschutz-Software verweisen auf ihre aktuellen Updates und empfehlen daneben, die generellen Hinweise zum sicheren Umgang mit E-Mail-Zusendungen zu beachten.
+Das erste Gebot heißt da stets: Öffne nie einen Dateianhang, von dem du nicht weißt, was er beinhaltet.
+Die Welle der MyDoom-Varianten begann im Januar 2004 und hat seitdem beachtliche Schäden verursacht.
+Auch MyDoom.O (alternativ: MyDoom.M) transportiert einen Trojaner, der eine Hintertür zum befallenen Windows-System öffnet und dem Vertreiber des Virus spionierenden oder manipulierenden Zugang zum Rechner gewährt.
+Das Bundesamt für Sicherheit in der Informationstechnik BSI stuft MyDoom.O für Deutschland als mittleres Risiko ein.
+Beim BSI ist auch eine detaillierte Anleitung zur Entfernung des Virus nebst Links zu entsprechenden Tools zu finden.

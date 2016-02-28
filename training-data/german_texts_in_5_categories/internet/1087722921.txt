@@ -1,0 +1,31 @@
+Papier ade.
+Ab dem kommenden Jahr hätten es die deutschen Finanzämter gern elektronisch.
+Unternehmer müssen dann ihre Umsatz- und Lohnsteuervoranmeldungen über das Internet übermitteln.
+Doch das Elster-Programm der Finanzämter gibt es nur für Windows.
+Linux- und Mac-Nutzer gucken in die Röhre.
+Eigentlich ist das Ganze ja eine feine Sache.
+Seit fast vier Jahren können die Deutschen die ungeliebte und oft komplizierte Steuererklärung auf elektronischem Weg ans Finanzamt schicken.
+Trotzdem ist das Programm im Großen und Ganzen recht praktisch, selbst wenn noch in fast allen Fällen ein Ausdruck der Steuererklärung und einige Belege auch per Post an die Finanzbehörden geschickt werden müssen.
+Zu diesem Urteil kamen in diesem Jahr auch die Prüfer der Zeitschrift Finanztest (Heft 10/2004).
+Je nach Bundesland brauchten die Finanzämter zwischen drei und sechs Wochen für die elektronischen Steuererklärungen - gemessen an der sonst mitunter erreichten Geschwindigkeit ein durchaus respektables Ergebnis.
+Doch nun haben sich die Finanzämter offenbar an eine alte Lehrermaxime erinnert, wonach es keine Pädagogik ohne Zwang gibt.
+Zum Start des kommenden Jahres wird ein Teil der Steuerzahler faktisch dazu gezwungen, ihre Erklärungen über das Netz abzugeben.
+Konkret geht es um Unternehmer, die ihre Lohnsteuer-Anmeldungen und Umsatzsteuer-Voranmeldungen nur noch elektronisch, über das Elster-System übermitteln dürfen.
+Der kleine Haken dabei: Diese Software wurde nur für Windows entwickelt.
+User, die Linux oder einen Mac benutzen, haben deswegen Angst, nun in die Röhre zu gucken.
+Im schlimmsten Fall würden sie nämlich ihre gesetzlichen Pflichten nicht erfüllen können, weil sie einen - diplomatisch ausgedrückt - falschen oder besser gesagt unpassenden Computer besitzen.
+Auf anderen Betriebssystemen läuft die Software grundsätzlich nicht.
+Für Linux-User, so versprechen die Finanzbeamten, wird sich das in Zukunft ändern.
+Das Programm Elster-Lohn 2 soll auch unter Linux funktionieren.
+Doch für Apple-Nutzer sieht es weiter finster aus.
+Die Entwicklungskapazitäten hätten nicht ausgereicht, um auch eine Apple-Version anzubieten.
+Allerdings, so Schüller, hätten kommerzielle Softwareanbieter durchaus auch die Möglichkeit, auf Elster basierende Software auch für Apple-Rechner anzubieten.
+Nur das Finanzamt würde sich eben nicht darum kümmern.
+Findet sich niemand, der Software für den Apple entwickeln will, können diese User bestenfalls eine spezielle Software auf ihrem Rechner installieren, mit der sie auch Windows-Programme starten können.
+Doch diese Lösung, ein so genannter virtueller PC, ist nicht nur umständlich, sondern auch teuer.
+Das schreckt viele Mac-User ab.
+Immerhin hat der Gesetzgeber ein Schlupfloch offen gelassen.
+Und auch wenn der Streit um die elektronische Übertragung der Steuerdaten für viele Normalbürger bislang kaum praktische Relevanz zu haben scheint, ist er weit mehr als pures Techie-Geplänkel.
+Denn in gar nicht allzu ferner Zeit könnten die Finanzämter die Elektro-Steuererklärung auch bei der Einkommensteuer zur Pflicht machen.
+Diese bisher theoretische Möglichkeit stellt auch Hans Schüller in Aussicht.
+Dann wären nicht nur Unternehmer, sondern weite Bevölkerungskreise von der Frage betroffen, ob sie den passenden Computer haben, um mit dem Finanzamt zu kommunizieren - oder überhaupt einen: Computer wären dann Pflicht.

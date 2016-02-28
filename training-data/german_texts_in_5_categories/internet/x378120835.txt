@@ -1,0 +1,22 @@
+Der kalifornische Ex-Hacker Mark Ishikawa jagt mit seiner Firma BayTSP Medien-Piraten im Internet - angesichtsnach wie vor florierender P2P-Börsen ist das ein Boom-Geschäft.
+Seine Arbeit sieht er als Schadensbegrenzung, die das Problem nicht löst, seine wachsende Firma aber gut ernährt.
+Los Gatos, Kalifornien.
+Ein unscheinbarer Flachdachbau in einem Gewerbepark am Rande des Silicon Valley.
+Kein Firmenschild in der Einfahrt, die Parkplätze unmarkiert.
+Die Türen verriegelt, die Fenster verspiegelt.
+Selbst die Adresse des hier ansässigen Unternehmens ist nur auf Anfrage zu erfahren - aus Sicherheitsgründen, wie ein Firmensprecher zu verstehen gibt.
+Schließlich standen hier schon erboste Internet-Piraten mit Baseballschlägern auf der Matte, die sich für die Abstellung ihrer Netz-Zugänge oder sonstige Sanktionen rächen wollten.
+Ziel der versuchten Attacke: das Hauptquartier der Firma BayTSP, die weltweit größte Digital-Detektei, die im Auftrag der Unterhaltungsindustrie P2P-Tauschbörsen überwacht und Mediendieben im Netz nachstellt.
+Neben File-Sharing-Börsen á la KaZaA durchforsten sie Newsgroups, IRC-Chat-Kanäle und FTP-Server nach illegalen Digital-Dubletten.
+Allen Klage- und Aufklärungskampagnen internationaler Entertainment-Multis zum Trotz bleibt der virtuelle Medien-Klau en vogue.
+Daneben erfreuen sich kleinere Services wie eMule oder BitTorrent steigender Nachfrage.
+Nur die ersten Tage nach dem Versand von Abmahnbriefen, Razzien oder sonstigen Polizeiaktionen ging die Zahl der Nutzer regelmäßig zurück.
+Zudem hat sich in den letzten Monaten die Zahl der bei Tauschbörsen verfügbaren Dateien erhöht - bei FastTrack sogar fast verdreifacht.
+Immerhin, und das geben selbst die Kritiker zu, ist es den juristischen Holzhammer-Aktionen der Unterhaltungsbosse gegen Datentauscher zu verdanken, dass der Netzklau in den letzten zwölf Monaten nicht noch weiter außer Kontrolle geraten ist.
+Was Ishikawa zufolge auch sehr effektiv sei: In über 80 Prozent der Fälle würden die Betroffenen nie wieder illegale Bits & Bytes tauschen.
+Alle vier Wochen also dürfte alleine BayTSP gut 800.000 P2P-Nutzer kalt stellen.
+Nimmt man dazu noch die Net-Piraten, die die Konkurrenz lahm legt (darunter etwa die Firmen MediaSentry, Ranger Online oder Big Champagne) sollte man meinen, dass der Virtual-Massenklau bald ein Problem von gestern sein müsste.
+Worüber der Verschlüsselungsexperte mit der Strubbelfrisur, der einst auch als Sicherheitsberater in Diensten des US-Verteidigungsministerium stand, nicht unglücklich ist.
+Das anhaltende virtuelle Katz- und Maus-Spiel sichert schließlich florierende Geschäfte: Im letzten Jahr konnte BayTSP seine Belegschaft mehr als verdoppeln; jedes Quartal will man Umsatzsprünge von bis zu 50 Prozent verzeichnen.
+Bis Ishikawa die nächsten Piraten ins Netz gehen scheint also nur noch eine Frage der Zeit.
+Und natürlich der IP-Nummer, anhand deren sich jeder Internet-Nutzer (mit Hilfe des Zugang-Providers) bei allen Bewegungen im Internet eindeutig identifizieren lässt.

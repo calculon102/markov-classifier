@@ -1,0 +1,38 @@
+Das Internet soll selbst für Eltern zur sorgenfreien Zone werden.
+Eine neue Software, maßgeschneidert nach den Wünschen der Anwender, blockiert Sex-, Gewalt- oder Drogen-Seiten.
+Damit das klappt, müssen Homepage-Betreiber ihre Inhalte allerdings selbst kennzeichnen.
+Wer früher Filter-Software fürs Internet nutzte, ärgerte sich oft genug schwarz.
+Wer etwas über das südenglische Middlesex erfahren wollte, konnte schnell an den plumpen Voreinstellungen der Programme scheitern.
+Schließlich machten die drei letzten Buchstaben aus einer Grafschaft bei London einen potenziellen Kinderverderber.
+Und der wurde blockiert.
+Jetzt steht ein neues Programm in den Startlöchern, das solche Fehler vermeiden und Kinder im Internet dennoch lückenlos schützen soll.
+ICRAplus heißt die Filter-Software, und auch gestresste Eltern sollen in der Lage sein, sie einzusetzen.
+Der Grundgedanke: Während der Internet-Nutzer einen Filter einsetzt, kennzeichnen auch die Website-Betreiber ihre Seite und sorgen so für eine Kategorisierung ihres Angebotes.
+Der beschreibt anhand eines Fragenkatalogs, was auf seiner Seite zu sehen ist.
+Dabei geht es um Nackt- und Gewaltdarstellungen, Sprachgebrauch, Tabak oder Alkohol.
+Das Programm filtert ausschließlich Angebote des World Wide Web, aber keine Newsgroups.
+Auf der anderen Seite installieren die Internet-Nutzer ICRAplus auf ihrem Rechner, und das Programm lässt nur noch dem Anwender genehme Angebote passieren.
+Die Eltern klicken selbst an, welchen Inhalten sie ihre Kinder aussetzen wollen.
+Wer nicht etliche Fragen einzeln beantworten möchte, kann auch Voreinstellungen auswählen, die Organisationen ihres Vertrauens zuvor erstellt haben.
+Klingt gut, aber die Bewährungsprobe steht dieser Filter-Software noch bevor.
+Schließlich hängt vieles davon ab, ob die Anbieter mitspielen.
+Ihnen ist es überlassen, wahrheitsgemäß die Inhalte ihrer Seiten zu beschreiben.
+Entwickelt hat das Programm die Internet Content Rating Association (ICRA), eine internationale Non-Profit-Organisation.
+Das so genannte Self-Labeling sei also in ihrem Sinne.
+Seit Beginn der Probephase vor einem halben Jahr gebe es keine Beschwerden von verärgerten Eltern.
+Hinter der ICRA stehen Fördergelder vieler Internet-Konzerne, unter anderem Microsoft, AOL, T-Online und Yahoo.
+Dazu kommen Mittel der EU.
+In Deutschland vertritt der Verband der Deutschen Internetwirtschaft (Eco) die ICRA.
+Deswegen sei die Mitarbeit vieler kleiner Website-Betreiber nicht unbedingt nötig.
+Vor allem die großen Unternehmen müssen beim neuen Filter-Programm mitziehen.
+Doch ICRAplus verlässt sich ja auch nicht ausschließlich auf die freundliche Kooperation, die nicht von jedem Smut-Anbieter erwartet werden kann.
+Einschränkungen der Meinungsfreiheit im Internet befürchten die Macher von ICRAplus derweil nicht.
+Im Gegenteil: Schließlich bestimmten die Nutzer selbst, welche Seiten sie zu sehen bekommen.
+Im digitalen Nirvana verschwindet keine der ausgefilterten Seiten, vielmehr wird dem User gemeldet, dass und warum eine Seite nicht angezeigt wird.
+Die Hersteller der Filter-Software wollen mit ihrem Programm auch den deutschen Gesetzgeber erfreuen.
+Seit April gelten neue Regelungen zum Jugendmedienschutz.
+Bisher hat noch kein Programm die Hürden der Anerkennung durch die zuständige Kommission genommen.
+ICRA und Eco wollen die Ersten sein.
+Einige Vorzüge hat ICRAplus: Es ist sowohl für Webmaster als auch für Internet-Nutzer kostenfrei.
+Zudem ist es weltweit einsetzbar, weil Sprachbarrieren durch die Selbstkennzeichnung der Seiten entfallen.
+Middlesex könnte also bald auch bei Kindern bekannter werden.

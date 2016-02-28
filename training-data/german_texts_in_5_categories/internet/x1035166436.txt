@@ -1,0 +1,37 @@
+Aus Spaß und Neugier testete Alexander Burke die Internet-Bestellfunktion für Microsofts Service Pack 2 aus - und bekam vom Postboten kurz darauf 150 Päckchen.
+SPIEGEL ONLINE: Herr Burke, wie kommt man auf die Idee, sich 150 Service-Packs schicken zu lassen?
+Burke: Es begann damit, dass ich am Ende meiner Bestellung versehentlich den Zurück-Button anklickte.
+Meine Bestellung bekam eine neue Bestellnummer zugewiesen.
+Da ich früher bei Kingston ComputerPlanet gearbeitet hatte, kam ich auf die Idee, denen eine nette Anzahl von SP2-CDs zukommen zu lassen.
+Als Werbemaßnahme für den Laden dachte ich, weil es bestimmt viele Menschen gibt, die den SP2 gerne installieren würden, aber den Riesen-Download scheuen und auch keine Lust darauf haben, wochenlang auf eine bestellte CD zu warten.
+SPIEGEL ONLINE: Hat Microsoft irgendwie auf Ihre Aktion reagiert?
+Burke: In keiner Weise.
+Ich habe nichts von denen gehört.
+Ich habe allerdings in deren Versandcenter angerufen und gefragt, ob die mir 1000 SP2-CD-Roms auf einen Schwung in einem Karton zuschicken könnten, statt die Dinger alle einzeln zu liefern.
+Die Sachbearbeiterin sagte, dass sie nicht glaube, dass so etwas möglich sei.
+Sie wolle das aber gerne mit ihrem Vorgesetzten bereden und gleich zurückrufen.
+Ich habe nie wieder von ihr gehört.
+SPIEGEL ONLINE: Ihre Geschichte machte zuerst Anfang September die Runde, erst nur lokal, Ende September dann plötzlich rund um die Welt.
+Am Ende nahm der Serviceprovider das Forum, in dem sie diskutiert wurde, vom Netz.
+Burke: Ja, das alles begann eigentlich mit den Bildern.
+Die hatte ich auf einem anderen Webserver gespeichert.
+Eines Tages bekomme ich eine E-Mail vom Net-Administrator dieser Firma, der mich darüber informierte, dass ihre Server zu der Zeit von einer starken Überlast betroffen seien, die auch die Dienste für andere Kunden beeinträchtige.
+Der Grund dafür seien massenhafte Zugriffe auf diese Fotos.
+Kaum überraschend nahmen sie die Bilder vom Web, um das Problem zu lösen.
+Also verschob ich sie zu einem anderen Serviceprovider, von dem ich dachte, dass der mit hohen Serverlasten wohl besser zurechtkommen würde.
+Ich wollte ja, dass die Leute im Forum die Bilder weiter sehen könnten.
+Dass der Provider in der letzten Woche gleich das ganze Forum vom Web nahm, ist mir erst durch ihre Nachfrage aufgefallen.
+SPIEGEL ONLINE: Was machen Sie jetzt mit Ihren ganzen Service Packs?
+Burke: Zwanzig davon habe ich behalten, um sie an Freunde und meine Kunden zu verteilen, den Rest habe ich Kingston ComputerPlanet überlassen.
+SPIEGEL ONLINE: Andere scheinen Ihre Idee aufgenommen zu haben.
+Wissen Sie von Leuten, die sich den SP2 gleich massenweise bestellt haben?
+Burke: Am Tag, bevor das Forum vom Netz genommen wurde, habe ich von einigen Leuten gelesen, die bis zu 30 Stück für sich bestellt hatten.
+SPIEGEL ONLINE: Im Raum steht noch immer ihre launige Ankündigung, mit 3000 SP2-Zusendungen einen Rekord aufstellen zu wollen.
+Wollen Sie das immer noch durchziehen?
+Burke: Ich denke nicht.
+Als ich die 150 zugestellt bekam, musste der arme Zusteller die Barcodes auf jedem Umschlag einzeln manuell einscannen und quittieren lassen.
+Den Mann will ich nicht damit bestrafen, dass er 3000 einscannen muss.
+SPIEGEL ONLINE: Haben Sie keine Angst, dass Microsoft etwas gegen Sie oder solche Aktionen unternehmen könnte?
+Burke: Das Online-Bestellsystem von Microsoft schränkt die Zahl der Service-Packs, die man bestellen kann, auf ein SP2-Paket pro Bestellvorgang mit kostenloser Zustellung ein.
+Aber nichts, was ich da gesehen oder gelesen habe, deutet darauf hin, dass es eine Obergrenze gäbe für die Zahl der Bestellungen, die man aufgibt.
+Also gehe ich mal davon aus, dass es nichts gibt, was verhindern könnte, dass jemand anderes dasselbe versucht wie ich.

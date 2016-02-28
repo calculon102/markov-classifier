@@ -1,0 +1,25 @@
+Einem unbekannten Cracker gelang bei Südafrikas größter Bank die Selbstbedienung: Mit einem Keylogger-Programm stahl er Zugangscodes direkt bei den Kunden.
+Die müssen nun nachweisen, dass sie sich ausreichend geschützt haben.
+Inzwischen gilt das als weitgehend sicher - und hartnäckig hält sich die Legende, die Banken würden erfolgreiche Hacks, wenn es sie geben würde, schon stillschweigend vertuschen.
+Der Kunde jedenfalls müsse keinen Schaden erwarten.
+Harry de Villiers, Rechtsanwalt in Südafrika, weiß das jetzt besser.
+Als Kunde von Südafrikas größter Bank Absa gehört er zu einem bisher kleinen Kreis von Kunden, deren Konten in den letzten Tagen durch einen Cracker erleichtert wurden.
+Drei Fälle erkennt die Bank bisher an, sechs weitere werden augenblicklich untersucht.
+Insgesamt 530.000 Rand (rund 61.500 Euro) zog der Cracker bisher ab, 300.000 allein bei Villiers.
+Ihn aufzuspüren wird nicht leicht.
+Absa sei mitnichten gehackt worden, vielmehr setze der unbekannte Cracker direkt bei den Kunden an.
+Wahrscheinlich, vermuten Sicherheitsexperten, jubele der Cracker den Kunden ganz gezielt per E-Mail einen so genannten Trojaner unter.
+Der aktiviere ein Keylogging-Programm, das von da an jeden Tastaturanschlag protokolliere und an den Cracker weiterleite.
+Die entsprechenden Mails landen auf einem unter falschem Namen eröffneten Hotmail-Account.
+Nach und nach erfahre der Cracker so Zugangspassworte und PIN-Nummern.
+In den meisten Banking-Systemen bedarf es zu einer Abhebung aber darüber hinaus so genannter TAN-Nummern, die nach ihrem ersten Gebrauch verfallen.
+Das deutet darauf hin, dass der Cracker auch einen Echtzeit-Zugang zum Rechner der Betroffenen geschaffen hat: Er fängt die TAN-Nummern ab und gebraucht sie in der Folge im Namen ihrer eigentlichen Besitzer.
+Für die Bank besteht dabei kaum eine Möglichkeit festzustellen, ob sich nun Kunde oder Cracker im System befinden: Das ganze, sagt Pearsey, sei ein klassischer Fall von ID-Diebstahl, und kein Hack des Banksystems.
+Auch, wenn das zunächst anders klingt, sind dies keine guten Nachrichten für Banking-Kunden.
+Bei einem Hack des Banksystems könnten diese gegenüber der Bank Schadensersatzansprüche geltend machen.
+Bei einer Methode, die beim Kunden ansetzt, müssten sie zunächst einmal nachweisen, dass sie zumindest versucht hatten, sich hinreichend zu schützen.
+Selbst dann bleibt die Schadensersatzfrage unklar.
+Banksprecher Pearsey gibt an, man sei dem Cracker bereits auf den Fersen.
+Das ist noch nicht einmal unwahrscheinlich: Alle Geschädigten erstatteten ihre Anzeigen bei der gleichen Polizeibehörde, leben am gleichen Ort.
+Mit rund 400.000 Online-Kunden ist Absa Südafrikas größte Online-Bank.
+Insgesamt nutzen etwa 1,2 Millionen Südafrikaner die Möglichkeiten des Online-Banking.

@@ -1,0 +1,34 @@
+Waren die Werbe-Windows alter Schule meist schamvoll-klein dimensioniert, blockieren jene neuerer Ausprägung oft mindestens den halben Bildschirm.
+In mehreren Umfragen haben User die Werbefenster mit teils erdrückender Mehrheit zum schlimmsten Übel im Web erklärt.
+Vielen Frustrierten und Geplagten scheint ein neuer Kreuzzug gegen die Werbeform überfällig.
+Nun können sie nach einer Ankündigung aus Atlanta, Georgia, frische Hoffnung schöpfen.
+In Atlanta hat EarthLink Incorporated seinen Sitz, nach AOL und Microsofts MSN immerhin die Nummer drei der amerikanischen Providerszene.
+Als Erster aus dem Spitzentrio hat das Unternehmen, in dessen Kundendatei 4,9 Millionen Abonnenten stehen, Pop-up-Ads offiziell und öffentlich geächtet.
+So wird die neue EarthLink-Zugangssoftware, TotalAccess 2003 getauft, ein Programm enthalten, das die Werbefenster automatisch ausmerzt, bevor sie den Blick auf die eigentlich angesurfte Website stören.
+Die nötige Software kauft EarthLink bei FailSafe Technology.
+Schon berichten US-Medien mit offenkundiger Freude über die Ankündigung.
+EarthLink wird in den kommenden Monaten mit einer über zehn Millionen Dollar teuren Werbekampagne versuchen, die so gewonnene Aufmerksamkeit noch zu steigern.
+Bereits seit Anfang der Woche können Abonnenten, die noch die alte Zugangs-Software benutzen, den Blocker gratis downloaden.
+Das Logo der Software zeigt eine wuchtige orangefarbene Faust, die suggeriert: Hier wird durchgegriffen und aufgeräumt.
+Diejenigen, die an eine neue Offensive gegen Pop-up-Fenster glauben wollen, finden durchaus einige Indizien für ihre These.
+Minderheiten-Browser wie Mozilla und Opera bieten schon seit längerem einen Pop-up-Schutzschild.
+Microsofts MSN will in der nächsten Variante seiner Zugangssoftware eine eingebaute Pop-up-Bremse anbieten.
+Die Frauen-Website iVillage hat nach einer Fülle von Leserbeschwerden angekündigt, bis September Pop-ups zu eliminieren, das Portal InfoSpace.com ist mit einem ähnliche Versprechen vorangegangen.
+Selbst von AOL heißt es, man habe die Zahl der Pop-up-Fenster auf Drängen der Nutzer reduziert.
+Und doch bleibt angesichts der vollmundigen Werbesprüche aus Atlanta ein Déjà-vu-Gefühl nicht aus.
+Firmen wie AbSubtract.com, Meaya Software und viele andere bieten schließlich schon seit Jahren ähnliche Pop-up-Blocker zum Download an, teilweise ebenfalls gratis.
+Denn hundertprozentige Genauigkeit beim Aussortieren von Anzeigen kann bisher keiner der Blocker garantieren, auch die EarthLink-Software nicht.
+Manche Site-Betreiber verpacken durchaus relevante Informationen, die für kein fremdes Produkt werben, in Pop-up-Form - diese Hinweise entgehen dem Nutzer, der mit angezogener Werbebremse surft.
+Andere Anzeigen werden unweigerlich durchs Netz des Anzeigenfängers rutschen.
+Viele Nutzer finden es vermutlich schlicht zu umständlich, den Pop-up-Killer zu initialisieren.
+Auch gibt es andere Anzeichen, die dafür sprechen, dass die Abwehrfront der Pop-up-Hasser aufweicht.
+Bedeutende Internetunternehmen wie Amazon.com, Orbitz oder auch die Fluglinie American Airlines haben in den letzten Monaten erst begonnen, ihre Dienste massiv mit Pop-ups in früher unvorstellbaren Größen zu bewerben.
+Wohl ein Signal für ein Umdenken in der Branche: Werbekunden fürchten nicht mehr, den ewigem Groll der Nutzer auf sich zu ziehen.
+Greg Stuart, CEO beim Interactive Advertising Bureau, glaubt gar, dass Surfer die Pop-ups inzwischen wie TV-Werbung oder Werbebriefe behandeln - und bei Desinteresse einfach wegschauen, anstatt sich zu ärgern.
+Gleichzeitig gelten die Pop-ups - verglichen mit anderen Formen der Online-Werbung - bei Werbern immer noch als vergleichsweise effektiv.
+Wer ein Pop-up nur ein halbes Dutzend Mal weggeklickt hat, merkt sich den Namen des beworbenen Produktes fast unweigerlich.
+So sind viele Content-Provider im Netz auf die Einnahmen zwingend angewiesen.
+Dieselbe Zeitung, die von der Anti-Fensterchen-Revolution träumt, kommt auf ihrer eigenen Internetpräsenz nicht ohne die obligatorischen Orbitz-Pop-unders aus.
+Gravierende Einnahmeausfälle drohen dem Provider aus Atlanta jedenfalls nicht.
+Im letzten Quartal hat er weniger als ein Prozent seiner Umsätze durch Anzeigen erlöst.
+Bei MSN sind es 35 Prozent.

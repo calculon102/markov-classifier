@@ -1,0 +1,48 @@
+Warum versuchen, das Internet zu organisieren, wenn es das von ganz alleine schafft?
+Das zumindest dachten sich Techniker des NEC Research Institute, bevor sie sich an die Arbeit machten.
+Die Gruppe um Gary Flake ging von der weithin bekannten Tatsache aus, dass sich das Internet von allein in thematische Bereiche gegliedert hat, die von entsprechenden Communities gepflegt und gefüttert werden.
+Webverzeichnisse wie Yahoo oder Web.de, die redaktionell erstellt und gepflegt werden, tragen dieser Tatsache zum Teil Rechnung, verlangen aber nach einem immensen Aufwand an menschlicher Bearbeitung.
+Denn von vollständiger Erkennung von Sprache, merkt das NEC-Team an, ist die derzeitige Technik noch weit entfernt.
+Doch selbst wenn ein Computer hinter den Sinn von Texten kommen könnte, wäre eine Katalogisierung des Internets gespickt mit Fußangeln - wie jeder Netz-Nutzer aus eigener leidvoller Erfahrung weiß.
+Denn hinter so mancher suchmaschineller Text-Versprechung verbirgt sich etwas ganz anderes, meist aber Schlüpfrigeres als das Gewünschte.
+Je mehr Links auf eine Seite verweisen, desto höher taucht sie in den Suchergebnissen auf.
+Für Web-Communities, wie sie die Forscher definieren, gilt eine simple Regel: Sie bestehen aus Websites, deren Links jeweils zu mehr als der Hälfte auf Seiten derselben Community verweisen.
+Auf diese Art, so Flake, findet der Nutzer zielsicher die kleinen Inseln der Sinns in einem Meer von Sinnlosigkeit.
+In einem Testlauf benutzte das Team die Homepages dreier berühmter Wissenschaftler - Francis Crick, Ronald Rivest und Stephen Hawking - als Startpunkte einer Suche mit dem neuen Algorithmus.
+Auf dem Weg dorthin, so Flake, fielen Zehntausende Seiten durchs Raster, da sie als Nicht-Mitglieder der Community erkannt wurden.
+Das Team wandte auf die Homepages der drei Wissenschaftler auch eine einfache Crawler-Suche an, die allen Links bis in die Unendlichkeit folgte.
+Schon auf der zweiten Ebene hätten nur noch zehn Prozent der Seiten thematisch etwas mit der Ausgangsseite zu tun gehabt.
+Der Community-Algorithmus habe dagegen noch fünf Links von der Ausgangsseite entfernt verwertbare Resultate gefunden.
+An diesem Punkt wirkte die Crawler-Suche etwa so sicher wie Günther Jauchs Quiz-Kandidaten: fast nur Fehlschüsse, dafür aber in gewaltiger Zahl.
+Warum versuchen, das Internet zu organisieren, wenn es das von ganz alleine schafft?
+Das zumindest dachten sich Techniker des NEC Research Institute, bevor sie sich an die Arbeit machten.
+Die Gruppe um Gary Flake ging von der weithin bekannten Tatsache aus, dass sich das Internet von allein in thematische Bereiche gegliedert hat, die von entsprechenden Communities gepflegt und gefüttert werden.
+Webverzeichnisse wie Yahoo oder Web.de, die redaktionell erstellt und gepflegt werden, tragen dieser Tatsache zum Teil Rechnung, verlangen aber nach einem immensen Aufwand an menschlicher Bearbeitung.
+Denn von vollständiger Erkennung von Sprache, merkt das NEC-Team an, ist die derzeitige Technik noch weit entfernt.
+Doch selbst wenn ein Computer hinter den Sinn von Texten kommen könnte, wäre eine Katalogisierung des Internets gespickt mit Fußangeln - wie jeder Netz-Nutzer aus eigener leidvoller Erfahrung weiß.
+Denn hinter so mancher suchmaschineller Text-Versprechung verbirgt sich etwas ganz anderes, meist aber Schlüpfrigeres als das Gewünschte.
+Je mehr Links auf eine Seite verweisen, desto höher taucht sie in den Suchergebnissen auf.
+Für Web-Communities, wie sie die Forscher definieren, gilt eine simple Regel: Sie bestehen aus Websites, deren Links jeweils zu mehr als der Hälfte auf Seiten derselben Community verweisen.
+Auf diese Art, so Flake, findet der Nutzer zielsicher die kleinen Inseln der Sinns in einem Meer von Sinnlosigkeit.
+In einem Testlauf benutzte das Team die Homepages dreier berühmter Wissenschaftler - Francis Crick, Ronald Rivest und Stephen Hawking - als Startpunkte einer Suche mit dem neuen Algorithmus.
+Auf dem Weg dorthin, so Flake, fielen Zehntausende Seiten durchs Raster, da sie als Nicht-Mitglieder der Community erkannt wurden.
+Das Team wandte auf die Homepages der drei Wissenschaftler auch eine einfache Crawler-Suche an, die allen Links bis in die Unendlichkeit folgte.
+Schon auf der zweiten Ebene hätten nur noch zehn Prozent der Seiten thematisch etwas mit der Ausgangsseite zu tun gehabt.
+Der Community-Algorithmus habe dagegen noch fünf Links von der Ausgangsseite entfernt verwertbare Resultate gefunden.
+An diesem Punkt wirkte die Crawler-Suche etwa so sicher wie Günther Jauchs Quiz-Kandidaten: fast nur Fehlschüsse, dafür aber in gewaltiger Zahl.
+Warum versuchen, das Internet zu organisieren, wenn es das von ganz alleine schafft?
+Das zumindest dachten sich Techniker des NEC Research Institute, bevor sie sich an die Arbeit machten.
+Die Gruppe um Gary Flake ging von der weithin bekannten Tatsache aus, dass sich das Internet von allein in thematische Bereiche gegliedert hat, die von entsprechenden Communities gepflegt und gefüttert werden.
+Webverzeichnisse wie Yahoo oder Web.de, die redaktionell erstellt und gepflegt werden, tragen dieser Tatsache zum Teil Rechnung, verlangen aber nach einem immensen Aufwand an menschlicher Bearbeitung.
+Denn von vollständiger Erkennung von Sprache, merkt das NEC-Team an, ist die derzeitige Technik noch weit entfernt.
+Doch selbst wenn ein Computer hinter den Sinn von Texten kommen könnte, wäre eine Katalogisierung des Internets gespickt mit Fußangeln - wie jeder Netz-Nutzer aus eigener leidvoller Erfahrung weiß.
+Denn hinter so mancher suchmaschineller Text-Versprechung verbirgt sich etwas ganz anderes, meist aber Schlüpfrigeres als das Gewünschte.
+Je mehr Links auf eine Seite verweisen, desto höher taucht sie in den Suchergebnissen auf.
+Für Web-Communities, wie sie die Forscher definieren, gilt eine simple Regel: Sie bestehen aus Websites, deren Links jeweils zu mehr als der Hälfte auf Seiten derselben Community verweisen.
+Auf diese Art, so Flake, findet der Nutzer zielsicher die kleinen Inseln der Sinns in einem Meer von Sinnlosigkeit.
+In einem Testlauf benutzte das Team die Homepages dreier berühmter Wissenschaftler - Francis Crick, Ronald Rivest und Stephen Hawking - als Startpunkte einer Suche mit dem neuen Algorithmus.
+Auf dem Weg dorthin, so Flake, fielen Zehntausende Seiten durchs Raster, da sie als Nicht-Mitglieder der Community erkannt wurden.
+Das Team wandte auf die Homepages der drei Wissenschaftler auch eine einfache Crawler-Suche an, die allen Links bis in die Unendlichkeit folgte.
+Schon auf der zweiten Ebene hätten nur noch zehn Prozent der Seiten thematisch etwas mit der Ausgangsseite zu tun gehabt.
+Der Community-Algorithmus habe dagegen noch fünf Links von der Ausgangsseite entfernt verwertbare Resultate gefunden.
+An diesem Punkt wirkte die Crawler-Suche etwa so sicher wie Günther Jauchs Quiz-Kandidaten: fast nur Fehlschüsse, dafür aber in gewaltiger Zahl.

@@ -1,0 +1,31 @@
+Einen Dollar pro Stunde will eine amerikanische Firma dafür bezahlen, dass sie Werbe-E-Mails über private PCs versenden darf.
+Wer das dubiose Geschäft mitmacht, dem droht Ärger mit seinem Provider, eventuell sogar die Kündigung.
+AP Spam: Geschäftsmodell für Privat?
+Doch Sendmails verspricht Abhilfe: Jeder private PC-Besitzer, der seinen Rechner mit Internetzugang zur Verfügung stellt, soll Geld bekommen.
+Genauer gesagt: einen Dollar pro Stunde Rechenzeit.
+Um Leute zu ködern, lockt das Unternehmen neue Partner mit einer Prämie von fünf Dollar.
+Wer im Schlaf Geld verdienen will, muss nur eine Software namens VirtualMDA installieren - MDA steht für Mail Delivery Agent, was soviel heißt wie Postbote.
+Die Software nutzt Rechenpower und Internetzugang von Privat-PCs, um Werbe-E-Mails zu verschicken.
+Darum macht man bei Sendmails, einer kleinen Firma aus Manchester im US-Bundesstaat New Hampshire, auch kein Geheimnis.
+Die Idee, ungenutzte Rechenkapazitäten bei Tausenden Computerbesitzern weltweit zu nutzen ist nicht neu.
+Beim Projekt Seti@home hatten zwei Millionen Rechner weltweit nach Signalen von außerirdischer Intelligenz gesucht.
+Doch die VirtualMDA-Software geriet schnell ins Visier von Anti-Spam-Aktivisten.
+Der Hauptzweck des Programms ist es nämlich, Werbe-E-Mails, die normalerweise von Filterprogrammen aussortiert werden, doch noch an den Mann oder die Frau zu bringen.
+Um der immer stärker um sich greifenden Spam-Plage Herr zu werden, betreiben Anti-Spam-Initiativen Listen mit Serveradressen notorischer Werbemüllversender.
+Wer einmal auf einer solchen schwarzen Liste steht, bekommt seine Werbung kaum noch ausgeliefert.
+Genau hier setzt VirtualMDA an.
+Weil die Werbebotschaften damit über Tausende private Internetzugänge gleichzeitig verschickt werden können, versagen die herkömmlichen schwarzen Listen.
+Sendmails-Chef Brian Haberstroh hält das keinesfalls für verwerflich.
+Das Unternehmen verschicke nur solche Werbe-Mails, die eine Opt-Out-Option hätten, dass heißt, Empfänger können sich aus dem Verteiler löschen lassen.
+Die Mails müssten auch dem Can-Spam-Act genügen, einer US-Regelung, die eine explizite Kennzeichnung von Sex-Botschaften verlangt.
+In der Anti-Spam-Gemeinde glaubt man seinen Beteuerungen jedoch nicht, sich an alle Gesetze zu halten.
+Die Initiative Spamhaus.org führt Haberstroh und die Sendmails-Mutterfirma Atriks als einschlägig bekannten Spamversender.
+Der Goldesel PC entpuppt sich bei näherer Betrachtung sogar als äußerst riskantes Geschäftsmodell.
+Wer leichtgläubig das VirtualMDA-Programm auf seinem Rechner installiert, wird selbst zum Spammer.
+Eine Kontrolle darüber, was das Programm genau macht, gibt es nicht.
+In Deutschland drohen auch Anzeigen genervter Werbeempfänger, denn hierzulande ist Spam per Gesetz verboten.
+Wer die Software nutzt, gerät möglicherweise auch schnell auf eine der schwarzen Listen.
+Und weil die privat genutzte IP-Adresse dem Internetprovider gehört, ist weiterer Ärger programmiert.
+Praktisch alle Anbieter in den USA und auch in Deutschland verbieten nämlich ausdrücklich das massenhafte Versenden von E-Mail-Werbung.
+Der US-Provider Adelphia Power, der rund fünf Millionen High-Speed-Kabelzugänge betreibt, hat seine Kunden bereits ausdrücklich davor gewarnt, die VirtualMDA-Software einzusetzen.
+Das VirtualMDA-Nutzer eventuell von ihrem Provider vor die Tür gesetzt werden, lässt Haberstroh ziemlich kalt.

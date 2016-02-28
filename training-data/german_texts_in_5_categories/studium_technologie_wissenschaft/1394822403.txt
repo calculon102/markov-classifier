@@ -1,0 +1,31 @@
+Werfe niemand Larry Ellison vor, er glaube nicht fest an das, was er tut.
+Seit 1995 predigt er das Kommen des Net-PC, - nur mitträumen will kaum einer.
+Jetzt scheitert seine Firma NIC, und mit ihr stirbt der Traum von einer anderen Rechnerwelt.
+Larry Ellison: Unbreakable?
+Die frühen Jahre des Wettbewerbs im Web waren durch die offen ausgetragenen Streits dreier IT-Größen geprägt: Bill Gates, Scott McNealy und Larry Ellison lieferten sich hoch unterhaltsame Schimpf-Gefechte.
+Als eine Art Jack Nicholson der IT-Szene trat er auf: Großkotzig, aber auch charmant, brutal polternd, aber dabei elegant, ätzend zynisch, aber auch träumerisch visionär.
+Und gerade wenn es um seine Visionen ging, war Ellison stets unbeirrbar.
+Geschadet hätte dies Bill Gates - ein Nebeneffekt, über den wohl keiner der beiden Microsoft-Konkurrenten eine Träne vergossen hätte.
+Denn die Konkurrenz vor allem zwischen Gates und Ellison hatte seit langem schon eine persönliche Note.
+Jedes Mittel schien recht, die augenscheinlich zementierte Rangfolge zwischen den zwei Mammon-Fürsten umzudrehen: So lange Microsoft als größtes Softwareunternehmen der Erde gilt, so lange nimmt Oracle den zweiten Rang ein.
+In den Forbes-Listen der reichsten Männer der Erde besetzten die Kontrahenten mehrere Male die gleichen Ränge: Gates vorn, Ellison eins dahinter.
+Wer zu Zeiten der 28.8'er-Modems von Application-Service-Providing (ASP) sprach, machte sich nur dann nicht lächerlich, wenn er Ellison hieß.
+Im Februar 1996 veröffentlichte Sun Java, und Ellison verkündete nur drei Monate später die Gründung der passenden Computerfirma zum Programm.
+Doch Ellison gab nicht auf.
+Wieder wurde Sun Microsystems zum logischen Verbündeten: Das eine Unternehmen baut halt dicke Datenbanken, das andere die durchaus passenden Computer.
+Den Gedanken des Application Service Providing hatte er aufgegeben.
+An seine Stelle trat eine Client-Server-Netzwerkstruktur, die neben den NICs immer auch einen deutlich intelligenteren Server voraussetzte.
+Aber auch als Stand-Alone wäre ein NIC zu gebrauchen, so lange eine gute Internet-Verbindung gewährleistet ist.
+Seine Grundintelligenz sollte der NIC von einem per CD gebooteten Linux-Softwarepaket beziehen, speichern sollte man im Netzwerk - oder auf Disketten.
+Aber leider oft auch die Angestellten, die sie bedienen.
+Das NIC-Konzept klingt so einfach, dass man die Komplikationen und Ärgernisse förmlich riechen kann.
+Dafür aber sollte alles Open Source sein, billig und doch schick: Eine voll ausgerüstete Thin-Client-Workstation wurde ab 300 Dollar verkauft, kleinere Lösungen ab 199 Dollar.
+Drei Jahre versuchte es Ellison, jetzt strich er zum zweiten Mal die Segel: Der N(I)C erweist sich hartnäckig als so gut wie unverkäuflich.
+Zum Weitermachen hätte es einer weiteren Finanzspritze von mehreren Millionen Dollar bedurft.
+So was zahlt Ellison zwar aus der Kaffeekasse, hatte dazu am Ende aber anscheinend selbst keine Lust mehr.
+Warum einen PC innerhalb oder außerhalb eines Netzwerkes ohne Festplatte lassen?
+Als Ellison und McNealy 1995 die Vision vom NC ausbrüteten, kosteten große Festplatten so viel wie heute ganze Rechner.
+Heute bekommt man sie hinterher geworfen: Ihre Vision wurde nicht zuletzt darum zur Illusion, weil der galoppierende Preisverfall sie einfach überholte.
+Während Ellison und McNealy Mitte der Neunziger alternative Rechner-Zukünfte erträumten, sah Bill Gates, weit weniger weitblickend, genau das, was unmittelbar vor seiner Nase lag und machte das größtmögliche Geschäft daraus.
+Aus der Traum vom NC, Illusion wird Halluzination und Ellison tauscht Weitblick gegen Einsicht: Die Schließung von NIC ist beschlossen.
+Der NC ist wieder einmal tot.

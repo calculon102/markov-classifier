@@ -1,0 +1,31 @@
+Besorgte Eltern in Japan können auf ihrem Handy verfolgen, wann ihr Kind das Schulgelände betritt und verlässt.
+Möglich machen dies Funkchips, mit denen die Schüler ausgerüstet sind.
+Einfach so die Schule schwänzen - das ist für einige Dutzend japanischer Schüler mittlerweile etwas schwieriger geworden.
+Schuld sind nicht etwa besonders strenge Lehrern oder Eltern, sondern kleine Chips, die an ihren Schulranzen angebracht sind.
+Sobald sie durch das Schultor treten, registriert ein dort befestigter Empfänger das Signal der so genannten RFID-Chips - und leitet die Information an einen Computer weiter.
+Wer schwänzen will, müsste also seinen Chip einem Mitschüler unterjubeln.
+Doch daran scheint unter den 72 Schülern der Grundschule von Iwamura, einer Stadt 275 Kilometer westlich von Tokio, niemand zu denken.
+Vorerst trägt nur jeder fünfte der 334 Schüler einen Funkchip.
+Die meisten hätten ihn am Ranzen befestigt, erklärte Ishihara.
+Auch in Tokio tragen bereits 40 Kinder derartige Chips.
+Auch an dieser Schule wird das Betreten und Verlassen des Geländes genauestens protokolliert.
+Die besorgten Eltern bekommen die Daten direkt auf ihr Mobiltelefon und erfahren so, ob ihre Kinder sicher in der Schule angekommen sind.
+Die Schule will dem Bericht zufolge bis April alle 717 Schüler mit den aktiven RFID-Chips ausstatten, die dank integrierter Batterie bis zu zehn Meter weit funken.
+Die Schüler müssen deshalb keine speziellen Tore durchlaufen oder stoppen, um den Chip an einen Sensor zu halten.
+Nach Angaben von Fujitsu speichert der Chips nur eine ID und nicht etwa persönliche Daten wie Name und Anschrift.
+Das System registriert nicht nur jeden Schüler, der kommt und geht, sondern auch Fremde, die nicht in die Schule hinein dürfen.
+Ein Infrarotsensor schlägt Alarm, sobald Personen ohne RFID-Chip den Eingang passieren.
+Mit der Überwachungstechnik reagieren die Schulen auf zunehmende Ängste der Eltern.
+Obwohl in Japan Gewaltverbrechen wie Mord, Körperverletzung und Raub noch immer relativ selten sind, glaubt einer aktuellen Umfrage zufolge mehr als die Hälfte der Japaner, ihr Land sei unsicherer geworden.
+Tatsächlich haben vor dem Hintergrund einer anhaltenden Wirtschaftskrise kleinere Straftaten zugenommen.
+Auch unter Jugendlichen wächst die Kriminalität.
+Vor einem Jahr war in einer japanischen Kleinstadt eine 15-jährige Schülerin entführt worden.
+Ein 26-Jähriger hatte sie in sein Haus verschleppt.
+Nach elf Tagen konnte die Polizei das Mädchen befreien.
+RFID-Chips, die in Gegenwart von Funksensoren ihre ID senden, sollen in den kommenden Jahren auch verstärkt in Handel und Logistik zum Einsatz kommen.
+Die Wirtschaft verspricht sich Millioneneinsparungen.
+Datenschützer fürchten hingegen einen Missbrauch der Technik.
+Sie könnte, wie bei den Schülern in Japan, auch zur Überwachung von Menschen eingesetzt werden.
+RFID-Experten der Industrie bezweifeln jedoch, ob herkömmliche, zur Warenkennzeichnung im Kaufhaus eingesetzte Chips ohne eigene Energieversorgung sich dazu überhaupt eignen würden.
+Die Reichweite des Signals bei passiven RFID-Tags sei zu gering, um damit Bewegungen verfolgen zu können, erklärte beispielsweise Robert Niedermeier vom IT-Institut Eicar.
+Außerdem will die Wirtschaft Konzepte entwickeln, so dass RFID-Tags keinesfalls gegen Datenschutzgesetze verstoßen.

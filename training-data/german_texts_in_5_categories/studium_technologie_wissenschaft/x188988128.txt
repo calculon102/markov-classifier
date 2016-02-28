@@ -1,0 +1,25 @@
+Stickstoffdioxid schädigt nicht nur Lungen, es beeinflusst auch das Klima, weil es die Ozonbildung fördert.
+Europäische Forscher konnten nun mit Hilfe eines Satelliten die Hauptquellen des Abgases identifizieren: Industriezentren in Nordamerika, Europa und Asien.
+Ergebnis der aufwändigen Untersuchungen deutscher, belgischer und niederländischer Forscher ist eine Weltkarte der Luftverschmutzung.
+Sie zeigt detailliert, wo die Hauptquellen des Gases liegen: in den großen Städten Nordamerikas, Europas und Asiens, aber nicht nur dort.
+Die hohe Auflösung des verwendeten Spektrometers mache sogar einzelne Städte sichtbar, erklärte Steffen Beirle von der Universität Heidelberg.
+Zu erkennen seien beispielsweise Mexiko City und Kohlekraftwerke in Südafrika.
+Das Absorbtionsspektrometers SCIAMACHY an Bord von Envisat untersucht Sonnenlicht, das in der Atmosphäre gestreut wird.
+In der Atmosphäre werden bestimmte Spektralbereiche des Lichts von Spurengasen absorbiert, was zu charakteristischen Fingerabdrücken im Lichtspektrum führt.
+Aus diesen Mustern kann in ausführlichen Analysen dann auf Art und Umfang der Gasvorkommen geschlossen werden.
+In Südostasien und weiten Teilen von Afrika sei Stickstoffdioxid erkennbar, das aus der Verbrennung von Biomasse stamme, sagte Beirle.
+Das Abgas verursacht beim Menschen Atemprobleme und kann die Lunge schädigen.
+Außerdem beeinflusst es die komplexen Vorgänge in der Tropossphäre - der untersten, acht bis 16 Kilometer hohen Schicht der Atmosphäre, denn NO2 fördert die Bildung von Ozon.
+Der vom Menschen verursachte NO2-Ausstoß geht hauptsächlich auf Kraftwerke, die Schwerindustrie und den Verkehr zurück.
+Auch das Verfeuern von Holz trägt kräftig zu erhöhten NO2-Konzentrationen bei, wie die erhöhten Werte in Afrika und Südostasien belegen.
+Doch dies sind längst nicht alle in Frage kommenden Quellen: Auch bei Blitzen und bakteriellen Aktivitäten in der Erde entsteht das Gas.
+Eines Tages seien mit derartigen Daten vielleicht sogar Luftqualitätsprognosen möglich, so Beirle.
+Um die globale Stickstoffdioxidkarte erstellen zu können, mussten die Forscher gigantische Datenmengen auswerten.
+Die Karte zeigt die gemittelten Werte aus einem Zeitraum von 18 Monaten.
+Dadurch seien saisonale Schwankungen weitgehend ausgeschlossen, erklärten die Forscher.
+Das verwendete Spektrometer SCIAMACHY misst das in der Erdatmosphäre gestreute Licht im ultravioletten, sichtbaren und nahinfraroten Wellenlängenbereich.
+Anschließend werden die die Absorptionsmuster der Sauerstoff-, Stickstoff- und Wassermoleküle eliminiert, die gemeinsam den Hauptteil der Atmosphäre ausmachen.
+Nach dieser Bereinigung bleiben die schmaleren Absorptionsmuster der gesuchten Spurengase übrig.
+Sind sie einmal gefunden, lassen sich anhand von bekannten Absorptionsquerschnitten Art und Konzentration des betreffenden Gases bestimmen.
+Die Analyse gleicht der Suche einer Nadel im Heuhaufen, denn NO2 tritt nur in sehr geringen Konzentrationen in der Luft auf.
+Selbst in stark belasteten Regionen, etwa in London, kommen auf eine Milliarde Teilchen 100 Stickstoffdioxid-Moleküle.

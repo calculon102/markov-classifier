@@ -1,0 +1,26 @@
+Eine neue Filesharing-Börse behauptet, ihren Firmensitz in einem Flüchtlingslager im palästinensischen Dschenin zu haben, doch die Spuren ihrer Datenleitungen verlieren sich zwischen Wüste und Vanuatu.
+Was ist dran an den palästinensischen Peer-to-Peer-Piraten?
+Der Musik- und Filmindustrie droht neues Unheil: Mit Hilfe von Kryptografie und durch Verschleierung der Transferwege soll es die nächste Generation der P2P-Clients Coyright-Detektiven zunehmend erschweren herauszufinden, wer gerade was mit wem tauscht.
+Blubster, Filetopia, Waste und XS heißen diese Tarnkappentools, die den Datenpiraten anonyme Kaperfahrten ermöglichen sollen.
+Daher sei man vor Zugriffen internationaler Urheberrechtsvertreter geschützt.
+Dicke Datenleitungen in einem Gebiet, in dem oft genug die Wasser- und Stromversorgung zusammenbricht?
+Hochleistungsserver neben den Ausgabestellen von Notrationen?
+DivX-Filme von der Hamas?
+Irgendetwas passt hier überhaupt nicht zusammen.
+In einem Gespräch mit SPIEGEL ONLINE behauptete Ras Kabir, sein Dienst habe inzwischen 15 Millionen regelmäßige Nutzer.
+Eine Aussage, die, selbst wenn man den orientalischen Hang zur Übertreibung berücksichtigt, wohl eher aus der Digitalversion der Märchen aus 1001 Nacht stammen dürfte.
+Eine Stichprobensuche nach Werken bekannter Künstler führte innerhalb des Wüstennetzes jedenfalls nur zu äußerst kläglichen Ergebnissen.
+Randy Saaf, Präsident von MediaDefender, einem Unternehmen, das im Auftrag der Musik- und Filmwirtschaft Copyright-Verletzungen im Cyberspace aufspürt, geht eher von maximal 30.000 Stammgästen in der ES5-Matrix aus.
+Diese Argumentation ist nicht von der Hand zu weisen.
+Verfügt das mysteriöse Unternehmen über diese gewaltige Infrastruktur?
+Und - wie soll Geld verdient werden?
+Verwirrspiele: Vanuatu oder was?
+Beginnen wir bei Ras Kabir: Der Mann scheint zunächst einmal an einer seltenen Form der spontanen Alterung zu leiden.
+Ferner behauptet Kabir, über eine Datenleitung von einem Gigabit/sek. zu verfügen, über sechs unterschiedliche Provider ans Internet angebunden zu sein sowie über einen eigenen Satellitenzugang zu verfügen.
+Verschiedene Routenverfolgungen legen aber den Schluss nahe, dass die Erdstation Fünf lediglich über einen einzigen, israelischen Serviceprovider am Netz hängt.
+Unabhängige Recherchen von MediaDefender bestätigen diese Annahme.
+Eine Anfrage bei der RIPE, dem zentralen Register für IP-Nummernblöcke, führt zu dem erstaunlichen Ergebnis, dass die kleine Firma über immerhin 512 eigene IP-Nummern verfügt.
+Eine Anzahl, die auch für eine mittlere Universität ausreichen sollte.
+Ist die merkwürdige Firma also in einem Steuerparadies im Pazifik zu Hause?
+Die Daten aber laufen über israelische Kabel - nur, dass das betroffene Internetunternehmen nicht weiß, warum oder wohin.
+Das anonymste an Earthstation 5 ist Earthstation 5. Weiter...

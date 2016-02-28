@@ -1,0 +1,23 @@
+Noch zuckt KaZaA, doch die Börse röchelt hörbar: Während sich in der noch führenden P2P-Börse der Datenmüll häuft, gerät der Prozess in Sydney zunehmend zum Rückzugsgefecht.
+Derweil sicherte sich ein US-Professor ein Patent auf eine Technik, die P2P-Börsen unbrauchbar machen soll.
+Sie haben diese Gelegenheit, ihre Dateien zu verschlüsseln und sicher über KaZaA zu verbreiten, abgelehnt.
+Der zweite Pfeiler der Verteidigungsstrategie ist kürzer zu beschreiben: blocken, Zeit gewinnen, behindern.
+Den letzten Antrag dieser Art beantworteten die Richter mit der Aufforderung an KaZaA, die Beweise bis zum 14. Mai offen zu legen.
+Die MIPI rechnet darum mit einer harschen Reaktion des Gerichtes und zieht aus KaZaAs Lavieren ihre Schlüsse betreffs des Beweismaterials: Wer sich so wehre, die erfragten Daten vorzulegen, habe offensichtlich etwas zu verbergen.
+Das Kalkül dahinter: Je öfter man die P2P-Nutzer mit kreischenden Dateiattrappen frustriert, desto unattraktiver und schwerer nutzbar werden P2P-Börsen.
+In den USA wurde das Prinzip nun patentrechtlich geschützt.
+Ab sofort gelten also John C. Hale und Gavin W. Manes von der Universität Tulsa als Erfinder des Prinzips, P2P-Börsen durch Müll unbrauchbar zu machen.
+Sie planen, ihr Patent gewinnbringend an Musik- und Filmfirmen zu vermarkten.
+Die unterhalten zum Teil selbst Agenturen, die die Datenmüll-Taktik seit Jahren anwenden.
+In Tokio wurde am Dienstag Isamu Kaneko verhaftet.
+Winny verspricht, die IP-Adressen von Datenanbietern zu verschleiern.
+Trotzdem kam es im Herbst letzten Jahres zu zwei Verhaftungen von auf ungeklärte Weise identifizierten Winny-Nutzern.
+Kaneko droht eine Strafe von bis zu drei Jahren Haft und eine Geldstrafe von rund 25.000 Euro.
+Angeklagt wird er nicht wegen der Entwicklung der Software, sondern weil er urheberrechtlich geschütztes Material über Winny angeboten und verbreitet haben soll.
+Kaneko steht somit nicht als P2P-Entwickler, sondern als Nutzer vor Gericht.
+Auf die anhaltende Klagewelle gegen P2P-Nutzer reagieren immer mehr P2P-Entwickler mit dem Versuch, ihre Programme mit effektiven Anonymisierungstechniken zu verbinden.
+Die neueste Entwicklung in dieser Richtung kommt von Optisoft, den Betreibern der Börsen Blubster und Piolet.
+Selbst wenn sie selbst keine Dateianbieter seien, gibt selbst Entwickler Pablo Soto zu, könnten sie als solche erscheinen.
+Was sie allerdings anböten, sei durch eine bloße Netzwerküberwachung nun ebenfalls schwerer zu erfassen: Die Dateien würden im P2P-Netzwerk stärker verschlüsselt und erschienen dem Beobachter zunächst als reiner Datenmüll.
+Das ähnelt dem Ansatz von FreeNet, die zum Schutz ihrer Nutzer ebenfalls auf Kryptografie setzen.
+Experten halten eine völlige Anonymisierung in P2P-Netzen trotzdem für außerordentlich schwer, wenn nicht gar unmöglich.

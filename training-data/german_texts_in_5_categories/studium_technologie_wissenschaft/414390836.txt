@@ -1,0 +1,35 @@
+Er ist Techniker im Außendienst und hat den ersten Tag im Büro nach langen Dienstreisen immer gehasst.
+Heute hat Grosnau sein Büro stets dabei und kann selbst in Hotels ohne Internetanschluss arbeiten.
+Die Rückkehr ins Büro hat für Grosnau damit viel von ihrem Schrecken verloren.
+Der Techniker ist einer von vielen Handlungsreisenden in Deutschland.
+Ihre Tätigkeit besteht aus Beratung vor Ort und Aufarbeitung der Kundenkontakte im Büro.
+Einen Großteil der Arbeitszeit verbringen Außendienstler auf Autobahnen, bei Kunden und in Hotelzimmern.
+Klingt anstrengend, ist aber ein Kinderspiel gegen die verbleibenden Tage im Büro.
+Denn dort wartet die unerledigte Arbeit.
+Die aktuellen und künftigen Mobilfunknetze machen Daten mobil, erlauben schnelle Zugriffe selbst auf umfangreiche Präsentationen und Kalkulationen.
+Plötzlich stehen den Aushäusigen Daten zur Verfügung, die früher nur im Büro greifbar waren.
+Kein Zweifel, das Büro im Netz ist von so hohem Nutzen, dass gerade die Nachfrage nach so genannten Mobile-Office-Lösungen als Schlüsselanwendung für die neuen Mobilfunknetze gehandelt wird.
+In den vergangenen Jahren erwies sich die Zukunftstechnologie allerdings zunächst einmal als Nullnummer.
+Früh wurde versucht, Office-Anwendungen im Internet verfügbar zu machen: Firmen sollten ihre Software nicht mehr kaufen, sondern diese von so genannten Application Service Providern (ASP) stattdessen mieten.
+Doch ASP floppte entsetzlich, die meisten Projekte aus den Jahren 2000 und 2001 wurden mangels Nachfrage eingestellt.
+Inzwischen sind zumindest einige brauchbare Dienstleistungen erhältlich.
+Die Rahmenbedingungen haben sich freilich verbessert: Die Mobilfunknetze sind dank GPRS-Übertragungsstandard inzwischen dreimal schneller als früher.
+Internet-Sicherheitsstandards wie SSL, PPTP (Point-to-Point Tunneling Protocol) und IPSec (Internet Protocol Security) machen das mobile Büro relativ sicher.
+Die Software wurde speziell zur mobilen Nutzung von Microsoft Outlook entwickelt.
+Das Programm sorgt dafür, dass der Text neuer E-Mails automatisch an PDA oder Laptop weitergeleitet wird.
+Dateianhänge können auf Wunsch abgerufen werden.
+Der Eingang neuer Kalendereinträge wird gemeldet, sobald sie im Firmennetz eintreffen.
+Zudem werden die Daten tüchtig komprimiert.
+Gebühren fallen nur für das übertragene Datenvolumen an.
+Der Mobilfunkbetreiber O2 wirbt für sein Smartphone XDA, einen Zwitter aus Mobiltelefon und PDA. Mit dem XDA will das Unternehmen zugleich eine Office-Lösung vermarkten, den Microsoft Mobile Information Server (MMIS).
+Damit können Firmen ihre internen Microsoft-Exchange-2000-Anwendungen ins GPRS-Funknetz einspielen.
+Noch einen Schritt weiter geht O2 mit seinem Angebot, gleich ein internetbasiertes VPN (Virtual Private Network) über das GPRS-Funknetz abzubilden, um Mitarbeitern den vollen Mobilzugriff auf das firmeninterne Netz zu ermöglichen.
+Von unterwegs lässt sich das Intranet dann über GPRS-fähige Notebooks oder PDAs erreichen.
+Dabei wählen sich die Mitarbeiter über den Datendienst GPRS in das IP-Netz von O2 ein.
+Durch die VPN-Software auf dem Notebook und auf dem zentralen VPN Gateway (Server) des Unternehmens entsteht ein virtuelles privates Netzwerk (VPN).
+Das kryptografisch gesicherte Gateway sorgt dabei für eine sichere Verbindung zwischen Notebook und Firmennetz.
+Ob über das GPRS-Netz oder ein W-LAN, der mobile Zugang ins Internet ist einfacher und erschwinglicher geworden.
+Wer viel unterwegs ist, für den sind kombinierte Funk-LAN-GPRS-Karten und mobile Office-Lösungen eine feine Sache.
+Da überschlagen sich die PR-Abteilungen sogleich: Firmen, die heute bereits auf das mobile Office setzen, erzielen damit möglicherweise einen ähnlich werthaltigen Wettbewerbsvorteil wie einst die frühen Nutzer von E-Mail!
+Zugegeben, ein üppiges Menü.
+Aber im Zweifel hilft gegen Schluckauf ja angeblich ein Schluck Wasser.

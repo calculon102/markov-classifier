@@ -1,0 +1,42 @@
+Der wegen MyDoom erwartete Denial-of-Service-Angriff auf Microsoft hat nicht stattgefunden.
+Das wird die Millionen trösten, deren E-Mail-Fächer unter der Virenpost-Lawine verschwinden.
+Den Schaden haben die Kleinen.
+Prost Mahlzeit: Was tun gegen die quälende Postflut durch MyDoom?
+Zwar verschwand die SCO Group, Ziel der ersten MyDoom-Variante, am Montag wirklich aus dem Web.
+Doch wer ist SCO?
+Die vor allem durch ihre juristischen Bemühungen gegen andere Unternehmen bekannte Firma ist keine Größe, von der man erwarten würde, dass sie eine DDoS-Attacke aushielte.
+SCO verschob am Dienstag seine Server auf eine alternative Adresse und die MyDoom-Attacke lief ins Leere.
+Auch bei Microsoft hatte man sich auf so einiges gefasst gemacht.
+Schon Tage vor dem erwarteten Einsetzen der Attacke durch MyDoom.B, die erste Variante des Wurmes, ließ Microsoft Ausweichadressen bekannt machen.
+Wirklich überraschend ist das nicht: Viel schneller als bei MyDoom.A reagierten die IT-Sicherheitsunternehmen auf die zweite Variante.
+Dass diese nicht die gleiche Verbreitung wie MyDoom.A erreichen würde, war vielen klar.
+Nur laut sagen wollte das keiner, denn MyDoom traut man vieles zu.
+Die bisher heftigste Virenwelle, die das World Wide Web in seiner Geschichte erlebte, hatte nicht nur die PC-Nutzer geschockt.
+Gerade die Zeit der Viren, die man erst mit einem unvorsichtigen Klick selbst aktivieren muss, schien doch vorbei.
+Offensichtlich ein Irrtum: MyDoom schaffte es binnen nur zwei Tagen, zum meistverbreiteten Virus des Januar zu werden.
+In den Zählungen von Kaspersky Labs etwa macht MyDoom.A unglaubliche 78,32 Prozent aller gefundenen Viren aus.
+Rund um den Globus wissen geplagte Systemadministratoren und PC-Nutzer, was das heißt: Post ohne Ende.
+Postmaster: Deaktiviert die Auto-Response!
+Dabei ist ein Großteil des Postaufkommens nur mittelbar durch MyDoom verursacht.
+Wahrscheinlich gut die Hälfte des durch MyDoom verursachten E-Mail-Mülls ließe sich vermeiden, wenn die Verwalter von Mail-Gateways die automatische Benachrichtigung von vermeintlichen Virenversendern deaktivieren würden.
+Spätestens seit Anfang letzten Jahres macht die sowieso keinerlei Sinn mehr: Jedes bessere Virus verschickt sich heute über gefälschte oder gestohlene Absenderadressen.
+Damit bliebe der Web-Welt die derzeitige, quälende Mail-Lawine auf absehbare Zeit erhalten: So lange es im Web befallene PCs gibt, so lange würde auch der Virenpost-Versand weitergehen.
+Während man ersteres als Präventivmaßnahme schnell und bequem erledigen kann (siehe Linkverzeichnis: Tools gegen MyDoom), erfordert das Filtern der eingehenden Post Handarbeit.
+Zumindest in Büros lohnt sich das: Hauptbetroffene der Mail-Lawine sind Unternehmen, und hier vor allem im Web aktive.
+Da summieren sich die Virenmails auf einzelnen Mail-Accounts gern schon mal zu mehreren Hundert am Tag - und machen E-Mail als Kommunikationsmittel so gut wie unbrauchbar.
+Die IT-Fachleute von Unternehmen stöhnen teils über ein sechsstelliges Virenmail-Aufkommen am Tag.
+Private Mailkonten dagegen scheinen zumeist weniger betroffen, insbesondere die Freemail-Anbieter konnten mit ihren Virenfiltern in den letzten Tagen richtig glänzen.
+Mailprogramme, die es erlauben, selbst Filter zu definieren, werden mit rund 80 Prozent der Mailflut fertig.
+Die Sache ist so einfach wie mühselig: In einem ersten Schritt identifiziert man die häufigsten Betreffzeilen der Virenpost.
+Dazu gehören die vom Virus selbst versandten E-Mails (vollständige Liste in den Virus-Spezifikationen des BSI).
+Jeden einzelnen dieser Begriffe müsste man zum Filter-Kriterium für die Betreffzeile machen.
+Der zweite Ansatz schafft weit mehr Ordnung im Postfach.
+Die meisten automatischen Virenbenachrichtigungen sind relativ uniform und enthalten Stichworte, die man zu Filterkriterien machen kann.
+Im seltenen Extremfall erfahren Sie auch nicht, dass Sie tatsächlich Versender eines Virus sind (regelmäßige Scans sind Selbstschutz und zeigen Verantwortungsbewusstsein).
+Eine reine Kosten-Nutzen-Abwägung: Wie oft passiert das - und wie oft bekommen Sie MyDoom-Post?
+Beobachten Sie, wie die Viren-Benachrichtigungen aussehen, die in Ihrem Postfach auflaufen und filtern Sie sie aus.
+Mailprogramme wie Lotus machen es möglich, eigens als Spam- oder Viren-Mailfächer definierte Auffang-Ordner automatisch alle paar Tage zu löschen.
+Arbeiten Sie mit einfacheren Mailprogrammen, achten Sie auf eine regelmäßige Leerung des Mailfach-Papierkorbs, sonst läuft die Festplatte irgendwann voll.
+Als Nutzer von Outlook gehören Sie zur Hauptrisikogruppe, sich Viren zu fangen oder welche zu verbreiten.
+Achten Sie darauf, dass die allerneuesten Sicherheitspatches aufgespielt sind und das Programm so konfiguriert ist, dass es aber auch nichts als Reintext ungefragt zeigt oder öffnet.
+So lange der MyDoom-Autor keine dritte Variante auf den Weg schickt, ist damit zu rechnen, dass die MyDoom-Mailwelle irgendwann verebbt.

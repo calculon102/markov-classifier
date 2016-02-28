@@ -1,0 +1,26 @@
+Eine neuartige Linse bündelt das Licht genauso wie das Auge des Menschen - nur wesentlich besser.
+Die Kugel aus hunderttausenden winziger Polymerschichten ist so scharfsichtig wie das Auge eines Kraken - und könnte Kameras, Teleskope und Sehhilfen revolutionieren.
+Die Natur hat es vorgemacht, die Nanotechnologie erlaubt die Nachahmung: Materialforscher aus den USA haben eine extrem scharfsichtige Linse geschaffen, die dem Auge von Kraken nachempfunden ist.
+Herkömmliche Linsen bestehen aus gewölbtem Glas oder Kunststoff, um einfallendes Licht in einem Punkt zu bündeln.
+Der Nachteil: Je kräftiger die Linse, desto stärker muss ihre Oberfläche gebogen sein, was wiederum die Abmessungen und das Gewicht vergrößert.
+Die Natur hat sich einen besseren Trick ausgedacht: Sie macht sich die Tatsache zunutze, dass Materialien verschiedener Dichte das Licht unterschiedlich stark brechen.
+Je größer die Differenz zwischen den so genannten Brechungsindices der Materialien, desto stärker wird das Licht gebogen.
+Der Effekt ist etwa sichtbar, wenn Licht durch Luft und Wasser dringt und dadurch verzerrt wird.
+Ein durchsichtiges Objekt, das an den Rändern einen stärkeren Brechungsindex besitzt als im Zentrum, bündelt das Licht genauso wie eine gewölbte Linse - obwohl es vollkommen flach ist.
+Viele biologische Linsen bestehen aus tausenden feinster Schichten, jede mit einem geringfügig anderen Brechungsindex.
+Das menschliche Auge etwa besitzt rund 22.000 dieser Schichten.
+Im Wasser lebende Tiere aber brauchen aber noch schärfere Sehorgane, da das nasse Element das Licht stärker bricht als Luft.
+Das Auge der Krake kann das Licht fünfmal stärker bündeln als ein menschliches Auge.
+Eric Baer von der Case Western University in Cleveland (US-Staat Ohio) und seine Kollegen vom Naval Research Laboratory in Washington haben das Krakenauge nun mit Hilfe der Nanotechnologie kopiert.
+Die Forscher stellten Kunststoff-Filme her, die aus rund 6000 winzigen Schichten zweier verschiedener Polymere bestehen und dennoch nur 50 Mikrometer dünn sind.
+Die beiden Polymere brechen das Licht unterschiedlich stark.
+Durch die Veränderung der Anteile konnten die Forscher 100 Nanofilme herstellen, deren Brechungsindizes jeweils um ein Prozent voneinander abweichen.
+Aufeinander gestapelt und zu einer Kugel geformt ergaben sie ein künstliches Auge, das ebenso scharfsichtig ist wie das eines Oktopus, berichteten die Wissenschaftler vergangene Woche bei einem Treffen der Materials Research Society in Boston.
+Und das ist längst nicht alles, wie Baer betonte.
+Die Polymerlinse hat eine ganze Reihe von Vorteilen.
+Sie besitzt nur ein Viertel des Gewichts einer vergleichbar starken Glaslinse und soll zudem flexibler sein.
+Die Veränderung weniger Nanoschichten reiche bereits aus, um den Brechungsindex zu verändern.
+Eine solche leichtgewichtige Linse könne auch per Fernsteuerung fokussieren und beispielsweise in unbemannten Flugzeugen oder Raketen eingesetzt werden, erklärten die Forscher.
+Freuen dürfte das vor allem den Geldgeber des Forschungsprojekts, die Defense Advanced Research Projects Agency, die Entwicklungsabteilung des US-Verteidigungsministeriums.
+Allerdings sind auch zahlreiche zivile Einsatzbereiche denkbar.
+Baer etwa hat sich bereits eine Brille gebastelt - mit absolut flachen Polymerlinsen.

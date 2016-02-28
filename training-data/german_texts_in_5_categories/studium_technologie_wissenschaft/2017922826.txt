@@ -1,0 +1,39 @@
+Die Ära der intelligenten Spam-Killer hat begonnnen.
+Selbstlernende Filter werten Werbe-E-Mails statistisch aus und erstellen daraus ein Spam-Profil.
+Hohe Erkennungsraten versprechen die lang ersehnte Rettung vor der Werbeflut.
+Was haben Anti-Spam-Aktivisten nicht alles versucht: schwarze Listen notorischer Werbe-Müll-Versender, Musterprozesse, Robinson-Listen, Wortfilter, die täglich via Internet aktualisiert werden.
+Die Junkmail-Flut steigt und steigt; Angebote für Sofortkredite, Viagra und Penisverlängerung bringen die Postfächer zum Überlaufen.
+Als vor einigen Jahren Marktforscher prognostizierten, dass schon bald jede zweite verschickte E-Mail zur Kategorie Spam gehört, wollte das niemand so recht glauben.
+Inzwischen ist die düstere Prophezeiung für Viele längst Realität geworden. 50 bis 100 Junkmails pro Tag in einem Postfach sind keine Seltenheit.
+Auf Gegenmaßnahmen, etwa einfache Wortfilter, reagieren die Spamversender sehr schnell.
+An den Absenderadressen ist Spam ohnenhin nicht zu erkennen.
+Sie sind meist gefälscht.
+Besonders dreiste Spammer missbrauchen dafür sogar fremde E-Mail-Adressen.
+Dabei kommt ihnen zugute, dass das Mailprotokoll an vielen Stellen Manipulationen zulässt.
+Doch schon bald dürften die Junkmailer immer größere Problem haben, die Werbebotschaften an den Mann und an die Frau zu bringen.
+Ihr neuester Gegner: intelligente Spamkiller, die sich nicht so plump austricksen lassen wie bisher.
+Für jedes in einer E-Mail vorkommende Wort berechnen sie die Wahrscheinlichkeit, dass es ein Indikator für Spam ist.
+Basis sind die Werbenachrichten, mit denen der Anwender die Filter in der Lernphase füttert.
+Dazu genügt ein Mausklick.
+Fälschlicherweise als Spam identifizierte Mails werden ebenfalls markiert.
+Der Filter lernt so binnen weniger Tage, Spam von Nicht-Spam zu unterscheiden.
+Ein großer Vorteil der intelligenten Spamkiller ist ihre Flexibilität.
+Neue Junkmail-Trends lernen sie schnell hinzu, nachdem der Empfänger die Nachrichten per Hand als Spam markiert hat.
+Erwünschte Nachrichten wurden in 99 bis 100 Prozent der Fälle richtig erkannt.
+Der Bremer IT-Journalist Holger Bruns bemängelt, dass der Werbemüll immer erst auf den privaten Rechner heruntergeladen werden muss, um gefiltert zu werden.
+Gleichwohl halten die meisten Anti-Spam-Aktivisten statistische Verfahren für das bislang schärfste Schwert gegen den Werbemüll.
+Den Nachteil, dass die Mails dabei komplett heruntergeladen werden müssen, nimmt er in Kauf.
+Mock kombiniert statistische Verfahren mit anderen Techniken wie einer Liste erwünschter Absender.
+Der Erfolg: Nur eine bis fünf Werbemails schaffen es täglich in sein Postfach.
+Vergleichbar hohe Erkennungsquoten erreicht allerhöchstens noch das Netzwerk SpamNet, das wie eine große Anti-Spam-Community funktioniert.
+SpamNet-Benutzer markieren Werbemails in ihrem Posteingang per Mausklick, ein Outlook-Plugin erstellt daraufhin einen digitalen Fingerprint und schickt ihn an den SpamNet-Server.
+Umgedreht vergleicht das Plugin die Fingerprints sämtliche Nachrichten im Posteingang mit denen auf dem Server und löscht erkannten Spam automatisch.
+Der Betreiber, das US-amerikanische Unternehmen Cloudmark, kennt sich mit Peer-to-Peer-Netzwerken bestens aus.
+Jordan Ritter, einer der Firmengründer hatte zuvor bei der Musiktauschbörse Napster Karriere gemacht.
+SpamNet-Benutzer müssen für den Dienst monatlich vier US-Dollar bezahlen.
+Statistik-Filter gibts dagegen für alle Betriebssysteme zum Nulltarif.
+Die Open-Source-Software Mozilla läuft unter Linux und Windows, das Apple-Programm Mail ist Bestandteil von MacOS X.
+Um die Statistikfilter auszutricksen, müssten Spamversender ihr Vokabular komplett auswechseln.
+Das Verfassen einer Werbemail würde so zum Seminarthema für angehende Germanisten.
+Die Aufgabe: Einschlägige Formulierungen vermeiden; die eigentliche Botschaft, wie Sofortkredite, Sex-Websites oder Greencard-Lotterien, darf nur zwischen den Zeilen hindurchschimmern.
+Sollte es tatsächlich so weit kommen, bleibt den Spamgeplagten immerhin ein Trost: das gestiegene literarische Niveau des Werbemülls.

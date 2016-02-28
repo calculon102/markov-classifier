@@ -1,0 +1,26 @@
+Mein WLAN kann weiter!
+Ein Wireless-LAN ist eine feine Sache, wenn nur die Reichweite größer wäre.
+Der Griff zu LAN-Boostern ist da zwar hilfreich, aber illegal.
+Private WLAN-Betreiber rüsten außerdem mit selbstgebauten oder zugekauften Richtantennen auf und machen aus dem harmlosen Accesspoint eine unkalkulierbare Mikrowellenschleuder.
+Die europaweit geltenden Bestimmungen erlauben lediglich 100 Milliwatt Strahlungsleistung für die gängigen WLAN-Anlagen.
+Dieser Richtwert bezieht sich auf die Leistung, die von einer Antenne abgestrahlt wird.
+Externe Antennen zum Ausleuchten eines Hotspots oder zur Einrichtung einer Richtfunkstrecke erzielen gegenüber der kleinen Stummelantenne am Access-Point unter Umständen einen Antennengewinn, der die Strahlungsleistung erhöht.
+Dabei ist die Begrenzung der Strahlungsleistung der ach so beliebten Funktechnik weit mehr als eine bürokratische Schikane.
+Dass die negativen Auswirkungen noch nicht komplett erforscht sind, zeigt unter anderem die noch nicht beendeten Debatte um die Mobiltelefone.
+Sicher ist, dass höhere Frequenzen in das menschliche Gewebe eindringen.
+Während das Handy auf Frequenzen von 950 und 1800 MHz arbeitet, liegen die drahtlosen PC-Funknetze bei 2400 und demnächst sogar bei 5000 MHz.
+Vielen WLAN-Betreibern ist das freilich egal.
+Will ein landwirtschaftlicher Betrieb in Ostfriesland seine Futtermittel und Melkanlagen verstreuter Betriebsteile einfach per PC steuern, obwohl dafür bis zu sieben Kilometer zu überbrücken sind, wird trotzdem gefunkt.
+Leider müssen wir durch vier Häuser hindurch funken.
+Unsere Pings kommen sehr langsam.
+Der Wildwuchs ist in vollem Gange, denn auch der private, nichtkommerzielle Betreiber eines Accesspoints will Reichweite haben.
+Bastelanleitungen für WLAN-Richtantennen stehen im Internet hoch im Kurs, wenn es gilt, mehrere Funk-Nodes zu einem kleinen Netz zu verknüpfen.
+Der Kontrollverlust wird forciert - in den Internetforen, rund um WLAN bekommen ausgerechnet die Accesspoints gute Zensuren, die eine hohe Reichweite bieten.
+Mehr noch, sogar die Massenhersteller von WLAN-Equipment tasten sich ganz bewusst in Grauzonen vor, um sich einen Vorsprung vor der Konkurrenz zu sichern.
+In Verbindung mit einer guten Außenantenne kann der leistungsbewusste User den lästigen Grenzwert problemlos gleich dutzendfach hinter sich lassen.
+Selbst vielbeachtete Bürgernetzvereine wie der Freifunk e. V. in Berlin, veranstalten Antennen-Workshops, ohne den Wirkungen der Antennenbastelei bislang große Aufmerksamkeit zu schenken.
+Freifunk-Pressesprecher Jens Neumann bescheinigt den Workshop-Teilnehmern keinerlei Vorerfahrungen in Sachen Hochfrequenztechnik.
+Mit solchen einfachen Kaffeedosen-Antennen wäre es gar nicht so einfach, die legalen Grenzwerte zu durchbrechen, glaubt Neumann und irrt sich.
+WLAN-Freunde mit weniger Bastelwut bedienen sich sorglos und kostengünstig an leistungsfähigen Fertigantennen der Funkamateure.
+Die setzen Richtstrahler zur Satellitenkommunikation ein, zielen mit ihren Funkwellen steil in den Himmel und nicht etwa auf ein Haus in der Nachbarschaft.
+Da bleibt wohl nur der Trost, dass jeder Boom auch wieder abebbt.

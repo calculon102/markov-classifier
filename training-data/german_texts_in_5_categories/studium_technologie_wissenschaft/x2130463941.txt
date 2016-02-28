@@ -1,0 +1,20 @@
+Der übersetzt Microsoft-Seiten in Muppet-Schwedisch, weil Microsoft Opera nicht unterstützt.
+Im englischen Original hingegen erlangte er Kultstatus wegen seiner sprachlichen Eigenarten.
+Die Fans des Muppet-Schwedisch dürfen sich derzeit freuen.
+Seit Ende letzter Woche bietet der norwegische Browser-Entwickler Opera eine Bork-Version seines Opera 7-Browsers an.
+Das würde ihn ja unnutzbar und damit nutzlos machen, und daran haben die Norweger kein Interesse.
+Einzig und allein die Seiten des Microsoft-Dienstes MSN werden von der Software unlesbar gemacht, mehr nicht - und das aus gutem Grund, wie man bei Opera findet.
+Für Mary Lambert von Opera ist der Bork-Browser einerseits ein Witz, andererseits aber eine Art lehrreicher Racheakt.
+Im Oktober 2001 war Microsoft darauf verfallen, die Nutzer des Opera-Browsers schlicht abprallen zu lassen: Wer mit Opera surfte, bekam bei MSN nichts zu sehen.
+Der folgende öffentliche Aufschrei bewegte Microsoft zu Zugeständnissen, seitdem sehen Opera-Surfer bei MSN zumindest einen Teil der Angebote.
+Opera gibt an, sich intensiv darum zu bemühen, auch die Webseiten von Anbietern korrekt anzuzeigen, die sich um die allgemein vereinbarten Standards nicht kümmern.
+Heftig ausgetragene Konkurrenzen zwischen Browser-Entwicklern haben ihre Geschichte im WWW.
+Netscape ging daran zugrunde, Microsoft fing sich immerhin einen mehrere Jahre andauernden Prozess ein, der zeitweilig die Existenz des Unternehmens in Frage stellte.
+Zum Teil weichen diese Standards von denen ab, die international für das Web vereinbart wurden: Sie haben quasi proprietären Charakter.
+Seit dem Aufkommen dynamisch generierter Webseiten können Website-Betreiber zudem gezielt auf die Browser reagieren, mit denen ihre Produkte gelesen werden.
+Die werden dann mit Inhalten beschickt oder auch nicht, wie im Oktober 2001 im Falle Opera: Der Nachweis, dass dies böswillig geschieht, dürfte allerdings oft schwer zu führen sein.
+Bis heute haben auch Mozilla und Netscape - im Grunde identische Browser - ihre Probleme mit den Inhalten von dezidiert für Microsoft-Browser geschriebene Webseiten.
+Web-Puristen ist all das seit langem ein Dorn im Auge: Eigentlich gibt es international vereinbarte Konventionen darüber, was man bei der Programmierung von Webseiten tun und lassen sollte.
+Der Trend geht jedoch dahin, diese Grenzen stetig zu verletzen: Jeder Entwickler hat den Ehrgeiz, seinen Nutzern mehr zu bieten als die liebe Konkurrenz.
+Manche, sagt Opera, haben aber auch den Ehrgeiz, der Konkurrenz weniger zu bieten.
+Und das, meinen die Norweger, ist Bork, Bork, Bork.

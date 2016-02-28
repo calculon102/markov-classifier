@@ -1,0 +1,39 @@
+Die Radio-Recorder des Jahrgangs 2004 haben eine Festplatte und Platz für mehrere Hundert Stunden Musik in Digitalqualität.
+Musicload und iTunes mögen ganz nett sein, Live-Streamings im Netz oder via Satellit sind sogar kostenlos.
+Wir zeigen, wie man das Angebot optimal nutzt.
+Die Testergebnisse und das Programmangebot sprechen eine klare Sprache: Die attraktivsten (und fast kostenlosen) Quellen für Radio jenseits des UKW-Ortsfunks sind Satellit und Internet.
+Mit dem richtigen Wissen wird aus dem flüchtigen Hörerlebnis ein dauerhaftes Ereignis - auf Audio-CD, MP3-CD-ROM oder im Speicherkarten- oder Festplatten-MP3-Taschenspieler.
+Voraussetzung: ein PC mit CD-Brenner.
+Per Satelliten-DVB gibt es ein klanglich herausragendes Digitalradio: Bitraten von 192 bis 384 Kilobit/Sekunde (kb/s) sind die Mühe des Aufzeichnens in jedem Fall wert.
+Keine Angst vor den als Bezahlradio markierten französischen Radiostationen: Empfang und Mitschnitt klappen einwandfrei - die Sender übertragen offenkundig ein falsches Statusbit.
+Falls Sie einen Festplatten-Digital-TV-Receiver anschaffen möchten, sollten Sie idealerweise ein Modell wählen, das den Inhalt seiner Festplatte per USB- oder Netzwerkkontakt an einen PC weitergeben kann.
+Wagemutige können von Modellen ohne Schnittstellen - nach Ablauf der Herstellergarantiedie Festplatte ausbauen und vorübergehend in den heimischen PC implantieren.
+Zuvor lohnt sich aber ein wenig Internetrecherche: Manche Satellitenreceiver speichern Fernseh- und Radiomitschnitte in Dateiformaten, die ein Standard-PC nicht lesen kann.
+Wenn sich nicht ein passendes Programm im Netz findet, das diese Klippe umschifft, ist die Mühe vergeblich.
+Legen Sie auf der Festplatte Ihres PC einen beliebigen Ordner an, in den Sie die Mitschnitte des - vorübergehend - mit dem PC verbundenen Satellitenreceivers kopieren oder gleich von der Software der Sat-Karte dort speichern lassen.
+MP2, MP3, AC3?
+Auch die Internet-Radioangebote im MP3-Format (präzise: MPEG 1/ Layer 3) sind für HiFi-Fans ab einer Bitrate von 128 kBit/s aufzeichnenswert.
+Voraussetzung: Ein DSL-Anschluss und ein passender Tarif für die Internetnutzung.
+Online-Angebote mit minutenweiser Abrechnung sind für Radiomitschnitte nicht sinnvoll.
+Ein sehr guter Überblick übers Radiosortiment im Web findet sich auf den Seiten des Anbieters Shoutcast.
+Hier lässt sich fein säuberlich nach Genre und gebotener Datenrate (und damit Klangqualität) suchen.
+Wie erwähnt: DVB-S-Radio (und DAB) nutzt MPEG 1/ Layer 2 als Datenreduktion, die interessanten Internetradios setzen auf MPEG 1/ Layer 3. Viele MP3-fähige Musikspieler kommen mit beiden Formaten ohne weiteres klar.
+Allerdings: Oft will (oder muss) man die Radioaufzeichnungen editieren - sei es, um die Werbung oder Stücke, die einem nicht gefallen, herauszuschneiden, sei es, um die manchmal stundenlangen Mitschnitte auf handliche Größen zu stutzen.
+Es kann MP2- und MP3-Audio teilen, zusammenfügen, ein- und ausblenden sowie den Gesamtpegel ändern - alles, ohne die Musik erneut klangschädlich zu recodieren.
+Das Programm hat keine Installationsroutine: Entpacken Sie einfach das Zip-Archiv (Internetadresse rechts) in einen neuen Ordner.
+Wie lang Sie die einzelnen Mitschnitte gestalten, hängt von Ihren persönlichen Vorlieben und dem Gerät ab, für das Sie die Musik aufbereiten: Auf einen MP3-Spieler mit 256 Megabyte Festspeicher passt logischerweise eine maximal so große Musikdatei.
+Einige wenige MP3-Player können mit den Satellitenradiosendungen im MP2-Format nichts anfangen: Dann und nur dann sollte man MP2 in MP3 konvertieren.
+Viele aktuelle DVD-Player, Autoradios und CD-Portis spielen MP3-Musik direkt von der CD ab.
+Haben Sie mit MP3 Direct Cut Ihre Radiomitschnitte passend gemacht, können Sie sie selbstverständlich auch auf CD brennen.
+Je nach Ursprungs- Bitrate reicht ein CD-Rohling für acht bis elf Stunden Musik.
+Für den MP3-tauglichen CD-Player legt man im CD-Brennprogramm seiner Wahl eine ISO-9660-CD-ROM an und wählt die gewünschten Musiktitel (also die MP3- oder MP2-Dateien) aus.
+Dies gewährt maximale Kompatibilität.
+Möchten Sie lieber eine konventionelle Audio-CD erstellen, ist dies auch kein Problem: Die meisten aktuellen Brennprogramme konvertieren MP2- und MP3-Titel ohne Zutun des Nutzers fürs Standard-Audio-CD-Format.
+Sie müssen dann nur als Zielformat auch eine Audio-CD und keine Daten-CD wählen.
+Mit dem Festplattenreceiver oder per PC-Sat-Karte lassen sie sich problemlos aufzeichnen.
+Getarnt als Audio-CD reicht jeder DVD- oder Audio-CD-Player per Digitalausgang den Mitschnitt an den Dolby-Digital-Decoder im AV-Receiver weiter.
+Dazu muss man dem Audio-CD-Brennprogramm die Dolby-Digital-Dateien verpackt im Wave-Format präsentieren.
+Die übrigen Einstellungen können Sie ignorieren.
+Die entstehende Wave-Datei können Sie Ihrem Audio-CD-Brennprogramm übergeben.
+Beachten Sie: Über die Analogausgänge geben diese CDs nur Gezwitscher von sich.
+Es empfiehlt sich, sie zu markieren und getrennt von echten Audio-CDs aufzubewahren.

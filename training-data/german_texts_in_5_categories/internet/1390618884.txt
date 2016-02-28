@@ -1,0 +1,36 @@
+Früher frisierten Jungs ihre Mofas - heute ihren PC.
+Die Szene ist groß, zum zweiten Mal wurde Deutschlands Tuning-Star gesucht, erstmals auf der Cebit.
+Drei Kandidaten kämpften mit Lüftern, Wärmeleitpaste und Finessen gegen den Hitzetod ihres Systems.
+Computer sind irgendwie immer zu langsam - besonders, wenn man zur Fraktion der Hardcore-Gamer gehört.
+Schon seit Jahren machen findige Spieler ihre PCs um einige Megahertz schneller, indem sie den Prozessor oder das ganze System einfach ein bisschen höher takten als erlaubt.
+Nur wenn der Prozessor zu einem funktionslosen Siliziumklumpen verbackt, wird Geiz richtig teuer, und für die Hersteller zum guten Geschäft.
+Wer Zeuge eines abrauchenden Systems werden wollte, wurde freilich enttäuscht.
+Die drei Finalisten gingen äußerst vorsichtig zu Werke.
+Keine Schraube ging verloren, kein Kratzer kam aufs Gehäuse.
+Und beim Tunen überschritt keiner das Limit.
+Fünf Stunden gaben ihnen die Veranstalter und eine Kiste voller Mainboards, Prozessoren, Speicherbausteine und Grafikkarten.
+Die erste Grundsatzentscheidung lautete: Intel Pentium oder AMD Athlon.
+Allein Thomas Klein entschied sich für den Pentium 4 mit 3,2 Gigahertz.
+Insgesamt 1000 Leute hatten sich als Tuning-Star-Kandidat beworben - am Ende sollte ein Athlon-System 3200+ die Nase vorn haben.
+Der Nürnberger Dusan Vucenovic, der ebenfalls auf Athlon setzte, galt von Anfang an als Favorit.
+In der Tuning-Szene hatte sein Kompressorgekühltes System für Furore gesorgt, das Wasser mit Frostschutzzusatz auf minus 40 Grad herunterkühlte.
+Zu Hause bewahrt der 21jährige in einem Schrank 24 Prozessoren auf, die er durchgeschossen hat.
+Die anderen beiden Kandidaten hatten noch keine CPU auf ihrem Gewissen, das behaupteten sie zumindest.
+Der Hitzetod ist die größte Gefahr beim Übertakten.
+Das gilt nicht nur für den Prozessor sondern auch für die Grafikkarte.
+Je höher die Taktfrequenz umso schneller arbeitet der Rechner und umso mehr Wärme entsteht.
+Nach einer halben Stunde schraubte Dusan bereits das DVD-Laufwerk ins Gehäuse, Daniels PC sah ebenfalls schon gut bestückt aus.
+Thomas hing etwas hinterher.
+Ein schnellerer Rechner bringe mehr Performance beim Spielen.
+Nach zwei Stunden, als das Betriebssystems aufgespielt werden soll, tritt ein unerwartetes Problem auf.
+Der Treiber der Serial-Ata-Festplatte liegt nur auf Diskette vor, solche Laufwerke haben die Veranstalter jedoch nicht dabei.
+Es dauert mehr als eine halbe Stunde, bis ein Diskettenlaufwerk aufgetrieben ist - mittlerweile haben die Dinger auf der Cebit offenbar Seltenheitswert.
+Am Ende erwies sich Dusans auf 3,4 Gigahertz getaktetes Athlon-System als das schnellste.
+Der Intel-Prozessor lief sogar mit 3,5 Gigahertz, schnitt in den fünf Benchmarks jedoch etwas schlechter ab.
+Pech hatte Daniel, dessen Windows-Installation 20 Minuten vor dem Ende abschmierte - in der kurzen Zeit brachte er bei der Neuinstallation nur ein mittelmäßig getuntes System zustande.
+Das Siegersystem sei so schnell, dass ein vergleichbarer, nicht übertakteter Prozessor allein 1000 Euro kosten würde.
+Der Wert der verwendeten Hardware lag insgesamt bei 2000 Euro je Rechner.
+Dusan hatte die Lüfterstromkabel direkt ans Netzteil angeschlossen.
+Dies dürfte letztlich den Ausschlag gegeben haben.
+Als Belohnung konnte Dusan sein System mit nach Hause nehmen.
+Mal schauen, wie lange der Prozessor überlebt.

@@ -1,0 +1,22 @@
+Wenige Tage nach Auftreten des Sasser-Virus kursieren bereits erste Varianten.
+Andere erledigen sich aus Nervosität selbst.
+SPIEGEL ONLINE verrät, wie man den Störenfried angstfrei wieder los wird.
+Sasser.B, C und D haben ihrem Vorläufer einiges voraus, bewegen sich mit erheblicher Geschwindigkeit durchs Internet.
+Heraus kommt eine Virenverbreitung völlig ohne Zutun des PC-Nutzers.
+Nicht dicht waren schon am Wochenende die Rechner der Nachrichtenagentur AFP, die darum erhebliche Probleme hatte, ihre Kunden zu versorgen.
+Dadurch hätten zahllose Kunden am Postschalter kein Geld mehr abheben oder einzahlen können.
+Es handele sich um die bisher längste Panne in der Geschichte des Unternehmens, von der rund 300.000 Post-Computer im ganzen Bundesgebiet betroffen seien.
+Frei nach dem Motto: Ein Rechner, zu dem die eigenen Mitarbeiter keinen Zugang mehr haben, ist auch vor Schädlingen geschützt.
+Doch Scherz beiseite: Sasser ist nicht nur darum potenziell gefährlich, weil er manche IT-Verantwortliche zu nervös macht.
+Zum Glück sind gegen Sasser ein paar Kräuter gewachsen.
+Betroffen sind grundsätzlich nur Rechner mit Windows 2000 oder XP, sie sollte man im Augenblick im Auge behalten.
+Gefährdet sind grundsätzlich alle entsprechenden Rechner, die nicht durch eine Firewall geschützt sind und bei denen der vor rund 19 Tagen von Microsoft veröffentlichte Sicherheistpatch nicht installiert wurde.
+Auch innerhalb von Firmennetzwerken, die Firewall-geschützt sind, können beispielsweise über mitgebrachte Laptops Sasser-Würmer eingeschleppt werden.
+Jetzt sollte zuerst die Sicherheitslücke geschlossen werden.
+Bei Windows 2000 muss man eine Firewall gesondert installieren, wofür sich das für Privatanwender kostenlose ZoneAlarm anbietet (siehe Linkkasten).
+Der über das Internet auf den Rechner gelangte Wurm muss nun noch vernichtet werden.
+Hier kommen die Removal-Tools zum Einsatz (siehe Linkkasten).
+Zuletzt sollte noch die Registry überprüft werden.
+Eine erneute Infektion wird durch den installierten Sicherheitspatch und die Firewall verhindert.
+Nur bei Barauszahlungen in Filialen hätten Kunden Wartezeiten auf Grund von erforderlichen Überprüfungen in Kauf nehmen müssen.
+Das gesamte sonstige Geschäft der Postbank an Geldautomaten wie auch das Telefon- und Online-Banking sei uneingeschränkt gelaufen.

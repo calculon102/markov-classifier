@@ -1,0 +1,21 @@
+Moderne Satellitennavigation und Landwirtschaft passen bestens zusammen.
+Ein US-Forscher will Kühe schon bald GPS-gesteuert über die Weide treiben.
+Zäune werden nicht mehr gebraucht, denn die Tiere bekommen Stromstöße, wenn sie sich aus dem vorgesehenen Sektor entfernen.
+Der Cowboy von heute geht nicht mehr vor die Tür.
+Er behält saubere Stiefel, denn er hütet seine Viecher am Laptop, als ob er an einem Videospiel sitzen würde.
+Dies schlägt der amerikanische Forscher Zack Butler vom Dartmouth College in Hanover vor.
+Er und seine Kollegen haben ein System entwickelt, mit dem die Tiere von einem virtuellen Weidezaun zusammengehalten werden.
+Dieser Zaun ist sogar mobil, denn er kann von Ort zu Ort wandern - und die Tiere laufen mit.
+Die gewählten GPS-Koordinaten des virtuellen Zaunes werden über in der Gegend positionierte Funkstationen an die Halsbänder der Tiere gesendet.
+Nähert sich eine Kuh der imaginären Grenze, löst das Programm einen Reiz aus, der das Tier erschreckt - etwa ein lautes Geräusch oder ein leichter Elektroschock.
+Die Position des Zaunes kann dabei beliebig verändert werden.
+Die Entwickler haben den virtuellen Zaun bereits in einer nicht mobilen Version bei zehn Kühen auf einem ein Quadratkilometer großen Gelände erprobt.
+Die mobile Variante testeten sie bisher nur mit einer Gruppe von Studenten.
+Die Technik funktioniert einwandfrei.
+AP Kuhidylle in Oberbayern: Weidezäune bald überflüssig?
+Das Problem ist bislang, einen Reiz zu finden, der die Kühe auch tatsächlich erschreckt und am Übertreten des virtuellen Zauns hindert.
+Geräusche wie das Brüllen von Tigern, das Zischen einer Schlange oder Hundegebell bremsen die Tiere zwar, aber halten sie nicht immer von ihrem Tun ab.
+Am besten geeignet sei wohl eine Kombination von Geräuschen und Elektroschocks, die mit zunehmender Nähe zum Zaun intensiver werden, so Butler.
+Das System wäre vor allem für Farmer in Australien interessant, die ihr Vieh über riesige Ländereien bewegen müssen.
+Bislang treiben sie die Tiere von Pferden, Motorrädern oder Hubschraubern aus und müssen dabei Gatter öffnen und wieder schließen, was einen hohen Personalaufwand bedeutet.
+Die elektronischen Halsbänder sind ausbaufähig: Sie könnten zusätzlich mit Sensoren ausgestattet werden, die den Gesundheitszustand der Tiere registrieren und diese Daten zurück zum Server schicken.

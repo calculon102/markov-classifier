@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.input.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.tasks.*?>
+<?import de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.common.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.tasks.TasksController">
+	<center>
+		<VBox spacing="9" minWidth="400" prefWidth="666">
+
+			<padding>
+				<Insets bottom="12" top="12" left="24" right="12" />
+			</padding>
+
+			<Label styleClass="subheader" text="%tasks.table.head" />
+			<Label text="%tasks.table.desc" accessibleHelp="%tasks.table.desc" wrapText="true" prefWidth="600" />
+
+			<TableView minHeight="60" fx:id="table" onKeyPressed="#onKeyPressedTable">
+				<columns>
+					<TableColumn minWidth="200" text="%tasks.table.col.name">
+						<cellValueFactory>
+							<PropertyValueFactory property="name" />
+						</cellValueFactory>
+					</TableColumn>
+					<TableColumn minWidth="90" text="%tasks.table.col.progress">
+						<cellFactory>
+							<TaskProgressBarTableCellFactory />
+						</cellFactory>
+						<cellValueFactory>
+							<PropertyValueFactory property="progress" />
+						</cellValueFactory>
+					</TableColumn>
+					<TableColumn minWidth="240" text="%tasks.table.col.message">
+						<cellValueFactory>
+							<PropertyValueFactory  property="message" />
+						</cellValueFactory>
+					</TableColumn>
+					<TableColumn minWidth="90" text="%tasks.table.col.startDate">
+						<cellFactory>
+							<ConverterTableCellFactory>
+								<converter>
+									<LocalDateStringConverter />
+								</converter>
+							</ConverterTableCellFactory>
+						</cellFactory>
+						<cellValueFactory>
+							<PropertyValueFactory property="startDate" />
+						</cellValueFactory>
+					</TableColumn>
+					<TableColumn minWidth="90" text="%tasks.table.col.startTime">
+						<cellFactory>
+							<ConverterTableCellFactory>
+								<converter>
+									<LocalTimeStringConverter />
+								</converter>
+							</ConverterTableCellFactory>
+						</cellFactory>
+						<cellValueFactory>
+							<PropertyValueFactory property="startTime" />
+						</cellValueFactory>
+					</TableColumn>
+				</columns>
+			</TableView>
+
+			<Label fx:id="taskCounter" text="%tasks.table.count" />
+		</VBox>
+	</center>
+
+	<right>
+		<VBox spacing="9" minWidth="100" prefWidth="333" maxWidth="500">
+			<padding>
+				<Insets bottom="12" top="12" left="12" right="24" />
+			</padding>
+
+			<Label styleClass="subheader" text="%tasks.settings.header">
+				<padding>
+					<Insets bottom="0" top="9" left="0" right="0" />
+				</padding>
+			</Label>
+
+			<Label text="%tasks.settings.maxThreadCount" wrapText="true" />
+
+			<Slider fx:id="maxThreads" value="4"
+				blockIncrement="1.0" snapToTicks="true" min="1.0" max="25.0"
+				showTickMarks="true" minorTickCount="1" majorTickUnit="4.0"
+				showTickLabels="true" />
+		</VBox>
+
+	</right>
+</BorderPane>
+

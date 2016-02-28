@@ -1,0 +1,43 @@
+Ob das jemand frisst?
+Als die Zicklein ihm die Tür nicht öffnen wollten, fraß der Wolf Kreide und gab sich als ihre Mutter aus.
+Gebracht hat ihm das wenig: Am Ende wurde ihm der Bauch aufgeschnitten und mit Wackersteinen gefüllt, der Wolf stürzte in den Brunnen, und die Zicklein, so sie nicht gestorben sind, leben noch heute.
+Dass selbst Microsoft offenkundig Probleme hat, den Verbrauchern zu erklären, warum sie sich auf den Sicherheitszuwachs durch Palladium freuen sollten, hilft da wenig.
+Und Konkurrenten des Quasi-Monopolisten begreifen das schon gar nicht.
+Und jetzt diskutieren Sie mal...
+Palladium, angeblich entwickelt als Microsofts Antwort auf Software-Piraterie und diverse Sicherheitslücken, hat keinen guten Namen.
+Das, hofft Microsoft offenbar, werde den Verschwörungstheoretikern und Warnern den Wind aus den Segeln nehmen, und wenn auch nur, weil man über ein solches Wortungetüm weniger plakativ diskutieren kann.
+Auch abgekürzt zu NGSCB kann man sich das kaum merken - und wenn, dann klingt es eher nach einer Radiostation im US-Mittelwesten.
+Eine Lösung, wie sie eigentlich nur aus dem Lehrbuch der Krisen-PR kommen kann, und die zudem berühmte, völlig erfolglose Vorbilder hat.
+Quizfrage: Wie heißt DC1000 wirklich?
+Im Februar 2001 versuchte das FBI vorzumachen, wie man eine in der Öffentlichkeit heiß diskutierte und gefürchtete Strategie per Namensänderung aus der öffentlichen Diskussion nimmt.
+Klingt wie eine kluge Strategie, funktionierte aber nicht: Bis heute redet man öffentlich von Carnivore, wenn man DC1000 meint.
+Ein Wolf bleibt ein Wolf, Schafspelz hin oder her.
+Das eine hat mit dem anderen natürlich nichts zu tun.
+Psychologen nennen so was eine Freudsche Fehlleistung.
+Das allerdings war von vornherein klar - egal, unter welchem Namen.
+Das Konzept fußt auf einer Hardwarekomponente (dem so genannten Sicherheitschip TPM) und eben einer Softwarekomponente: Im Verein sollen diese den heimischen PC wasserdicht machen.
+Das klingt wünschenswert, so lang es dabei um ungewollte Veränderungen im System geht: TCPA macht Crackern und Hackern das Leben schwerer.
+Unautorisierten Programmen - wie beispielsweise Viren - würde schlicht die Ausführung verweigert.
+Das allerdings könnte auch Free- und Shareware passieren, so lange diese kein offizielles Plazet per TCPA-Zertifikat besäße.
+Das wiederum würde gern Microsoft vergeben - Kritiker bezweifeln allerdings, dass der Softwarekonzern die dafür nötige Unvoreingenommenheit mitbringen würde.
+Der Konzern versichert, dass alles, was okay sei, auch zertifiziert werden könnte.
+Noch weniger Begeisterung über TCPA kann die Open-Source-Gemeinde entwickeln.
+Deren Programme leben ja gerade davon, frei verändert werden zu dürfen.
+Microsoft steht in Linuxkreisen zudem im Generalverdacht, wenig Interesse an der Förderung von Konkurrenzprodukten zu haben, berechtigt oder nicht.
+Auf wenig Euphorie stößt TCPA auch ausgerechnet bei IT-Verantwortlichen in sicherheitsrelevanten Bereichen.
+TCPA erlaube dem Besitzer eines PC nicht mehr, damit anzustellen, was er wolle.
+Doch die Kritik will nicht verstummen, obwohl das Thema TCPA in der Öffentlichkeit noch gar nicht richtig angekommen ist.
+Die Verbraucher etwa könnten sich möglicherweise darüber ärgern, dass man mit einem TCPA-Rechner CDs nur noch wird kopieren können, wenn man vorher dafür bezahlt - denn natürlich ist Digital Rights Management ein Kernstück des TCPA-Konzeptes.
+Dass dies in Deutschland (noch) geltendes Recht verletzen würde, interessiert dabei wenig: Das Recht auf Privatkopien ist durch die Kopierschutz-Maßnahmen der Musikindustrie längst ausgehebelt und sowieso längst eine Art wandelnde Leiche.
+Spätestens die Umsetzung der neuen EU-Copyright-Richtlinie im Sommer dieses Jahres wird hier endgültige Tatsachen schaffen.
+Selbst ein geliehenes oder gebraucht gekauftes Originalprogramm würde auf einem TCPA-geschützten Rechner nicht laufen, wenn es auf einem anderen TCPA-Rechner registriert wäre.
+Immerhin wird der Zugang zu Musikbörsen frei bleiben, so lang diese von der Industrie betrieben werden: TCPA wäre auch der Tod von P2P.
+Wohin man auch schaut, erweist sich TCPA in erster Linie als Konzept, das offenbar die Sicherheits- und Finanzinteressen der Industrie schützen soll und nicht die des Kunden.
+Viele dieser Schutzinteressen sind völlig legitim: Möglicherweise ist es der größte Fehler der TCP-Alliance, ihren Standpunkt nicht offensiv zu vertreten und ihr Konzept statt dessen als Verbraucherschutzmaßnahme zu verkaufen.
+Diese Scharade nimmt mitunter skurrile Formen an.
+Geradezu niedlich mutet der öffentlich vorgetragene Protest der TCPA-Gruppe und der Musikindustrielobby RIAA gegen eine gesetzliche Regelung des Digital-Rights-Themas an.
+Die Allianz der Kopier-Verhinderer als Anwalt der Kopierwütigen?
+Viel lieber als ein Gesetz ist der TCPA-Gruppe doch ihre freiwillige Lösung des Problems.
+Dass diese weniger gründlich wäre, steht derweil kaum zu befürchten - wenn nur endlich der Widerstand gegen TCPA, den TPM-Chip und Palladium erlahmte.
+Letzteres gibt es ja schon nicht mehr, es lebe NGSCB.
+Und wann wird TCPA umbenannt?

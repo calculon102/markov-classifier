@@ -1,0 +1,40 @@
+Kann man ein Telefon ans Internet stecken?
+Was für einen Stecker braucht man dafür?
+Und wie telefoniert es sich überhaupt in kleinen Paketen, die durch das Internet sausen?
+Ein Erfahrungsbericht am Beispiel Sipgate.
+Auf den ersten Blick sieht das Internettelefon aus wie ein richtiges Telefon.
+Das ist ja schon mal Vertrauen erweckend.
+Schaut man genauer hin, dann wähnt man sich vor einem Spielzeugapparat.
+Die riesigen Zifferntasten im fernöstlichen Design lassen Zweifel aufkommen.
+Kann das Ding wirklich telefonieren?
+Und zwar im Internet?
+Man braucht nur einen DSL-Anschluss und einen Router, mit dem PC und Telefon gemeinsam ins Internet gehen.
+Sobald das Netzwerk-Kabel eingestöpselt ist, meldet sich das Asiafon automatisch beim Anbieter Sipgate an - und das Telefonieren kann beginnen.
+Wer je versucht hat, an einem PC über Headset mit Freunden im Web zu telefonieren, dürfte staunen.
+Wo sind die üblichen Konfigurations-Orgien?
+Keine IP-Adresse muss festgelegt oder abgefragt werden, kein Codec ausgewählt - die IP-Telefonie hat einen großen Sprung gemacht.
+Das Telefon meldete sich unter einer Nummer aus Düsseldorf.
+Mittlerweile hat Sipgate auch Anschlüsse mit Hamburger, Essener oder Nürnberger Vorwahl im Angebot.
+München, Köln, Stuttgart, Flensburg und Berlin sollen in den nächsten Wochen folgen.
+Alternativ stehen noch Einwahlnummern in Redding und London zur Verfügung.
+Das Grandstream ist so intelligent wie ein ISDN-Telefon und merkt sich automatisch alle Nummern von Anrufern.
+Via Internet sind sämtliche Listen von beantworteten und unbeantworteten Anrufen abrufbar - Geheimdienste und sonstige Lauscher reiben sich die Hände.
+Bei der Tonqualität überzeugt das Grandstream nur teilweise.
+Obwohl laut Sipgate eine mit ISDN vergleichbare Kompression bei der Audioübertragung zum Einsatz kommt, entsprach der Klang eher einer guten Handyverbindung.
+Die Preisgestaltung ist so, wie man sie sich wünscht: Keine Grundgebühr, kein Mindestumsatz, das Telefon selbst schlägt mit 99 Euro zu Buche.
+Gespräche ins deutsche Festnetz kosten rund um die Uhr 1,8 Cent - nur wenige Call-by-Call-Anbieter können das unterbieten.
+Das Telefon funktioniert tatsächlich wie ein ganz normales Telefon - allerdings mit zwei Einschränkungen: Wer beim Telefonieren einen größeren Upload vom PC startet, etwa mehrere Digitalfotos per E-Mail verschickt, wirft sich selbst aus der Leitung.
+Standard-DSL-Anschlüsse erlauben nur einen Upload von 128 Kilobit je Sekunde, mehr als die Hälfte davon benötigt das Internettelefon exklusiv für sich - da kann es schnell eng werden.
+Das zweite Manko betrifft das Angerufen-Werden, das nicht immer klappt.
+Sobald man einen Tag lang nicht telefoniert hat, klingelt das Telefon nicht mehr, obwohl beim Anrufer selbst das Klingeln zu hören ist.
+Schuld ist, wie eine Nachfrage bei der Hotline ergab, der Router.
+Darin steckt eine Firewall, die vor Angriffen aus dem Internet schützen soll.
+Dummerweise interpretiert der strenge Wächter eingehende Anrufe als Sicherheitsrisiko und lässt diese nicht passieren.
+Hat man aber aber wenige Minuten vor einem eingehenden Gespräch selbst mit dem Internettelefon angerufen, klingelt das Asiafon brav, wie es sich gehört.
+Der Router vergisst.
+Mit einer Änderung der so genannten DMZ-Einträge am Router - da ist es also doch noch, das altbekannte Konfigurieren - lässt sich dieses Vergessen abschalten.
+Fortan gilt der Sipgate-Server als guter Kumpel des Telefons und dieses klingelte tatsächlich immer, wenn es das sollte.
+Seltsam außerdem, dass das Grandstream dem europäischen Benutzer asiatische Telefongewohnheiten aufnötigt.
+Die Lautsprechertaste, eigentlich zum Anund Abschalten des Laut-Mithörens gedacht, beendet beim Abschalten nämlich kurzerhand das Gespräch.
+In Asien sei dies so üblich.
+Mindestens einen Haken hat die Internettelefonie also doch noch, wenn auch nur kleinen.

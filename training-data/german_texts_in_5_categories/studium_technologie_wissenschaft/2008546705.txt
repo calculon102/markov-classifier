@@ -1,0 +1,34 @@
+Amerikanischen Forschern ist es gelungen, mit Signalen aus dem menschlichen Hirn einen Computer zu steuern, ohne den Testpersonen Chips oder Elektroden zu implantieren.
+Dank einer Sensormütze konnten vier Menschen allein Kraft ihrer Gedanken einen Cursor zielgenau bewegen.
+Der Mensch ist kein Computer.
+Manchmal wäre es jedoch ganz praktisch, wenn das Gehirn direkt auf einen Computer einwirken könnte.
+Das lästige Tippen von Texten entfiele, stattdessen würden Ideen direkt in den Rechner fließen.
+Von einer solchen Vision sind die Wissenschaftler noch ein ganzes Stück entfernt, die Schnittstelle Mensch-Computer macht jedoch laufend Fortschritte.
+Forscher der State University of New York haben nun ein solches Gehirn-Computer-Interface entwickelt, das ohne Chips oder Sensoren auskommt, die - wie bisher bei ähnlichen Geräten - direkt ins Gehirn implantiert werden müssen.
+Jonathan Wolpaw und Dennis McFarland rüsteten eine Kopfhaube mit 64 Elektroden aus, die Signale aus dem Gehirn direkt von der Kopfhaut abgreifen.
+Vier Testpersonen gelang es nach einer Trainingsphase, allein Kraft ihrer Gedanken einen Cursor über einen Computermonitor zu steuern.
+Das System könnte vor allem Schlaganfallpatienten und Querschnittsgelähmten helfen, die mitunter große Schwierigkeiten haben, einfachsten Tätigkeiten nachzugehen.
+Ihr Gehirn funktioniert zwar, aber es fehlt der Kontakt nach außen.
+Tastaturen oder Joysticks kommen wegen der Lähmung nicht in Frage.
+Anfangs habe es geholfen, sich bestimmte Bewegungen vorzustellen.
+Eine Software analysierte das EEG und wählte die Impulse aus, die die Testpersonen am besten beeinflussen konnten.
+Zwei der vier Testpersonen waren wegen einer Wirbelsäulenverletzung teilweise gelähmt.
+Erstaunlicherweise kamen sie deutlich besser mit dem Interface zurecht und konnten den Cursor flotter bewegen als die beiden gesunden Probanden.
+Die Wissenschaftler haben für dieses Phänomen noch keine Erklärung, möglicherweise spielt eine größere Motivation eine Rolle.
+Software und die Probanden hätten die Steuerung gemeinsam gemeistert.
+Das Experiment dürfte einen Durchbruch bei der Konstruktion von nicht-invasiven Mensch-Maschine-Schnittstellen markieren.
+Erst im Oktober hatten US-Mediziner einen Chip ins Hirn eines Querschnittsgelähmten eingepflanzt, der die Signale von 100 Neuronen an einen Rechner weiterleitete.
+Der 25-Jährige konnte nach Angaben der Firma Cyberkinetics E-Mails abrufen, am Computer spielen und durch Fernsehprogramme zappen.
+Wissenschaftler haben aber bisher bezweifelt, ob es überhaupt möglich sein würde, die Impulse des Gehirns außerhalb des Kopfes präzise genug aufzufangen, um die Steuerung eines Computers zu ermöglichen.
+Die nicht-invasive Technik erhöhe die Wahrscheinlichkeit, dass Gehirn-Computer-Schnittstellen eines Tages eine wichtiges Kommunikationswerkzeug für Menschen mit Behinderungen werden könnten.
+Die New Yorker Forscher sind längst nicht die einzigen, die an solchen nicht-invasiven Methoden arbeiten.
+Die Firma Neural Signals mit Sitz in Atlanta versucht sich ebenfalls an einer Schnittstelle, die ohne chirurgische Eingriffe auskommt.
+Auch an der Berliner Charité und am Fraunhofer-Institut First experimentieren Wissenschaftler am so genannten Brain-Computer-Interface.
+Und selbst das US-Militär forscht bereits seit Jahren auf diesem Gebiet, um Kampfpiloten die blitzschnelle Steuerung ihrer Flugzeuge zu ermöglichen.
+Hirnforscher aus Singapur vom Institute of Infocomm Research hatten Ende November eine andere, ebenfalls nicht-invasive Methode vorgestellt.
+Eine mit Sensoren ausgerüstete Mütze misst die Hirnaktivitäten - ähnlich wie bei dem Verfahren von Wolpaw und McFarland.
+Das System dient zur Texteingabe.
+Die Buchstaben des Alphabets werden in einer vorgegebenen Reihenfolge auf einem Display angezeigt.
+Ein stärkerer Impuls im EEG gibt dem Computer das Signal, den gewünschten Buchstaben auszuwählen.
+Das Verfahren ist allerdings sehr langsam: Die Wissenschaftler erwarten, dass damit höchstens fünf Zeichen pro Minute geschrieben werden können.
+Die etwas feinere, an der New Yorker State University entwickelte Methode könnte noch mehr Potenzial zu bieten.

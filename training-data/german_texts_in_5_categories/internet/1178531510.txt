@@ -1,0 +1,67 @@
+Eine Überraschung, sagt Olaf Lindner vom IT-Sicherheitsunternehmen Symantec im Interview mit SPIEGEL ONLINE, war der Blaster-Wurm nicht.
+Trotzdem infizierte er weltweit Hunderttausende von Rechnern.
+Für Lindner ist das ein Problem mangelnder Prävention.
+SPIEGEL ONLINE: Der Wurm Blaster hat in den letzten 48 Stunden nicht nur Schlagzeilen gemacht, sondern auch echte Schäden verursacht.
+Was genau ist da passiert?
+Olaf Lindner: Wir haben über unser Echtzeit-Überwachungssystem seit Montagmorgen erhöhten Datenverkehr auf Port 135 festgestellt.
+Sehr schnell wurde klar, dass es sich um einen neuen Wurm handelt, der eine Schwachstelle in den Windows-Betriebssystemen 2000, NT und XP ausnutzt.
+In den folgenden Stunden verbreitete sich der Wurm selbsttätig und wurde von 150.000 der 180.000 Systeme, die wir weltweit überwachen, festgestellt.
+SPIEGEL ONLINE: Wie wäre Blaster dann einzuordnen?
+Ein Mega-Virus?
+Lindner: Blaster funktioniert nach demselben Prinzip wie der SQL Slammer, aber der war weit effektiver.
+Slammer war so etwas wie das perfekte Virus: Schneller kann man sich gar nicht ausbreiten.
+Blaster ist weniger clever programmiert und braucht auch länger, um Systeme zu infizieren.
+SPIEGEL ONLINE: Trotzdem sah es in den ersten Stunden so aus, als käme da eine wahre Viren-Lawine...
+Lindner: In den ersten vier Stunden explodierte Blaster nahezu, die Schadensmeldungen stiegen exponentiell.
+Doch seitdem stagniert die Zahl der Neuinfektionen fast.
+SPIEGEL ONLINE: Also ist Blaster nicht so clever, wie anfänglich befürchtet?
+Lindner: Wenn Blaster einmal ein System infiziert hat, dann ist seine Verbreitungslogik, nach der er auswählt, welche Systeme als nächstes zu infizieren sind, cleverer als selbst bei SQL Slammer.
+Blaster infiziert nach einem ausgeklügelten Algorithmus zunächst Systeme in seiner Nachbarschaft, bevor er weiter entfernte Ziele angeht.
+Das ist für die Verbreitung natürlich weit effektiver, als wenn ein Virus einfach blind versucht, nach Zufallskriterien generierte Adressen im Internet zu attackieren.
+SPIEGEL ONLINE: War das nun die katastrophale Virenattacke, vor der seit Mitte Juli gewarnt worden war?
+Lindner: Eigentlich wartet man täglich auf so ein Virus.
+Blaster hat jetzt genau an der Schwachstelle zugeschlagen, vor der Microsoft am 16. Juli gewarnt hatte.
+Nur ist die ja nicht die einzige veröffentlichte Schwachstelle, die als kritisch eingestuft wird.
+Wir haben in unserem ISTR-Report im zweiten Halbjahr 2002 über 6000 neue Schwachstellen berichtet.
+Das ist mit erheblichen Kosten und einem großen logistischen Aufwand verbunden.
+In vielen Unternehmen führt das zur Frage, wo pokere ich noch, und wo muss ich handeln?
+Wobei diese Windows-Schwachstelle sicherlich eine war, wo man hätte tätig werden müssen.
+SPIEGEL ONLINE: Zumal die Warnung eindringlicher kaum hätte sein können.
+Wie kann das sein, dass man auf eine Sicherheitslücke hinweist, und damit Virenschreibern erst ein Ziel vorgibt?
+Dabei handelt es sich um Programmcode, der die betreffende Sicherheitslücke automatisch ausnutzen kann.
+Wenn so etwas im Umlauf ist, wird es wirklich gefährlich.
+Dann kann man Wetten darauf abschließen, dass binnen kurzer Zeit irgendwelche Chaoten diesen Exploit in Viren und Würmer einbauen.
+Warnen muss man trotzdem.
+SPIEGEL ONLINE: Damit man sich den passenden Sicherheits-Flicken vorher besorgt: Microsofts Server gingen gestern zeitweilig in die Knie, weil die PC-User das verspätet taten.
+Lindner: Ja, das war so etwas wie eine Denial-of-Service-Attacke vor der wirklichen Denial-of-Service-Attacke, die ja noch kommen soll.
+Gestern haben natürlich Unmengen von Menschen versucht, sich noch schnell diesen Programm-Patch herunter zu laden.
+SPIEGEL ONLINE: Ist das Blaster-Problem für die Leute, die den Patch installiert haben, denn nun gelöst?
+Lindner: Die sind für diesen Wurm nicht mehr angreifbar, womit das Problem für die Endanwender gelöst wäre.
+Für die Unternehmen sieht das etwas anders aus, weil Blaster den Netzwerkverkehr doch ziemlich stark belastet.
+SPIEGEL ONLINE: Gibt es da Berichte über größere Schäden?
+Lindner: Die Firmen, die ein schlüssiges IT-Sicherheitskonzept verfolgen und folglich auch Prävention treiben, haben Blaster ganz gut im Griff gehabt.
+In anderen Unternehmen brach erst einmal das Chaos aus.
+Es gibt tatsächlich Großunternehmen, bei denen die Funktionalität der IT bis heute noch nicht wieder hergestellt ist, weil einfach die durch Blaster verursachte Netzwerklast die normale Kommunikation blockiert.
+Es gibt auch in Europa zahlreiche betroffene Unternehmen.
+SPIEGEL ONLINE: Heute geistert das Gespenst von der nächsten Viren-Variante durch Web und Nachrichtenagenturen.
+Wie wahrscheinlich ist das, und wie aufwändig, so eine Variante in die Welt zu setzen?
+Lindner: Es gibt jede Menge Viren-Construction-Kits (Virenbaukästen), mit denen sich ein verfügbarer Exploit in Viren einbauen lässt.
+Alles, was man tun muss, ist eine Wurm- oder Viren-Verbreitungslogik zu schreiben und dort den Exploit einzusetzen, und schon gibt es eine neue Variante.
+Varianten sind in der Regel aber nicht so effektiv wie der erste Wurm, weil viele User die Sicherheitslücken gepatcht haben, die Unternehmen die betreffenden Ports gesperrt, die Virenschutz-Software upgedatet wurde.
+Varianten werden nicht mehr so viel Schaden anrichten können.
+SPIEGEL ONLINE: Wer setzt so was in die Welt, und warum?
+Lindner: Das ist ganz verschieden.
+Virenschreiber können die so genannten Skript-Kiddies sein (Jugendliche), aber es kann auch Industriespionage dahinter stecken oder Betrug oder finanzielle Vorteile.
+Einer mag nur Chaos verursachen wollen, der andere hat es vielleicht darauf abgesehen, Online-Banking-Zugangsdaten zu erfahren.
+Die Motive sind vielfältig.
+SPIEGEL ONLINE: Aber die Erfolgsquote der bekannten E-Mail-Viren nahm in den letzten Jahren ab.
+Dass Blaster sich selbsttätig verbreitet, hat viele erschreckt: Ist das ein neuer Trend?
+Lindner: Blaster und mehr noch Slammer stellen wirklich eine neue Qualität dar.
+Die bewährten Sicherheitsmaßnahmen gegen E-Mail-Viren greifen bei diesen Viren nicht hundertprozentig.
+Man muss hier also einen kommenden Trend vermuten.
+Das bedeutet auch, dass man seine IT-Sicherheit nicht mehr mit nur einem Produkt eines Herstellers herstellen kann.
+Man muss heute schon mehrstufige Sicherheitssysteme einführen.
+Diese neuen Viren wird man nur mit einer Kombination von Virenscannern, Firewalls und Intrusion Detection in den Griff bekommen.
+Dazu gehört ein schlüssiges IT-Sicherheitskonzept: Was gestern in vielen Unternehmen Schäden verursacht hat, war, dass es einfach keine Strategie gab, was zu unternehmen ist, wenn so etwas passiert.
+Es muss Teil des Sicherheitskonzeptes sein, davon auszugehen, von so einem Wurm getroffen zu werden.
+Und dann muss klar sein, wer was zu tun hat.

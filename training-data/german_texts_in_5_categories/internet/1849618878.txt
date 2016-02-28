@@ -1,0 +1,20 @@
+Für knapp sieben Millionen Dollar plus Pizza und Football-Tickets montierten 160 Studenten 1100 Apple-Power-Macs zum drittschnellsten Supercomputer der Welt.
+Gegenüber herkömmlichen Mega-Rechnern ergibt sich ein Preisvorteil von über 200 Millionen Dollar.
+In einem Flachbau am Rand der Technischen Universität von Virginia stehen 1100 Macintosh-Computer wie Bücher in Regalen aufgereiht.
+Die Apple-Rechner, G5-Power-Macs, kann man in jedem Laden kaufen.
+Zusammengeballt zu einem Cluster, stellen die Macs jedoch den drittschnellsten Supercomputer der Welt dar - mit einer Leistung von 10,3 Billionen Rechenoperationen in der Sekunde (Teraflops).
+Die Kosten für den Mac-Cluster waren mit 7 Millionen Dollar jedoch weit geringer als andere Supercomputer dieser Kategorie, wie sie für Klimaberechnungen oder zur Simulation von Atomwaffenversuchen eingesetzt werden.
+Auf Platz zwei liegt ein Computer von Hewlett-Packard im US-Atomforschungslabor Los Alamos, der 215 Millionen Dollar gekostet hat und 13,9 Teraflops bewältigt.
+So unterstützen die von IBM gefertigten Prozessoren des Typs PowerPC 970 bereits die neue 64-Bit-Architektur, die Daten nicht mehr in 32, sondern in 64 Bit breiten Häppchen verarbeitet.
+PC-Cluster: Idealkonzept für Zeiten mauer Kassen?
+Die einzelnen Rechner laufen mit dem unter dem Einsatz von Unix-Technik entwickelten Betriebssystem Mac OS X und sind in einem Hochgeschwindigkeitsnetz miteinander verbunden.
+Dieses als Infiniband bezeichnete Netz ermöglicht es, komplexe Berechnungen in Einzelaufgaben zu zerlegen und zur gleichen Zeit von verschiedenen Rechnern bearbeiten zu lassen.
+Projektleiter Srinidhi Varadarajan sieht in der Cluster-Technik die Konsequenz aus dem Dilemma, dass Universitäten unter dem Druck stehen, trotz massiver Mittelkürzungen ihr wissenschaftliches Ansehen weiter zu fördern.
+Andere Hochschülen würden sicherlich bald noch stärkere Supercomputer als Cluster errichten, zumal die PC-Technik immer leistungsfähiger werde.
+Dennoch sieht IBM in den PC-Clustern keine große Konkurrenz für das eigene Supercomputer-Geschäft - bei der addierten Gesamtleistung der 500 Supercomputer ist IBM Marktführer mit einem Anteil von 35,4 Prozent.
+Außerdem reiche es nicht aus, die einzelnen Rechner miteinander zu verkabeln.
+Daher seien die Supercomputer-Kunden eher bereit, für eine Gesamtlösung zu zahlen als sich auf das Abenteuer eines Eigenbaus einzulassen.
+In Blacksburg, Virginia, kümmert dies die Wissenschaftler nicht.
+Seit der ersten Messung sind schon drei Teraflops neu hinzugekommen.
+Ausgewachsen soll er zehnmal schneller sein als der derzeitige Spitzenreiter - und nur ein zwangzigstel so groß.
+Das hat was: Weiter...

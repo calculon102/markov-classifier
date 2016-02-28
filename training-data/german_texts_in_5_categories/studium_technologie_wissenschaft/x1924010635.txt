@@ -1,0 +1,31 @@
+Schon vor Jahren hat ein US-Professor eines der grundlegenden Probleme der Mathematik bewiesen - zumindest ist er davon überzeugt.
+Doch die überforderte Fachwelt verweigert ihm die Anerkennung.
+Der Beweis des Beweises bringt nun Mensch gegen Maschine auf.
+Die großen mathematischen Probleme liegen auf der Straße.
+Oder am Gemüsestand.
+Dort wählen die Händler, wenn sie ihre Früchte ebenso ansprechend wie effizient stapeln wollen, die Form einer Pyramide.
+Die einzelnen Äpfel oder Orangen werden dabei genau über den Mulden der darunter liegenden Schicht platziert.
+Schon im Jahr 1609 stellte der Astronom und Mathematiker Johannes Kepler die These auf, dass es sich bei dieser Anordnung um die dichtest mögliche Packung von Kugeln handelt.
+Knapp vier Jahrhunderte lang bissen sich Mathematiker am Beweis dieser Vermutung die Zähne aus.
+Doch vor fünf Jahren überraschte der junge US-Forscher Thomas Hales, heute an der University of Pittsburgh, die Fachwelt mit seinem Beweis.
+Deren Aufgabe war nicht leicht: Da es sich als unmöglich erwies, jede einzelne Programmzeile zu studieren, mussten die Gutachter die zu Grunde liegenden Gedanken, die Annahmen und logischen Schlussfolgerungen Schritt für Schritt überprüfen.
+Vier Jahre später gaben sie auf.
+Die Experten hatten zwar keinen Fehler gefunden, konnten aber auch nicht zeigen, dass Hales' Beweis hundertprozentig korrekt ist.
+Gegenüber SPIEGEL ONLINE weist der US-Forscher solche Anschuldigungen zurück.
+Die Kapitulation der klassischen Mathematik?
+Was nach einer Wissenschaftsposse klingt, offenbart einen grundlegenden Disput innerhalb der modernen Mathematik: Inwieweit dürfen Computer den menschlichen Sachverstand ersetzen?
+Und können die Rechner überhaupt korrekte Beweise führen?
+Dank immer besserer Computer können Mathematiker heutzutage deren schiere Rechenkraft für ihre Beweisführung nutzen.
+Immer neue Lösungen werden berechnet, bis schließlich die korrekte gefunden ist.
+Zudem helfe es nicht, das Problem wirklich zu verstehen und neue Ideen zu entwickeln.
+Es ist eine Auseinandersetzung Mensch gegen Maschine - und viele Mathematiker, deren Handwerkszeug seit Jahrhunderten Intuition und bestechende Logik sind, beschleicht beim Gedanken an Computerbeweise ein seltsames Gefühl.
+Nicht so Hales.
+Deshalb will der Forscher nun die Beweisführung selbst anpacken - natürlich mit einem Gutachter aus Bits und Bytes.
+Der Computer soll zeigen, dass jeder Schritt des Kepler-Beweises korrekt ist - für den Amerikaner nicht nur ein Frage der Ehre, sondern auch des Systems.
+Das gegenwärtige System belohne einfache Lehrsätze mit einer sofortigen Veröffentlichung.
+Beweise, die nicht ins gängige Modell passten, behindere es dagegen.
+Aus der Frustration heraus sei daher auch das neue Computerprojekt zur Überprüfung des Kepler-Beweises entstanden.
+Doch das Unterfangen selbst könnte für Hales noch viel frustrierender werden.
+Trotz der Rechnerhilfe würde ein Mensch allein, so Hales' Berechnungen, 20 Jahre brauchen, um das Projekt abzuschließen.
+Bienen verwenden dieses Prinzip intuitiv beim Bau ihrer Waben, um möglichst wenig Wachs zu verschwenden.
+Allerdings: Für den Beweis der Wabenstruktur hat Hales auch weitgehend auf Computer verzichtet.

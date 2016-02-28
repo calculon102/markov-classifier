@@ -1,0 +1,20 @@
+Globale Seuchen könnten künftig mit mathematischen Mitteln bekämpft werden.
+Deutsche Forscher haben ein Modell entwickelt, mit dem sich die weltweite Ausbreitung von Epidemien vorhersagen lässt.
+Am Beispiel der Lungenkrankheit Sars hat das Rechenwerk eine erstaunliche Präzision erreicht.
+Wie gefährlich die Globalisierung ist, wissen Mediziner spätestens seit dem Frühjahr 2003.
+In Windeseile breitete sich die Lungenkrankheit Sars rund um den Globus aus.
+Von ihrem Ursprungsort, der nach Erkentnissen der Weltgesundheitsorganisation WHO in der südchinesischen Provinz Guangdong lag, brauchte die Krankheit nur wenige Wochen, um über Hongkong und Singapur bis nach Kanada zu gelangen.
+Selbst Alaska, Südafrika und Australien blieben nicht von der Seuche verschont.
+Mehr als 700 Menschen starben, über 8000 infizierten sich.
+Mathematische Modelle, die bis dahin zur Vorhersage der Seuchen-Verbreitung benutzt wurden, versagten angesichts der Geschwindigkeit der Sars-Ausbreitung.
+Die Forscher schlagen auch eine Möglichkeit zur Eindämmung einer künftigen Pandemie vor, die zwar radikal, dafür wohl aber auch wirkungsvoll wäre: die Stilllegung großer Drehkreuze des Luftverkehrsnetzes.
+Die großen Knotenpunkte wie London, New York und Frankfurt sind die Hauptverursacher einer schnellen weltweiten Verbreitung einer Seuche, glauben die Wissenschaftler - egal, wo die Epidemie ausgebrochen ist.
+Entscheidend ist auch nicht, wie viele Menschen von oder zu einem Flughafen reisen, sondern mit wie vielen Zielen der Airport verbunden ist.
+Auch die Wirksamkeit von Impfungen wird von dem Modell vorhergesagt.
+Die Pest habe deshalb drei Jahre gebraucht, um von Sizilien über Mitteleuropa bis nach Norwegen zu gelangen.
+Heute aber kann ein Mensch binnen weniger Tage Zehntausende Kilometer zurücklegen - und überall auf der Welt Menschen infizieren, ehe er selbst der Krankheit zum Opfer fällt.
+Das so genannte Diffusionsmodell, in dem sich Epidemien in Wellenfronten fortbewegen, greift nicht mehr.
+Die Forscher kombinierten deshalb Modelle zur Berechnung lokaler Epidemien mit den Daten von mehr als zwei Millionen Flügen pro Woche zwischen den 500 größten Flughäfen der Welt.
+In dem Modell, das etwa 95 Prozent des gesamten zivilen Flugverkehrs abdeckt, bewegen sich infizierte Individuen zwischen den Knotenpunkten dieses Flugnetzes und verbreiten so die Krankheit.
+Wie schnell und in welcher Form sie sich ausbreitet, hängt auch davon ab, wie ansteckend sie ist und wie groß Heilungschancen und Sterberaten sind - was im Fall von Sars gut dokumentiert war.
+Entscheidend für eine präzise Vorhersage der Ausbreitung künftiger Seuchen ist deshalb, wie schnell die Wirkung des neuen Krankheitserregers erkannt wird.

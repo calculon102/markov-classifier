@@ -1,0 +1,20 @@
+Um Entführer abzuschrecken, hat sich der mexikanische Generalstaatsanwalt einen Ortungs-Chip in den Arm implantieren lassen.
+Der Chip dient gleichzeitig als Zugangsberechtigung zu einer neu eingerichteten Verbrechensdatenbank.
+Bislang galt ein unter der Haut getragener Ortungschip als gute, jedoch nicht umsetzbare Idee.
+Doch ein solcher Chip, der permanent seine Position über GPS ermittelt und nach außen funkt, stellt die Entwickler vor große Probleme.
+Vor allem die Stromversorgung ist nach wie vor ungeklärt.
+Ein Akku wie bei Handys kommt dafür kaum in Frage, denn diese sind immer noch relativ groß und obendrein müsste jedes Mal beim Akkuwechsel die Haut aufgeschlitzt werden.
+Doch mittlerweile scheint es eine ausgereifte Lösung für einen Ortungs-Chip zu geben.
+Mexikos Generalstaatsanwalt Rafael Macedo de la Concha trägt seit wenigen Tagen einen solchen Chip im Arm.
+Auch mehr als 160 Mitarbeiter eines neu eröffneten Informationszentrums für Verbrechensbekämpfung haben das Siliziumimplantat.
+Es soll nicht nur vor Entführungen schützen, sondern auch den Zugang zum Informationszentrum und seinen Datenbanken sichern.
+Deshalb sei der Chip dauerhaft im Arm eingesetzt.
+Das Einsetzen des Chips habe zwar wehgetan, doch jetzt könne er jederzeit geortet werden, so der Staatsanwalt.
+Im Falle einer Entführung könne der Träger des Chips innerhalb Mexikos leicht entdeckt werden.
+In Mexiko sind Entführungen sehr häufig.
+Zwischen 1992 und 2002 kam es zu 15.000 Fällen - nur in Kolumbien ist Kidnapping noch stärker verbreitet.
+Ob der in Mexiko genutzte Ortungs-Chip mit dem GPS-System arbeitet oder eine andere Technik nutzt, ist unklar.
+Auch über den Hersteller gibt es keine Informationen.
+Das Unternehmen hat bisher nur RFID-Chips im Angebot, mit denen man beispielsweise Tiere leicht identifizieren kann.
+RFID-Chips funken allerdings nicht aktiv - sie geben nur dann ihre Nummer Preis, wenn sie in die Nähe eines Senders geraten.
+Neben einer eindeutigen ID kann ein solcher Chip auch Name, Anschrift und Krankheitsdaten speichern, die im Notfall sofort verfügbar sind.

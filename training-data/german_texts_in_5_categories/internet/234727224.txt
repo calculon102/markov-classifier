@@ -1,0 +1,28 @@
+Mit einem Mal macht der Internet Explorer, was er will, und bringt den Surfer auf Seiten, die er sich gar nicht anschauen möchte.
+Seit einem Jahr breiten sich kleine Programme im Netz aus, die den Browser unter ihre Kontrolle bringen und sich nur mit Mühe wieder entfernen lassen.
+Die Browser-Hijacker entführen den Anwender auf kommerzielle oder pornografische Angebote im Netz.
+Es wird zwar kein Schaden angerichtet, aber es ist mehr als lästig, zeitweise die Kontrolle über wichtige Anwendungen zu verlieren.
+Dabei treten die Schädlinge in vielen verschiedenen Variationen auf.
+CoolWebSearch (CWS) ist ein besonders hinterhältiges Kidnapping, da keines der auf dem Markt befindlichen Antivirenprogramme helfen kann.
+CWS stellt die Startseite des Internet Explorers auf eine Werbesuchmaschine um.
+Das kann zwar manuell in den Starteinstellungen und auch in der Registrierung wieder korrigiert werden, aber bei jedem Neustart landet der Surfer wieder auf der Werbeseite.
+Neben den Änderungen im Internet Explorer wird häufig auch ein Trojaner installiert und der sorgt dafür, dass die Veränderungen vom Anwender nicht ohne weiteres wieder rückgängig gemacht werden können.
+Auf der Internetseite der Suchmaschine von CoolWebSearch gibt man sich unschuldig und weist darauf hin, dass man lediglich bei Webmastern stark frequentierter Seiten Suchanfragen dazukauft.
+Die Verantwortlichen geben sogar Hinweise zu Programmen, mit denen das Schadprogramm beseitigt werden kann.
+Bis vor kurzem war der kostenlose Coolwebshredder die einzige Anwendung, die das Hijacking beenden konnte.
+Der niederländische Student Merijn Bellkom hat die Arbeit an seinem hilfreichen Tool inzwischen eingestellt und neue Versionen der Hijacker lassen sich damit nicht mehr entfernen.
+Das Tool wurde in der Vergangenheit in einem rasanten Wettlauf ebenso oft upgedatet wie der Hijacker selber.
+Bellkom hat aufgegeben, da das Schadprogramm immer raffiniertere Funktionen aufweist und er sein Tool nicht mehr anpassen kann.
+Der Internet Explorer ist besonders betroffen, weil ihn die Entwickler für Zusatzfunktionen von anderen Anbietern geöffnet haben.
+Diese Zusatzprogramme werden automatisch mit dem Internet Explorer gestartet, ohne dass der Anwender das überhaupt bemerkt.
+Auch CoolWebSearch nutzt diese Schnittstelle für seine Aktivitäten.
+Das amerikanische Unternehmen Definitive Solutions hat eine kostenlose Software entwickelt, die alle installierten Helper Objects anzeigt und Vorschläge zum weiteren Vorgehen macht.
+Laien bleibt im schlimmsten Fall nur eine Neuinstallation oder das Aufspielen eines noch sauberen System-Images.
+Oder aber die Website Trojaner-info.de, auf der Wege zum Entfernen der Hijacker erläutert werden.
+Microsofts Internet Explorer gilt unter vielen Fachleuten als unsicher, und auch viele Anwender sind von den Qualitäten nicht immer überzeugt.
+Auf der Internetseite der Aktivisten werden Opera, Firefox und Mozilla für Windows und Apples Safari als die bessere Wahl empfohlen.
+Zwar ist es grundsätzlich auch möglich, andere Browser zu kapern, aber der Anwender muss dies aktiv unterstützen.
+Erst durch das gewollte Herunterladen und Installieren einer schädlichen Erweiterung gerät der Browser in fremde Hände.
+Eine verborgene Installation im Hintergrund wie beim Microsoft Internet Explorer ist hier nicht möglich.
+Inzwischen geht es den Entwicklern von schädlichen Programmen nicht mehr um Ruhm und Ehre, sondern um Geld und Umsätze.
+Das lässt befürchten, dass den Surfern auch in Zukunft unsichere Zeiten bevorstehen.

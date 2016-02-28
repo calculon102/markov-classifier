@@ -1,0 +1,42 @@
+Cisco: Internes Leck oder Hackereinbruch?
+Die Gerüchte über den zumindest teilweisen Diebstahls des Quellcodes von Ciscos Internetwork Operating System IOS haben sich bestätigt.
+Teile des Quellcodes wurden über eine russische Webseite veröffentlicht.
+Wie der Code dorthin gelangt ist, prüft Cisco nun nicht nur Firmenintern, sondern auch assistiert vom FBI und anderen Behörden.
+Denn Angriffe auf das IOS würden die Stabilität und Sicherheit des Internet gefährden.
+Cisco ist unter den Entwicklern und Herstellern von Routern und Switches für den kommerziellen Einsatz der dickste Player am Markt, IOS ist entsprechend weit verbreitet.
+Prinzipiell ließe sich der Quellcode dazu nutzen, Angriffspunkte im IOS-Betriebssystem zu finden und anzugreifen.
+Ob das geschehen wird, steht jedoch in den Sternen: Selbst identifizierte Windows-Lecks werden längst nicht immer angegriffen.
+Die prüft das tatsächlich, was echten Seltenheitscharakter hat: Was die Behörde einmal entscheidet, revidiert sie nur äußerst selten - selbst wenn sich ein vergebenes Patent als triviale, bloße Abzocke erweist.
+Angeblich favorisieren Kommission und Ministerrat den Ansatz, der europäisches Recht weitgehend mit US-Recht gleichschaltet und Groß- und hier insbesondere US-Unternehmen, die über viele Patente verfügen, begünstigt.
+Vertreter kleiner und mittelständischer europäischer IT-Unternehmen wehren sich da mit Händen und Füßen, sehen den Bestand ihrer Geschäfte bedroht.
+Beim Europaparlament hatten sie bereits Erfolg: Die EU-Volksvertreter kassierten den Antrag mit deutlicher Mehrheit dagegen.
+DPA EU-Kommissar Frits Bolkestein: Auf Druck der Amerikaner eingeknickt?
+Heute nun kommt der zweite Anlauf, in einer leicht revidierten Form. Ob allerdings der Ministerrat weiterhin so fest hinter dem Entwurf steht, ist fraglich: Die Vertreter Deutschlands wackeln seit einigen Wochen.
+An Stelle der Zustimmung soll als deutsches Votum eine Enthaltung ergehen.
+Als weitere Wackelkandidaten werden Luxemburg, Ungarn und Spanien gehandelt.
+Mutiger outen sich da die Belgier, die gegen den Entwurf stimmen werden.
+Das Ergebnis der Abstimmung gilt nun - entgegen vieler Erwartungen - als offen.
+Die Gegner brauchen 37 Stimmen, um den Softwarepatententwurf im Ministerrat scheitern zu lassen.
+Deutschland verfügt allein über 10 Stimmen, doch Justizministerin Brigitte Zypries mag sich nicht festlegen.
+Sollte sich der Ministerrat für den Entwurf entscheiden, wäre in EU-Parlament, Kommission und Ministerrat wohl noch für Jahre für Diskussionsstoff gesorgt.
+Eine zweite Lesung durch das Parlament wäre nicht vor dem Herbst zu erwarten.
+Lehnten die Parlamentarier den Entwurf ab, käme es zur Schaffung eines Vermittlungsausschusses.
+Diese Brüsseler Ausschüsse stehen im Ruf, ihre Aufgabe sehr ernst zu nehmen.
+Angekündigt wurde es viele Male, als es endlich passierte, bemerkte es kaum einer: Am Montag überquerte erstmals ein Langstreckenflieger den Atlantik, der seinen Passagieren WiFi-Internetzugang während des Fluges erlaubte.
+Wie viele das Angebot tatsächlich nutzten, ist nicht bekannt.
+Der Air-Carrier will bis 2006 seine gesamte Flotte von 78 Langstreckenfliegern mit FlyNet ausstatten.
+Das ist bequem, aber nicht kostenlos: Die 30-minütige Internetnutzung an Bord kostet 9,95 US-Dollar, jede weitere Minute 0,25 US-Dollar; ein gesamter Flug schlägt mit 29,95 US-Dollar zu Buche.
+Am Montag unterzeichnete die EU-Kommission das lang heftig umstrittene Abkommen mit der US-Regierung zur Speicherung der Daten von Flugpassagieren.
+Wer künftig über den Atlantik will, muss Daten lassen: Das Abkommen erlaubt den Amerikanern, 34 Datensätze von der Kreditkartennummer bis zu erflogenen Bonus-Meilen abzufragen und dreieinhalb Jahre zu speichern.
+Weit weniger Vertrauen hatte da das EU-Parlament, das ursprünglich sogar den Europäischen Gerichtshof anrufen wollte.
+Jetzt hat die Kommission, gedeckt durch die Regierungen der meisten Mitgliedsstaaten, Tatsachen geschaffen.
+Genau das meinte wohl auch Frau Leutheusser-Schnarrenberger.
+Seh-Störung: Wer erträgt 50 Stunden Fernsehen?
+Andreas Federspieler aus Italien, Alexander Hall und Ramona Rosenfeld aus Aachen, Josef König aus Österreich und Hartmut Wedow aus Herzogenrath haben am Montag den Weltrekord im Dauerfernsehen gebrochen.
+Den alten Weltrekord überboten sie damit um rund drei Stunden.
+Lohn der Tortur: Ein Eintrag ins Guinessbuch der Rekorde.
+Wer hingegen den 5000 Euro teuren Fernseher gewinnt, muss erst das Los entscheiden: Eigentlich waren die fünf nämlich nicht nur mit-, sondern auch gegeneinander angetreten.
+Doch es gab keinen Fernseh-Sieger: Am Montag beschloss die Gruppe, geschlossen aufzugeben.
+Welches deutsche TV-Programm geeignet wäre, es 50 Stunden zu ertragen, ohne völlig wahnsinnig zu werden, ist auch der Rekordgruppe nicht bekannt.
+Dreiländereck sei Dank hatten sie die Auswahl aus 130 TV-Programmen, die sie fleißig durchzappten.
+Das Ganze fand unter ständiger Beobachtung im Schaufenster eines TV-Händlers statt.

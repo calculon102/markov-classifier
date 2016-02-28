@@ -1,0 +1,37 @@
+Hamburg - An mangelnden Schlagzeilen lag es nicht.
+Seit etlichen Jahren erhalten Regierungen, Behörden und Unternehmen immer neue Schreckenensmeldungen über Sicherheitslecks in Computersystemen.
+Und wenn Hacker sogar das Netzwerk von Microsoft knacken können, so geschehen im Oktober 2000, sollte das eigentlich zu Denken geben - auch in der freien Wirtschaft.
+Seit den Terrorattacken vom 11. September 2001 zittert die Welt zudem vor möglichen Al-Qaida-Angriffen aus dem Cyberspace auf Kernkraftwerke und Staudämme.
+Positiver Nebeneffekt: Die Gesellschaft scheint für Sicherheitsfragen stärker sensibilisiert.
+Auch für die Viren und Würmer, die ganze Festplatten zerstören und in den Firmennetzwerken Tausende von Kundendaten vernichten, für Wirtschaftsspionage durch Netzwerk-Einbrüche via Internet und Datenklau.
+Also: Die deutsche Wirtschaft investiert in Anti-Viren-Pakete, Verschlüsselungsprogramme, neue Identifizierungs- und Überwachungssysteme, um sich vor Angreifern aus dem Netz zu schützen?
+Bei 60 Prozent der Unternehmen stagnieren die Budgets für die IT-Sicherheit oder gehen sogar zurück.
+Der im Auftrag der Unternehmensberatung Mummert und Partner erstellten Studie zufolge liegt Deutschland damit hinter den USA und Großbritannien klar zurück.
+Dabei sind die Sicherheitslücken in deutschen Datennetzen für Unternehmen ein echter Verlustfaktor.
+Insgesamt 1,2 Millionen Tage sind die Computersysteme in deutschen Unternehmen im vergangenen Jahr aufgrund von Attacken auf die IT-Infrastruktur ausgefallen.
+Sowie sie ihr Netzwerk ans Internet angeschlossen haben, sind Unternehmen generell angreifbar.
+In Deutschland besitzen fast zwei Drittel der Firmen eine Internetseite.
+Jedes zweite Unternehmen nutzt ein sogenanntes virtuelles privates Netzwerk (VPN), das interne Daten mit Hilfe des Internets verbreitet.
+Die Internetseite funktioniert dabei wie eine geöffnete Tür, die Hacker gerade dazu einlädt, das Firmennetzwerk aufzumischen - und die Cyberpiraten nahmen der Mummert-Studie zufolge die Einladung dankbar an.
+Mehr als die Hälfte der befragten Firmen war demnach im vergangenen Jahr Opfer eines Angriffs.
+Das wissen auch die Unternehmer.
+Datensicherheit genießt der Studie zufolge bei den Firmenlenkern höchste Prioriät.
+Mit der Firewall schottet sich bereits fast jedes Unternehmen von der Außenwelt ab.
+Die Mauer zwischen Firmennetzwerk und Internet prüft jedes Datenpaket, dass von außen eindringen will.
+Das klappt aber nur, wenn die Dateiart bekannt ist, und die erkennt die Firewall nur bei regelmäßigen Updates.
+Wer das Computersystem so gründlich pflegen will, braucht Zeit - und Geld.
+In mehr als der Hälfte der befragten Unternehmen ist das Budget für den IT-Sicherheitsbereich so begrenzt, dass die Firma den neuartigen Viren schutzlos ausgeliefert ist - das Management will oder kann nicht die teuren Updates bezahlen.
+Das sollten sie aber, sagen Experten, denn die Computerkriminalität in Deutschland steigt an.
+Mindestens jede zweite Unternehmen ist schon Opfer von Saboteuren oder Hackern geworden, hat der Bundesverband Informationstechnik, Telekommunikation und Neue Medien (Bitkom) herausgefunden.
+Und die Dunkelziffer ist hoch.
+Hackerangriffe werden nicht als solche erkannt und zum Beispiel als technisches Problem fehlinterpretiert.
+Aber schon in drei Jahren werden neun von zehn deutschen Unternehmen von Angriffen auf ihre Computeranlagen berichten, prognostizieren IT-Sicherheitsexperten von Mummert und Partner.
+Wenn die Unternehmen bis dahin überhaupt merken, dass sie angegriffen werden.
+Die wahre Zahl der kriminellen Attacken aus dem Cyberspace liegt noch weitaus höher, sagt Wilhelm Alms, Vorstandsvorsitzender von Mummert und Partner.
+Da komplette Ausmaß der Computerkriminalität werde erst dann sichtbar werden, wenn sich die Sicherheitskontrollen stark verbessern würden.
+Und Verbesserung scheint nötig, denn im Internet wird es immer gefährlicher.
+Im vergangenen halben Jahr nahmen die Angriffe auf Organisationen im Internet um 28 Prozent zu.
+Beliebte Ziele waren die Webseiten von Technologie-, Finanz- und Energieunternehmen, hat die amerikanische Internet-Sicherheitsfirma Riptech festgestellt.
+Werden so wichtige Firmengeheimnisse veröffentlicht oder wandern gar zum Konkurrenten, ist schnell das Image zerstört, die Kunden weg und neue Aufträge nicht mehr in Sicht.
+Zumindest die Sorge um sich selbst sollte für die Manager doch Motivation genug sein, künftig mehr in Sicherheit zu investieren.
+Dass möglicherweise vertrauliche Daten von Kunden in Gefahr sein könnten, scheint den deutschen Unternehmenslenkern ja bisher keine schlaflosen Nächte bereitet zu haben.

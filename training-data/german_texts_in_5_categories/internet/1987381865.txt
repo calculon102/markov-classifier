@@ -1,0 +1,25 @@
+Wohin hat sich Schuldner X abgesetzt?
+Kommt der Mieter Y wirklich aus Marseille?
+Bisher ist es aufwendig, auf solche Fragen eine Antwort zu finden.
+Künftig, hoffen die Entwickler des Projekt RISER, soll das per Mausklick gehenmit EU-weit abgestimmten Melderegistern.
+Bürger der Europäischen Union können seit Ende September grenzüberschreitende Melderegisteraufträge in Deutschland und Österreich in Auftrag geben.
+Mit einem Internetportal sollen Auskünfte aus den Melderegistern zu einer einfachen Angelegenheit werden.
+Um Probleme mit dem Datenschutz zu vermeiden kooperiert das Projekt mit dem Unabhängigen Landeszentrum für Datenschutz Schleswig-Holstein.
+Pilotkunden können den RISER-Dienst kostenlos nutzen.
+Lediglich die Verwaltungsgebühren der Kommunen für die Adressauskunft - in der Regel vier Euro pro Anfrage - werden den Pilotkunden in Rechnung gestellt.
+Der RISER-Dienst bietet so eine maximale Abdeckung amtlicher Melderegister.
+Bisher können nur Daten aus Österreich und Deutschland abgefragt werden, aber Irland soll schon bald folgen.
+Eine Anfrage besteht aus Name, Vorname, Geschlecht sowie entweder einer alten Anschrift oder dem Geburtsdatum.
+Als Antwort liefert RISER die aktuelle Postanschrift.
+Bürger, die nicht wollen, dass ihre Anschrift über RISER herausgegeben wird, können ihrer Kummune die so genannte Online-Auskunft per Antrag untersagen.
+In Deutschland sind die Melderegister dezentral bei den Kommunen organisiert und auch mit RISER bleibt die Speicherung dezentral.
+Das Projekt kann auf einen Standard zurückgreifen, der den problemlosen Datenaustausch zwischen den deutschen Kommunen garantiert.
+Bisher ist das Verfahren aufwendig und bürokratisch.
+Mit einer Vereinfachung durch ein Internetportal wird die Inanspruchnahme zunehmen.
+Allein in Deutschland werden jedes Jahr 25 Millionen Meldeauskünfte von Unternehmen und Bürgern eingeholt.
+Bei der PSI AG hofft man darauf, dass schon in naher Zukunft weitere Länder einsteigen.
+Polen, Schweden, Dänemark und die Schweiz stehen ganz oben auf der Wunschliste.
+Allerdings ist nicht zu erwarten, dass alle europäischen Länder mitmachen werden, denn dazu ist die nationale Gesetzgebung zu unterschiedlich.
+Griechenland hat zum Beispiel kein zentrales Melderegister und auch in Frankreich besteht keine gesetzliche Meldepflicht.
+Die Angst vor terroristischen Anschlägen führte nach dem 11. September in vielen Ländern zu einem Umdenken und Großbritannien ist gerade dabei ein Melderegister aufzubauen.
+Bis das per Mausklick in Europa bei 25 Mitgliedstaaten und über 450 Millionen Einwohnern möglich ist, werden aber noch einige Jahre vergehen.

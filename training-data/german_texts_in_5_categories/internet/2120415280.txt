@@ -1,0 +1,22 @@
+Das Urteil beendet faktisch die Abzocke mit Dialer-Software im Internet, denn kaum jemand entscheidet sich willentlich zur Installation eines Dialers.
+Unter dem Aktenzeichen III ZR 96/03 befand der Bundesgerichtshof in Karlsruhe, dass man Gebühren für Dialerdienste, die man nicht bewusst in Anspruch genommen hat, nicht bezahlen müsse.
+Die Bedingung: Die Dialereinwahl müsse automatisch durch ein eingeschmuggeltes Programm geschehen.
+Ihre Betreiber sitzenzumindest offiziell - oft im Ausland, denn die Abzocke funktioniert grenzüberschreitend.
+Wer heute im Web etwa nach Hausaufgaben-Hilfen, Kochrezepten oder Witzsammlungen sucht, kommt kaum am Dialer vorbei: Das Web ist regelrecht verseucht.
+Das kann auch das Urteil des BGH nicht ändern - aber es macht die Abzocke für die zahlreichen Trickbetrüger weniger attraktiv.
+Das ist jetzt vorbei: Der 3. Zivilsenat des BGH sprach hier deutlich Recht.
+Der Kunde sei auch nicht verpflichtet, vorsorglich Abwehrmaßnahmen gegen Dialer zu treffen.
+Das BGH wies mit seinem Urteil den Revisionsantrag eines Telefonunternehmens zurück, das in der Vorinstanz mit einer Klage auf Zahlung von rund 9.000 Euro Verbindungsentgelt gescheitert war.
+Die horrenden Telefonrechnungen liefen auf, weil ein Dialer die Einstellungen auf einem PC so verändert hatte, dass Verbindungen zum Internet nur noch über eine 0190-Nummer hergestellt wurden.
+Der Dialer gelangte durch einen Trick auf den Computer.
+Der Sohn der Beklagten hatte beim Surfen im Internet eine Datei heruntergeladen, die die schnellere Datenübertragung versprach.
+In Wirklichkeit enthielt die Datei einen Dialer.
+Die von ihm bewirkten Veränderungen in dem PC bestanden auch dann noch weiter, als die Datei gelöscht worden war.
+Die Manipulation war bei normaler Nutzung des Computers nicht bemerkbar.
+Dem vom BGH bestätigten Urteil der Berufungsinstanz zufolge hat das Telefonunternehmen nur Anspruch auf ein Entgelt, wie es bei einer normalen Verbindung mit dem Internet angefallen wäre.
+Die Richter erklärten, das Unternehmen müsse sich das Vorgehen des Inhabers der 0190-Nummer anrechnen lassen.
+Die Beklagte habe einen Schadenersatzanspruch, der gegen die Telefongebühren aufgerechnet werden müsse.
+Die Rechnung müsse so sein, als ob der Dialer nicht installiert gewesen wäre.
+Er zog eine Klausel der Allgemeinen Geschäftsbedingungen des Unternehmens sowie sinngemäß den Paragrafen 16 Absatz 3 Satz 3 der Telekommunikations-Kundenschutzverordnung (TKV) heran.
+Danach muss ein Kunde nicht für die Nutzung seines Telefonanschlusses durch andere zahlen, wenn er diese nicht zu vertreten hat.
+Das Gericht erklärte, in einem solchen Fall müsse das Telefonunternehmen das durch Missbrauch von 0190-Nummern entstehende Risiko tragen, denn schließlich kassiere es ja auch einen Teil der teuren Gebühren.

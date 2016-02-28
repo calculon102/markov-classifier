@@ -1,0 +1,38 @@
+Der Staat kann die Bürger belauschen - und will es scheinbar immer mehr.
+Der Entwurf für eine neue Telekommunikations-Überwachungsverordnung bereitet Datenschützern und Providern Bauchschmerzen.
+Weniger Grundrechte fürchten die einen, mehr Kosten die anderen.
+Stein des Anstoßes ist einmal mehr eine alte Bekannte: Die Telekommunikations-Überwachungsverordnung, kurz TKÜV.
+Ein neuer Entwurf sieht eine Ausweitung der Regelungen vor.
+Was ist die TKÜV?
+Die erstmalig im Frühjahr 1998 aufgetauchten Pläne für die Überwachungsverordnung trafen zunächst auf heftigen Widerstand.
+Erst im Fahrwasser des 11. Septembers 2001 ging es schnell: Die TKÜV wurde durchgewunken und trat am 29.1.2002 in Kraft.
+Und blieb ungeliebt wie eh und je.
+Doch die anhaltende Kritik übersieht in Teilen, was die TKÜV ist - oder gerade nicht.
+Die derzeit 27 Paragraphen bestimmen den bloßen verfahrenstechnischen Ablauf der Überwachung.
+Damit ermächtigt die verrufene Verordnung selbst weder staatliche Lauscher zum Mithören, noch verpflichtet die TKÜV Dienste-Anbieter zum Einrichten teurer Infrastruktur.
+Vielmehr erlauben erst die dahinter stehenden Vorschriften, insbesondere § 100a der Strafprozessordnung, überhaupt das Mithören.
+Und § 110 TKG (früher § 88 TKG) verpflichtet die Telekomanbieter zur Errichtung der Abhör-Infrastruktur auf eigene Kosten.
+Für grundsätzliche Kritik an diesen Grundrechtseingriffen sind deshalb eben diese dahinter stehenden Vorschriften die richtige Adresse.
+Nichtsdestotrotz bereitet die Rechtsverordnung auch damit Datenschützern und Telekommunikations-Anbietern Bauchschmerzen.
+Den Kostenaufwand und die Überwachungsintensität drohen geplante Neuregelungen zur Überwachung mit Auslandsbezug und zur umstrittenen Positionsbestimmung von Handys zu erhöhen.
+Kernpunkt der Reform ist jedoch die Frage, wie abzuhörende Geräte identifiziert werden können.
+Bisher hat jede richterliche Anordnung eine Rufnummer oder ein vergleichbares Merkmal zu nennen.
+Im Klartext: Die Überwachung könnte statt individualisierter Beschreibung eines einzelnen Abzuhörenden einen pauschalen Bezugspunkt nutzen, z.B. komplette Funkzellen oder WLAN-Hotspots.
+Sämtliche Teilnehmer einer Veranstaltung könnten damit auf einen Schlag überwacht werden.
+Oder gleich alle Bewohner bestimmter Stadteile.
+Doch zwar würden die TKÜV-Neuerungen auch für solche Anordnungen die technischen Voraussetzungen schaffen; praktisch erlauben die dahinter stehenden Gesetze eine solche Form der Überwachung aber eben doch nicht.
+Doch weniger als auf geographische Kriterien zielt der neue Entwurf auf die IMEI-Kennung von Handys ab.
+Nutzt - wie in der Praxis üblich - eine zu überwachende Person mehrere GSM-Karten in seinem Handy, so ist für jede Karte eine einzelne Anordnung zur Überwachung erforderlich.
+Könnte nun auf Grundlage der IMEI (International Mobile Equipment Identity) das Handy des Verdächtigen Karten-unabhängig identifiziert werden, so vereinfacht dies den Lauschern ihr Handwerk: Nur noch eine Anordnung muss beantragt werden.
+Zumindest als Nebeneffekt wäre auch gleich der hässliche Anstieg in der Überwachungsstatistik gebremst.
+Seit Jahren kritisieren Datenschützer die konstante Zunahme der Grundrechtseingriffe in das Fernmeldegeheimnis.
+Der augenscheinlich immer gieriger lauschende Staat gibt kein gutes Bild ab.
+Doch die Gründe liegen zum Teil eben in der bisherigen Praxis der Anordnungen.
+Laut Statistik entfällt inzwischen die große Mehrheit der Überwachungsanordnungen auf Mobilfunk-Anschlüsse.
+Und auch weil in einschlägigen Kreisen mehrere GSM-Karten pro potenziellem Missetäter zum guten Ton gehören, schwillt die Anzahl der Anordnungen weiter an.
+Erlaubt die TKÜV-Reform nun die IMEI-bezogene Überwachung, wäre ein gewichtiger Grund für das aus staatlicher Sicht missliche Ansteigen der Statistik gebannt - und den Datenschützern der Wind aus den Segeln genommen.
+Freilich würde nicht weniger gelauscht werden: Nur erfasste dann eine einzige Anordnung einen weiteren Kreis...
+Zwar hält der Bundesgerichtshof schon heute die IMEI-bezogene Anordnung für zulässig.
+Unter Experten ist diese Auffassung auf Grundlage der derzeitigen TKÜV jedoch umstritten.
+Die geplante Neuregelung würde Klarheit schaffen.
+Einmal mehr zugunsten der staatlichen Lauscher.

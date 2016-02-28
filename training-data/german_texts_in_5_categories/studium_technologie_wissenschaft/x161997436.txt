@@ -1,0 +1,54 @@
+Die Zukunft des Home Entertainment ist vernetzt, keine Frage.
+Wer das Sofa als Schnittstelle des heimischen Mediacenters schnell genug salonfähig macht, kann das Hausnetzwerk ausbremsen.
+Der Wettlauf hat begonnen.
+Fast-TV-Server: Etwas mehr als nur ein Festplatten-Videorekorder, etwas weniger als ein PC.
+Das ist durchaus keine Vision mehr, dieser Server nennt sich Smart und ist in den USA bereits zu kaufen.
+Der Zentralrechner für das Eigenheim ist Produkt eines Joint-Ventures von General-Electric und Microsoft.
+Glaubt man den Prognosen der Branchen-Auguren, gehört dem vernetzten Haus die Zukunft.
+Das Nahziel der Industrie ist aber erst einmal die Vernetzung des Fernsehers mit allen wichtigen Distributionswegen für Audio und Video - und das zu Preisen, die auch nach einer gestrichenen Eigenheimzulage in Reichweite der Konsumenten liegen sollen.
+Dreh- und Angelpunkt aller Ansätze ist bisher das Fernsehgerät, bisher fest in der Hand der Unterhaltungsgeräte-Hersteller.
+Mit eigenen Konzepten wollen die versuchen, den Hausherren an sein Sofa zu fesseln: Beim Thema Home Entertainment kommt es zum Showdown im Wohnzimmer, IT- gegen Unterhaltungs-Elektronik-Industrie.
+Fast überzeugend ...
+Heraus kommen kleine Hightech-Träume.
+Dabei handelt es sich um ein elegantes, kompaktes Gerät, das sich unauffällig und nahtlos ins Audio-Video-Regal einfügen lässt.
+Drin stecken ein Festplatten-Videorekorder sowie MP3- und JPG-Bildspeicher.
+Der Fast-Server kann je nach Ausführung 100 oder 200 Stunden Videomaterial auf seiner Festplatte unterbringen.
+Gesteuert wird der Server über eine ganz normale Fernbedienung.
+Bei der Musikwiedergabe hilft das integrierte Textdisplay, die Übersicht zu behalten.
+Im TV-Modus sorgen On-Screen-Anzeigen für den nötigen Durchblick.
+Das Gerät verfügt über einen eigenen TV-Tuner für den Kabelanschluss.
+Das Kabelsignal wird durchgeschleift.
+So kann ein Programm aufgezeichnet werden, während ein anderes geguckt wird.
+Auf einen Internetanschluss hat man bei Fast klar verzichtet.
+Der TV-Server ist ein reines Wohnzimmergerät.
+Besitzer des großen TV-200 können auf der Webseite www.tvtv.de in einer nett gemachten TV-Zeitschrift blättern und Sendungen, die aufgezeichnet werden sollen, per Mausklick aussuchen.
+Die persönliche Auswahl ist mit der Gerätenummer verbunden und wird binnen einer halben Stunde über das Fernsehsignal in den TV-Server übertragen.
+Damit ist das Thema Programmierung abgeschlossen.
+Die Netzwerkoption stellt das Festplattenarchiv an Filmen, Musik und Bildern wahlweise auch dem PC zur Verfügung.
+Der Zauberer von Oz?
+Einen ganz anderen Weg schlägt der französische Elektronikkonzern Thomson vor.
+Er versucht mit seinem Oz Media-Server ein zentrales Speichergerät zu positionieren, welches sich per Firewire und WLAN mit anderen geeigneten Endgeräten verständigen kann.
+Dabei hat Thomson mit diesem Denkmodell das ganze Haus in Visier.
+Bis zu vier Videos können gleichzeitig abgespielt in einzelne Räume des Hauses verteilt werden.
+Steuerbefehle können über jedes Display, also den TV-Bildschirm, den PC oder einen PDA erteilt werden.
+Zugleich fungiert Oz als ADSL-WLAN-Router und ermöglicht vernetzten Endgeräten Internetzugriff oder bedient sich an Video-on-Demand-Angeboten.
+Als drahtlose Verbindungstechnik setzt Thomson auf den WLAN-Standard 802.11a mit seinem Datendurchsatz von 54 MBit.
+Der Oz-Server könnte auch Funktionen der Haustechnik steuern, zum Beispiel eine Kamera im Eingangsbereich einschalten, wenn es an der Tür klingelt und das Kamerabild auf dem Fernseher präsentieren.
+Aber in erster Linie geht es darum, das digitale Ton- und Bildarchiv an allen Stellen des Hauses zur Verfügung zu stellen.
+Auch wenn das Thomson-Konzept viel zu weit greift, um heute kommerziell vermarktbar zu sein, so liefert diese Machbarkeitsstudie einen interessanten Ausblick in die Zukunft.
+Smart liefert einen Kompakt-PC mit eigens entwickeltem EPG und einer Linux-Bedienoberfläche.
+Etwas handfesteres möchte der Settop-Box-Hersteller Smart seinen Kunden präsentieren.
+Internet, Radio, Fernsehen verspricht der MSP 01.
+Das schlanke Gehäuse vereint einen digitalen Satellitenreceiver für (DVB-Satellit oder DVB-Kabel) und bietet 400 voreingestellte digitale TV- und Radioprogramme.
+Ein eigener EPG sorgt für den nötigen Durchblick.
+Natürlich ist der MSP-01 mit einer Aufnahmekapazität von 200 Stunden Filmmaterial auch ein digitaler Festplattenvideorekorder, speichert und spielt aber ebenso digitale Tonträger in allen gängigen Formaten.
+Dank seiner Ethernet-Karte lässt sich der MSP-01 auch ins Internet bringen oder fungiert bei Bedarf als Heim-PC.
+Und tatsächlich: Im Wesentlichen ist der MSP-01 ein PC, mit einer Multimediaportal-Bedienoberfläche.
+Linux als Betriebssystem sorgt dafür, dass das Wohnzimmer auch mit dem Smart-Multimediaserver eine microsoftfreie Zone bleibt.
+Für reine Freizeit-PC-Nutzung kann der Gang ins Arbeitszimmer ausfallen.
+Die ausgeklügelte Sandwich-Fernbedienung lässt sich wie ein Zollstock auseinander klappen und schon kommt eine kleine Standardtastatur zum Vorschein.
+Nett gedacht, hübsch gemacht und doch ein Symbol für das Dilemma, in dem sich die Unterhaltungsgeräte-Industrie befindet.
+Die schöne neue Medienwelt ist letztlich nur mit PC-Technik zu beherrschen.
+Und das weiß auch der Platzhirsch der IT-Branche.
+Microsoft versucht, den Home-Entertainment-Markt von der kontrollierenden Schnittstelle her aufzurollen.
+Dass das gelingt, ist längst nicht ausgemacht.

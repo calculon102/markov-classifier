@@ -1,0 +1,38 @@
+Seit Ende Oktober verkauft das Hamburger Softwarehaus freiheit.com unter der Adresse Bookzilla.de Bücher.
+Die Verkaufsprovisionen fließen der Free Software Foundation zu. freiheit.com-Chef Stefan Richter erklärt im Interview, wo da der Sinn liegt.
+SPIEGEL ONLINE: Herr Richter, Sie sind Geschäftsführer eines Technologieunternehmens.
+Jetzt verkaufen Sie plötzlich Bücher: Warum?
+Stefan Richter: Bookzilla ist ein Buchhandels-Shop, der nur zum Ziel hat, Spenden für Freie Software zu sammeln.
+Unser Unternehmen ist eigentlich eine Softwarefirma.
+Wir haben diesen Shop für das Buchgroßhandelsunternehmen Libri entwickelt und dabei sehr viel Freie Software eingesetzt.
+Das tun wir ganz generell sehr oft und engagieren uns deshalb auch gern für die Sache der Freien Software.
+So wie andere Unternehmen vielleicht Kunst sponsoren, engagieren wir uns für Fragen der digitalen Bürgerrechte oder der Zukunft der Informationsgesellschaft.
+SPIEGEL ONLINE: Abstrakte Themen, die Sie ganz konkret über die Open Source angehen?
+Richter: Je umfassender Informationen digitalisiert werden, desto schwieriger würde der Zugang zu ihnen, wenn es keine Freie Software mehr gäbe.
+Das ist vielen Menschen noch gar nicht klar.
+Die Frage, wofür man Freie Software braucht, ist nicht abstrakt: Das hat etwas mit freier Marktwirtschaft und auch mit freier Meinungsäußerung zu tun.
+Wir spenden selbst auch als Unternehmen, mit Bookzilla nutzen wir aber so zu sagen die Freie Software, für sich selbst Geld zu verdienen.
+SPIEGEL ONLINE: Wie läuft das konkret ab?
+Richter: Libri arbeitet mit vielen Partnern, denen das Unternehmen die Softwareplattform für den Buchverkauf zur Verfügung stellt.
+Alle haben den vollen Zugang zu den Datenbanken.
+Die Partner können die Plattform nun dem Design ihrer Seiten anpassen und selbst Waren an Endkunden verkaufen.
+Dafür bekommen sie von Libri eine Provision.
+SPIEGEL ONLINE: Und sie sind mit Bookzilla nun zum Partner ihres technischen Kunden geworden...
+Richter: Wobei wir unsere Verkaufsprovision zu einhundert Prozent an die Free Software Foundation Europe weitergeben.
+Die ist in der Szene sehr bekannt und kümmert sich seit 1984 sehr nachhaltig um die Verbreitung Freier Software.
+SPIEGEL ONLINE: Das ist einerseits löblich, andererseits aber auch eine Art Showcase für sie, oder?
+Richter: Wir wollen das eigentlich nicht als klassischen Showcase sehen.
+Wir sind ja ein Softwarehaus und kein Buchhändler.
+SPIEGEL ONLINE: ...aber sie demonstrieren ihre Shop-Software im Einsatz für den guten Zweck.
+Völlig uneigennützig?
+Richter: Wir haben uns die Entscheidung wirklich nicht leicht gemacht, ob und wie wir das machen wollen.
+Schon unser Name freiheit.com klingt ja erstmal irgendwie gemeinnützig: Da muss man schon aufpassen, dass wir nicht so wahrgenommen werden.
+Wir sind ein Wirtschaftsunternehmen und haben diesen Namen gewählt, weil wir eben plattformunabhängige Software entwickeln.
+Bookzilla ist ein echtes Engagement für die Sache der Freien Software, und wir haben uns bemüht, uns selbst da weitestgehend raus zu halten.
+SPIEGEL ONLINE: Das müssen wir anerkennen: Man muss sie auf der Website regelrecht suchen.
+Richter: Die heißt Bookzilla, weil das einerseits nach Buch, andererseits nach Mozilla klingt, was ja ein sehr bekannter freier Browser ist.
+Wir wollten einen Namen, den man sich leicht merken kann.
+Ein bisschen Showcase für uns ergibt sich schon daraus, aber ich glaube kaum, dass sich für uns daraus Vertriebseffekte ergeben.
+Passt doch, oder?
+Richter: Durchaus.
+Wirtschaftsunternehmen engagieren sich ja nicht für eine gemeinnützige Sache, um sich damit unbeliebt zu machen.

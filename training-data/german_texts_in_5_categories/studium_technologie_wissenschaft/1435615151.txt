@@ -1,0 +1,20 @@
+Bis auf 100 Attosekunden genau arbeitet eine Stoppuhr, die Wissenschaftler aus Bielefeld und Wien entwickelt haben.
+Sie misst die Zeit auf 16 Stellen hinter dem Komma und ermöglicht erstmals, schnellste Vorgänge in Atomen zu beobachten.
+Beim Hundertmeterlauf zählen hundertstel, manchmal auch tausendstel Sekunden.
+Teure Fotoapparate öffnen ihre Blende mitunter sogar für weniger als eine tausendstel Sekunde.
+Atomphysikern dürften solche kaum wahrnehmbaren Momente trotzdem wie eine halbe Ewigkeit vorkommen.
+Sie arbeiten mit viel kürzeren Zeiträumen.
+Beispielsweise rast ein Elektron in gerade mal 250 Attosekunden einmal um den Atomkern - das ist die Winzigkeit von 0,00000000000000025 Sekunden.
+Eine von Physikern der Universität Bielefeld und der Technischen Universität Wien entwickelte Stoppuhr kann diese unvorstellbar kurzen Momente erstmals messen.
+Dieses Gerät ermittelt die Dauer atomarer Vorgänge mit einer Genauigkeit von weniger als 100 Attosekunden.
+Eine Attosekunde ist der Milliardste Teil einer Milliardstel Sekunde.
+Mit modernsten Mikroskopen können Forscher einzelne Atome in ihrem Ruhezustand beobachten.
+Bewegen sich die Atome jedoch, braucht man sehr kurze Lichtpulse, um die Bewegung aus einer Serie von Schnappschüssen rekonstruieren zu können.
+Um einen fliegenden Tennisballes scharf zu fotografieren, reicht eine Belichtungszeit von einer tausendstel Sekunde aus.
+Für die schnellsten atomaren Bewegungen in Molekülen müssen die Lichtblitze billionenfach auf wenige Femtosekunden verkürzt werden.
+Innerhalb der Elektronenhülle angeregter Atome sausen Elektronen noch tausendmal schneller.
+Sie wechseln binnen 10 bis 1000 Attosekunden von einem Energiezustand in einen anderen.
+Dabei fliegen Atome, die ursprünglich in einem Molekül gebunden waren, auseinander oder senden ultraviolette oder Röntgenstrahlung aus.
+Die neu entwickelte Stoppuhr kann dafür ausreichend kurze Lichtpulse erzeugen und aufzeichnen.
+Die Wissenschaftler hoffen, damit chemische Reaktionen besser zu verstehen.
+Die ultraschnellen Abläufe in der Elektronenhülle sind auch für die Synthese neuer Materialien interessant.

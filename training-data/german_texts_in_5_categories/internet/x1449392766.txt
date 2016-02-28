@@ -1,0 +1,21 @@
+Offenbar ist es russischen Internet-Betrügern gelungen, mit einem perfiden Trick rund 300 Passworte für das Online-Banking einer neuseeländischen Bank zu erschleichen.
+Eigentlich ist der Trick bekannt - aber immer wieder überzeugend.
+Der Köder kommt per E-Mail: Die offiziell anmutende Botschaft fordert Kunden dazu auf, dringend die Website eines Unternehmens zu besuchen, bei dem man Kunde ist.
+Dort darf man sich dann wie gewohnt einloggen - nur, dass sich hinter der Log-in-Seite manchmal eben nicht das Unternehmen des Vertrauens verbirgt.
+Soweit das Muster des seit etwa eineinhalb Jahren populären Tricks.
+Das fällt vielen nicht weiter auf.
+Deutsche Surfer kennen den Betrugs-Trick aus einer etwa seit einem Jahr anhaltenden Spam-Mail-Welle mit Post, die angeblich von eBay, Yahoo oder Microsoft kommt.
+Mal wird die Masche benutzt, um Passwörter abzufischen, mal, um einem Computernutzer ein frisches Virus unterzujubeln.
+Offenbar russischen Betrügern gelang es am Wochenende, rund 300 Nutzern einer neuseeländischen Internet-Bank die Passworte abzuluchsen.
+Noch herrscht Konfusion, und die Bank betreibt Schadensbegrenzung: Ob es den Trickbetrügern gelungen sei, tatsächlich auch Geld abzuziehen, müsse noch geklärt werden.
+Gelungen war das vor einigen Monaten Betrügern im Fall einer südafrikanischen Bank.
+Eine ebenfalls auf Mails und gefälschten Bankseiten basierende Betrugsaktion meldeten vor Monaten zwei australische Banken.
+Weniger freigiebig mit Informationen sind Banken, wenn es darum geht, entstandene Schäden zu benennen: Ängstlich achten sie darauf, den Ruf des sicheren Online-Bankings zu wahren.
+Bei Schäden, die durch echte Hacks entstehen, leisten Finanzunternehmen darum wohl äußerst kulant Ersatz.
+Anders ist kaum zu erklären, warum keine Schadensfälle bekannt werden, obwohl es bekannte Methoden gibt, herkömmliches PIN-TAN-Banking zu knacken.
+Weiß man, dass so etwas gegen die Gepflogenheiten eines Unternehmens verstößt, sind solche Mails einfach zu entsorgen.
+Wirklich wichtige und dringende Nachrichten wird das Unternehmen auch auf seiner Website oder nach dem normalen Einloggen bekannt geben.
+Alles andere war dann entweder eine Fälschung - oder nicht so wichtig.
+Prinzipiell sollte man Dienstleister aber meiden, die mit solchen unsicheren Techniken arbeiten.
+Ein sicherheitsbewusstes Unternehmen verschickt keine E-Mails mit Direktlinks zu Log-in-Seiten, und schon gar keine Dateianhänge mit Programmen oder Updates.
+Gutes Online-Banking läuft über HBCI-Schnittstellen oder beispielsweise Hardware-Verschlüsselungen per Smartcard.

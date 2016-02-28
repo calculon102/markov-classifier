@@ -1,0 +1,23 @@
+Erste Anhaltspunkte förderten sie nun zu Tage.
+Doch im Laufe des Freitag kam ein neuer Verdacht auf: Der katastrophale Kurzschluss habe sich im Mittleren Westen, in der Gegend der Großen Seen ereignet.
+Als Epizentrum lokalisierten Strom-Detektive zwischenzeitlich die Stadt Lansing in Michigan.
+Für die junge Firma, die erst vor einem Jahr gegründet wurde, war es die große Nagelprobe für ihr System: Über die ganzen USA verteilt hat sie Sensoren an neuralgischen Punkten im Stromnetz installiert.
+Mit höchster Präzision messen diese Kästen gleichsam den Puls der Stromadern: Frequenz, Spannung, Strom.
+Wenn einer der Werte zu schwanken beginnt, senden die Sensoren ihre Daten an die Zentrale in Middleton, Wisconsin.
+Und wenn die Schwankung zum Crash des Netzes führt, erlauben die Daten Hinweise auf Ort und Ursache nach Vorbild einer Black Box im Flugzeug.
+Schon Schwankungen auf unter 59,9 Hertz wären auffällig.
+Möglicherweise fiel irgendwo in der Nähe in einem Kraftwerk eine Turbine aus und drehte sich zu langsam.
+Das allerdings kann mit einem Desaster enden.
+Wenn sich nicht alle Stromeinspeiser genauestens an den Pulsschlag von 60 Hertz halten, arbeiten die Stromstöße der Generatoren gegeneinander, blockieren und zerstören sich gegenseitig.
+Nach wenigen Sekunden kam es zu weiteren Störfällen in der Umgebung: Der Dominoeffekt setzte ein.
+Um nicht vom Querschlägergenerator gegrillt zu werden, schalteten sich weitere Turbinen ab.
+Aus Sicherheitsgründen wurde automatisch die Netzverbindung zum benachbarten Stromnetz in Ohio gekappt.
+Damit war der Fehler isoliert und lief ins Leere.
+Im Osten dagegen versagte die Reißleine die Netze blieben verbunden.
+Und trudelten gemeinsam in den Abgrund.
+Der Dominoeffekt raste weiter gen Osten, übersprang die Grenze zu Kanada und legte die gesamte Atlantikküste lahm.
+Diesen Unfallhergang zumindest rekonstruieren die Netzcops der Firma Softswitching.
+Wer also war der Schuldige?
+Welches Kraftwerk hat versagt?
+Es dürfte ohnehin noch eine Weile dauern, bis sich der Auslöser für das Chaos exakt und zweifelsfrei bestimmen lässt.
+Doch der wahre Fehler lag nicht in der einen Komponente, die versagte, sondern in einem System, das sich von derlei Störungen lahm legen lässt.

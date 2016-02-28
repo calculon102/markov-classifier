@@ -1,0 +1,22 @@
+Weiß da die rechte Hand nicht, was die linke tut?
+Das Erlanger Fraunhofer-Institut und der Elektronikkonzern Thomson möchten das beliebte MP3-Musikformat schon bald um ein Digitales Rechtemanagement (DRM) ergänzen.
+Mit DRM können Musikshops genau festlegen, ob überhaupt und wie oft ein Song kopiert und wie häufig er auf eine Audio-CD gebrannt werden darf.
+Bislang enthalten MP3s keinerlei Kopierschutz.
+Für den Verbraucher hat dies enorme Vorteile: Er kann mit seiner Musik machen, was er will und sie beispielsweise problemlos an Freunde weitergeben.
+Die unbeschränkte Kopierbarkeit hat auch zum Erfolg der Tauschbörsen im Internet beigetragen.
+Die Musikindustrie setzt deshalb beim Songverkauf im Internet ausschließlich auf Formate mit Rechtemanagement wie WMA oder AAC.
+Damit MP3s auch im kommerziellen Downloadgeschäft noch eine Rolle spielen, wollen Thomsen und die MP3-Erfinder vom Erlanger Fraunhofer Institut für Intergierte Schaltungen das Musikformat mit einem DRM aufrüsten.
+Die Fraunhofer-Wissenschaftler möchten mit ihrem DRM einen offenen Standard setzen - eine Kampfansage an die Kopierschutz-Systeme von Microsoft und Apple, die den Markt dominieren und spezielle Abspielsoftware erfordern.
+Ganz so einfach ist die Sache mit dem standardisierten Rechtemanagement jedoch nicht: Nicht alle portablen MP3-Player werden mit den DRM-MP3s zurechtkommen.
+Neuere Geräte dürften sich eventuell per Firmware-Update zum Abspielen überreden lassen - ältere Player hingegen nicht.
+Thomsen-Technikchef Caldwell sagte, er rechne bis Ende 2004 mit den ersten Playern und Musikshops, die das MP3-Format mit DRM unterstützen.
+Im Hause Fraunhofer ist die DRM-Initiative durchaus umstritten.
+Im Übrigen sei Kopierschutz bei MP3s nicht neu.
+Schon von seit Jahren bietet das Fraunhofer-Institut ein früh entwickeltes DRM-System dafür an - nur haben wollte es die Musikindustrie nach Grills Aussage nicht.
+Im Ilmenauer Institut für Digitale Medientechnologie, das vom MP3-Erfinder Karlheinz Brandenburg geleitet wird, hält man überhaupt nichts von DRM-Fesseln.
+Die Wissenschaftler basteln stattdessen an einem ganz anderen Konzept, um die illegale Verbreitung über Tauschbörsen zu verhindern.
+Sie wollen Musikdateien schlicht mit einer Signatur versehen, so dass eine illegale Verbreitung sofort auffällt.
+Das Prinzip ähnle den Kennzeichen an Autos.
+Ein Auto sei nicht so gebaut, dass es automatisch an einer roten Ampel halte, erklärt Grimm.
+Die Zuordnung von Signatur zu Personen könnten unabhängige Dritte übernehmen - vergleichbar mit dem Einwohnermeldeamt.
+Illegale Kopien in Tauschbörsen ließen sich anhand der vorhandenen Signatur schnell herausfischen.

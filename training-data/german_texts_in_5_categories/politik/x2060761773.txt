@@ -1,0 +1,30 @@
+Davon, dass ein Cyber-Angriff auf Amerika die Stromversorgung oder das Banksystem lahm legen könne, war da die Rede.
+Oder davon, dass Cyberattacken die USA auf ähnliche Weise bedrohen könnten wie früher Nuklearwaffen.
+Nur seien staatlich gesponserte Hacking-Offensive billiger und der Urheber könne sich besser verstecken.
+Nachdem die Zeitung aus der US-Hauptstadt in den vergangenen Wochen immer wieder aus Regierungskreisen gespeiste Artikel über Cyber-Sicherheit veröffentlicht hat, lässt sich fast vermuten, dass hier gezielt ein Bedrohungsszenario aufgebaut werden soll.
+Möglich auch, dass die Öffentlichkeit durch das Interview des Cyber-Wächters Clarke auf die offizielle Verkündung der künftigen Strategie für den Daten-Krieg vorbereitet werden soll.
+Symbolträchtigerweise soll der Plan im kommenden Monat ausgerechnet im High-Tech-Zentrum Silicon Valley erstmals öffentlich skizziert werden.
+Unter Clarkes Aufsicht wird seit neun Monaten an dem Plan gefeilt.
+Clarke sagte in dem Zeitungsinterview, sein Team arbeite unter hohem Zeitdruck.
+Es gebe mehr und mehr Hinweise, dass fremde Regierungen die digitale Infrastruktur der USA sehr genau vermessen und ihre Verwundbarkeit prüfen.
+Nach Angaben des Top-Beamten stellen Info-Kriegs-Brigaden aus fünf bis sechs Ländern eine reale Gefahr dar - sie seien bereit, die Vereinigten Staaten über das Internet oder andere Datenleitungen anzugreifen.
+Um welche Länder es sich handeln soll, sagte Clarke im Interview nicht.
+Um den Ernst der Lage zu verdeutlichen, nannte Clarke Beispiel für frühere Angriffe.
+So hätten in den Jahren 1999 und 2000 nicht identifizierte Hacker wichtige interne Daten aus dem Verteidigungsministerium und Laboren in Los Alamos und Livermore heruntergeladen.
+US-Ermittler hätten die Spur der Daten in ein nicht genanntes Land zurückverfolgen können.
+Nachdem die dortige Regierung auf die Vorfälle hingewiesen worden sei, hätten die Cyber-Angriffe verdächtig plötzlich aufgehört - und das, obwohl der angesprochene Staat seine Unschuld beteuert habe.
+Clarke und sein Stab vermuten den Angaben zufolge zudem, dass der Virus Code Red, der im vergangenen Jahr Hunderttausende Server in den USA befallen hat, unter Mithilfe einer feindlichen Regierung entstanden sein könnte.
+Al-Qaida und andere Terrorgruppen seien zwar interessiert daran, Cyber-Angriffe auf die USA zu starten, die Gefährdung durch feindliche Staaten sei indes nach neuesten Erkenntnissen größer.
+Seit dem 11. September haben Bundesbehörden in den USA ihre Ausgaben für Informationstechnologie um 64 Prozent auf 4,5 Milliarden Dollar im Fiskaljahr erhöht.
+Weniger detailreich schilderte Clarke, wie mögliche Abwehrmaßnahmen und ein eigener Cyber-Angriff durch die USA aussehen könnten.
+Nach dem Krieg gegen Serbien haben die Vereinigten Staaten zwar eingeräumt, serbische Computernetze aktiv gestört zu haben.
+Insgesamt wolle man sich in einem Cyber-Krieg aber eher defensiv verhalten, so Clarke.
+So werde man vermutlich vorschlagen, für sicherheitsrelevante Computer vom Internet zu trennen oder sie an ein bloß regierungsinternes Netz anzuschließen.
+Zugleich werde man Internet-Providern vorschlagen, häufiger als bisher Datenströme durch Firewalls zu schützen.
+Clarkes Angaben in dem Interview zufolge wird intern derzeit vor allem über ethische Fragen nachgedacht.
+So sei noch unklar, wie weit man bei Viren-Angriffen oder anderen Methoden, bei denen auch Unschuldige betroffen sein könnten, gehen wolle und dürfe.
+Nicht geklärt sei zum Beispiel, ob Angriffe auf das Stromnetz eines Landes durch die Genfer Kriegsrechtskonvention verboten seien.
+Dass die USA offenbar bisher keine radikale Offensivstrategie planen, wirkt allerdings durchaus nicht uneigennützig.
+Ein von den USA aus gestreuter Virus könnte schließlich schnell außer Kontrolle geraten und auch Verbündete Amerikas treffen.
+Zudem könnte ein US-geführter Cyberangriff gefährliche Präzendenzfälle schaffen und Gegner zu einem noch radikaleren Gegenschlag provozieren.
+Da aber kaum ein Land so von Informationstechnologie abhängig ist wie die USA ist auch kaum ein Staat ähnlich verwundbar.

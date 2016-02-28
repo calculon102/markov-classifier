@@ -1,0 +1,28 @@
+Studenten einer Kleinstadt-Uni in den USA haben ihr Datenfunknetz auf die City ausgedehnt und machen damit ihre Dates für den Abend.
+Es liegt was in der Luft in Athens, dieser College-Kleinstadt tief in Georgia, gut zwei Autostunden von Atlanta entfernt.
+Mit bis zu elf Megabit pro Sekunde sausen hier die Datenpakete durch die drückende Südstaaten-Schwüle.
+Völlig lautlos und fast unsichtbar, abgesehen von grauen Funkverteilerboxen an Laternenmasten.
+Ein kabelloses Highspeed-Internet-Datennetz, auch WiFi für Wireless Fidelity genannt, überträgt Online-Daten bis zu 200-mal schneller als eine analoge Modemverbindung.
+Datenfunk auf dem Campus ist schon an vielen Universitäten, nicht nur in den USA, so normal wie einst das schwarze Brett.
+Doch Scott Shamp, Professor am New Media Institute der Universität von Georgia in Athens (UGA), hat auf Anregung eines Studenten auch gleich die Innenstadt von Athens in eine Funk-Internet-Wolke eingehüllt.
+Doch die Technologie steht in Athens eigentlich im Hintergrund.
+Vielmehr konzentriert sich das Projekt auf die Nutzung des WiFi-Netzes und die sozialen Auswirkungen, die mobile Informationen als ständiger Begleiter auf die Menschen haben.
+Auf dem Campus mit mobilen Funk-Netzcomputern permanent online zu sein, gehört an der UGA längst zum Studienalltag - ganz egal, ob in der Bibliothek, der Cafeteria oder auf dem grünen Herty Field.
+Diese Mobilität verringert nicht nur die Warteschlangen an den öffentlichen Web-Terminals, sondern verändert auch die Hörsäle.
+So werden in verschiedenen Seminaren hochschuleigene Laptops mit WiFi-Karten und Web-Handhelds als Unterrichtswerkzeug an Studenten ausgegeben.
+Das bringt nicht nur den Vorteil, dass etwa Mitschriften elektronisch verfasst oder online abgelegte Arbeitspapiere abgerufen werden können.
+Zum Herbstsemester schafft die Uni 200 zusätzliche Pocket-PC an, um auch größere Vorlesungen mit Online-Unterstützung abhalten zu können.
+Athens gehört zur Spitze der Wireless-Internet-Bewegung an Universitäten.
+WiFi-Seminar-Experimente, bei denen etwa das Antwortverhalten von Studenten während der Vorlesung via Web-Rechner analysiert wird, sind zwar nichts gänzlich Neues mehr.
+Etwa das WiFi-Touristen-Infosystem: Matt Dellinger, 22, hat mit drei Studienkollegen einen virtuellen Reiseführer für Besucher mit Web-Handhelds initiiert, der Informationen und digitale Videoclips zu kulturhistorischen Gebäuden in der City bietet.
+Derzeit arbeiten Shamps Jungakademiker auch an einem intelligenten Parkinfosystem.
+So sollen mobile Web-Rechner nicht nur freie Parkplätze, sondern etwa auch abgelaufene Parkuhren anzeigen.
+Die lokale Polizei plant, Verkehrs- und Katastrophenschutzhinweise für Innenstadt-Surfer verfügbar zu machen.
+Doch Downtown Athens ist bei weitem nicht nur WAGZone, sondern vor allem auch Party-Zone. 33 Bars und Musikkneipen im Umkreis von neun Blocks wollen Szenegänger gezählt haben.
+Und das allnächtliche Treiben, das kaum vor 23 Uhr beginnt, wird nun ebenfalls vom WiFi-Experiment unterstützt.
+Julie Grundy hat etwa ein Programm mitentwickelt, über das sich gastierende Bands präsentieren und während eines Gigs mit Fans Verbindung aufnehmen können.
+Musikkneipen-Gänger mit Web-Handhelds haben so etwa die Möglichkeit, sich Songs zu wünschen oder Liedtexte, Video-Interviews und Soundproben abzurufen.
+Auch Malone hat sich für das WiFi-Projekt enagiert und einen interaktiven Begleitdienst für Sportveranstaltungen aufgebaut, der Digi-Videoclips von Events sowie Hintergrund-Infos zu Sportlern auf portable Web-PC überträgt.
+Bei aller Begeisterung für die vor allem auf WiFi-Handhelds zugeschnittenen Funkdienste sieht man diese Geräte auf dem Campus wie in der City noch selten.
+Bislang verfügt erst ein Bruchteil der Einwohner von Athens über die einige hundert Dollar teuren, webfähigen Minicomputer.
+Die weit verbreiteten Laptops mit WiFi-Technik - Shamp zufolge besitzt wohl mindestens jeder dritte Student ein solches Notebook - sind dagegen nicht gerade praktische Begleiter beim Stadtbummel oder der Kneipentour.

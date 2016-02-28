@@ -1,0 +1,20 @@
+Beißt der Beagle?
+Wider Erwarten erweist sich der seit dem Wochenende im Umlauf befindliche Wurm Beagle als hartnäckig.
+Scheinbar relativ harmlos, liefert er dennoch Stoff für Expertenstreit: Ist Beagle nur der Vorbote einer weit bissigeren Bestie?
+DDP Hübsche Hunde: Wollen diese Beagle nur spielen?
+Es gibt Computerviren, denen traut man nicht zu, dass sie auch nur ein paar Stunden überleben.
+Anhängend wartet dann noch eine exe-Programmdatei darauf, dass jemand schusselig genug ist, sie zu öffnen.
+Kurzum: Beagle ist ein Virus aus der digitalen Steinzeit.
+Wer so was öffnet und aktiviert, gerät in Gefahr, den Computer-Führerschein entzogen zu bekommen.
+Und trotzdem geht er um, der Beagle.
+Alle IT-Sicherheitsunternehmen haben ihre jeweiligen Warnstufen bezüglich Beagle erhöht - nur sind sie sich nicht ganz einig, wovor sie da eigentlich warnen.
+Denn Beagle gilt zwar schon als weit verbreitet, verursacht bisher aber keine Schäden.
+Beagle selbst kann das auch gar nicht, deaktiviert sich zudem selbst am 28. Januar.
+Da bleibt die Frage, was dann kommt: Ist es so, wie manche Experten glauben, dass schlicht nichts passiert?
+Dass der Autor von Beagle nur zeigen wollte, dass er einen Virus programmieren kann, mit dem sich ein Port auf Windows-Rechnern öffnen lässt?
+Oder ist es so, dass Beagle in Umlauf gesetzt wurde, um Millionen von Windows-Rechnern zu öffnen, um dort einen Trojaner einzuschleusen, eine Denial-of-Service-Attacke zu koordinieren, Bankdaten abzuschöpfen oder sonstige böse Dinge?
+Nichts ist unmöglich, und so bräsig einfallslos Beagle auch daherkommt, gelingt ihm doch die Selbstvervielfältigung - und zwar ziemlich effektiv.
+Besonders betroffen, melden die IT-Sicherheitsunternehmen, sei Australien, danach Europa, und Amerika bekäme das Virus erst heute ab: In den USA war der Montag ein Feiertag.
+Doch egal ob Beagle nun bissig oder zahnlos ist, Vorsicht ist bekanntlich die Mutter der Porzellankiste: Wie gut, dass längst alle IT-Sicherheitsunternehmen ihre Virenscanner-Software auf Vordermann gebracht haben.
+Das Update des Virenscanners schützt vor Beagle und anderen neuen Viren der letzten Woche, und einige Unternehmen stellen auch reine Entfernungswerkzeuge zur Verfügung.
+Wer bisher keinen Virenscanner besitzt, sollte sich einen zulegen: Für Privatanwender kostenlos ist beispielsweise die Software AntiVir.

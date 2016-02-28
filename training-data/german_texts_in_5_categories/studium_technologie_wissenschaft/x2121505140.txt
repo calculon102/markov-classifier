@@ -1,0 +1,39 @@
+Die erste Erklärung eines überfütterten Cebit-Besuchers legte noch den Verdacht nahe, es handele sich bei Blackberry nur um ein komfortableres SMS-Endgerät.
+Doch weit gefehlt!
+Der Blackberry ist ein vollwertiger Internet-E-Mail-Client für das GPRS-Netz.
+Ein Pushdienst, der einem alle Nachrichten ohne Mailkontoabfrage aufs Display bringt.
+Ein Mobilfunk-E-Mail-System, hinter dem ein hoher serverseitiger Technikaufwand steht, um auch ein Maximum an Datensicherheit zu gewährleisten.
+Der Blackberry ist ein schnörkelloses anthrazitfarbenes Gerät, in Format und Größe etwas kleiner und leichter (117 Gramm) als ein PDA. Etwa zwei Drittel der Gehäusefläche nimmt ein monochromer, aber sehr kontrastreicher LCD-Schirm ein.
+Das untere Drittel ist für eine reichlich kleine Standardtastatur reserviert.
+Der Blackberry bietet Basisfunktionalitäten, wie man sie von gewöhnlichen Organizern kennt: Eine To-do-Liste, einen kleinen Texteditor, Kalender, Wecker, Adressbuch.
+Doch in seinem Innern werkelt eben zusätzlich ein GSM- wie GPRS-fähiger Sender/Empfänger für den SMS- und E-Mail-Betrieb.
+Bedient werden die Funktionen ganz spontan und auch ohne Bedienungsanleitung über ein seitlich versenkt angebrachtes Rändelrädchen.
+Mit dem saust man durch die Menüs, und mit einem Druck auf das Rad wird die angewählte Funktion ausgelöst.
+Diesen Teil der Bedienung erledigt man wirklich mit einer Hand.
+Beim Verfassen von Mails ist man jedoch auf die Tastatur angewiesen.
+Auch hier sofort ein Aha-Effekt!
+Die Tasten selbst sind aus einem harten Kunststoff und nicht aus klebrigem Moosgummi.
+Mit gut fühlbarem Druckpunkt ist das Verfassen kurzer Texte jedenfalls keine besondere Tortur.
+Im Test haben wir auch lange Texte empfangen.
+Dabei werden lange Mails in kleinen Häppchen zu jeweils zwei Kilobyte serviert.
+So hat der Nutzer immer die Möglichkeit zu entscheiden, ob er eine angezeigte Mail überhaupt voll durchlädt.
+Das Endgerät wird mit einer kleinen Docking-Station für den PC, Ladenetzteil und Gürtelholster ausgeliefert.
+Der andere Teil der Lösung muss auf dem Webserver und Intranet zur Verfügung gestellt werden.
+Blackberry unterstützt hierbei Lotus-Domino und Microsoft-Exchange.
+Zusätzlich wird die Blackberry Enterprise Software auf dem firmeneigenen Server installiert.
+Eine Desktop-Software am Mitarbeiterarbeitsplatz übernimmt die PC-Synchronisierung, Mailordnerverwaltung, Filterfunktionen und Datensicherung über die kleine Docking-Station.
+Die Blackberry Server Software sendet aus einer Firewall heraus nun eine Kopie der empfangenen E-Mail an den Mobilfunkanbieter.
+Dort wird die Mail nach dem Triple-DES-Verfahren verschlüsselt.
+Es handelt sich dabei um eine Dreifachverschlüsselung, die erst vom Blackberry-Endgerät wieder dekodiert wird.
+In der Regel werden aus einem Grundschlüssel von 128 Bit Länge drei Schlüssel generiert, mit dem Ersten wird die Nachricht verschlüsselt, mit dem Zweiten versendet und dann mit dem dritten Schlüssel entschlüsselt.
+Wichtig auch: Bei denen mit Blackberry empfangenen Mails handelt es sich nur um Mailkopien.
+Die Originale bleiben auf dem Mailkonto des stationären PC erhalten.
+Ob im Büro oder mit Blackberry unterwegs, die E-Mail-Adresse ändert sich nicht.
+Man unterhält also keine weitere Adresse, die zu Verwirrungen führen könnte.
+Die Herrlichkeit hat freilich ihren Preis.
+Beim ersten deutschen Blackberry-Anbieter O2 bezahlt man 59 Euro pro Monat und Endgerät, bei fünf Megabyte Mailvolumen, das sind etwa 2500 Mails pro Monat und Endgerät.
+Die Anschaffungskosten inklusive Installation für eine Basiskonfiguration aus Serversoftware und 15 Blackberry-Clienten beläuft sich auf rund 10.000 Euro.
+Neben O2 bietet auch T-Mobile den Blackberry-Dienst an.
+Die Blackberry-Erstinstallationen übernehmen externe Dienstleister.
+Bei den Einstiegspreisen dürften sich also Preisvergleiche lohnen.
+Fazit: Der erste Kontakt mit einem schnellen Pushdienst im GPRS-Netz macht vor allem eines: Lust auf mehr!

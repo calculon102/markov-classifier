@@ -1,0 +1,29 @@
+Schwarz spielend wehrte es den aggressiv vorgetragenen Angriff des Weltranglisten-Ersten ab, drehte das Spiel und erzwang ein Remis.
+Langeweile kam nicht auf in einer Partie, die Kasparow aggressiv begann.
+Nach wenigen Zügen schien er auch in Vorlage zu gehen: Sein Angebot, einen Bauern zu schlagen, hätte kein menschlicher Spieler angenommen.
+Fritz schlug, und die Experten sahen ihn bereits in die Falle tapsen - doch das Programm wieselte sich heraus.
+Einige Züge weiter analysierten Programm wie Experten den Spielverlauf gleich: als offen, ausgeglichen.
+In den späten Zwanziger-Zügen lag Kasparow, was die Qualität seines Materials anging, zwar leicht vorn, doch Fritz sah die Sache anders: Mit Beginn der Dreißiger-Züge errechnete der Computer für sich einen leichten Vorteil.
+Wohl nicht unberechtigt, und auch unter den durchaus überraschten Experten kippte die Stimmung.
+Und Rechner verzeihen keine Fehler.
+Der amerikanische Kommentator Mig Greengard, bekannt für sein Schach-untypisch sarkastisches Mundwerk, wollte das noch nicht so sehen.
+Doch die flappsigen Töne verstummten zwischen den Zügen 30 und 34 schnell: Fritz ging in die Offensive.
+Knapp 15 Minuten vor Ablauf der ersten Zwei-Stunden-Frist trennten Kasparow noch sechs Züge bis zum Vierzigsten - und erst dann würde er eine weitere Stunde Bedenkzeit zugeschlagen bekommen.
+Zu allem Überfluss brachte Fritz nun die schwarze Dame vor und Kasparows König direkt unter Druck: Spätestens an diesem Punkt durfte sich Kasparow nicht mehr den geringsten Fehler erlauben - und er musste schnell ziehen.
+In Vorlage lag nun einwandfrei der Rechner: Mit dem vierunddreißigsten Zug eröffnete sich für Fritz die Möglichkeit, auf eine permanente Schachstellung Kasparows hinzuspielen und ein Remis zu erzwingen - oder weiterzumachen und auf Gewinn zu gehen.
+Ab dem 35. Zug war Kasparow die Initiative endgültig genommen, die Rollen von Angreifer und Verteidiger vertauscht.
+Fritz ging den König an - und damit den Versuch, ein Remis zu erzwingen.
+Kasparow wollte das noch nicht einsehen.
+Mit dem 36. Zug stellte Fritz ihn erneut Schach: Das Spiel begann, zum Wechselspiel von Damenattacke und Antwortzug des weißen, den König deckenden Turms zu werden - potenziell bis in alle Ewigkeit.
+Ein Gewinnchance weit und breit nicht in Sicht, für keine Seite.
+Kasparows letzter Zug zementierte die Sache: Mehr als König-decken war da nicht mehr drin.
+Die erste Partie endete im Remis, erzwungen von einem aggressiv und effektiv aufspielenden Fritz-Programm.
+Das mag Kasparow sich anders gedacht haben, doch mehr war nicht drin.
+Daran, dass er seinen Gegner unterschätzt hätte, hat es nicht gelegen.
+Denn Kasparows Respekt vor der Maschine ist bekannt.
+Deep Fritz in der derzeitigen Implimentierung auf einem Vier-Prozessor-Rechner mit je Prozessor 2,8 Ghz rechnet pro Sekunde rund vier Millionen mögliche Spielzüge durch.
+Das ist eine Menge unerbittlich konsequenter Rechenkraft: Einen Lapsus kann sich da auch ein Spieler wie Kasparow nicht mehr leisten.
+Trotzdem, meinte wenige Tage vor dem Turnier sein Dauerrivale Wladimir Kramnik in einem Interview, müsste ein menschlicher Spieler eine solche Aufgabe bei entsprechender Vorbereitung schaffen.
+Eine unbescheidene Äußerung, wenn man bedenkt, dass der Mann aus teils bitterer Erfahrung sprechen sollte: Er selbst schaffte beim Bahrain-Turnier im letzten Jahr gegen Fritz nur ein Remis.
+Die erste Partie im Turnier gegen Fritz wird ihm frischen Stoff zur Analyse bieten.
+Die zweite Partie ist für Donnerstag angesetzt, und dann spielt Kasparow Schwarz: Es dürfte spannend werden, wie stark Fritz als Angreifer agiert.

@@ -1,0 +1,29 @@
+Für Leute, die ihren PC nie aufräumen, beginnen paradiesische Zeiten.
+Immer mehr kostenlose Volltext-Suchwerkzeuge drängen auf den Markt.
+Google legte im Oktober vor, jetzt hat Microsoft nachgezogen.
+Auch Yahoo will demnächst eine eigene Desktopsuche starten.
+Mit seinem Feuerwerk neuer Suchfunktionen hat Google den Softwareriesen Microsoft gehörig unter Druck gesetzt: Erst kam die Desktopsuche, die auch Texte auf dem eigenen Rechner in Sekunden findet.
+Dann folgten die Einkaufssuchmaschine Froogle und der Recherchedienst für Wissenschaftler, Google Scholar, hinzu.
+Jetzt hat Microsoft ebenfalls eine Desktopsuche vorgestellt und so mit Google gleichgezogen.
+Die neue Suchfunktion ist Teil der MSN Toolbar Suite, einem Explorer-Plugin, und vorerst nur in englischer Sprache erhältlich.
+Sie funktioniert dennoch ohne Probleme mit einem deutschen Internet Explorer - andere Browser werden erwartungsgemäß nicht unterstützt.
+Die neue MSN-Suchmaschine fürs Web, MSN Search, war erst Anfang November als Betatest online gegangen.
+Mit dem lange angekündigten Dienst will Microsoft dem unangefochtenen Marktführer Google kräftig Marktanteile abgraben.
+Rund eineinhalb Jahre hatten die Microsoft-Entwickler an dem Google-Herausforderer gearbeitet.
+Kritik gab's vor allem wegen der Filterung von Suchergebnissen.
+Anstößige Fotos blendet MSN Search beispielsweise rigoros aus.
+Auch die neue MSN-Desktopsuche besteht den Vergleich mit der Google-Konkurrenz durchaus und ist an manchen Punkten sogar besser.
+Während Google Desktop Search nur bestimmte Dateitypen überhaupt indiziert und damit durchsuchbar macht (Text, Word, Excel, Powerpoint), kennt MSN Desktop Search solche Einschränkungen nicht.
+Der Index frisst einfach alles, ob Tif-Bilder, HTML-Code oder XML.
+Das hat allerdings den Nachteil, dass einem solche, in der Regel kaum gesuchten, Dokumente als Treffer präsentiert werden.
+Eine Beschränkung auf bestimmte Dateitypen wie bei Google wäre hilfreich.
+Bei Netzlaufwerken kennt MSN Search keine Grenzen.
+Während Google nur dann nicht lokal gespeicherte Dokumente findet, wenn sie zuvor mit Word oder Excel geöffnet wurden, indiziert MSN Search alles, was greifbar ist.
+Falls vertrauliche Dokumente irgendwo im Netz versteckt herum liegen, dann sind sie leicht aufzuspüren.
+Administratoren sollten in Zukunft also noch etwas genauer hinschauen, wenn sie die Leserechte im Netz einstellen.
+Die neue MSN Toolbar bringt noch eine andere, lange vermisste Funktion mit: einen Passwortmanager für den Internet Explorer.
+Jetzt lassen sich alle gespeicherten Passwörter einzeln löschen - bisher ging dies nur für alle gespeicherten Passwörter gemeinsam.
+Ganz offensichtlich ist die neue Funktion eine Antwort auf die flotte Firefox-Konkurrenz.
+Der Freeware-Browser hat einen solchen Passwortmanager schon lange an Bord.
+Praktisch, aber nicht ganz risikolos.
+Microsoft-Programmierer sind bislang nicht dadurch aufgefallen, dass sie Anwendungen auf Anhieb sicher gemacht haben.

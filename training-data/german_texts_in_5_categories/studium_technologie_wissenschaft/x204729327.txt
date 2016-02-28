@@ -1,0 +1,30 @@
+Zeit für Notwehr-Maßnahmen.
+Die eigentlichen Schäden, die Spam und Viren täglich verursachen, sind schwer zu beziffern.
+Kein Wunder: In vielen Unternehmen beträgt die Quote der Spam-, Viren- und Bouncermails derzeit deutlich über 90 Prozent des gesamten E-Mail-Aufkommens.
+E-Mail als Kontaktierungsmedium fällt damit aus, denn wer öffnet bei diesem Müllwust noch Post von Menschen, die er nicht kennt?
+Da sind dringend Notwehrmaßnahmen geboten.
+Zum einen gilt es, den Spamfilter so weit wie nötig zu definieren, um möglichst viel von dem hereinflutenden Schwachsinn abzufangen.
+Postmaster: Schaltet endlich die Autoresponder ab!
+Solche Nachrichten waren für eine gewisse Weile eine nützliche Sache.
+Wer sich ein Virus gefangen hatte, erfuhr dies durch ein Feedback der Gegenseite: Ihr Brief, heißt es da stets, konnte nicht zugestellt werden, weil er ein Virus enthielt.
+Seit rund zwei Jahren ist diese Funktion dermaßen sinnlos und zweckfrei, dass man die Verantwortlichen für Mail-Gateways, die sie noch immer nicht deaktiviert haben, mit einem Gewicht an den Füßen im Nordsee-Schlick versenken sollte (im Winter).
+Die Warnung vor dem Virus wird zum Teil des elektronischen Schadens - täglich zu besichtigen in Ihrem elektronischen Postfach.
+Mail-Gateways sollten so konfiguriert werden, dass sie eindeutig als Virenpost oder Spam identifizierte Botschaften gar nicht mehr durchlassen.
+Der Sommer 2004 droht, in Sachen Viren alle bisherigen Rekorde zu brechen.
+Nach über 900 Neuviren im Mai plagen uns in der ersten Junihälfte ein paar durchaus originelle Konsorten, die es weitgehend hinbekommen, E-Mail als Kommunikationsmedium außer Funktion zu setzen.
+Noch immer hält die Flut ausländerfeindlicher Spam-Mails, die durch das Sober.H-Virus verschickt werden, an.
+In der Regel ist das das Versprechen auf eine E-Card.
+Wer auf den angeblichen HTML-Link in der Mail klickt, fängt sich was.
+Ein Blick ins Postfach genügt, um zu zeigen, dass das offenbar häufig gelingt.
+Eine Variante von Zafi trägt als Betreff nur den Namen des angeblichen Versenders (wie üblich ist auch der nicht echt).
+Zu erkennen sind alle Zafi-Variationen an der Größe der Datei (15 - 15,6 kb).
+Wohl dem, der die Virenschutz-Software täglich updated.
+Die Virenpostflut wird man damit allerdings nicht los: Da helfen nur Filter.
+Jedes moderne E-Mail-Programm bietet die Möglichkeit, Filterregeln zu definieren, um bestimmte E-Mail-Absender, Betreffzeilen oder Inhalte in gesonderte Ordner laufen zu lassen.
+Das kann man nutzen, um beispielsweise die kursierenden ausländerfeindlichen Spams mit ihren bekannten Betreffzeilen (siehe Kasten) auszusortieren.
+In der Kommunikation mit bekannten Partnern bietet es sich an, ein Codeword zu vereinbaren, das dem Briefbetreff vorgestellt wird.
+Regelmäßige E-Mail-Partner kann man auf eine Positiv-Liste setzen.
+Eigentlich ist es bitter, dass so etwas nötig geworden ist, aber es ist auch effektiv: Statt morgens als erstes ins Postfach zu sehen, schaut man dann in spezielle Ordner, in denen die Post vorsortiert bereit liegt.
+Durch einen konstruktiven Einsatz von Filterregeln lässt sich das Postfach also einigermaßen sauber halten.
+Nicht vergessen darf man allerdings, die diversen Ordner regelmäßig zu leeren.
+Denn ob Mail-Account oder Festplatte durch vor- oder unsortierten Spam und Virenmüll verstopft werden, bleibt unterm Strich Jacke wie Hose.

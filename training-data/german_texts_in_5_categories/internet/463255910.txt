@@ -1,0 +1,37 @@
+Dabei werden sie immer besser - und was gut ist, bleibt teuer.
+Personal Digital Assistants, kurz PDAs, sind schon lange kein exotisches Spielzeug für Computerfreaks mehr.
+Die Firmen setzen alles daran, die Geräte immer leistungsfähiger zu bauen.
+Damit den Anwendern der Auf- und Umstieg auf die nächst teurere Generation versüßt wird, können die Geräte heutzutage häufig mehr, als noch vor Jahren so manches Notebook.
+Alle werden mit Programmen ausgeliefert, die sie inzwischen perfekt auf heimische Office-PCs abstimmen.
+Bei den Palm-Organizern sind die Geräte der Firma Sony am weitesten ausgereift.
+Zwar kann man auch vom Originallieferanten des Palm-Betriebssystems Geräte mit der neuesten Version Palm-OS 5.0 kaufen, die inzwischen auch farbfähig sind und eine höhere Auflösung bieten.
+Aber erst der Sony Clié NX70V bietet die gewissen Extras, die ihn zur echten Empfehlung im Palm-Lager werden lassen.
+Neben der üblichen Touch-Oberfläche und den Bedientasten verbirgt sich in dem aufklappbaren Gehäuse eine komplette Tastatur.
+Sony liefert zudem eine ganze Palette an Multimedia-Anwendungen mit: Der Anwender kann Musik hören und Bilder sowie kleine Filme ansehen.
+Und nicht nur das: Er kann sie auch aufnehmen.
+Dafür enthält der Sony Clié eine richtige Digitalkamera, die bis zu 640 x 480 Bildpunkten auflöst.
+Ein Blitz ist zwar nicht zu finden, den bietet erst die nächste Generation, der Clié NV90 (rund 600 Euro), den Sony zur Cebit vorstellt.
+Doch die lichtstarke Kamera bannt auch bei mäßigem Umgebungslicht genug visuelle Informationen auf den Chip.
+Was ist Loox?
+Mit dem Konkurrenzprodukt Pocket Windows ist der Pocket PC Loox 600 von Fujitsu Siemens ausgestattet.
+Das Gerät kostet ca. 500 Euro, doch wie bei einem Mercedes wird es erst durch die üppige Zusatzausstattung perfekt - und leider auch entsprechend teuer.
+Besonders hervorzuheben sind hier der Huckepack-Akku (ca. 100 Euro), der die Standzeit des Gerätes locker verdoppelt, das Mobilfunk-Modul (Preis noch nicht bekannt) und die Klapptastatur (ca. 100 Euro).
+Die ist in geschlossenem Zustand kaum größer als der Loox selbst, aber ausgeklappt bietet sie die Abmessungen einer Subnotebook-Tastatur.
+Der Loox wird auf einen Steckverbinder in der Mitte gesteckt, und nach Installation des Treibers kann man zum Beispiel in Pocket Word so schreiben wie mit einem Laptop.
+Lediglich die Lage der rechten Umschalttaste ist etwas ungewöhnlich, sie liegt rechts neben den Cursortasten - da greift der Schnellschreiber öfter mal daneben.
+Im Vergleich dieser Eigenschaft fallen die beiden anderen Geräte natürlich ab, denn sie bieten nur taschenrechnerähnliche Tasten, die nur mit Daumen und Zeigefinger im Wechselspiel bedient werden können.
+Auf dem Fujitsu-Siemens Loox läuft Windows CE in der jüngsten Version 2002, inklusive des Media Players und des Internet Explorers.
+Bei der Bedienung braucht der windowsgewöhnte Anwender sich also nicht allzu sehr umzustellen.
+Ein Highlight verbirgt das Gerät in seinem Inneren: Die Daten überträgt der Loox schnurlos wahlweise nicht nur per Infrarotverbindung, sondern auch über die neue Schnittstelle Bluetooth.
+Wer ein Handy mit Bluetooth besitzt, kann so problemlos auch unterwegs auf die E-Mails zugreifen.
+Der dritte im Bunde der tragbaren Alleskönner, ist der Sharp Zaurus SL5500.
+Das Gerät arbeitet mit einer speziell angepassten Version von Linux.
+Bereits vor Jahresfrist hatten wir den Vorgänger unter der Lupe, der wurde allerdings nur an Entwickler verkauft.
+Das aktuelle Gerät ist inzwischen ausgereift und insgesamt mit ca. 400 Euro Verkaufspreis in diesem kleinen Vergleich der günstigste Organizer.
+Dass unter der Oberfläche Linux dieselt, ist nur hier und da zu merken.
+Sogar ein Multimediaplayer für Audio-Dateien ist auf dem Gerät zu finden.
+Ein Manko des Linux-PDAs sei hier jedoch nicht verschwiegen: Während die Anwender von Palm- und Windows-CE-Geräten mit Software (kommerzielle und frei kopierbare) inzwischen überschüttet werden, sieht es da für das Sharp-Helferlein nicht so üppig aus.
+Fazit: Alle drei Organizersysteme sind inzwischen ausgereift und bieten alle Funktionen, die ein mobiler Mensch unterwegs sich wünschen kann.
+Wem es weniger auf die viele Software ankommt, sondern auf die grundsätzlichen Funktionen, der kommt mit dem Sharp SL 5500 bestens aus.
+Wer auf Palm-Kompatibilität Wert legt und trotzdem nicht auf üppige Ausstattung verzichten möchte, greife zum Sony Clié NX70.
+Die Geräte zeigen überdies einen Trend der diesjährigen Cebit: Wirklich Neues gibt es wenig, aber lohnende Verbesserungen bestehender Konzepte.

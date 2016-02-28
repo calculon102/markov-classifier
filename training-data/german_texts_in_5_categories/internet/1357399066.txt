@@ -1,0 +1,26 @@
+Funknetze sind praktisch, bequem und leicht einzurichten - nur für die Sicherheit der frei schwebenden Daten muss der Anwender selber sorgen.
+Die meisten Nutzer, zeigt eine aktuelle Studie des Freiburger Öko-Instituts, kennen selbst die eingebauten Grundsicherungen ihrer W-Lans nicht.
+Weder konnte die Wissenschaftlerin eine entsprechende Internet-Plattform identifizieren, noch eine Informationsbroschüre finden.
+Allerdings hört der Sendebereich nicht an der Haustür auf, sondern ist auch noch an der nächsten Straßenecke messbar.
+Ein Angreifer muss den Namen (Service Set IDentifier) des Netzes wissen, auf das er zugreifen will.
+Das ist kein großes Problem, denn jede Basisstation sendet regelmäßig ein Signal, das Informationen über das Netz, den Namen und die Adresse enthält.
+Dieses Beacon-Signal verrät auch die unterstützte Geschwindigkeit, den Kanal und ob eine Verschlüsselung eingesetzt wird.
+Ein erster Schritt zur eigenen Sicherheit ist das Abschalten der Namensübertragung.
+Das Netz wird als versteckt konfiguriert und bleibt dem gelegentlichen Besucher verborgen.
+Wer sich mit der Netzkommunikation auskennt, kann aber immer noch aus übertragenen Datenpaketen die gewünschten Angaben auslesen.
+Die Konfiguration eines Access-Points erfolgt über einen Browser - und da sollten nur sichere Passworte genutzt werden.
+Es dient zur Datenverschlüsselung und Authentifizierung.
+Das WEP gilt allerdings nicht als besonders sicher, denn mit der richtigen Software und etwas Fachkenntnis kann es leicht umgangen werden.
+Dennoch sollte es in der Konfiguration (bei der Einrichtung des W-Lans) aktiviert werden, da jeder Angreifer Zeit und Mühe aufwenden muss.
+Die Schlüssellänge bei aktuellen Geräten sollte mindestens 128 Bit betragen und die Schlüssel müssen regelmäßig geändert werden, um die Sicherheit möglichst hoch zu halten.
+Verfahren mit stärkerer Verschlüsselung sind WEP plus und WPA (Wi-Fi Protected Access), die jedoch nicht von allen Geräten unterstützt werden.
+Die Nutzer älterer Modelle bleiben außen vor oder können es mit einem Update der Firmware probieren.
+Mit einem Zugangsfilter können nur Rechner auf den Access-Point zugreifen, die bereits in einer Zugriffsliste eingetragen sind.
+Die Media Access Control Adresse (MAC) ist die Hardware-Adresse eines jeden Netzwerkgerätes, die zur eindeutigen Identifikation des Geräts im Netz dient.
+Sie wird beim Einschalten gesetzt und kann danach oft nicht mehr verändert werden.
+Diese MAC-Adressen werden in der Konfiguration der Basisstation eingetragen, was bei überschaubaren Netzen leicht machbar ist.
+Solche Adressen können zwar auch gefälscht werden, aber dazu muss der Angreifer zumindest eine echte MAC-Adresse kennen.
+Wer ein eigenes kabelloses Netzwerk betreibt, das nicht nur Kinder- und Wohnzimmer verbindet, der sollte etwas mehr Aufwand für seine Sicherheit betreiben.
+Steuerberatern, Rechtsanwälten und Ärzten ist das kabellose Netz nicht unbedingt als alleinige Lösung zu empfehlen.
+In Verbindung mit einem herkömmlichen Netzwerk kann allerdings ein Virtual Private Network (VPN) dafür sorgen, dass sensible Daten auch wirklich sensibel bleiben.
+Mit einigen Handgriffen kann ein drahtloses Netz zwar nicht absolut sicher gemacht werden, aber es wird für jeden Angreifer etwas schwerer, sich unberechtigten Zugriff zu verschaffen.

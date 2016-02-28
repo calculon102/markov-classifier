@@ -1,0 +1,38 @@
+Eine neue Verordnung erlaubt es dem Staat, den E-Mail-Verkehr besser zu überwachen.
+Ab dem 1. Januar 2005 haben Kommunikationsanbieter die für staatliches Lauschen erforderliche Technik einzurichten - auf eigene Kosten.
+Datenschützer und die betroffene Provider sind empört.
+Der Diensteanbieter stellt zum Ende des Jahres seine E-Mail-Angebote ein.
+Simon kapituliert vor den neuen Verpflichtungen nach der TKÜV - der Telekommunikations-Überwachungsverordnung.
+Seit dem Ende des Bundespost-Monopols läuft die Telekommunikation der Bürger nicht mehr über den Staat selbst.
+Wollen Ermittler nun mitlauschen, müssen die Behörden erst einmal die ausgetauschten Inhalte in die Hände bekommen.
+Das geht nicht, ohne die Provider in die Pflicht zu nehmen.
+Grundsätzlich regelt das schon seit 1996 das Telekommunikationsgesetz (TKG), und seit Anfang 2002 beschreibt die TKÜV im Detail, wie Anbieter den staatlichen Lauschern zur Seiten stehen müssen.
+Eine Übergangsfrist gewährte einen Aufschub, doch damit ist zum 1. Januar 2005 Schluss.
+E-Mail-Provider müssen aufwendige Hardware-Schnittstellen anschaffen, welche dann E-Mails der Kunden in die Ermittler-Hände legen.
+Doch neue rechtliche Lausch-Möglichkeiten gibt die TKÜV den Sicherheitsbehörden damit nicht an die Seite.
+Statt Pauschalüberwachung und Vorratsspeicherung dürfen weiterhin nur einzelne Bürger belauscht werden, wenn sie verdächtig sind, bestimmte Straftaten begangen zu haben.
+Auch muss die Überwachung richterlich abgenickt werden.
+Erst dann treten die Provider auf den Plan.
+Mit den nun anzuschaffenden Gerätschaften.
+Vordergründig sind Big-Brother-Sorgen damit unbegründet.
+In der Tat nennt die Statistik für das Jahr 2002 gerade einmal fünf Anordnungen zum Abfangen von E-Mails.
+Für das Jahr 2003 fehlen noch offizielle Daten; auf Nachfrage von SPIEGEL ONLINE nannte das Wirtschaftsministerium 144 Lauschvorgänge.
+Damit entfallen nur gut 0,5 Prozent der Überwachungen auf den E-Mail-Bereich - Telefone werden wesentlich häufiger angezapft.
+Genau das löst aber Entrüstung seitens der Provider aus.
+Unverhältnismäßig sei die Verpflichtung der Provider, teure Schnittstellen anzuschaffen.
+Schätzungsweise 2000 bis 2500 Unternehmen sind betroffen, meist aus dem Mittelstand.
+Das Wirtschaftsministerium verweist auf Ausnahmen.
+Für Anbieter mit weniger als 10.000 Teilnehmer regelt die TKÜV Erleichterungen, und bei weniger als 1000 Teilnehmern muss die teure Hardware gar nicht mehr angeschafft werden, auch wenn die Provider weiterhin verpflichtet bleiben, mitzuhelfen.
+Die Reichweite dieser Ausnahmen ist derzeit aber gar nicht abschließend geklärt.
+Hätte in einer Kette von Zwischenhändlern kein Beteiligter mehr als 1.000 Kunden, wäre nirgendwo eine Abhörbox erforderlich.
+Auf Nachfrage von SPIEGEL ONLINE erteilt das Wirtschaftsministerium dieser Interpretation eine Abfuhr.
+Und bei Bußgeldern von bis zu 500.000 Euro dürften die Provider ohnehin wenig Lust auf Tricksereien haben.
+Im Gegenteil betont der Branchenverband eco, dass sich kein Provider aus der Pflicht stehlen wolle.
+Zum 1.1.2005 droht damit eine Zwickmühle.
+Einerseits wirken umfangreiche Verpflichtungen der Provider bei nur wenigen Überwachungen unangemessen.
+Andererseits sorgen sich Datenschützer schon heute über die jährlich deutlich steigende Anzahl von Überwachungen.
+Bisher trug vor allem der Bereich der (Mobil-) Telefonie dazu bei.
+Sollen nun auch im Bereich E-Mail-Kommunikation die staatlichen Lauscher bequemer versorgt werden, dürfte auch dieser Bereich anziehen und die Zunahme der Überwachungseingriffe insgesamt noch steiler ansteigen.
+Provider stöhnen wegen der Kosten, Datenschützer befürchten mehr Überwachungen, und der Bürger sieht sich einer vereinfachten Überwachung ausgesetzt.
+Nur die staatlichen Lauscher freuen sich einmal mehr.
+Zum 1. Januar öffnet für sie der kostenlose Selbstbedienungsladen.

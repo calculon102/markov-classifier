@@ -1,0 +1,44 @@
+Nagelneu: Auf Pocket PC 2003 abgestimmte HP-PDA-Produktlinie.
+Vor rund drei Jahren galten PDAs als heiße Ware.
+Hochpreisige Mini-Geräte versprachen satte Gewinne.
+Für den Herbst ist mit Palm OS 6 zu rechnen, dem neuen Betriebssystem des Immer-noch-Marktführers Palm.
+Der hat intern so einige Schwierigkeiten, sucht händeringend nach Investoren.
+Jetzt beschloss er für den Oktober die völlige Abspaltung der Software-Abteilung von der Gesamtfirma, um Konkurrenten auf dem PDA-Markt den Einstieg in die Palm-Software zu erleichtern.
+Microsoft agiert da entspannter.
+Bisher konnte der Softwareriese als große Hersteller Dell, Toshiba, Yakumo und Hewlett Packard von den Vorzügen seines Windows-CE-Derivats Pocket PC überzeugen.
+Während Windows CE also der Hund ist, handelt es sich bei Pocket PC um den Pudel.
+Hört sich ja tierisch interessant an.
+So kommt es also, dass jeder neue PDA ab jetzt mit einem Pudel in Gestalt von Pocket PC 2003 ausgestattet wird.
+Die sichtbaren Neuerungen sind mit einem Besuch beim Hundefriseur vergleichbar: Es gibt zahlreiche neue Dialog-Fenster und überarbeitete Einstell-Möglichkeiten.
+So sorgt etwa ein neuer Verbindungsmanager für die schnellere Einrichtung drahtloser Übertragungswege, gängige Verbindungen ins Internet - zum Beispiel per Bluetooth oder Wireless LAN sind bereits vorkonfiguriert.
+Auch beim Dialog mit seinem Benutzer ist ein Pocket PC 2003 nun kommunikativer: Die Icons wurden eindeutiger, die Dialog-Texte deutlicher gestaltet.
+Microsofts eigenes Programm zum Anzeigen von multimedialen Inhalten ist nun in einer neuen Version Teil des Betriebssystems.
+Der Media Player 9 für Pocket PC 2003 soll die gleichen Dateien abspielen können wie sein Kollege gleichen Namens auf einem Desktop-PC mit Windows XP.
+Täuschen lassen sollte man sich indes nicht.
+Auch wenn zwei Programme auf einem Pocket- und einem Desktop-PC eine gleiche Bezeichnung haben, sich ähnlich bedienen lassen und dieselben Dateien öffnen können: Unter der Benutzeroberfläche sieht's völlig anders aus.
+Programmierer müssen auch weiterhin separate Entwicklungen für beide Welten betreiben.
+Trotzdem ist nicht zuletzt das einem Desktop-PC ähnliche Erscheinungsbild eines Pocket PC verantwortlich für den mittlerweile recht ansehnlichen Erfolg des einst recht glücklos gestarteten Betriebssystems.
+Und dem Benutzer kann es schließlich egal sein, was genau sich im Inneren seines Mini-Computers abspielt.
+Und da spielt sich ab sofort eine ganze Menge ab.
+Erst die jetzt erscheinende Version des Pocket-PC-Systems unterstützt nämlich die noch recht neuen XScale-Prozessoren von Intel so richtig, die bei Pocket PCs mittlerweile Standard sind und schöpft die Leistung der Chips voll aus.
+Kein Wunder also, dass zahlreiche Hardware-Hersteller neue Geräte mit Pocket PC 2003 angekündigt haben.
+Neben den alten Hasen im Pocket-PC-Geschäft von HP bis Yakumo will sogar der PC-Versender Gateway nun mit einsteigen.
+Weitere Neuzugänge werden folgen.
+Eine vierte Produktlinie soll vorerst nur in den USA verkauft werden.
+Auch wenn sich HP bis zuletzt in Schweigen hüllte: Die Gerüchte-Küche im Internet brodelte hier schon seit einigen Wochen.
+In zahlreichen Online-Shops in den USA ließen sich die technischen Daten der neuen Geräte bereits im Detail nachlesen.
+Wer bis zu 30 Tage vor dem 23. Juni oder 90 Tage danach einen Pocket PC kauft, der darf kostenlos auf das neue System upgraden.
+Voraussetzung ist jedoch, dass der Hersteller seines Pocket PCs die Lizenzvereinbarungen mit Microsoft entsprechend gestaltet hat.
+Eine spezielle Sommer-Aktion soll diesen Vorgang noch weiter anheizen.
+Kaum waren die ersten Details vom neuen Pocket-PC-System nachzulesen, da regte sich auch im Palm-OS-Lager etwas.
+Noch im Oktober solle mit Palm OS 6 ebenfalls ein neues Betriebssystem verfügbar sein, das ebenfalls für die schnellen Intel-Prozessoren optimiert sei, beeilte man sich durchsickern zu lassen.
+Auch neue Handheld-Computer werde es dann geben, war zu hören.
+Hersteller: Palm und Sony, die beiden einzigen größeren Geräte-Bauer für die Palm-OS-Plattform.
+Bleibt für Palm zu hoffen, dass sich dann nicht bereits die meisten PDA-Interessenten aus dem Pocket-PC-Regal bedient haben, das bis dahin mit Modellen vom Billig-PDA bis zum Highend-Organizer mit eingebautem Handy prall gefüllt sein dürfte.
+Denn auch das bisher größte Argument des deutlich größeren Programmangebotes für einen Palm-PDA hat immer weniger Kraft.
+Noch gibt es zwar für die Palm-Plattform mehr einzelne Software-Titel.
+Der einst große Abstand schrumpft aber von Tag zu Tag.
+Die meisten Palm-Programme sind zudem eher Tools und Mini-Progrämmchen, die Unzulänglichkeiten des Betriebssystems ausbügeln.
+Alle wirklich wichtigen Anwendungen sind für Pocket PC hingegen inzwischen verfügbar, große Software-Firmen entscheiden sich eher für Pocket PC als für Palm OS.
+Und auch viele Entwickler, die einst Palm-Verfechter waren, haben inzwischen auf das Microsoft-System umgeschwenkt.
+Was sicher auch daran liegt, dass die Entwicklungsumgebung für Pocket PC kostenlos zu haben ist.

@@ -1,0 +1,23 @@
+Ein Chip, sie alle zu knechten?
+Was aber steckt hinter der von Microsoft gepriesenen Sicherheitstechnologie?
+Die Kritiker warnen vor eingeschränkt nutzbaren Rechnern und befürchten die totale Kontrolle der Anwender.
+Wer sich mit dem Projekt beschäftigt, steht zunächst vor einer Vielzahl in die Irre führender Begriffe.
+Kritiker vermuten hinter der babylonischen Sprachverwirrung eine bewusste Taktik, die für Ablenkung von den wirklichen Interessen sorgen soll.
+Sicherheit für wen und vor wem?
+Die technische Umsetzung erfolgt mit einem passiven Chip, der im Rechner kontrolliert, ob nicht lizensierte Software oder Hardware vorhanden ist.
+Bei dem Verfahren kommen verschiedene kryptografische Methoden und Schlüssel zum Einsatz, die eine Lizensierung durch eine noch zu findende Organisation erfordern.
+Das System ist so ausgelegt, dass hier auch digitale Rechte von den Inhabern der Urheberrechte kontrolliert werden könnten.
+Palladium oder NGSCB ist eine von Microsoft entwickelte Erweiterung des TCG-Konzepts, die schon fester Bestandteil des nächsten Betriebssystems Longhorn sein wird.
+Bei einem Rechner mit Netzanschluss gibt es derzeit kaum einen Bereich, der vor Angriffen durch Viren oder Trojaner absolut geschützt ist.
+Mit NGSCB wird der Computer in einen offenen und einen hochsicheren Bereich aufgeteilt.
+Sämtliche Programme und Anwendungen sollen aber weiter einwandfrei arbeiten und ohne Einschränkungen funktionieren.
+Die flächendeckende Versorgung wird es aber wohl erst mit Longhorn in ein bis zwei Jahren geben.
+Die Anwender haben ein Recht auf einen sicheren Computer, fehlerfreie Software und ein zuverlässiges Betriebssystem.
+Ob die neue Technologie hier für Verbesserungen sorgt oder die Situation verschlimmert, bleibt umstritten.
+Das Betriebssystem nutzt die Hardware, um die Umgehung von Regeln zu verhindern.
+Die Bochumer Wissenschaftler schlagen einen zertifizierten Open-Source-Sicherheitskern vor, der die Vorteile der Hardware nutzt und die unerwünschten Nebenwirkungen deutlich reduziert.
+Eine solche Anwendung könnte je nach Bedarf gestartet werden und soll mit allen gängigen Betriebssystemen zusammenarbeiten.
+Die Erfahrungen mit Identifikationsnummer bei Pentium-Prozessoren, der Übertragung von Daten bei Windows XP oder den Lizenzbedingungen des Mediaplayers haben allerdings zu einem begründeten Misstrauen gegenüber der Industrie geführt.
+So lange wichtige Fragen wie die vollständige Kontrolle des Anwenders über gespeicherte Schlüssel und die Transparenz der Zertifizierung nicht beantwortet sind, ist Vorsicht geboten.
+Wer seinen Rechner in fremde Hände gibt, verrät sehr viel über seine Persönlichkeit, und kaum jemand möchte einem Wirtschaftsunternehmen wie Microsoft darüber etwas mitteilen.
+Bis der schlüssige Gegenbeweis erbracht ist stehen Palladium, NGSCB, TCPA und TCG noch für ein Sicherheitssystem, dass auf der Kontrolle der Anwender aufbaut und den Interessen der Industrie dient.

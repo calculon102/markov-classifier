@@ -1,0 +1,26 @@
+Mit einem handelsüblichen Mikrofon belauschen israelische Forscher PC-Prozessoren.
+Sie fanden dabei aufschlussreiche Muster der Rechneraktivitäten.
+Eines Tages könnten mit raffinierter Frequenzanalyse sogar geheime Botschaften dechiffriert werden.
+Geheimdienste arbeiten mit allen Tricks, um an wertvolle Informationen zu kommen.
+Da wird gelauscht, gehackt, geschnüffelt.
+Doch wenn die Gegenseite mit entsprechend starker Verschlüsselung arbeitet, kommt beim Abhören nur unbrauchbarer Datensalat heraus.
+Auch die Analyse elektromagnetischer Monitorstrahlung, aus der sich Bildschirminhalte rekonstruieren lassen, verspricht kaum noch Erfolg, seit betroffene PCs mit Drahtkäfigen abgeschirmt werden, so dass keinerlei Strahlung nach außen tritt.
+Zwei Forscher vom israelischen Weizmann Institute of Science versuchen nun beim Belauschen von Computern einen neuen Weg zu gehen.
+Sie setzen dabei auf die uralte Technik des Abhörens per Mikrofon.
+Adi Shamir, einer der Mitentwickler der RSA-Verschlüsselung, und sein Kollege Eran Tromer analysierten Audioaufnahmen von Prozessor-Aktivitäten mit professioneller Tontechnik und fanden dabei Erstaunliches heraus.
+So konnten sie verschiedene Kryptographie-Schlüssel unterscheiden, die von einem Prozessor zum Chiffrieren von Daten benutzt wurden.
+Shamir und Tromer konnten nach eigener Aussage auch die Länge von verarbeiteten Zeichenketten bestimmen, indem sie die Dauer bestimmter Töne maßen.
+Theoretisch sollten derartige Informationen helfen können, Schlüssel auf PCs zu knacken, glauben die Forscher.
+Es sei ein Hinweis darauf, dass es noch viele weitere Möglichkeiten gebe, die Abstrahlung von Computern auszunutzen.
+Kuhn gehört zu den Wissenschaftlern, denen es gelang, aus den Schwankungen der Stromaufnahme von Chips Rückschlüsse auf verwendete Krypto-Schlüssel zu ziehen.
+Die israelischen Krypto-Experten griffen bei ihren Lauschexperimenten zu handelsüblichem Equipment.
+Das Kondensatormikrofon Rode NT3 kostet rund 170 US-Dollar, ein 55-Dollar-Mischpult diente als rudimentärer Equalizer.
+Das Mikrofon stand 20 Zentimeter neben dem geöffneten PC-Gehäuse.
+Der Lüfterlärm wurde einfach herausgefiltert, weil er im Bereich unterhalb von zehn Kilohertz liegt.
+Die zu analysierenden Chips lärmen hingegen oberhalb dieser Grenze.
+Auch wenn Shamir und sein Kollege noch keinen RSA-Schlüssel durch Abhören knacken konnten, so glauben sie doch fest daran, dass dies mit einem ähnlichen Versuchsaufbau eines Tages möglich sein wird.
+Vor allem bei längeren zu verschlüsselnden Dateien hoffen sie, eine typische akustische Signatur des Prozessors identifizieren zu können.
+Hilfreich könnte auch sein, wenn Angreifer auf die zu verschlüsselnden Daten Einfluss nehmen könnten, schreiben die Forscher auf ihrer Website.
+Die Schwierigkeit, ein Mikrofon nahe genug an einen abzuhörenden PC zu bringen, halten sie für lösbar.
+Beispielsweise könnte der Laptop eines Mitarbeiters manipuliert werden, den dieser in den Sicherheitsbereich mit hineinnimmt, ohne zu wissen, dass der Rechner als Aufnahmegerät missbraucht wird.
+Auch die Schwingungsmessung von Fensterscheiben mit Laserstrahlen - eine bewährte Abhörmethode -, könnte nach ihrer Einschätzung zum Einsatz kommen, um an die PC-Laute zu kommen.

@@ -1,0 +1,35 @@
+Der Konkurrenzkampf zwischen Yahoo, MSN und Google wird immer mehr zu einem knallharten Verdrängungswettbewerb.
+Mit Millionenbudgets jagen sich die Internetgiganten die Kunden ab.
+Aber Google wäre nicht Google, wenn sein Produkt nicht etwas anders aussähe.
+Keine Frage, Google kommt zunehmend unter Druck.
+Vier lange, schöne Jahre stand Google fast ohne Konkurrenz da: Seine Suchtechnologie war kaum zu schlagen, sein puristischer Auftritt gefiel den Fans, die sich in Scharen von alten Platzhirschen und überladenen Wusel-Portalen verabschiedeten.
+Google, tönte das Unternehmen, wolle nichts als Suche pur bieten - und zwar die mit den besten Ergebnissen.
+Mit dieser klaren Strategie gelang es Google, in die Profitzonen vorzudringen.
+Dem US-Suchdienst traut man zu, den ersten wirklich guten Börsengang seit dem Platzen der Dotcom-Blase hinlegen zu können.
+Noch ziert sich Google, aber das mag Taktieren sein: Wer an die Börse geht, sollte gut aufgestellt sein, ohne dass die Konkurrenz gerade am Lack kratzt.
+Denn justamente als Börsengang-Gerüchte zu kursieren begannen, trompetete Bill Gates heraus, er wolle 500 Millionen Dollar in einen Dienst investieren, der Google schlagen solle.
+Noch hat MSN nicht gezeigt, was Microsoft mit 500 Millionen Dollar zaubern kann.
+Auch Yahoo zeigt sich in den letzten Monaten ungewöhnlich aktiv, schmiss den Suchvertrag mit Google über Bord und begann stattdessen, aufgekaufte und selbst entwickelte Suchtechniken zu nutzen.
+Wo die Yahoo hinführen sollen, ist klar: zur Marktführerschaft.
+Da wollen ja alle hin, doch kann es immer nur einen Marktführer geben: Der heißt seit Jahren Google - und der Rest ist bisher reines Wunschdenken.
+Das weckt den Neid der Konkurrenz und offenbar auch ihre Kreativität.
+Insbesondere Yahoo und MSN haben sich vorgenommen, Google mit einem reichen Portfolio an Dienstleistungen und verbesserten Search-Funktionen unter Druck zu setzen.
+Die sind seit langem Teil des Yahoo-Angebotes (fast 40 Millionen angemeldete Nutzer).
+Auch MSN - in Amerika inzwischen einer der erfolgreichsten Onlinedienste - ist da unter anderem mit seiner Hotmail-Marke fest etabliert (rund 34 Millionen Nutzer).
+Wer da neben den etablierten Freemailern etwas Neues einführen wollte, das die Kunden wirklich lockt, müsste sich wahrlich anstrengen.
+Bei Google hat man sich da etwas überlegt.
+G-Mail soll ein Mail-Programm in Kombination mit einer internen Suchmaschine werden.
+Die eingehende Mail bleibt einfach, wo sie ist (wenn man will), und wenn man in dem wachsenden Chaos etwas sucht, hilft die kleine interne Suchmaschine.
+Das ist nicht als Service für Messies und Chaoten gedacht, sondern greift die Konkurrenz da an, wo es weh tut: bei den Speicher-Kapazitäten.
+Oft sind das drei Monate, wer (mehr) Mails länger archivieren will, muss zahlen.
+Daneben hat eine Suchmaschinen-Indizierung des eigenen Mailbestandes tatsächlich erhebliche Vorteile, wie selbst Ordnungsfanatiker wissen.
+Natürlich ist eine Struktur mit Ordnern und Unterordnern sauberer und wirkt übersichtlicher - verbirgt aber ihre Inhalte, je komplexer sie wird.
+Und was hat Google davon?
+Auch dazu verrät Google schon etwas: Irgendwann einmal soll es - eventuell gegen Zahlung - die Möglichkeit geben, den G-Mail-Account als Pop3 direkt an ein eigenes Mailprogramm zu binden und die eigenen Mails selbst zu archivieren.
+Bis dahin aber bleibt G-Mail völlig Web-basiert, stellt sogar relativ hohe Anforderungen an den Browser, der neueren Datums sein sollte.
+Das wiederum ist unter anderem nötig, weil G-Mail seine Services durch attraktive Werbeformate refinanzieren will.
+Wie bei Google üblich sollen die aber nicht schreiend bunt werden, sondern vor allem passend: Google garantiert zwar den Schutz der privaten Daten, gleicht aber die Suchanfragen innerhalb des Mail-Programmes mit seinen Werbeservern ab.
+Wann das Ganze beginnen soll, ist nicht ganz klar.
+Seit einiger Zeit läuft eine Betatestphase, die aber nicht öffentlich ist.
+Der Launch von G-Mail steht jedoch unmittelbar bevor, denn Google hat damit begonnen, auffällig für seinen neuen Dienst zu trommeln.
+Ob damit nun wirklich dieser erste April gemeint war, wissen wir Europäer heute Nachmittag, wenn Amerika aus dem Bett fällt.

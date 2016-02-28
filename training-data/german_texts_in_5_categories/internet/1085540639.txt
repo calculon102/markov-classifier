@@ -1,0 +1,22 @@
+Vor knapp fünf Tagen verbreiteten sich Teile des Quellcodes von Windows 2000 und NT im Internet, und schon gibt es eine Anleitung, wie Hacker darin gefundene Sicherheitslücken ausnutzen könnten.
+Jetzt läuft der Countdown bis zum ersten Angriff.
+Als in der Nacht vom 12. zum 13. Februar rund 15 Prozent des Quellcodes von Windows 2000 und NT begannen, die Runde um den Globus zu machen, waren sich die Experten längst nicht einig darüber, wie gefährlich das wirklich sein würde.
+Der Quellcode in falschen Händen, warnten die einen, könnte böswilligen Hackern die Möglichkeit geben, neue Sicherheitslücken zu entdecken und für sich zu nutzen.
+Richtig, schränkten die anderen ein, aber allenfalls mittelfristig.
+Denn zuerst einmal müssten sich diese Finsterlinge durch 15 Millionen Zeilen Programmcode von Windows 2000, respektive 28 Millionen Zeilen bei Windows NT lesen.
+Da auch nicht der gesamte Quellcode verbreitet wurde, sondern nur Fragmente, schien es vielen Experten relativ unwahrscheinlich, dass sich daraus schnell ein Bedrohungspotenzial entwickeln würde.
+Das über nur ein Wochenende entwickelte Exploit zielt - wie so oft - auf das Doppel Internet-Explorer/Outlook.
+Das Gespann gilt seit Jahren als infernalisches Duo der IT-Sicherheit, als Haupteinfallstor für alle möglichen Hack-Attacken und Virenangriffe.
+Microsoft liefert Sicherheits-Flicken wie am Fließband, ohne damit bisher einen echten Erfolg zu erzielen.
+Im aktuellen Fall beschreibt der Exploit nur, wie man durch Einschleusung eines entsprechend präparierten Bildes den Internet Explorer und Outlook zum Absturz bringt.
+Das scheint nicht nur bei Windows 2000 und NT zu funtionieren, sondern - in von Testern gemeldeten Fällen - möglicherweise auch bei Windows 98 und XP.
+Windows-Sourcecode: Sicherheitsleck bei Linux-Firma?
+All das ist alles andere als harmlos: Der beschriebene Exploit schießt Outlook schon in der - von IT-Sicherheitsexperten immer wieder bemängelten - Voransicht ab.
+Jetzt tickt die Uhr, jetzt läuft der Countdown: Erfahrungsgemäß dauert es nicht lang von der Veröffentlichung eines Exploits bis zu dessen Nutzung.
+Auch in diesem Fall dauerte es nur vier Tage bis ein Exploit in Umlauf kam.
+Binnen weniger Tage sollte es nun zu ersten Virenattacken kommen, die versuchen, an dieser Sicherheitslücke anzusetzen.
+Dagegen zumindest hat Microsoft bereits ein Pflaster bereit: Den passenden Sicherheitsflicken veröffentlichte Microsoft parallel zur Warnung vor dem Sicherheits-Leck.
+Das wirkt schnell, ist es aber nicht und damit kein Grund zur Hoffnung, dass die aktuellen Sicherheitslecks so schnell gestopft werden, wie man sie findet.
+Sechs Monate Entwicklungs- und Vorbereitungszeit brauchte Microsoft im Falle des letzten Lecks, um einen passenden Flicken bereit zu stellen.
+An mindestens sieben weiteren schlimmen Lecks doktert der Konzern seit bis zu fünf Monaten, ohne bisher vor den betreffenden Lecks konkret zu warnen: Die Warnung ist immer zugleich auch Werbung für die Ausnutzung der Sicherheitslöcher.
+Bis auf weiteres dürfte also gelten: Gegen die aktuellen Exploits, die sich aus dem illegal verbreiteten Quellcode-Schnipseln ergeben mögen, ist so schnell kein Kraut gewachsen.

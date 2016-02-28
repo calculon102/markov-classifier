@@ -1,0 +1,45 @@
+Der Code des freien Betriebssystems Linux sei teilweise geklaut, behauptet die US-Softwarefirma SCO und verlangt Entschädigung.
+Wenn sie damit vor Gericht durchkommt, müssen vielleicht auch deutsche Anwender zahlen.
+Eventuell steht sogar Linux insgesamt auf der Kippe.
+Doch bevor der redselige Manager den Koffer öffnet, dessen Inhalt Millionen-, wenn nicht gar Milliardeneinnahmen verspricht, doziert er erst einmal 90 Minuten zum Thema SCO.
+Fragen braucht man ihm eigentlich keine zu stellen - er kennt sie alle aus dem Effeff.
+Die Geschichte klingt verrückt, ist juristisch hoch kompliziert und provoziert schon seit Monaten heftigste Reaktionen in der weltweiten Linux-Gemeinde.
+Die Kurzversion der SCO-Geschichte lautet etwa so: 1995 erwarb eine Firma namens Santa Cruz Operation (SCO) die Rechte am Unix-Quellcode von der Firma Novell.
+Das Betriebssystem Unix war ursprünglich von AT&T für den Einsatz auf Großrechnern entwickelt worden.
+SCO bezifferte den Kaufpreis auf circa 150 Millionen US-Dollar in Aktien.
+Und dafür will SCO jetzt Geld sehen: 699 Dollar pro Linux-Server und 199 Dollar pro Desktop-PC - so lauten seine Preisvorstellungen.
+Selbstverständlich seien bei großen Firmen mit Hunderten oder Tausenden Linuxsystemen Rabatte möglich.
+Es gibt gute Gründe, SCO nicht zu glauben.
+Unix-Code könne man nicht einfach mit Copy und Paste in Linuxquelltexte einfügen, erklärten etwa wiederholt Programmierer.
+Da sei aufwendiges Anpassen vonnöten.
+Und ob ähnlich aufgebaute Funktionen in Unix und in Linux automatisch für ein Abkupfern sprechen und als Copyright-Verstoß zu werten sind, scheint ebenfalls fraglich.
+Hinzu kommt die seltsame Geheimnistuerei der SCO-Manager.
+Beweise für den Codeklau lieferten sie der Öffentlichkeit bis heute nicht.
+Wer sich die vorgeblich kopierten Programmzeilen anschauen will, muss eine Geheimhaltungserklärung unterschreiben.
+Blepp erklärt dies mit der besonderen Strategie bei Rechtsstreitigkeiten in den USA.
+Seit etwa einem Jahr läuft ein Verfahren gegen IBM.
+Mindestens eine Milliarde Dollar verlangt SCO für die Nutzung von Unix-Quellcode durch IBM und dessen angebliche Weitergabe ins Linuxsystem.
+Die Auseinandersetzung macht derzeit vor allem Anwälte und Gutachter reich - ein Ende ist nicht abzusehen.
+Hundertausende Blätter Papier wurden bereits hin- und hergeschickt - ohne greifbares Ergebnis.
+Und SCO scheint sogar ernste Schwierigkeiten zu haben, die nach eigener Aussage offenkundigen und eindeutigen Beweise gegen IBM vorzulegen.
+Am Donnerstag baten die Anwälte des Linuxjägers aus Utah das Gericht in Delaware zum wiederholten Mal um eine Fristverlängerung.
+Man brauche noch mehr Zeit, um Beweise aufzuspüren, hieß es.
+SCO-Vize Blepp glaubt jedoch, dass allein die Tatsache, dass der Prozess noch läuft, dafür spricht, dass SCO im Recht ist.
+Doch dies sei dem IT-Riesen nicht gelungen.
+Jedoch beinhahe.
+SCO drohte nämlich mittelfristig das Geld auszugehen.
+Das Stammgeschäft mit den eigenen Unix-Versionen für Intel-PCs läuft mehr schlecht als recht.
+Doch dann half unter anderem ein ehemaliger Microsoft-Manager dabei, frisches Geld für die im Nasdaq notierte AG zu finden.
+In der Open-Source-Gemeinde stand schnell fest: Mit Hilfe von SCO will Microsoft die immer gefährlicher werdende Linux-Konkurrenz ausschalten.
+Von solchen Verschwörungstheorien möchte Blepp nichts wissen.
+Er findet die indirekte Hilfe aus Redmond wenig verwerflich.
+Mit deutschen Unternehmen, die Linux einsetzen, will Blepp in den nächsten Wochen und Monaten Verhandlungen über Lizenzzahlungen aufnehmen.
+Mitarbeiter des hiesigen SCO-Ablegers dürfen unter Androhung von 10.000 Euro Strafe nämlich nicht mehr behaupten, der Linux-Code enthalte aus Unix kopierte Sequenzen.
+Wegen des laufenden Streits mit IBM habe man dies aber aus taktischen Gründen nicht getan und die einstweilige Verfügung im Juni 2003 zunächst akzeptiert.
+In vier bis sechs Wochen will SCO betroffene Codesequenzen liefern und die einstweilige Verfügung aushebeln.
+Dann öffnet Blepp den Koffer und zeigt einige Seiten aus dem Linux-Programmiercode.
+Auf der ersten Seite findet sich keine einzige rote Zeile, auf den folgenden Seiten dominieren dann Rot und Blau.
+Beim gezeigten Code-Ausschnitt handelt es sich nach Blepps Angaben um eine Funktion zur Speicherverwaltung in Linux.
+Kann man diesem Mann glauben?
+Oder stehen hinter SCO einfach nur raffinierte Bluffer, die verunsicherten Unternehmen zweifelhafte Ablassbriefe andrehen wollen?
+SCO hat sein Schicksal jedenfalls fest an den Streit um kopierte Programmzeilen gekettet.

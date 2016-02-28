@@ -1,0 +1,26 @@
+Noch immer sind die Entwickler der Location Based Services der ersten Stunde aktiv.
+Lesswire hat inzwischen das System Cosia entwickelt, eine drahtlose, multimediale und interaktive Lösung für Aussteller und Museen.
+Lagepläne oder Informationen zu Exponaten werden per Bild, Video, Text oder Ton mobil auf einem Handheld-Computer angezeigt.
+Cosia lokalisiert dabei jederzeit den Standort des Benutzers, navigiert ihn durch die Ausstellung oder leitet Informationen vom und zum Anwender weiter.
+Auf diese Weise - versprechen die Entwickler - wird der Messe- oder Museumsbesuch zu einem interaktiven Erlebnis und bleibt länger in Erinnerung.
+Cosia wird in unterschiedlichen Ausbaustufen angeboten.
+Im Gegensatz zu den großen Lösungen, die zurzeit im GSM-Netz arbeiten, arbeitet Cosia mit Bluetooth-Basisstationen.
+Das Berliner Innovationsunternehmen gate5 AG hat sich zum Ziel gesetzt, für die Mobilfunkanbieter orientierungs- und alltagsrelevante Inhalte mit Mehrwert zu entwickeln.
+Nicht die technologische Plattform des eingesetzten Handhelds entscheidet über die Teilnahme an den Mehrwertdiensten.
+Egal welches Betriebssystem auf dem PDA eingesetzt wird, Windows CE, Palm OS, Symbian oder Linux, alle werden unterstützt.
+Die mobilen Stadt-, Reise- und Veranstaltungsführer ermöglichen es den Nutzern, sich in der eigenen oder einer fremden Stadt einfach und schnell zu orientieren.
+Diese mobilen Stadtinformationssysteme kombinieren wie bei anderen Anbietern auch interaktive Karten.
+Die Bedienung erfolgt in gewohnter Weise mit dem Eingabestift.
+Die Navigation erfolgt direkt in einer digitalen Vektorkarte, die sich sogar stufenlos drehen und bis hinunter auf die Ebene einzelner Häuser zoomen lässt.
+Die Lage von Restaurants, Geschäften, Veranstaltungsorten, Museen und Geldautomaten aus der Umgebung können als Symbole in den Kartenausschnitt eingeblendet werden.
+Auf die Anwahl eines Symbols hin werden weitere Informationen wie die genaue Adresse oder Öffnungszeiten eingeblendet.
+Such- und Filterfunktionen - nach Kategorien, Stichwörtern, einem wählbaren Umkreis zu einem Standort - machen das Auffinden von Informationen und Orten leicht.
+Spontane Verabredungen lassen sich auf Basis des People Finder treffen, einer Anwendung, die allerdings nur auf Java-fähigen Geräten läuft.
+Profile und spezielle Filterfunktionen helfen dem Nutzer dabei jederzeit, die Kontrolle zu behalten, ob und von wem sie geortet werden können.
+Den Missbrauch sollen ausgeklügelte Sicherheitsmechanismen verhindern.
+Zur Kontaktaufnahme gibt es einen Instant Messager.
+In Südkorea hat die Korea Telecom ihren Lokalisierungsservice schon im Jahr 2000 mit großem Erfolg ausgebaut.
+Bei einer Standortgenauigkeit von 50 bis 100 Metern hat sich gerade der Service zum Auffinden von Freunden oder sogar Stars zu einem der erfolgreichsten Angebote entwickelt.
+Markterfahrungen mit kommerziellen Location Based Services konnte auch die kleine Aktiengesellschaft mecomo, Anbieter ortsbezogener Inhalte, sammeln.
+In Kooperation mit dem Partnerunternehmen WiGeoGIS GmbH werden Georeferenzierungen erstellt, die dann mit weiteren Inhalten kombiniert werden.
+Mobilfunkbetreibers Informationen über das momentane Umfeld wie Geschäfte, Restaurants oder Apotheken auf ihrem Handy anzeigen lassen können.

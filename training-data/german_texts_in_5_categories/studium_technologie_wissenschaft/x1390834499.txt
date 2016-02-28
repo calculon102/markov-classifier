@@ -1,0 +1,20 @@
+Ist damit jetzt endlich Ruhe im Karton?
+Ob Film oder Multimedia-Lexikon: Die Nutzer mögen auf die prall gefüllten Scheiben kaum mehr verzichten.
+Und am liebsten würden sie auch eigene Daten gigabyteweise auf die kleine Scheibe brennen.
+Doch bislang gibt es keinen einheitlichen Standard dafür.
+Wobei Apple schon seit Jahren seine High-End-Rechner mit DVD-Brennern ausstattet, sei es Desktop-PC, sei es ein schickes Powerbook.
+Doch selbst Mitglieder des Forums sehen dessen Tage gezählt.
+Für ihn streitet eine Allianz aus Firmen wie Dell, Hewlett-Packard, Mitsubishi, Philips, Ricoh, Sony, Thomson, Yamaha - und neuerdings auch Microsoft.
+Das bedeutet, dass in Kürze auf der überwältigenden Mehrheit aller neuen PCs das Betriebssystem (also Windows) den Plus-Standard von Haus aus unterstützt.
+Ein gehöriger Schub für CD+RW.
+Microsofts Entscheidung für den Plus-Standard scheint verständlich, wenn man die Unterschiede zwischen den Konzepten betrachtet.
+Die Minus-Version unterscheidet strikt zwischen DVDs, die in einem normalen Heim-DVD-Player abgespielt werden sollen (dem so genannten Video Mode) und solchen, die später noch editierbar sein sollen (Video Recording Mode).
+Der Anwender muss sich also vor dem Brennen festlegen, ob er die Scheibe jemals noch bearbeiten können will.
+Da derzeit kaum jemand die vollen vier Gigabyte einer DVD auf einmal mit eigenen Filmen füllen will, erscheint diese strikte Trennung für den Otto-Normaluser kaum plausibel.
+Das von Microsoft favorisierte Plus-Format kennt diese Unterscheidung nicht und macht es so dem Nutzer leichter.
+Doch bis sich einer der Standards endgültig durchsetzt, bleiben die Verbraucher erst mal verunsichert.
+Zwangsweise, oder muss teuer nachrüsten.
+Eine friedliche Koexistenz der Standards jedoch scheint auf Dauer unwahrscheinlich.
+Dafür sind die Hybridlaufwerke zu teuer in der Herstellung.
+Gute 18 Monate, so schätzen Fachleute, könnte es noch dauern, bis sich einer der Standards durchgesetzt hat.
+Dank Microsoft wird es nun wohl etwas schneller gehen.

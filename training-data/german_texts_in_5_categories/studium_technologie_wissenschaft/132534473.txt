@@ -1,0 +1,38 @@
+Unter all den Varianten des Schädlings Blaster ist Nachi etwas ganz besonderes: Der Wurm versucht, klammheimlich die Windows-Sicherheitslücke zu stopfen.
+Genau so stellt sich Microsoft den künftigen Kundenservice vor: Redmond denkt darüber nach, automatische Updates einzuführen.
+Ganz sei dies der neuesten Variante des Blaster-Wurmes allerdings nicht gelungen.
+Privatanwender, die sich das Teilchen fangen, müssen sich dennoch keine Sorgen machen.
+Das allerdings geht in die Hose.
+Das aber wusste der Programmierer wohl nicht, weshalb sein Produkt auf vielen Rechnern relativ wirkungslos bleibt.
+Zumindest einem Teil der Privatrechner aber hilft Nachi wirklich - den anderen schadet er zumindest nicht, denn er lässt es bei einem Versuch.
+Bei dem allerdings drohen Datenverluste, denn Nachi leitet nach dem Patch-Download einen Reboot des Systems ein.
+Alle IT-Sicherheitsunternehmen behandeln Nachi auch darum als Bedrohung.
+Genau darüber denkt Microsoft nun wieder laut nach.
+Nash sitzt in der Zwickmühle: Bei Einführung von Windows XP, sagt er, seien einige automatische Dienste am Widerstand der Kunden gescheitert.
+Jetzt aber verlangten die Kunden nach automatischen Updates, sagt Nash.
+Die bietet Microsoft wohl an, aber nur auf Wunsch: Man muss die Funktion aktivieren.
+Gern würde Microsoft das Spielchen umdrehen: Ab Werk käme das Betriebssystem dann mit aktivierten Automatismus, und wer das nicht will, müsste die automatischen Downloads außer Funktion setzen.
+Mit denen würde der Software-Konzern gern gerade den Teil der Kundschaft beglücken, die echte Nutzer ohne tieferen Einblick in IT-Technik seien.
+Für Irritationen sorgen immer wieder auch Hoaxes, die per E-Mail verbreitet werden: Ganz aktuell kursiert ein angeblich im Namen Microsofts versandtes Programm, mit dem man Blaster bekämpfen könne.
+Drin steckt stattdessen ein bösartiges Trojaner-Programm - für Microsoft peinlich, obwohl die Firma tatsächlich nichts mit der Aussendung zu tun hat.
+Microsoft verschickt aus Sicherheitsgründen keine Programme per Mail; besteht vielmehr darauf, dass Kunden sich diese von einem Microsoft-Server abholen.
+Das aber tun - siehe Blaster - noch immer zu wenige Anwender.
+So etwas könnte man durch die automatische Auslieferung der jeweils aktuellsten Sicherheits- und Service-Flicken vermeiden, wie man das von den Auto-Updates von Anti-Virensoftware kennt.
+Ein weiterer Vorteil: Die Größe der einzelnen Downloads bliebe in einem relativ vernünftigen Rahmen.
+Denn mitunter kommt da schon eine Menge zusammen.
+Microsoft veröffentlichte wenige Monate nach dem Verkaufsstart von Windows XP ein Service-Paket, um Programmierfehler und Sicherheitslücken zu stopfen.
+Mit so etwas lässt sich dann schon einmal eine CD-Rom füllen.
+Die Kontroverse um automatische Software-Updates schwelt seit Jahren.
+Frühere Versuche scheiterten am Widerstand der Kunden.
+Wie hoch wäre die Bereitschaft heute?
+Die eigentlich für den Spätsommer angesagte Veröffentlichung des Service-Pack 2 wurde gerade auf den Herbst verschoben - möglicherweise wegen der Blaster-Lücke.
+So etwas kostet Geld und Nerven.
+Microsoft bringt die Service-Packs kostenfrei in Umlauf, verteilt sie millionenfach beispielsweise als Beileger zu auflagenstarken PC-Magazinen.
+Download-Updates wären da auch aus Perspektive des Unternehmens die billigere Alternative, denn letztlich werden im Web die Vertriebskosten zu einem guten Teil auf den Kunden verschoben.
+Der auf der anderen Seite verfügt immer öfter über eine breitbandige Verbindung ins Web, die deutlich billiger ist, als noch vor wenigen Jahren.
+Perspektiven: Geht es wirklich noch ohne?
+Mittelfristig bleibt wohl jedem Softwareunternehmen nur, Updates entweder zu automatisieren oder verpflichtend zu machen.
+So etwas ließe sich an Gewährleistungs-Garantien binden: Nur wer pflegt, hätte Ansprüche.
+Man könne aber auch nicht einfach eine Verbindung zwischen Rechner und Softwarekonzern aufmachen, ohne dass der Kunde mitbekommt, wer da welche Informationen und Dateien austauscht, meint Set Schoen von der Electronic Frontier Foundation.
+Eine Diskussion, die auch in dieser Form schon etliche Male geführt wurde und auch diesmal wohl kaum gelöst werden wird.
+Die Idee eines unabhängigen, Plattform- und Firmenübergreifenden Update-Servers läge da eigentlich nahe.

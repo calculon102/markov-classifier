@@ -1,0 +1,35 @@
+Viele PC-Besitzer nutzen ihr W-Lan als eine Art lokaler öffentlicher Rundfunk.
+Die löchrigen Funknetze finden sie zu Fuß, per Auto oder sogar Flugzeug - dabei wäre es leicht, mehr Sicherheit zu erreichen.
+Bei mobilen Geräten und Computernetzen gehört die Funkübertragung per W-Lan heute schon zum Standard.
+Die frei fließenden Daten sind aber auch sehr einfach zu Lande und in der Luft abzufangen.
+Hacker und Netzaktivisten machen einen Sport daraus, drahtlosen Netzen nachzuspüren und die Sicherheit zu prüfen.
+Allein im letzten Jahr wurden 22,7 Millionen Geräte zum Aufbau einer W-Lan-Verbindung verkauft.
+Ohne störende Kabel können die Netzwerke in wenigen Minuten einsatzbereit gemacht werden.
+Allerdings wird die Sicherheit dabei oft missachtet.
+Der Sendebereich hört nicht an der Haustür auf, sondern ist noch an der nächsten Straßenecke messbar.
+Die Grundlage der Übertragung bildet das Frequenzband mit 2,4 GHz, der einzige weltweit verfügbare Frequenzbereich mit hoher Datenübertragungsrate und Lizenzfreiheit.
+Seit 1997 wird es zum Aufbau von Funkübertragungsstandards wie W-Lan (Wireless-Local-Area-Network) oder Bluetooth genutzt.
+Diese Zugangsstellen zu drahtlosen Netzwerken können mit einem Laptop, einer Wireless-Karte und einer Antenne gefunden werden.
+Dabei kommen Programme wie NetStumbler oder Kismet zum Einsatz.
+Jedes Jahr versuchen Aktivisten beim WorldWide WarDrive eine weltweite Karte von Zugangspunkten zu erstellen.
+Beim letzten Treffen wurden über 88.000 WAPs entdeckt, die inzwischen vierte Veranstaltung findet zwischen dem 12. und 19. Juni statt.
+Die Redaktion des Onlinemagazins Tom's Hardware Guide ist zum Aufspüren versteckter Zugänge in die Luft gegangen.
+Funknetze senden in alle Richtungen und übertragen mit dem Service Set Identifier (SSID) auch so etwas wie ein Rufzeichen, mit dem sich die Netze identifizieren lassen.
+Einige Access Points bieten die Möglichkeit diese Angaben zu unterdrücken, um das Funknetz zu verstecken.
+Das wirkt zwar gegen Programme wie Netstumbler, aber mit entsprechender Software können andere Steuersignale ermittelt werden.
+Die meisten Menschen schließen ihren Wireless Access Point einfach an und machen sich keine Gedanken über die Sicherheit.
+Dabei ist Schutz einfach möglich, denn alle Geräte verfügen über Sicherheitsvorrichtungen.
+Auf jeden Fall sollte die eingebaute WEP-Verschlüsselung (Wired Equivalent Privacy) aktiviert werden.
+Im Zweifelsfall reicht auch die nicht aus, wie Tom's Hardware Guide aktuell berichtet: Inzwischen sind Hacker-Tools im Internet erhältlich, die jede WEP-Verschlüsselung binnen wenig mehr als einer Sekunde knacken.
+Doch vor so massiven, gezielten Attacken müssen eher Geschäftsleute und Behörden Angst haben als Privatanwender.
+Für sie gilt: Besser WEP als gar kein Schutz.
+Doch selbst das ist in der Praxis nicht gewährleistet.
+Mit dem Mindeststandard lassen sich nur Gelegenheitsangriffe abwehren, was aber schon besser als nichts ist.
+Wer auch ernsthaften Versuchen widerstehen will, der muss zusätzliche technische und organisatorische Maßnahmen ergreifen.
+Wo sich Unsicherheit ausbreitet, ist das Geschäft für die Verkäufer von Sicherheit nicht weit.
+Das Unternehmen Computer Associates arbeitet an einer Software, die unautorisierte Zugriffe und W-Lan-Piraten selbstständig ermitteln soll.
+Aus der Signalstärke und den Standorten legaler Empfangsstellen ermittelt die Software den Aufenthaltsort der Eindringlinge.
+Alle angeschlossenen Rechner werden in diese Dreiecksberechnung mit einbezogen, damit die Ortung möglichst genau erfolgt.
+Mit dem Erfolg drahtloser Kommunikation steigen die Gefahren durch unerlaubte Zugriffe dramatisch an.
+Der Anwender sollte die Mindestsicherung aktivieren und vielleicht auch mal einen Blick auf die Seite des Landesamtes für Datenschutz in Niedersachsen werfen.
+Mit einer List kann hier die Sicherheit des eigenen W-Lans geprüft werden.

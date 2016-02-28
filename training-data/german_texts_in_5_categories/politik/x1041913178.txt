@@ -1,0 +1,42 @@
+Die Experimente des Handels mit RFID-Chips gehen weiter - die Proteste gegen die Schnüffelchips auch.
+Am Samstag demonstrieren in Rheinberg FoeBuD und CCC, Fitug und andere gegen die RFID-Versuche der Metro.
+Mitinitiator padeluun erklärt, warum und wogegen.
+Worum geht es Ihnen?
+Wir demonstrieren gegen die unbedachte und unkontrollierte Einführung dieser Technologien.
+SPIEGEL ONLINE: Wo sehen Sie da die Gefahren?
+Sie enthalten aber weit mehr Informationen als Barcodes und können unbemerkt ausgelesen werden.
+Wenn ich mit meiner Einkaufstasche aus dem Supermarkt komme und in den Bus einsteige, in dem meine Fahrkarte irgendwann vielleicht auch per RFID ausgelesen wird, könnte erfasst werden, wer ich bin, was ich so einkaufe, wohin ich mich bewege.
+SPIEGEL ONLINE: Wäre das denn so schlimm?
+Aber wenn ein flächendeckendes Netz entsteht, wenn die Lesegeräte, die Chips überall auftauchen, in Schuhe eingebaut sind, in Jacken eingewebt, im Autoschlüssel ein RFID-Chip steckt, dann wird es schlimm.
+Je mehr Datenbanken über Menschen entstehen, desto leichter kann darauf zugegriffen werden, desto transparenter werden Menschen und desto feiger werden sie sich verhalten.
+SPIEGEL ONLINE: Damit setzen Sie voraus, dass die neue Technik missbraucht wird.
+Der Handel verspricht den Kunden etwas ganz anderes: RFID soll den Einkauf bequemer machen.
+Irgendwann, so die Vision, wartet an der Kasse statt einer Warteschlange nur noch die Rechnung auf uns, weil schon beim Bummeln erfasst wurde, was wir alles in den Wagen gelegt haben.
+Klingt doch klasse, oder?
+SPIEGEL ONLINE: Was für einen Sinn hat die Einführung von RFID-Chips denn dann für den Handel?
+Im Laden selber hätte der Handel es natürlich auch gerne, dass er nur den elektronischen Finger heben müsste und wüsste dann Bescheid.
+Aber selbst an der Verkäuferin, die all die Produkte ab und zu auf Bestand und Ablaufdaten prüft, geht vorerst kein Weg vorbei.
+SPIEGEL ONLINE: Aus Ihrer Perspektive ist das ja eine gute Nachricht: RFID-Chips sind noch gar nicht so weit, ihr Ge- oder Missbrauchspotenzial auch nur ausschöpfen zu können.
+Erst ab Frequenzen ab etwa 2,5 Gigahertz lässt sich das aus den Chips holen, was seine Befürworter sich wünschen.
+Aber dann sollten sich die Kunden vor Betreten des Ladens in Aluminium kleiden, um sich vor der Strahlung zu schützen.
+Oder sehen Sie bereits konkrete Möglichkeiten, RFID-Chips zu missbrauchen?
+Wir haben jetzt zwar den Fall gehabt, dass die Metro AG heimlich einen RFID-Chip in rund 10.000 Kundenkarten eingebaut hat, die sie nun als Reaktion auf unsere Proteste wieder einstampft.
+Die ausgegeben Karten werden gegen solche ohne Chips umgetauscht.
+Aber wir müssen beim Thema Datenschutz gar nicht immer auf den Missbrauch sehen.
+Bei RFIDs besteht die viel größere Gefahr darin, dass sie überhaupt verwendet werden.
+Zum Aufbau von Datenbanken, zum Aufbau von Strukturen, die möglich machen, dass ich von jedem Punkt der Erde aus Zugriff auf recht persönliche Daten jedes beliebigen Menschen habe.
+SPIEGEL ONLINE: Eine Kernforderung der Demonstration morgen ist die Gründung eines Gremiums, das die Entwicklung und Einführung von RFID-Technik überwachen soll.
+Gibt es so etwas denn nicht?
+Auch der Metro-Konzern sprach zwar immer von Dialog, meinte aber einen in ihren eigenen Kreisen.
+Die zeigten ihre Entwicklungen der Öffentlichkeit, dementierten aber prompt jedes Gegenargument.
+Das hat sich jetzt verändert.
+Die Reaktion, den heimlich verbauten Chip aus den Kundenkarten zu entfernen, ist ja nicht nur für uns ein großer Erfolg, sondern im Grunde auch für die Metro.
+Mit diesem heimlichen Chip in der Kundenkarte haben die doch so viel Misstrauen unter ihre Kunden gestreut, dass die gar nicht mehr gern in den Laden gingen.
+Die wussten ja gar nicht mehr, ob und wann sie beobachtet werden.
+Da ist der reumütige Rückzug doch eine vertrauensbildende Maßnahme.
+SPIEGEL ONLINE: Ist den ganz normalen Rheinberger Kunden denn bewusst, dass in diesem Future Store ein RFID-Experiment stattfindet?
+Die Demonstration am Samstag, 28.02.2004, beginnt gegen 13 Uhr am Bahnhof Rheinberg am Niederrhein.
+Rheinberg ist so klein, dass wir das Thema selbst mit einer kleinen Demonstration ganz groß in den Diskurs bringen.
+Es ist dabei gar nicht unser Interesse, diesen Konzern zu schädigen.
+Unser Interesse - wir sind ja Menschen, die sich gern mit Technologie beschäftigen - liegt darin, sicher zu stellen, dass RFID vernünftig eingeführt wird, wenn es schon passiert.
+Ohne, dass die Daten von Menschen erfasst werden, und ohne, dass es die Waren verteuert.

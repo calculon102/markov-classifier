@@ -1,0 +1,34 @@
+Der kurzeitige Besitzerwechsel der Domain ebay.de könnte eine Klagewelle von Verkäufern zur Folge haben, die in dieser Zeit Waren unter Wert verkaufen mussten, weil die Auktionsplattform nicht erreichbar war.
+Eine Juristin sieht eBay wegen grob fahrlässigen Handelns in der Schadenersatzpflicht.
+Die Entführung der Internet-Adresse ebay.de am vergangenen Wochenende könnte das Online-Auktionshaus teuer zu stehen kommen, meint die Kölner Anwältin Birgit Rosenbaum.
+Am Freitag ab 16 Uhr wurden Anfragen nach ebay.de zur Webseite eines Spieleclans umgeleitet, nachdem es einem bislang Unbekannten gelungen war, die Domain auf den Namen Frank S. (Name der Redaktion bekannt) umzumelden.
+Der neue Besitzer der eBay-Domain sollte angeblich in der niedersächsischen Stadt Schöningen wohnen.
+Name und Anschrift erwiesen sich jedoch als offensichtlich erfunden.
+In Folge der Domain-Kaperung bekamen viele eBayer nur eine Fehlermeldung zu sehen, weil der Server des Spieleclans dem Ansturm der Nutzer nicht gewachsen war.
+Tausende eBay-Mitglieder konnten keine Gebote abgeben, obwohl die Auktionen weiterliefen.
+Verkäufer, deren Auktionen in dem Zeitraum bis Samstagvormittag endeten, mussten daraufhin niedrigere Preise hinnehmen.
+Nur wer über ausländische eBay-Seiten nach deutschen Auktionen suchte, konnte mitbieten und eventuell ein Schnäppchen machen.
+Anwältin Rosenbaum betrachtet die Domain-Kaperung nicht als technische Störung, die laut den Allgemeinen Geschäftsbedingungen von eBay Schadenersatz ausschließen würde.
+Der Provider-Wechsel und damit der Ausfall sei vielmehr zustande gekommen, weil eBay nicht rechtzeitig auf eine Anfrage von der deutschen Domainverwaltung Denic reagiert habe.
+Die Denic hatte den offensichtlich mit gefälschten Daten gestellten Antrag auf Besitzerwechsel der Domain ebay.de an den kanadischen Provider von eBay geschickt - vollautomatisch per E-Mail.
+Weil von dort binnen fünf Tagen keine Antwort kam, interpretierte der Denic-Computer dies als Zustimmung und vollzog den Wechsel ebenfalls automatisch.
+Der Denic-Rechner hatte zuvor auch noch eine zweite Erinnerungs-Mail nach Kanada geschickt.
+Weiterhin könnte das Unterlassen der Antwort vorsätzlich oder grob fahrlässig erfolgt sein, erklärte die Juristin.
+Die Anwältin weist jedoch darauf hin, dass der Nachweis eines konkret entstandenen Schadens schwierig werden könnte.
+Möglich sei dies vor allem dann, wenn es ausreichend Vergleichsfälle mit gleichen Artikeln gebe.
+Der erzielte durchschnittliche Preis könne dann als Ansatz dienen.
+In der IT-Branche sorgt vor allem die Denic-Praxis bei Besitzer- und Providerwechseln von Domains für Kopfschütteln.
+Die Denic verteidigte ihr Vorgehen in einer Presseerklärung und verwies auf die eingebauten Prüfungsmechanismen.
+Es sei Aufgabe des eBay-Providers, sich zu versichern, dass Änderungsaufträge tatsächlich vom Inhaber der Domain stammen oder eine entsprechende Vereinbarung zwischen altem und neuem Inhaber vorliegt.
+Der kanadische Provider von eBay.de habe auf die Denic-Anfragen jedoch nicht reagiert.
+Die eBay-Aussage, Nutzerdaten seien zu keiner Zeit während der Domainentführung gefährdet gewesen, wird von Experten bezweifelt.
+Das Brisante daran ist, das der empfangende Server zum Zeitpunkt des Hijackings nicht der eigentliche eBay-Server war, sondern der des Spiele-Clans.
+Auch E-Mails an Adressen wie info@ebay.de dürften auf dem falschen Rechner gelandet sein.
+Wie der deutsche Provider Intergenia mitteilte, der ebay.de kurzzeitig bei sich verwaltete, sollen zwar Daten auf dem Server abgelegt worden sein, jedoch habe niemand diese Daten abgefragt oder herunterkopiert.
+Der unbekannte Hijacker hatte es jedoch nicht auf eBay allein abgesehen.
+Er soll auch den Umzug für die Domains amazon.de und web.de beantragt haben.
+Dabei hatte er wie bei ebay.de angegeben, er sei Besitzer dieser Domains.
+Der Provider Intergenia leitete die Anträge direkt an die Denic weiter.
+Doch nur bei ebay.de gelang die Entführung.
+Der Provider von amazon.de beispielsweise beantwortete die Anfrage der Denic zum Inhaberwechsel sofort mit einem Nein.
+Hätte der kanadische eBay-Provider genauso reagiert, wäre dem Auktionshaus eine Menge Ärger erspart geblieben - und vielleicht auch einiges an Kosten.

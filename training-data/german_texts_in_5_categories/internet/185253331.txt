@@ -1,0 +1,30 @@
+Der Aufbau von Mobilfunkantennen in der Nachbarschaft erregt viele Gemüter.
+Dabei strahlen Handys beim Telefonieren meist viel stärker.
+Siemens, Nokia und Co. produzieren zwar einige strahlungsarme Handys - wollen aber jeden Wirbel über eine möglicherweise gesundheitsschädigende Wirkung vermeiden.
+Das Umweltzeichen gibt es schon seit mehr als 25 Jahren, doch bei einem Produkt ist der Blaue Engel bisher nicht anzutreffen: dem Mobiltelefon.
+Der Grund dafür liegt an den Bedingungen, die ein Mobiltelefon erfüllen muss, um den Engel tragen zu dürfen.
+Ausschlaggebend ist bei Handys die Strahlung.
+Der so genannte SAR-Wert misst, wie viel Watt Energie auf ein Kilogramm Masse einwirken, wenn ein Handy ans Ohr gehalten wird.
+Je niedriger desto besser, könnte man meinen.
+Doch gerade hierum streiten sich Hersteller, Bundesumweltamt und Bundesamt für Strahlenschutz (BFS).
+Offiziell liegt der Grenzwert für Handys laut Weltgesundheitsorganisation (WHO) bei 2 Watt pro Kilogramm (W/kg).
+Der Blaue Engel soll Geräte mit einem Wert von bis zu 0,6 W/kg auszeichnen.
+Doch ein Blick in die Liste von Blauer-Engel-Produkte weist nicht ein einziges Handy auf.
+Dabei entsprechen laut BFS mittlerweile rund ein Viertel aller Handys in Deutschland diesem Wert.
+Dennoch bemüht sich kein Hersteller um das allseits bekannte Zeichen.
+Der Blaue Engel sei weit reichend bekannt und könne als Marketinginstrument beim Verkauf nutzen.
+Sie wissen, bei Mobilfunkstrahlung gehen die Emotionen hoch - das haben die vielen Bürgerinitiativen gegen Mobilfunkmasten gezeigt.
+Die Hersteller argumentieren dagegen: Der Blaue Engel für Handys sei eine rein politische Entscheidung.
+Ein wissenschaftlicher Nachweis für gesundheitliche Nachteile fehle.
+Getestet wurde im schwedischen analogen Mobilfunknetz, das in Deutschland dem C-Netz entspricht und nicht zum gängigen Mobiltelefonieren genutzt wird.
+Einer dänischen Studie zufolge konnten wiederum keine Auswirkungen festgestellt werden.
+Beide Studien sind Teil einer von der WHO gestützten weltweiten Untersuchung, an der 13 Länder teilnehmen.
+Ziel ist es, herauszufinden, ob Mobilfunktelefonieren in Verbindung zu Krebsgeschwüren steht.
+Ende kommenden Jahres könnten erste Ergebnisse der groß angelegten Studie feststehen.
+BFS und Verbraucherverbände weisen zudem auf Studien hin, die biologische Effekte durch elektromagnetische Felder nachgewiesen haben.
+Eine davon seien thermische Wirkungen.
+Die Erwärmungen des Gewebes könnten die Augenlinse gefährden, denn sie könne Wärme nur schlecht abführen.
+Doch Schäden sind bisher wissenschaftlich nicht erwiesen.
+So weisen die Hersteller auch darauf hin, dass Mobilfunkgeräte mit relativ hohem SAR-Wert im Alltag einen niedrigen Strahlungswert aufweisen können, niedriger sogar als Handys mit einem ausgewiesenen niedrigen Strahlungswert.
+Der SAR-Wert wird bei Höchstleistung gemessen - das entspricht Situationen mit schlechter Verbindung wie zum Beispiel im Zug oder im fahrenden Auto.
+Weiter im zweiten Teil: Wie viel Vorsorge ist notwendig?

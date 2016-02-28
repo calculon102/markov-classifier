@@ -1,0 +1,20 @@
+Der Mathematiker Henry Stott von der Universität Warwick behauptet, dass seine statistischen Berechnungen exakter sind als die der Buchmacher und Experten.
+Der Favorit seines Elektro-Hirns ist Argentinien.
+Um die Gewinnchancen zu berechnen, hat er den Computer mit Daten aus den Qualifikations- und Freundschaftsspielen zur WM 2002 gefüttert.
+Danach simulierte er Hunderttausende von virtuellen Spielen.
+Als Grund für seine genauen Ergebnisse gibt Stott folgenden an: Der Computer beziehe nicht nur die Leistungen der einzelnen Mannschaften, sondern auch den Faktor der Unberechenbarkeit mit ein.
+Ein Beispiel: Während die Franzosen in ihrer Leistung den Brasilianern deutlich überlegen sind, liegen sie im WM-Ranking trotzdem hinter den Brasilianern, und zwar weil ihre Leistungen unberechenbarer sind als die der Brasilianer.
+Ein Faktor, der von Buchmachern häufig unterschätzt wird.
+So kam der Computer gleich zu Beginn der WM zu einem für die Buchmacher verblüffenden Ergebnis: Der elektronische Wahrsager hat die 1:0 Niederlage der Franzosen gegen Senegal bereits vorhergesehen - ein erster Beweis für seine mögliche Treffsicherheit.
+Viele Buchmacher verkennen die Macht der angeblich unterlegenen Kandidaten.
+Ob der Computer Recht behält, wird sich ein weiteres Mal am Mittwoch beim Spiel Spanien gegen Südafrika zeigen: Der Computer meint, dass Südafrika gegen Spanien mit 28-prozentiger Wahrscheinlichkeit gewinnt.
+Die Buchmacher dagegen rechnen nur mit einer 10-prozentigen Gewinnchance.
+Ein anderes Statistik-Programm, das von Peter O'Donoghue von der Universität Ulster entwickelt wurde, setzt auf Brasilien als Top-Favoriten.
+Dafür wurde der Computer mit sämtlichen Daten der Fifa-Weltranglisten gefüttert.
+Auch der Anreise-Weg der einzelnen Mannschaften, der Wechsel zwischen den Spielorten in Japan und Korea und die Ruhepausen zwischen den Spielen wurden mit berücksichtigt.
+Zweitausendmal hat O'Donoghue die Daten durch den Rechner gejagt - das Ergebnis: Brasilien und Italien kommen ins Endspiel, WM-Sieger wird Brasilien.
+Die Forscher wollen herausfinden, ob der Computer solche Ergebnisse besser vorhersagen kann als der Mensch.
+Dazu haben die fußballbegeisterten Forscher selbst auch einen Tipp abgegeben: Argentinien wird im Finale gegen Italien gewinnen.
+Er glaubt jedoch fest an den Computer und hat im Wettbüro bereits 20 Pfund auf den Computer-Favoriten gesetzt.
+Recht geben ihm die Erfolge der Schachcomputer.
+Aber auch wenn der Fussball-Computer besser kopfrechnen kann: Ob ein Stürmer von einer schweren Grippe erwischt wird, kann auch er nicht vorhersagen.

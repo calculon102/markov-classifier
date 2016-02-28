@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.input.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.analysis.AnalysisResultBean?>
+<?import de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.analysis.AnalysisTreeTableIndexColCellFactory?>
+<?import de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.common.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.analysis.AnalysisController"
+	fx:id="analysisPane">
+
+	<top>
+		<VBox spacing="9">
+			<padding>
+				<Insets bottom="12" top="12" left="24" right="24" />
+			</padding>
+
+			<Label styleClass="header" text="%analysis.header" />
+			<Label text="%analysis.desc" wrapText="true" />
+		</VBox>
+	</top>
+
+	<center>
+		<VBox spacing="9" minWidth="400" prefWidth="666">
+
+			<padding>
+				<Insets bottom="12" top="12" left="24" right="12" />
+			</padding>
+
+			<Label styleClass="subheader" text="%analysis.results.head" />
+			<Label text="%analysis.results.desc" wrapText="true" minWidth="400" prefWidth="600"/>
+
+			<TreeTableView minHeight="60" fx:id="resultsTable" showRoot="false" onMouseClicked="#onMouseClickedResultTable" onKeyPressed="#onKeyPressedResultTable">
+				<columns>
+					<TreeTableColumn prefWidth="30" text="#" style="-fx-text-align: right">
+						<cellValueFactory>
+							<AnalysisTreeTableIndexColCellFactory />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="180"	text="%analysis.results.col.filename">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="filename" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="120"	text="%analysis.results.col.class">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="className" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%analysis.results.col.score">
+						<cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<Percentage2StringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="score" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%analysis.results.col.emissionCount">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<LongStringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="emissionCount" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="120"	text="%analysis.results.col.wordOrderClass">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="wordOrderClass" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TooltippedTreeTableColumn minWidth="60" title="%analysis.results.col.wordOrderPercentage" tooltip="%analysis.results.col.wordOrderPercentage.tooltip">
+						<cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<DoubleSig2StringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="wordOrderPercentage" />
+						</cellValueFactory>
+					</TooltippedTreeTableColumn>
+					<TreeTableColumn minWidth="30" text="%analysis.results.col.minSig">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="minSigSettings" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="30" text="%analysis.results.col.voidSig">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="voidSigSettings" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="30" text="%analysis.results.col.pseudoSig">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="pseudoSigSettings" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="60" text="%analysis.results.col.fileCount">
+					    <cellFactory>
+					    	<ConverterTreeTableCellFactory>
+					    		<converter>
+					    			<LongStringConverter />
+					    		</converter>
+					    	</ConverterTreeTableCellFactory>
+					    </cellFactory>
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="fileCount" />
+						</cellValueFactory>
+					</TreeTableColumn>
+					<TreeTableColumn minWidth="120"	text="%analysis.results.col.time">
+						<cellValueFactory>
+							<TreeItemPropertyValueFactory property="timeString" />
+						</cellValueFactory>
+					</TreeTableColumn>
+				</columns>
+			</TreeTableView>
+		</VBox>
+
+	</center>
+
+	<right>
+		<VBox spacing="9" minWidth="100" prefWidth="333" maxWidth="500">
+			<Label styleClass="subheader" text="%analysis.input.header" />
+			<Label text="%analysis.input.desc" wrapText="true" />
+			<Button text="%analysis.input.button" onAction="#onAnalyzeInputData" />
+			<padding>
+				<Insets bottom="12" top="12" left="12" right="24" />
+			</padding>
+
+			<Label styleClass="subheader" text="%analysis.settings.header">
+				<padding>
+					<Insets bottom="0" top="9" left="0" right="0" />
+				</padding>
+			</Label>
+
+			<Label text="%analysis.settings.voidSignificance" wrapText="true" />
+
+			<Slider fx:id="voidSignificanceSlider" value="5.0"
+				blockIncrement="0.5" snapToTicks="true" min="0.0" max="10.0"
+				showTickMarks="true" majorTickUnit="2" showTickLabels="true">
+			</Slider>
+
+			<Label text="%analysis.settings.pseudoCount" wrapText="true" />
+			<Slider fx:id="pseudoCountSlider" value="0.5"
+				blockIncrement="0.5" snapToTicks="true" min="0.0" max="10.0"
+				showTickMarks="true" majorTickUnit="2" showTickLabels="true" />
+
+			<Label text="%analysis.settings.maxFiles" wrapText="true" />
+			<NumberTextField fx:id="maxFilesField" text="100" defaultValue="100" />
+		</VBox>
+	</right>
+
+</BorderPane>
+
+

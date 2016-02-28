@@ -1,0 +1,24 @@
+Es gibt zu viele Produkte, die .Net genannt werden und dies gar nicht verdienen.
+Denn natürlich bleibt unter dem Strich die Botschaft, dass Selbsterkenntnis doch der erste Schritt zur Besserung sei: Ab sofort gehe es richtig voran mit dem .Net.
+Anders hätte Gates die Botschaft kaum mehr verkaufen können.
+Seit gut zwei Jahren verheißt .Net eine neue Phase in der Geschichte von Web und Computer.
+Die Microsoft-Strategie zielt darauf, über zahlreiche, miteinander kommunizierende Funktionen von Programmen und Geräten über das Internet eine bisher nicht gekannte, enge Verzahnung der digitalen Welt zu schaffen.
+Alles solle miteinander korrespondieren, Abläufe sich selbst koordinieren, dem Nutzer möglichst wenig Aufwand entstehen.
+Zum einen ist und bleibt das Thema viel zu abstrakt, so lang man noch nicht genügend konkrete Anwendungen vorzeigen kann.
+Zwei Jahre Dauervisionieren - das hält die beste PR-Abteilung nicht durch.
+Zum anderen schmeckt .Net längst nicht allen, die die Vision verstehen.
+Innerhalb des Webs entstünde so ein .Net - ein Microsoft-Netzwerk.
+Innerhalb dieses Netzwerkes sollte hohe Performance und absolute Kompatibilität zu garantieren sein.
+Denn natürlich will Gates wie eine Spinne in der Mitte dieses zu schaffenden, engeren Netzes sitzen und auch noch viele der Kommunikationsströme als Dienstleister und Makler abwickeln.
+Denn auch Gelder sollen natürlich durch das .Net fließen, und selbstverständlich verspricht Microsoft, auch deshalb künftig noch mehr dagegen zu unternehmen, dass sensible Daten in die Hände von Unbefugten gelangen.
+Nicht wenige Microsoft-Nutzer halten vor allem Microsoft für unbefugt - und offenbar ging das auch den potenziellen Partnern im .Net nicht anders.
+Dass es wohl eher gar keine waren, vermuteten Kritiker.
+Das muss ein bitteres Eingeständnis sein, denn weiland war Hailstorm der Kern der .Net-Strategie, die ihre Umsätze durch Einnahmen für Software-Lizenzen einerseits und Dienstleistungen innerhalb des .Net andererseits erwirtschaften sollte.
+Erfahrungen, aus denen das Unternehmen nun gelernt habe: So hinke die beabsichtigte Schaffung attraktiver Web-Services den Plänen doch deutlich hinterher.
+Doch genug der Selbstkasteiung, Zeit für das Finale: Umsonst lädt Bill Gates nicht über 100 Investoren und Journalisten zu einem Stelldichein.
+Sun, IBM und BEA arbeiten mit SUN.One an einem eigenen, konkurrierenden Standard.
+Vor allem das Gewicht von IBM im Business-Markt macht Microsoft da Sorgen: Tatsächlich sehen viele Analysten bisher einen deutlichen Vorsprung der Sun/IBM-Allianz vor .Net.
+Um so nötiger ist es für Microsoft, sich frühzeitig in dieser neuen Digi-Welt zu positionieren, wenn das Unternehmen seine bisher ultimative Marktmacht langfristig behalten will.
+Immerhin hat Microsoft hier einen Trumpf im Ärmel, den die Konkurrenz nicht hat: die Dominanz im Betriebssystem-Markt.
+Und mit der könnte durch die Hintertür doch noch gelingen, was im Frontalangriff mit Hailstorm scheiterte.
+Ob Kunden oder Partner das wollten oder nicht: Hier säße Microsoft mit einem Mal wieder in der Mitte des Webs, kontrollierte Geldflüsse und die Vergabe von Privilegien und Rechten.

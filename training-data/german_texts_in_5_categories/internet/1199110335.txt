@@ -1,0 +1,22 @@
+Das Gerücht, dass es Web-Betrügern immer wieder gelinge, ihre Nutzerprofile bei eBay zu manipulieren, hält sich seit langem.
+Der beispiellose Erfolg von eBay fußt vor allem auf einem Faktor: Dem Online-Auktionshaus ist es gelungen, ein System zu etablieren, das eine Vertrauensbasis zwischen handelnden Menschen schafft, die sich nicht kennen.
+Nur deshalb sind Millionen Käufer bereit, für ersteigerte Waren in Vorlage zu gehen und erst ihr Geld in die Welt zu schicken, bevor sie die Ware in den Händen halten.
+Das ist eigentlich verrückt und widerspricht allen guten Ratschlägen, die Verbraucherschützer für ihre Klientel bereit halten.
+Aber es funktioniert - meistens.
+Trotzdem: Betrug ist möglich - und weit leichter, als das eBay bisher zugegeben hat.
+Die macht den Handel auch mit einem unbekannten Verkäufer ein wenig transparenter: Wie viele Verkäufe hat dieser Mensch in den letzten Monaten abgewickelt?
+Ist er ein Profi oder ein Amateur?
+Was halten seine Kunden von ihm?
+Liefert er gute Ware, liefert er schnell?
+Gab es Streitigkeiten mit Kunden und warum?
+Alles Fragen, die sich aus dem Bewertungsprofil erschließen lassen.
+Seit rund eineinhalb Jahren jedoch häufen sich die Gerüchte darüber, dass Betrüger in der Lage seien, diese Profile zu manipulieren.
+Aus neu angemeldeten Händlern werden plötzlich eBay-Urgesteine mit Hunderten erfolgreich abgewickelten Geschäften, stets zur vollen Zufriedenheit aller Kunden.
+In Wahrheit macht sich das Windei am Ende mit dem Geld davon.
+Der Verkäufer fügt beim Erstellen seines Angebotes ein kleines Javascript an den Beschreibungstext an.
+Das Javascript tauscht die Daten in dem eBay-Profil des Verkäufers nach Belieben aus - und selbst aus dem hinterletzten Bengel wird ein Engel.
+Die Betrüger können sogar beliebige Bewertungstexte von imaginären, aber angeblich zufriedenen Käufern einblenden.
+Die ist einfach genug zu schließen: Wer Javascript in seinem Browser deaktiviert, bevor er sich zu eBay begibt, sieht das echte Profil des scheinbar seriösen Anbieters.
+Verbraucherschützer und Polizeibehörden raten dazu, bei hochpreisigen Waren den von eBay angebotenen Treuhand-Service in Anspruch zu nehmen.
+Der gibt gezahltes Geld erst frei, wenn der Kunde signalisiert, dass er die Ware erhalten und geprüft hat.
+Anzuraten sei der kostenpflichtige Service bei allen Verkaufspreisen über 200 Euro.

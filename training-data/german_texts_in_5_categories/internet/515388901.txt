@@ -1,0 +1,61 @@
+Ein paar New Yorker Studenten und ihr Professor haben den Arcade-Klassiker Pac Man zum Leben erweckt.
+In Geisterkostümen und mit Funkquetschen ausgestattet jagen sie den gelben Punktemampfer durch ein Labyrinth namens Manhattan.
+New York - Pac Man erwischt einen schlechten Start an diesem Samstagmorgen.
+Erst vor wenigen Minuten hat er seine Startposition an der Südseite des Washington Square Parks verlassen und schon haben ihn die Geister Inky, Blinky, Pinky und Clyde zwischen Waverly und 4th Street in die Enge getrieben.
+Pac Manhattan ist eine Erfindung von Studenten des Graduiertenkollegs Interactive Telecommunications Program (ITP) der Universität von New York (NYU).
+Das Ergebnis ist eine Liveversion des Spieleklassikers, bei dem vier Geisterspieler in bunten Ponchos einen menschlichen Pac Man durch die Straßen des Univiertels jagen.
+Unterstützt werden sie von fünf so genannten Controllern, die mit Laptops in einem Universitätsgebäude sitzen und die Bewegungen auf dem Spielfeld verfolgen.
+Mattias Bildschirm im Kommandozentrum nach zu urteilen hat sich Pac Man alias Mike Olsen am rechten Rand des Labyrinths in eine ziemlich aussichtslose Lage manövriert.
+In der Computerversion wäre jetzt Game Over, aber in der realen Welt hat Olsen einfach längere Beine als die Geister.
+Die Technik, mit der die Controller die Bewegungen ihrer Spieler verfolgen, ist eine ziemlich simple Angelegenheit.
+Anfängliche Überlegungen, mit GPS-Systemen und WiFi-Karten zu arbeiten, gaben die ITP-Studenten aus Kostengründen schnell auf.
+Stattdessen kommunizieren Controller und Feldspieler per Handy, zusätzlich sind sie mit Walkie-Talkies ausgestattet, falls der Telefonakku schlapp macht.
+Das Spielfeld sehen die Controller in Form einer Flash-Grafik auf ihren Rechnern.
+Dort können sie per Drag & Drop auch die Positionen ihrer Schützlinge aktualisieren.
+Olsen hat inzwischen die Kreuzung von Mercer und West Third Street erreicht, die auf dem Spielplan als roter Punkt markiert ist.
+Am anderen Ende der Leitung fängt Romeo an zu Grinsen, denn sein Schützling hat gerade eine der vier Powerpillen gefuttert, ist jetzt zwei Minuten lang unverwundbar und kann seinerseits die Geister jagen.
+Pac Mans Controller sieht auf seinem Bildschirm zu jeder Zeit, welche Kreuzung die Geister jeweils zuletzt passiert haben - und kann den Pac-Man-Spieler entsprechend instruieren.
+Die Geistercontroller sehen auf Ihren Screens vergleichsweise spärliche Informationen.
+Nur wenn einer der Geister eine Kreuzung passiert, die der Mampfer kurz zuvor überquert hat, bekommt der Geistercontroller einen Hinweis darauf, dass die Spur heiß (roter Punkt) oder warm (orangener Punkt) ist.
+Diese Informationsasymmetrie macht es den Geistern schwer, Pac Man zu erwischen.
+Dafür sind sie zu viert.
+Am Geistertisch herrscht Chaos.
+Seit Blinkie und Konsorten vor dem unverwundbaren Pac Man Reißaus nehmen mussten, wissen sie nicht mehr, wo ihr Gegner sich aufhält.
+Keiner hat den Punktemampfer auf dem Schirm.
+Für die Feldspieler ist Pac Manhattan ein echter Fitnesstest.
+Vor allem der Pac-Man-Spieler muss viel rennen, um die Punkte im Labyrinth einzusammeln.
+Diese sind auf den Straßen um den Washington Square nicht physisch vorhanden, sondern werden nur auf dem Computerbildschirm angezeigt.
+Der Pac-Man-Controller muss seinem Spieler mitteilen, welche Straßen es noch abzuklappern gilt.
+Ein weiterer Nachteil Pac Mans ist, dass er - genau wie in der Computerversion - die Geisterbox in der Mitte des Labyrinths nicht betreten darf - er muss drumherum laufen.
+Bei Pac Manhattan besteht die Box aus dem gesamten Washington Square Park.
+Mattia Romeo gefällt der Anblick auf seinem Bildschirm.
+Sein gelber Schützling hat so ziemlich alles leer gefressen, nur östlich des Parks sind noch einige Punkte.
+Die Geister sehen jetzt ziemlich alt aus, vor allem ihr Rädelsführer Pete Vigeant alias Blinkie.
+Ich habe mich mit meinen Mitgeistern besprochen und ich denke, dass wie eine ausgezeichnete Strategie haben.
+Der so frühzeitig Abgeschriebene hat inzwischen eine weitere Powerpille an der 8th Street eingesammelt und erbittet Anweisungen von seinem Controller.
+Olsen lässt es sich nicht zweimal sagen.
+Er bekommt Clyde und Inkie zu fassen, berührt beide und schickt sie zurück in den Park, von wo sie neu starten müssen.
+Nach einigen Testläufen und Regelveränderungen in den vergangenen Wochen ist Pac Manhattan nach Ansicht von Lantz inzwischen soweit ausgereift, dass die Partie am Samstag als Betatest gelten kann.
+Obwohl technisch alles reibungslos funktioniert, haben die ITP-Leute inzwischen ein kleines Öffentlichkeitsproblem.
+Zunächst hatten nur einige Geek-Sites wie Slashdot über das Spektakel berichtet, inzwischen verfolgen mehrere Kamerateams die Jagd durch Manhattan.
+Der inzwischen aus der Geisterbox zurückgekehrte Inky lungert an der Südseite des Parks herum, denn er weiß, dass Pac Man versuchen wird, dort die Bonusfrucht einzusammeln.
+Plötzlich sieht Inky aus dem Augenwinkel etwas Gelbes in der Ferne vorbeihuschen.
+Die Live-Action-Version des Arcade-Klassikers Pac Man wird von insgesamt zehn Personen gespielt.
+Fünf Spieler übernehmen die Rollen von Pac Man sowie den vier Geistern Inky, Pinky, Pinky und Clyde.
+Ziel des Pac-Man-Spielers ist es, alle Punkte auf dem Spielfeld zu fressen.
+Die vier Geister versuchen, den gelben Mampfer so schnell als möglich zu fangen.
+Anders als in der Computerversion besitzt Pac Man nur ein Leben.
+Weitere fünf Personen sitzen in der Kommandozentrale.
+Jeder von ihnen überwacht einen der fünf Feldspieler und steht mit diesem in ständigem Kontakt.
+Positionsveränderungen werden von den Controllern mithilfe einer speziell entwickelten Pac-Manhattan-Software dokumentiert.
+Auch alle anderen Elemente des Vorbildes haben die New Yorker Studenten übernommen.
+In den Ecken des Labyrinths befinden sich Power-Pillen, die Pac Man für eine kurze Zeit unverwundbar machen und es ihm erlauben, die Geister zu fressen.
+Am Ende des Spiels errechnet das Programm die Punktezahl des Pac-Man-Spielers.
+Eine kommerzielle Vermarktung von Pac Manhattan planen die ITP-Leute nicht.
+Stattdessen wollen sie demnächst auf ihrer Webseite eine Open-Source-Version der Software bereit stellen, um Interessierten die Möglichkeit zu geben, in ihrer Heimatstadt auch Live-Pac-Man zu spielen.
+Das Programm läuft unter Windows und OS X. Wann es verfügbar sein wird, steht noch nicht genau fest.
+Bereits jetzt kann man Pac Manhattan jedoch live als Videostream verfolgen und sich die High-Score-Liste anschauen.
+Das Ende kommt plötzlich.
+Da trabt plötzlich der schweißnasse Pac Man geradewegs an ihrem Versteckt vorbei.
+Unter den Geister-Controllern im Kimmel Building bricht Jubel aus.
+Eine halbe Stunde später hetzt Megan um den Washington Square - ganz originalgetreu mit einer roten Schleife am Pac-Man-Kostüm.

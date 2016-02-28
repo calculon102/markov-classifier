@@ -1,0 +1,37 @@
+Günstig auch, dass für die MMS keine komplett neue Technik erfunden werden musste.
+Die MMS basiert nämlich auf dem WAP-Standard.
+Für den Benutzer erfolgt der Versand ganz wie bei einer herkömmlichen SMS, und der Empfänger öffnet die Message mit einer eigenen Schnittstelle und nicht etwa mit dem WAP-Browser.
+Der MMS-Standard schreibt keine maximale Textlänge mehr vor.
+Was den Dienst aber erst attraktiv macht, ist die Möglichkeit, den Meldungen Attachments anzuhängen.
+Als Mitteilungsanhang lässt sich so ziemlich alles mitversenden: Bilder, Sprache und Filme.
+Doch der Markt öffnet sich nur schleppend.
+Wer die MMS nicht einfach nur als Weblink empfangen möchte, der benötigt ein neues, diesmal MMS-fähiges Handy.
+Die Geräteauswahl ist noch recht bescheiden.
+Als erstes Gerät konnte das Sony-Ericsson T68i mit den multimedialen Mitteilungen etwas anfangen.
+Nokia zog mit den Modellen 3510, 7210 und dem flammenneuen 7610 nach.
+Letzteres hat auch gleich eine Kamera mit eingebaut.
+Doch nicht nur den Kunden entstehen Kosten.
+Auch die Betreiber der Mobilfunknetze müssen für die MMS in zusätzliche Technik investieren.
+Nach und nach melden die Betreiber Vollzug.
+In Deutschland ist Vodafone bereits MMS-fähig, bei T-Mobile und O2 will man es in einigen Wochen sein.
+Uneins sind sich derzeit eher die Marktforscher, wenn es um die Zukunftschancen der MMS geht.
+Mitte Mai 2002 gab die niederländische Dependance des Marktforschungsunternehmens Forrester Research der MMS noch kaum eine Chance.
+Die Messaging-Umsätze, so prognostizierte man in Amsterdam, würden trotz neuer Angebote im Jahr 2004 erstmals sinken.
+Denn bis zum Jahr 2007 soll ein hoher Konkurrenz- und Preisdruck die Gewinnmargen senken.
+Der MMS trauen die Marktforscher darum auch kaum mehr als 10 Prozent Anteil am Messaging-Markt bis 2007 zu.
+Dieser Tage veröffentlichte die Unternehmensberatung Mummert + Partner in Hamburg eine neue Trendstudie zum gleichen Thema - mit teils krass unterschiedlichen Befunden.
+Gerade im Geschäftskundenbereich bietet die MMS mit dem schnellen Dateiversand zusätzliche Möglichkeiten für den Außendienst.
+Doch wenn Firmen zuvor eine komplette Handygeneration ausmustern müssten, um in den Genuss der Vorzüge zu kommen, bliebe die MMS-Nutzung für viele wohl Wunschdenken.
+Der Enabler erkennt, ob das angepeilte Handy mit einer MMS umgehen kann, oder ob es sich lediglich um ein SMS-fähiges Gerät handelt.
+In jedem Fall zeigt das Handy eine Mitteilung über die eingegangene MMS-Nachricht an.
+Das ist eine Software, die auf einem PDA installiert werden kann.
+Vorausgesetzt, PDA und Handy können über die Infrarotschnittstelle miteinander kommunizieren, sorgt der MMS-Client des PDA für die MMS-Zustellung.
+Das Handy fungiert hierbei nur als Sende- und Empfangsgerät, hat also mit der MMS-Entschlüsselung und Darstellung nichts zu tun.
+Die Optik der Software wird dafür in seinem Erscheinungsbild der Netzbetreiber-Marke individuell angepasst.
+Ist das Problem des MMS-Versandes und Empfangs erst einmal gelöst, stellt sich die Frage, ob es auch nützliche Anwendungen für die MMS gibt.
+Eine Frage, die sich offenbar schon jetzt mit einem Ja beantworten lässt.
+Die Berliner Firma Gate5 präsentierte ein System, das die Nutzung von Location-Based-Services ermöglicht.
+Ortung, Straßenkarten, Gastro- und Sightseeing-Tipps oder der Friendfinder können damit per MMS abgerufen werden.
+Ob die Multimedia-Message tatsächlich die heißgeliebte SMS ablösen kann, ist noch ungewiss.
+Das Etikett eines Hoffnungsträgers für die gebeutelte Mobilfunkbranche haftet dieser großzügigen Erweiterung technischer Mitteilungsmöglichkeiten aber wohl zu Recht an.
+Keiner der Netzbetreiber wird sich der MMS entziehen können.

@@ -1,0 +1,28 @@
+Der Krieg sollte mit Laptop, GPS und Datenfunk geführt werden.
+Doch im Irak versagte die Hightech-Ausrüstung der US-Armee kläglich, wie ein bislang geheimer Report enthüllt.
+Systeme stürzten ab, der Digitalfunk brach zusammen, Frontkommandeure agierten teilweise blind.
+Am Aufwand dürfte es kaum gelegen haben: Die US-Truppen im Irak wurden von Informationstechnik unterstützt, wie in kaum einem anderen Krieg zuvor.
+Hunderte von Sensoren erfassten das gesamte Land.
+Die Kommandeure verfügten über 42-mal so viel Bandbreite wie im ersten Golfkrieg.
+Schnelle Datenverbindungen hielten den Kontakt zu Aufklärungstruppen vor Ort.
+Doch der Hightech-Krieg, von dem Strategen im Pentagon träumten, wurde zum Misserfolg.
+Das Wissenschaftsmagazin beruft sich auf einen geheimen Report des amerikanischen Think-Tanks RAND.
+Den Hauptquartieren der US-Armee in Katar und Kuweit erging es demnach ähnlich wie den US-Geheimdiensten im Antiterrorkampf.
+Das Bestreben, möglichst alle verfügbaren Informationen zusammenzutragen, führte zum Informations-Overkill.
+Zeitweilig mussten die Leitstellen angeblich sogar den Empfang einstellen.
+An der Front vor Bagdad herrschte hingegen Datenmangel.
+Downloads dauerten Stunden.
+Software hängte sich auf.
+Was dies für die Soldaten bedeutete, zeigt der Fall von Oberstleutnant Ernest Marcone, Bataillonskommandeur in der 3. Infanteriedivision.
+Seine Einheit rollte auf eine strategisch wichtige Brücke zum Flughafen Bagdad zu.
+Marcone hatte trotz aller Drohnen und Satellitenfotos keine Ahnung, wie viel irakische Kräfte ihn dort erwarteten.
+Ihm war nur gemeldet worden, dass sich eine einzelne irakische Brigade vom Flughafen aus in Richtung Süden bewegen sollte.
+Doch nicht eine Brigade, sondern drei, dazu 25 bis 30 Panzer plus 70 bis 80 gepanzerte Transporter, Artillerie und zwischen 5000 und 10.000 irakische Soldaten warteten an der Brücke auf die vorrückenden US-Truppen.
+Eine Panne, die schlimme Folgen für seine Soldaten hätte haben können.
+Den Männern aus Marcones Bataillon halfen letztlich nicht Sensoren und Kommunikationstechnik, sondern schlicht die dicken Panzerungen ihrer Fahrzeuge.
+Die Datenkommunikation zur Front scheiterte auch deshalb, weil sich die Einheiten zu schnell bewegten.
+Der verwendete Mikrowellen-Funk lässt sich in Fahrt nämlich nur schlecht empfangen.
+In drei Fällen wurden US-Fahrzeuge laut dem Bericht sogar angegriffen, während sie anhielten, um Informationen über feindliche Stellungen zu empfangen.
+Theoretisch bot das flache Wüstenland Irak ideale Voraussetzungen für den Hightech-Krieg.
+Doch in der Praxis spielten sich die Kämpfe vor allem in Städten mit teilweise engen Gassen ab - die Navigation per GPS versagte hier ebenso wie in Gebäuden.
+Aus Frust über die unbrauchbaren Hightech-Funkgeräte ließen sich einige Soldaten schließlich herkömmliche Walkie-Talkies aus dem Supermarkt von ihren US-Verwandten schicken.

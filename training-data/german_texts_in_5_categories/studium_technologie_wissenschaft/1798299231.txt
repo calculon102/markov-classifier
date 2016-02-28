@@ -1,0 +1,20 @@
+Die spannendsten Ereignisse im Weltall bleiben normalen Kameras oft verborgen: Sterngeburtsstätten hüllen sich in dichte Nebelschleier, kollidierende Galaxien verschwinden in gewaltigen Staubschwaden.
+Obwohl das Weltraumteleskop Hubble eigentlich für solche Fälle gerüstet ist, musste es sich lange auf Äußerlichkeiten beschränken.
+Besonders geeignet für den Test des Instruments ist der Nebel NGC 2264, der wegen seiner Kegelform auch Conusnebel genannt wird.
+Zwar kann auch Nicmos den Nebelvorhang nicht vollständig lüften, dafür enthüllt das Foto aber mehrere schwache Sonnen am rechten Bildrand, die auf der ACS-Aufnahme nicht erkennbar sind.
+Ob diese Sterne im Nebel liegen oder dahinter, wissen die Forscher allerdings noch nicht.
+Als weiteres Studienobjekt für die Infrarotkamera diente die Galaxie NGC 4013, die von der Erde aus exakt von der Seite zu sehen ist.
+Wissenschaftler konnten darauf einen leuchtenden Streifen im Innern von NGC 4013 identifizieren.
+Vermutlich handelt es sich dabei um eine ringförmige Region um den galaktischen Kern, in der mit aberwitzigem Tempo neue Sterne fabriziert werden.
+Noch deutlicher tritt dieses 720 Lichtjahre breite Gebiet auf einer Aufnahme hervor, die nur die Wasserstoff-Emissionen wiedergibt.
+Ein ähnlich intensive Sternproduktion enthüllte die Infrarotkamera auch in einem viel weiter von der Erde entfernten Himmelsobjekt.
+Das seltsame Knäuel in einer Milliarde Lichtjahre Distanz, das die nüchterne Bezeichnung IRAS 19297-0406 trägt, besteht eigentlich aus vier Einzelgalaxien, die aber unentwirrbar ineinander verwickelt sind.
+Das im infraroten Wellenbereich äußerst intensiv strahlende Quartet wird sich, wie Astronomen annehmen, letztendlich in eine massive elliptische Galaxie verwandeln.
+Bei der Aufnahme der kosmischen Massenkarambolage erhielt Nicmos Unterstützung von der Advanced Camera for Surveys.
+Diese porträtierte die Überreste der Galaxien im sichtbaren Licht, während das Infrarot-Instrument durch den staubigen Schleier blickte, der das Zentrum des Geschehens verdeckt.
+Dort enthüllte die Kamera einen gelb dargestellten Bereich, in dem durch die Kollision ein wahrer Feuersturm der Sternentstehung entfacht wird.
+In jedem Jahr produziert IRAS 19297-0406, so errechneten die Forscher, rund 200 sonnenähnliche Sterne - hundertmal mehr als die vergleichsweise gemütliche Milchstraße.
+Ursprünglich wurde das Gerät mit Stickstoffeis gekühlt, doch der Hundert-Kilo-Vorrat verflüchtigte sich, anders als geplant, bereits innerhalb von knapp zwei Jahren.
+Schließlich musste Nicmos 1999 außer Betrieb genommen werden.
+Mit drei kleinen Hightech-Turbinen, die mit 430.000 Umdrehungen pro Minute rotieren, pumpt er ultrakaltes Neongas durch das Instrument.
+Mit dieser Methode lässt sich die Temperatur besser regulieren, zudem arbeitet das neue System praktisch ohne Vibrationen, die Hubbles Blick ins Universum verwackeln könnten.

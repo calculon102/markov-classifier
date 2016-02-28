@@ -1,0 +1,24 @@
+Howard Berman ist in diesen Tagen wohl ein beliebter Mann - zumindest in den Führungsetagen der großen Musikfirmen.
+Sein Gesetzesentwurf für den US-Kongress brachte neuen Schwung in eine Debatte, die bis dahin nur unterschwellig geführt wurde: Mit welchen Methoden ist den P2P-Börsen überhaupt noch beizukommen?
+Seit rund zwei Jahren versucht es die Lobby der Industrie vor allem vor Gericht.
+Doch die Urteile, die hier und da zu einer Firmenpleite einer P2P-Börse führen, erinnern eher an Racheakte als an Maßnahmen, das aus Sicht der Industrie virulente Problem der P2P-Börsen zu lösen.
+Bevor ein Richter zu einem Spruch gegen eine Börse findet, sind in aller Regel fünf neue entstanden - mit besserer Software, mehr Usern und wieder ein Stück schwerer zu fassen.
+Niemand weiß besser als die Nutzer, dass P2P vor Gericht nie beizukommen sein wird.
+Auch darum erwarten Nutzer und Szenekenner seit langem, dass sich der Kampf irgendwann mit härteren Bandagen geführt in die P2P-Börsen selbst hinein verlagert.
+Als vor Monatsfrist vermehrt verstümmelte MP3-Dateien bei KaZaA auftauchten, begann die Diskussion fast umgehend, ob dies ein gezielter Sabotageversuch sein könne.
+Die böten den Fans nach ellenlangem Download dann besinnliche Stille oder endlose Stotter-Loops statt der erhofften Musik.
+Logisch ist das allemal: P2P wird die Industrie nur los, wenn sie den Nutzern den Gebrauch der Börsen gründlich verleidet.
+Nahe liegende Methoden sind da sicherlich Fake-Dateien, die nur Kosten und Frust verursachen - und Viren oder gezielte Hack-Angriffe.
+Das wäre so einfach wie nur was: In einem verteilten P2P-Netzwerk mag relativ anonym gesurft werden, doch zumindest zwischen den Rechnern, die Dateien tauschen, besteht eine temporäre Eins-zu-Eins-Verbindung.
+Zudem sind die Nutzer vieler P2P-Dienste dazu genötigt, ihre Firewalls zu deaktivieren: Sonst funktioniert die Software nicht.
+Noch einfacher wäre es, P2P-Börsen mit Trojanern und Viren zu überschwemmen.
+Eine Börse, die auch nur einige Tage mit solchen Problemen zu kämpfen hätte, könnte wohl schnell einpacken.
+Im Mai war ein erstes, ganz spezifisch für eine P2P-Börse geschriebenes Virus beim derzeitigen Marktführer KaZaA aufgetaucht.
+Wenn dem so war, dann erfolgte am 18. Juni ein zweiter: Auch der Trojaner W32.Kwbot.Worm ist P2P-spezifisch - und relativ harmlos.
+Warnt da wer die P2P-Nutzer davor, einfach weiter zu machen?
+Möglich, und wenn man - frei nach Agatha Christie - den potenziellen Täterkreis über die Frage nach möglichen Motiven einengt, dann ergibt das ziemlich schnell eine sehr kleine Gruppe.
+Bleiben - aus Sicht der Musikindustrie - nur zwei Probleme: Erstens wären solche Attacken auf das Hab und Gut der User völlig illegal.
+Nach geltendem US-Recht stellte jede Form hackender Eingriffe ein Verbrechen dar, das - je nach Schwere - in den Staaten mit bis zu 20 Jahren hinter Gittern geahndet werden müsste.
+Den Amerikanern fällt nun immer häufiger auf, dass diese rigorose, alles über einen Kamm scherende Rechtsprechung mehr Ungerechtigkeit und Probleme schafft, als dass sie Unrecht ahndet.
+Der Kongressabgeordnete Howard Berman arbeitet nun daran, dass ein Vertreter der Musikindustrie, den man vielleicht irgendwann beim natürlich eigenmächtigen Hacken erwischen könnte, möglichst straffrei ausgeht.
+So wenig aussichtsreich der Vorstoß im Augenblick zu sein scheint: Was könnte sich die Musikindustrie Besseres wünschen, als einen gesetzlich sanktionierten Freibrief, den sie dann offiziell zumindest nicht wahrnehmen würde?

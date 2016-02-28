@@ -1,0 +1,33 @@
+Die von Microsoft eindringlich beschworene Sicherheit der 200 Millionen Passport-Nutzerkonten war spätestens seit September 2002 nicht mehr gewährleistet.
+Das könnte das Unternehmen nun theoretisch bis zu 2,2 Billionen Dollar Strafe kosten.
+Bill Gates: Kassiert die FTC zur Strafe Microsofts Kaffekasse?
+Dass Microsofts umstrittener Passport-Service, über den Nutzer sich gegenüber eCommerce-Betreibern ausweisen können, überhaupt noch existiert, verdankt das Unternehmen einem Deal mit der amerikanischen Federal Trade Commission FTC im letzten Sommer.
+Die hatte eigentlich vorgehabt, Passport zu schließen: Zu gefährlich erschien es den Wettbewerbshütern, dass ein Unternehmen 200 Millionen Nutzer-Identitäten in einem technischen System verwalten sollte, dessen Sicherheit ihnen nicht bewiesen schien.
+Mehr noch: Die FTC beschuldigte Microsoft, über die Sicherheit des Systems falsche Angaben gemacht zu haben.
+Muhammad Faisal Rauf Danka besitzt eines von 200 Millionen Passport-Konten, deren Sicherheit spätestens seit September 2002 nicht mehr gewährleistet war.
+Mehrere Male, sagt Danka, sei sein Passport-Konto missbraucht worden, um in seinem Namen und auf seine Rechnung Transaktionen durchzuführen.
+Pflichtschuldigst informierte er Microsoft über den klaffenden Sicherheitskrater, doch zehn E-Mails später war noch immer nichts passiert - noch nicht mal ein Feedback erreichte den Warner.
+Derzeit prüft Microsoft intern, wie es hat geschehen können, dass niemand die E-Mails wahrnahm.
+Gemütlich wird es dabei wohl kaum zugehen, denn die ganze Affäre ist zumindest hochgradig peinlich: Sicherheit ist das neue, von Bill Gates zum Firmenschlachtruf erhobene Microsoft-Motto.
+Da dürften Köpfe rollen.
+Nach weniger als einer Stunde war das Leck geschlossen.
+Alles, was unternommen werden musste, war, systemintern ein paar Filter zu setzen, gibt Microsoft-Manager Adam Sohn zu.
+Das Leck und die Manipulationsmöglichkeit habe er ungewöhnlich schnell gefunden: Etwa vier Minuten, nachdem er ernsthaft mit der Suche begonnen habe, sagt Danka, sei er fündig geworden.
+Die Gretchenfrage: Was unternimmt die FTC?
+Jetzt beginnt das große Nägelkauen, während Microsoft voller Spannung darauf wartet, ob die FTC sich rührt.
+Die - siehe oben - könnte theoretisch 11.000 Dollar Bußgeld pro Sicherheitsverletztung verlangen.
+Die betroffenen Konten habe Microsoft umgehend geschlossen.
+Die Sicherheit von 200 Millionen Konten, meint dagegen Muhammad Danka, sei verletzt worden.
+Wenn die FTC das auch meint, könnte am Ende die stolze Summe von 2,2 Billionen Dollar auf dem Bußgeldbescheid stehen.
+Ob man nun präventiv und hinter den Kulissen bereits mit der FTC verhandele, will man bei Microsoft nicht verraten.
+Bei der Federal Trade Commission hieß es amtlich, man schaue sich natürlich und ganz selbstverständlich auf routinemäßiger Basis an, wer gerade wie gegen welche Auflagen verstoße.
+Will heißen: Wir pennen nicht, aber wir verraten auch nichts.
+Doch das weitere Vorgehen steht fest: Die FTC wird von Microsoft eine Stellungnahme einfordern, in der das Unternehmen wird darlegen müssen, wie es zu dem Leck hat kommen können, und wie man dagegen vorgegangen ist.
+Die FTC wird dann prüfen, ob Microsoft mit der Kenntnis des Sicherheitsproblems adäquat umgegangen ist.
+Wenn nicht, droht eine Strafe.
+Die 2,2 Billionen Dollar wären dabei möglich, bestätigt eine Sprecherin der FTC: Die Höhe der Strafe könne auf verschiedene Art und Weise festgesetzt werden, und eine davon sei, für jedes potenziell gefährdete Konto ein Bußgeld einzufordern.
+Doch Microsoft kann sich damit trösten, dass dies der bisherigen Praxis der FTC nicht entspricht.
+Deren höchstes bisher verhängtes Bußgeld hatte gerade einmal 4,05 Millionen Dollar betragen.
+Bei Microsoft aber hat selbst noch die Kaffeekasse Milliarden-Volumen.
+Bei der genannten Zahl geht es tatsächlich um Billionen, nicht um Milliarden.
+Es handelt sich also keineswegs um eine Fehlübersetzung, wie zahlreiche Leserbriefschreiber vermuten.

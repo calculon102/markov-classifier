@@ -1,0 +1,21 @@
+Immer häufiger sind gefährliche Bakterien unverwundbar gegenüber den einst zuverlässigen Antibiotika.
+Jetzt haben Forscher den Mechanismus entdeckt, der die Mikroben überraschend widerstandsfähig macht - und das Ergebnis ist alles andere als beruhigend.
+Er war ein schwarzer Tag für Mediziner, jener Freitag im Sommer 2002.
+Im wunden Fuß einer Detroiter Diabetikerin stießen Ärzte auf eine bislang unbekannte Variante des Bakteriums Staphylococcus aureus.
+Der Erreger, der unbekämpft Wundinfektionen, Lungenentzündungen und nicht selten den Tod mit sich bringt, ließ sich selbst mit dem Antibiotikum Vancomycin nicht mehr bekämpfen.
+Das Medikament galt bis dahin als eine der letzen scharfen Waffen in einem fast aussichtslosen Kampf - dem Kampf der Mediziner gegen die wachsende Zahl gefährlicher, gegen Antibiotika resistenter Bakterien.
+Der Fall in Detroit endete glimpflich.
+Keine der rund 300 Personen, die mit der infizierten Patientin Kontakt hegabt hatten und umgehend auf eine mögliche Ansteckung untersucht worden waren, hatte sich infiziert.
+Das mutierte Bakterium blieb ein Einzelfall.
+Die Art und Weise, wie Staphylococcus aureus seine überraschende Widerstandsfähigkeit erworben hatte, dürfte dagegen alles andere als einzigartig sein.
+Im Rahmen ihrer Ermittlungen isolierte das Team um Linda M. Weigel einen Staphylokokken-Stamm mit und einen ohne Antibiotika-Resistenz.
+Anschließend verglichen sie die Proben mit einer weniger gefährlichen Bakterienart, die sich bereits zuvor aufgrund einer genetischen Mutation der Behandlung mit Vancomycin widersetzt hatte.
+Dabei stellten die Wissenschaftler fest, dass genau dieses altbekannte Resistenz-Gen von einer Bakterienart auf die andere übertragen wurde - mit Hilfe eines so genannten Plasmids.
+Dieses ringförmige DNS-Molekül drang offensichtlich ungehindert in die Staphylococcus-aureus-Zelle ein.
+Noch bevor das fremde Plasmid von den zelleigenen Enzymen abgebaut werden konnte, nistete sich das gefährliche Gen im Staphylokokken-Erbgut ein.
+Dort angekommen, konnte es sich problemlos vermehren, denn die normalerweise bei Krankenhausinfektionen eingesetzten Antibiotika halfen nicht mehr.
+Mehr noch: Detaillierte Untersuchungen der resistenten Mikroben zeigten, dass das gefährliche Gen ständig angriffsbereit war.
+Es hätte jederzeit auf andere Bakterienstämme übergreifen und so weitere Resistenzen hervorrufen können.
+Noch lässt sich die Gefahr eindämmen: Eine Kombination aus zwei im Handel erhältlichen Antibiotika macht selbst den Vancomycin-resistenten Staphylokokken den Garaus.
+Dennoch fordern die Forscher nachdrücklich, neue und schlagkräftige Alternativen zu entwickeln.
+Denn es dürfte nur eine Frage der Zeit sein, bis erneut zwei Mikrobenarten eine widerstandsfähige Allianz eingehen.

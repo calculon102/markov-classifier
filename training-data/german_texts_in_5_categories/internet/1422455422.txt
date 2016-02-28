@@ -1,0 +1,20 @@
+Wenn Sie etwas bestellen möchten, sagen Sie 'Zwei'.
+Im Ernst: Gelegentlich bieten solche in Aushilfsjobs hängen gebliebenen Studenten ihren Kunden Jobs an, wenn sie merken, dass diese mehr Ahnung haben als der so genannte Berater.
+Das alles spart den Firmen Kosten, kostet sie aber unter Umständen auch Kunden: Kaum eine Einrichtung ist so verhasst wie das Call Center.
+Dabei ist Beratung und guter Service der Königsweg zur Kundenbindung, glauben Marketing-Fachleute - allerdings auch so teuer, dass sich kaum ein Anbieter noch so etwas leisten kann oder will.
+Hier kommt das Web ins Spiel: Bereits Mitte der Neunziger erkannten frühe Propheten des E-Commerce das gigantische Beratungs- und Informationspotenzial des Mediums.
+Anwendungen wie E-Mail verhießen, den so lange schon sträflich vernachlässigten Kontakt zwischen Unternehmen und Kunden wieder mit Leben zu erfüllen.
+Das klang schön, scheiterte aber in der Praxis.
+Das würden wohl auch Davin Yap und David MacKay unterschreiben.
+Das System fußt auf einer Datenbank mit Antworten zu häufig gestellten Fragen.
+Der Clou jedoch ist die Abfragemaske, an deren Intelligenz die Aufgabe hohe Anforderungen stellt.
+Die Resultate bekommt der Auskunftssuchende entweder in Form von stante pede versandten E-Mails, umgehend in Fenstern erscheinenden Antworten oder dadurch, dass Metafaq ihn direkt zu einem relevanten Teil der Unternehmenswebsite führt.
+Das System funktioniert so gut, dass Sony sich dazu entschloss, es künftig in der Kundenberatung für die Playstation 2 einzusetzen.
+Rund 85 Prozent aller Kundenfragen, weiß man bei Sony, lassen sich in standardisierter Form beantworten: Hier zeigt Metafaq seine Überlegenheit gegenüber dem Konzept Callcenter.
+In diesem Fall verhält sich Metafaq wie eine Callcenter-Software: Es verbindet mit einem menschlichen Berater.
+Der übernimmt die Beantwortung der Frage, wobei der Kunde das im Idealfall noch nicht einmal bemerken müsste.
+Yap und MacKay sind von ihrem System fest überzeugt.
+Schon jetzt, sagt MacKay, lägen weitere Anfragen aus Wirtschaft und Politik vor, obwohl das Ergebnis der großen, kommerziellen Bewährungsprobe noch aussteht.
+Warum, versteht man schnell.
+Das ist nicht halb so intelligent, wie die Werbung verspricht, aber auch nicht halb so doof wie die meisten bisher üblichen Lösungen: Zudem lerne das System ja noch.
+Fazit: Ein interessantes Werkzeug, aber noch nicht das Ei des Kolumbus.

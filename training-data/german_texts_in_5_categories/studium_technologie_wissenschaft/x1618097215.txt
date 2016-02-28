@@ -1,0 +1,29 @@
+Mittelfristig dürfen sich Virenschutz-Unternehmen auf Massen neuer Kunden freuen.
+Die Programmierer der Schadprogramme wollten offenbar keine Daten vernichten oder stehlen.
+Ihnen ging es vor allem darum zu beweisen, dass sie es könnten.
+Mit den Viren habe nur jemand beweisen wollen, dass Schadprogramme für Handybetriebssysteme möglich sind.
+Doch für ganz ungefährlich hält er die Entwicklung dennoch nicht.
+In vielen Fällen würde Virencode wiederverwendet.
+Jemand findet den Quellcode des Programms im Internet, entwickelt ihn weiter und richtet dann möglicherweise Schaden an.
+Auch Matias Impivaara, Virenspezialist beim Softwareunternehmen F-Secure, warnt: Die ersten Viren hätten die Aufmerksamkeit für das Thema enorm gesteigert.
+Da Virenschreiber auch immer auf Publicity aus seien, hält er es für wahrscheinlich, dass bald die nächsten Viren für mobile Endgeräte auftauchen.
+Möglich sind Viren für Handys aus zwei Gründen: Mobiltelefone werden immer leistungsfähiger.
+In ihrem Funktionsumfang reichen sie inzwischen an das Vermögen von Computern vor ein paar Jahren heran.
+Sie verwalten Adressen und E-Mails, mit einigen Modellen lassen sich sogar Office-Dokumente bearbeiten.
+Und auf Geräten, auf denen Symbian OS oder Windows Mobile Edition läuft, lassen sich Programme - und damit auch Viren - installieren.
+Darüber hinaus entwickelt sich im Markt eine Software-Situation, die aus dem PC-Bereich bekannt ist.
+Symbian ist das am weitesten verbreitete Betriebssystem für so genannte Smartphones, also die Handys, mit denen der Nutzer weit mehr tun kann als nur telefonieren.
+Microsoft spielt eine Nebenrollebisher jedenfalls, denn das Unternehmen aus dem US-amerikanischen Redmond drängt mit der Mobile Edition von Windows in den Markt.
+Weitere Spieler sind kaum in Sicht.
+Auch Linux setzt sich in diesem Bereich bisher nicht durch.
+Als Netzwerk nutzt das Programm den Kurzstreckenfunk Bluetooth für die Fortpflanzung.
+Sobald ein infiziertes Gerät in die Nähe eines anderen Bluetooth-Gerätes kommt, überträgt sich der Virus - vorausgesetzt bei beiden Geräten ist der Kurzstreckenfunk eingeschaltet.
+Dem Wurm kommt es dabei nicht darauf an, ob es sich um ein Mobiltelefon oder einen Drucker handelt.
+Beim Ausführen einer infizierten Datei fragt das Schadprogramm nach der Berechtigung für die Infektion weiterer Dateien.
+Weiteren Schaden richtet der Virus nicht an.
+Für Virenschreiber bedeutet das - eine massenhafte Verbreitung von Smartphones vorausgesetzt -, dass sich ihnen eine große Angriffsfläche bietet.
+Ebenso wie ein Windows-Virus potenziell alle Windows-Rechner befallen kann, ist ein Symbian-Virus theoretisch für alle Handys mit diesem Mobiltelefon gefährlich.
+Obwohl von den ersten Handyviren keine akute Bedrohung ausgeht, raten die Virenexperten zu ersten Vorsichtsmaßnahmen.
+Vor allem den Kurzstreckenfunk Bluetooth, der inzwischen in viele Telefone eingebaut ist, sollten Anwender nur dann aktivieren, wenn sie tatsächlich Daten zum Beispiel auf den PC übertragen wollen.
+Matias Impivaara glaubt, dass auch Handys langfristig nur mit Virenschutzsoftware vor Angriffen geschützt werden können.
+Das wäre ein riesiger Neuer Markt für McAfee, F-Secure, Symantec und andere.

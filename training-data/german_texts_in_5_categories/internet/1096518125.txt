@@ -1,0 +1,44 @@
+Mit Forderungen nach härteren Strafen und mehr Datenkontrolle reagiert die Politik auf die rasant zunehmende Kriminalität im Internet.
+Bislang, so wurde auf einer Tagung beim Bundeskriminalamt deutlich, laufen die Fahnder den Netzganoven nur hinterher.
+Lauschte man in den vergangenen zwei Tagen führenden Experten im Bereich Internet in Wiesbaden, fühlte sich der eine oder andere im Saal wohl ein bisschen an die schönen Wunderjahre der New Economy erinnert.
+Steigerungsraten um 90 Prozent und rasante Anstiege des Umsatzes wurden präsentiert.
+Die Zahlen haben nur einen Nachteil - sie beschreiben die wachsende Kriminalität in und über das Internet.
+Erfasst sind in den Statistiken des BKA der organisierte Handel mit gefälschter Software, die Herstellung von lästigen Computerviren oder gar der massenhafte Vertrieb von Kinderpornografie.
+Allein die Tatsache, dass das Bundeskriminalamt (BKA) in Wiesbaden als oberste Ermittlungsbehörde in Deutschland ihre routinemäßige Herbsttagung der Netzkriminalität widmete, spricht Bände über den Bedeutungszuwachs der Straftaten im virtuellen Raum.
+In den vergangenen Jahren noch hatten die rund 350 Experten aus den Landeskriminalämter (LKA), den Staatsanwaltschaften und aus der Wirtschaft über internationalen Terrorismus oder die weltumspannende Korruption gesprochen.
+Schily nutzte die Gelegenheit der Tagung, seine Vorstellungen über den Umgang mit der ständig wachsenden Zahl an Straftaten zu präsentieren.
+Schily beließ es aber nicht bei der Beschreibung der neuen Aufgabe, er hatte konkrete Forderungen nach Wiesbaden mitgebracht.
+Dies müsse der Gesetzgeber schnell ändern, um mit den Straftätern Schritt zu halten.
+In der Praxis nehmen die Netz-Ermittler von Polizei und Staatsanwaltschaft schon jetzt in Fällen von Internet-Kriminalität direkten Kontakt zu den Providern auf und bitten sie, von der Löschung der Daten bis zu einem Auskunftsersuchen abzusehen.
+Der Innenminister belegte seine Forderungen nach mehr Kontrolle über Nutzerdaten mit imposanten Zahlen.
+So weist die aktuelle BKA-Statistik für das Jahr 2002 einen Schaden von immensen 85 Millionen Euro durch fast 60.000 Delikte der Computer-Kriminalität wie Datenmanipulation, PIN-Karten-Betrug oder Software-Piraterie aus.
+BKA-Präsident Ulrich Kersten betonte, in diesen Zahlen seien die Schäden durch von Viren lahm gelegte Unternehmen oder Privatleute noch gar nicht inbegriffen.
+Die Forderungen Schilys kamen bei so manchem Praktiker gut an.
+Oberstaatsanwalt Ralf Günther aus Celle stimmte in Schilys Kontroll-Tenor ein.
+Gesetze und Verordnungen zur Erhebung, Speicherung und Weitergabe von Daten seien schlecht koordiniert.
+Immer wieder verweigerten Unternehmen ihre Mitwirkung bei der Fahndung nach Computer- Kriminellen und bei der Beweissicherung.
+Ein Vertreter der Telekom, die mit T-Online einen Großteil der Deutschen ins Netz bringt, wies Schilys die Vorwürfe zurück.
+Als Unternehmer sei die Telekom per Gesetz gehalten, möglichst wenig Kundendaten zu speichern, sagte der kommissarische Leiter Konzernsicherheit.
+Für das längerfristige Speichern bestimmter Kundendaten für Ermittlungen gebe es keine gesetzliche Grundlage.
+Doch so dramatisch sich die Ausführungen Schilys und des BKA auch anhören, Deutschland steht international betrachtet bei der Schadensmenge noch auf einem der hinteren Plätze.
+Aus den USA brachte beispielsweise ein Mitarbeiter der Microsoft-Fahndung noch brisantere Zahlen mit.
+David Finn - Chef einer riesigen Abteilung zum Schutz des angeschlagenen Computer-Riesen - rechnete vor, dass durch die Fälschung von Programmen allein 2003 ein Schaden von 13 Milliarden US-Dollar entstanden sei.
+Zusätzlich hätten Computer-Viren einen Schaden von 3, 8 Milliarden Dollar angerichtet und dies sei nur eine grobe Schätzung.
+Gegen diese Zahlen hörten sich die deutschen Summen fast wie die sprichwörtlichen Peanuts an.
+Neben den markige Forderungen aber zeigte die Tagung, dass es nicht nur bei den Verfolgern noch Defizite gibt.
+Mehrere der Experten erläuterten, dass es die Polizei nicht nur mit technisch versierten Tätern, sondern oft auch mit wenig kooperativen Opfern zu tun hat.
+Viele Unternehmen zeigten einen Angriff auf ihre Elektronik nicht an, da sie einen Image-Verlust befürchteten.
+Schily rief die Unternehmen deshalb auf, die Schäden anonym zu melden, um weitere Angriffe auf andere Unternehmen zu verhindern.
+Der Leiter der zentralen Ermittlungseinheit gegen die Internet-Kriminalität zeigte ein anderes Prinzip.
+Dort können sich die Unternehmen über einen Vermittler an die Polizei wenden.
+Was tun gegen die Spaß-Hacker?
+Ebenso haben die Fahnder ein Dilemma mit den Programmierern von Viren.
+Denn im Gegensatz zu den Kriminellen, die mit Täuschungs-Seiten, 0190-Dialern und dem Abfangen von Kreditkarten-Daten Millionen von normalen Internet-Nutzern abzocken, interessiert die hartnäckigen Computer-Freaks der Gewinn nicht.
+Ebenso wies der britische Experte darauf hin, dass viele Anwender und auch Unternehmen die vorhandenen Schutzmaßnahmen wie Viren-Controller und vor allem deren Updates nicht richtig nutzten.
+Als extrem schwierig bezeichnete der Microsoft-Mann David Finn zum Beispiel die Stärkung eines Unrechtsbewusstseins bei Usern, die gefälschte Produkte kaufen oder aus dem Internet massiv Musik herunter laden.
+Selbst seiner Tochter könne er dies kaum klar machen.
+Beim vielen Reden über die kommerziellen Internet-Betrüger ließ die Tagung ein Internet-Thema fast komplett aus.
+Immer wieder hatten Experten seit dem 11. September gewarnt, dass auch Terroristen sich die Technologie des Netzes für ihre Zwecke zu eigen machen könnten.
+Ein dazu eingeladener Vertreter des US-Heimatschutzministeriums hatte seinen Besuch in Wiesbaden allerdings kurzfristig abgesagt.
+So riss nur einer der Redner die Terror-Gefahr im Netz kurz an.
+Wegen der zunehmend vernetzten Systeme drohten großflächige Ausfälle nach dem Domino-Effekt, warnte der Präsident des Bundesamtes für Sicherheit in der Informationstechnik, Udo Helmbrecht.

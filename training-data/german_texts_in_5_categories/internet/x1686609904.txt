@@ -1,0 +1,47 @@
+Bisher konzentrierten sich die Bemühungen der Entertainmentindustrie vor allem auf die Tauschbörse KaZaA.
+Die aber liegt längst am Boden, während sich BitTorrent fast unmerklich zur Nummer 1 unter den P2P-Anwendungen gemausert hat.
+Jetzt will ihr die Filmindustrie an den Kragen.
+Möglich macht das ein so umständliches wie geniales Programmprinzip.
+Das macht jeden Downloader zeitgleich zum Uploader, denn eigentlich greift sich der BitTorrent-Nutzer nur die Daten aus einem Datenstrom ab, der über seinen Rechner läuft.
+Während er Daten von anderen Nutzern bezieht, bedient er gleichzeitig andere.
+Denn bei BitTorrent muss man nicht über die vollständige Datei verfügen.
+Die Nutzer verteilen auch Dateifragmente, die sie von einer vollständigen Quelldatei, dem so genannten Seed, beziehen.
+Weil der eine schon mehr Datenhäppchen besitzt als der andere, können dann auch Downloader zum Upload beitragen.
+Die überlaufende Flüssigkeit würde das Wasser nach und nach umfärben, bis alle Gläser vollständig umgefärbt wären.
+An der Verteilung der Farbe jedoch wären sie vom ersten Augenblick an beteiligt.
+Je mehr vollständig umgefärbte Gläser im oberen Teil der Pyramide stünden, desto schneller liefe der Prozess ab.
+Das ergibt den Torrent-Effekt: Je mehr User, desto schneller das Netzwerk.
+Der Entertainmentindustrie ist das seit langem ein Dorn im Auge, zugleich aber lockt es sie auch.
+Mit dem BitTorrent-Prinzip ließen sich gigantische Datenmengen verteilen, ohne dafür extra eine Serverinfrastruktur aufbauen zu müssen.
+Prinzipiell würden da ein Homecomputer und eine DSL-Leitung reichen, um ein landesweites Video-on-demand-Netzwerk aufzubauen.
+Mit den cleveren Fädenziehern der Torrent-Welt will man es sich nicht unbedingt verscherzen (einmal abgesehen davon, dass es schwer fallen dürfte, Cohen wegen irgend etwas verbotenem zu bezichtigen).
+An einem aber ließ sie keinen Zweifel: Künftig zielt sie vor allem auf BitTorrent.
+Mit den bisherigen Methoden wird das wohl kaum klappen.
+BitTorrent braucht keinerlei Server, keine permanente Verschaltung der Nutzer miteinander.
+Eine permanente Überwachung des Torrent-Datenverkehres ist somit fast unmöglich.
+Wer eine bestimmte Datei will, sucht danach auf spezialisierten Webseiten, erfährt davon in Chats, Groups oder per Newsletter.
+Mit dieser Torrent-Datei funkt der BitTorrent-Client (von denen es viele verschiedene gibt) einen Tracker-Webserver an, der dafür sorgt, dass sich Dateianbieter und -sucher finden.
+Aus dieser Verschaltung erst ergibt sich ein temporäres BitTorrent-Netzwerk.
+Alle Teilnehmer an diesem spezifischen Datenstrom melden in Abständen an den Tracker, wo sie sind und was sie zu bieten haben und wieviel davon.
+Das Netzwerk selbst aber entsteht nur zwischen diesen zeitweilig miteinander verschalteten Nutzern.
+Zu jedem gegebenen Zeitpunkt gibt es dann, anders als bei allen anderen P2P-Börsen, nicht etwa ein großes Netzwerk, sondern viele Zehntausend kleine.
+Denn das Netzwerk entsteht um eine Datei herum, sein einziger Zweck ist ihre Verteilung.
+Angriffspunkte in diesem Dreieck aus Webseite, Tracker und User sind vor allem die beiden permanent im Web zu findenden: Webseite und Tracker.
+Tatsächlich geht eine Abmahnungswelle durch die Torrentszene, Webseiten verschwinden fast so schnell, wie neue entstehen.
+Große, populäre Torrentseiten wie Suprnova haben zunehmende Stabilitätsprobleme, sind zeitweilig nicht zu erreichen.
+Doch ein Vorgehen gegen die Torrent-Verzeichnisse funktioniert nur da, wo eine rechtliche Basis dafür gegeben ist.
+Servern in Staaten, die mit westlichen Justizbehören eher selten kooperieren, wäre fast nur mit Hackermethoden beizukommen - doch mit solchen illegalen Methoden wie Denial-of-Service-Attacken arbeitet die Industrie bisher angeblich nicht.
+Bleiben die Tracker, und genau denen will die Industrie nun vor allem an den Kragen.
+Sie sind der größte Schwachpunkt im System.
+Denn sobald der Tracker wegfällt, kollabiert der Datenstrom - die Torrent-Nutzer sind nicht mehr in der Lage, sich gegenseitig zu finden.
+Bisher ist die Jagd auf die Tracker eine reine Absichtserklärung.
+Wie genau die MPAA an sie herankommen will, wurde bisher nicht erklärt.
+Denn Tracker können überall sein, theoretisch kann auch jeder Nutzer einen Tracker eröffnen - wenn er will sogar nur für kurze Zeit.
+Denn im Gegensatz zu KaZaA und Co fällt es im Torrent-Netzwerk leicht, abzutauchen und kleinere, subversive Tauschgruppen aus der Taufe zu heben.
+Die MPAA hat inzwischen 100 weitere Klagen wegen Filmpiraterie auf den Weg gebracht.
+Die meisten davon betreffen wie inzwischen üblich P2P-Nutzer.
+Eine mögliche, zukünftige Anwendung könnte beispielsweise in einer Kombination aus automatisiertem RSS-Newsfeed und einem BitTorrent-Client bestehen.
+Die verwiese dann auf einen Tracker, der nur wenige Stunden (oder weniger) im Netz zu finden wäre.
+Aus dem P2P-Nutzer würde eine Art Film-Abonnent - und genau das ist zugleich Traum und Albtraum der Filmindustrie.
+Denn ihr fehlt zur Peitsche noch das Zuckerbrot, sie hat dem illegalen Online-Filmvertrieb keine legale Alternative entgegen zu setzen.
+Was wäre da besser geeignet als eine Torrent-Plattform?

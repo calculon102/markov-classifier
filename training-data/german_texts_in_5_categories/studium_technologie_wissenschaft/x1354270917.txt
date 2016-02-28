@@ -1,0 +1,20 @@
+Heimliche Datensammler verbreiten sich weltweit auf privaten Festplatten.
+Eine US-Studie zeigt jetzt, dass Spyware nicht nur allgegenwärtig, sondern auch gefährlich ist.
+Sie sitzen in einem dunklen Eck des Systems und lauschen, spähen, schnüffeln: So genannte Spyware-Programme sollen möglichst viel Informationen über Computernutzer sammeln - als kostenfreie Marktforscher.
+Wer etwa eine P2P-Software zum Musiktausch auf seinem Rechner installiert hat, beherbergt wahrscheinlich auch einige der neugierigen Gäste.
+Besonders spionierfreudig sind auch verschiedene Download-Manager.
+Programme zum Beseitigen der ungebetenen Schnüffler sind zwar kostenlos zu haben, viele Nutzer wissen aber schlicht nicht über Spyware bescheid.
+Eine US-Forschergruppe hat nun am eigenen Arbeitsplatz, der University of Washington in Seattle, gezielt nach vier Spyware-Programmen gesucht: Gator, Cydoor, SaveNow und eZula.
+Die Netzwerk-Detektive fanden mehr, als ihnen lieb war: 5,1 Prozent aller Rechner enthielten Spyware, 69 Prozent aller Institute hatten zumindest einen Spion im Haus.
+Und das, so Autor Steven Gribble gegenüber dem New Scientist, obwohl Universitätsangehörige eher zu den besser informierten Computerusern gehören.
+Die tatsächliche Verbreitung dürfte um einiges höher liegen, auch deshalb, weil es wesentlich mehr Spyware gibt als die vier genannten Programme.
+Bedenklich ist das Resultat nicht nur deshalb, weil die heimlichen Spione Informationen weiterleiten.
+Gribble und seine Kollegen konnten zeigen, dass zumindest Gator und eZula auch ein echtes Sicherheitsrisiko darstellen.
+Mit als Update verkleideten Code-Päckchen nutzten die Forscher die Schnüffler als Hintertür in fremde PCs.
+Man könne auf diese Weise die vollständige Kontrolle über einen Rechner übernehmen, so die Studie, die demnächst bei einer Tagung vorgestellt werden wird.
+Inzwischen reagiert in den USA auch der Gesetzgeber auf die Spyware-Plage.
+In Utah wurde am Mittwoch ein Gesetz gegen Schnüffelsoftware verabschiedet, und auch in Iowa und Californien sind entsprechende Gesetze auf dem Weg.
+Senator Conrad Burns aus Montana hat soeben ein Bundesgesetz eingebracht, dass US-Bürger landesweit vor elektronischer Bespitzelung bewahren soll.
+Wer sich selbst vor Spyware schützen will, kann sich etwa bei Lavasoft kostenlos Ad-aware herunterladen.
+Einen guten Ruf hat auch ein Schnüfflersucher mit dem martialischen Namen Spybot: Search and Destroy.
+Noch mehr Software und Informationen zum Thema Software-Spione gibt es beispielsweise bei Spywareinfo.

@@ -1,0 +1,27 @@
+Ein Enzym aus der Photosynthese ändert seine Farbe, sobald es vom Kopierer oder Scanner abgetastet wird.
+Der biologische Farbstoff könnte Geldfälschern das Handwerk legen.
+Sollten Fälscher bald reihenweise ihre Farbscanner zur Reparatur schaffen, dann ist an den teuren Geräten möglicherweise gar nichts kaputt.
+Vielmehr dürften die Hightech-Kupferstecher in eine Falle von Marburger Wissenschaftlern getappt sein.
+Ein Team um den Chemiker Norbert Hampp von der Marburger Philipps-Universität hat einen lichtempfindlichen biologischen Farbstoff entwickelt, der sein Aussehen blitzschnell ändert.
+Bei normalem Licht scheint er violett.
+Unter dem kräftigen Licht von Scannern oder Kopierern wechselt er seine Farbe dagegen binnen Zehntelsekunden zu Gelb.
+Setzt der Farbstoff sich in der Herstellung von Banknoten durch, dann kämen aus den Kopierern der Fälscher künftig statt perfekter Blüten nur noch vergilbte Fehldrucke.
+Sobald die Originalscheine das normale Tageslicht erblicken, nehmen sie die ursprüngliche Färbung wieder an - der Farbwechsel von Violett nach Gelb ist reversibel.
+Die Fälscher werden von einem neu entwickelten Farbstoff an der Nase herumgeführt.
+Bakteriorhodopsin heißt das Protein, das die Marburger Forscher dem Halobacterium Salinarum abgeluchst haben.
+Es dient dem Mikroorganismus als Enzym bei der Photosynthese.
+Seine erstaunlichen Eigenschaften verdankt der Biofarbstoff der Evolution.
+Der lichtgesteuerte Farbwechsel des Biomoleküls könne millionenfach wiederholt werden.
+Synthetisch hergestellte Photochrome verlieren diese Fähigkeit dagegen schon nach zehn- bis hunderttausend Farbwechseln.
+Das Protein könne eine Wäsche bei 60 Grad ebenso überstehen wie pH-Werte zwischen 2 und 12 oder Temperaturen von bis zu 140 Grad Celsius.
+Auch viele organische Lösungsmittel können dem intelligenten Farbstoff wenig anhaben - gute Voraussetzungen für einen Einsatz im rauen Alltag der Geldwirtschaft.
+Außer Banknoten ließen sich mit dem Biofarbstoff auch Ausweisdokumente aller Art sichern.
+Beim Projektpartner Agfa läuft zurzeit ein Feldtest mit rund 200 Firmenausweisen.
+Auch Behörden sollen bereits Interesse gezeigt haben.
+Das Team um Professor Hampp traut dem Farbstoff noch mehr zu: Er soll Daten optisch speichern und verschlüsseln.
+Der lichtinduzierte Farbwechsel ist derart präzise steuerbar, dass über Farbnuancen Informationen abgelegt werden können.
+Nach Aussagen der Forscher erreicht mit Bakteriorhodopsin bedrucktes Papier Speicherkapazitäten von mehreren Megabytes pro Quadratzentimeter - herkömmliche Magnetstreifen können da nicht mithalten.
+Das bedruckte Papier könnte problemlos umfangreiche Texte und Grafiken enthalten, bei Bedarf sogar verschlüsselt.
+Könnten sich Fälscher aber nicht des Farbstoffs bemächtigen und so doch wieder perfekte Blüten produzieren?
+Mit gezieltem Proteindesign wollen die Forscher dem Biofarbstoff obendrein einen Fingerabdruck verpassen, um das Material später bis zum Hersteller rückverfolgen zu können.
+Das Adressetikett besteht aus einer bestimmten Aminosäurensequenz - ein zusätzlicher Sicherheitscode, der schwer zu knacken ist.

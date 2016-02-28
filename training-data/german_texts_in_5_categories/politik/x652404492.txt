@@ -1,0 +1,21 @@
+Europa folgt dem US-Trend zur generellen Kriminalisierung der hackenden Szene, arbeitet an einem Strafkatalog, der Cracker zu Knackis machen soll - und schießt über das Ziel hinaus.
+Es war angeblich nicht erste Mal, worauf die Hackergruppe nach eigenen Angaben auch mehrmals hingewiesen hatte.
+Krimineller Akt oder verdiente Strafe für ein unnötiges Versäumnis?
+Tiefschlag oder notwendiger Schlag auf den Hinterkopf?
+Man kann es drehen und wenden, wie man will: Solche Aktionen sind einerseits natürlich strafbar, andererseits jedoch der Sicherheit im Internet förderlich.
+Szenenwechsel: Als weltweite Protestaktion gegen einen drohenden Irak-Krieg überfluteten am Mittwoch letzter Woche zehntausende von E-Mails, Faxen und Telefonanrufen das Weiße Haus und den US-Senat.
+Solche Formen des politischen Protestes werden immer häufiger und wurden bisher auch weithin als das wahrgenommen, was sie sein wollen: eine Form der elektronisch koordinierten und vorgebrachten Demonstration.
+Der Entwurf liegt bereits seit April letzten Jahres vor, doch am Freitag letzter Woche hatte der EU-Ministerrat öffentlich seine Unterstützung des Vorschlages signalisiert.
+Obwohl die Minister unterstrichen, damit einer Entscheidung des Parlamentes nicht vorgreifen zu wollen, dürfte ihr Statement das Verfahren wohl beschleunigen - und auch genauso gemeint sein.
+Kommission und Ministerrat drängen freundlich auf eine Verabschiedung der Richtlinie, die dann nach dem Subsidaritätsprinzip in Länderrecht zu überführen wäre.
+Weitgehend außer Acht gelassen wird dabei das Motiv hinter den verschiedenen Aktionen - ein Bruch auch mit der bisher üblichen Behandlung von Hack-Vergehen in den Staaten der EU.
+Kritikern erscheint dabei die Unterscheidung nicht nur zwischen politischem Protest und Hacking, sondern auch zwischen destruktiven oder kriminellen Crack-Aktionen einerseits und klassischen Security-Hacks auf der anderen Seite wichtig.
+In dieser Sicht heiligt der Zweck mitunter die Mittel.
+Solche Hacks sind peinlich für die betroffenen Unternehmen, wirken mittelfristig aber wie Impfungen - oft liefern die Hacker Lösungsvorschläge gleich mit.
+Selbst wenn nicht, wirkt der hackende Hinweis auf eine klaffende Sicherheitslücke immunisierend: Nachher gibt es auf jeden Fall eine Lücke weniger.
+Viele von ihnen arbeiten selbst in der IT-Industrie, als Sicherheitsexperten in Unternehmen oder Behörden.
+Besonders hart soll dabei jeder bestraft werden, der mit dem organisierten Verbrechen zu tun habe.
+Das klingt toll, doch dass die angestrebte gemeinsame Gummi-Definition Robin Hood und Jack the Ripper in einen Topf schmeisst, scheint man in Brüssel so wenig wahrnehmen zu wollen wie in Washington.
+Denn letztlich folgt die EU mit ihrer Initiative dem von den USA vorgegebenen Trend zur pauschalen Kriminalisierung von Hackern.
+Mitunter erscheinen sogar echte Hacks als völlig gerechtfertigt.
+Manchmal muss man sich gar fragen, wo die Kriminellen wirklich sitzen: Auf Seiten der Angreifer - oder auf der der Attackierten?

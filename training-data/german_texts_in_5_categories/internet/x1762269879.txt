@@ -1,0 +1,27 @@
+Zwei Eigenbau-Roboter rasen durch ein Labyrinth und knipsen abwechselnd bunte Lampen an und wieder aus.
+Doch was anmutet wie eine abgedrehte Spielerei ist in Wahrheit ein harter Wettkampf.
+Deutsche Schüler wetteifern um den Titel Roboking.
+Allenfalls noch Informatiker.
+Aber auf keinen Fall so ein Langweiler von Ingenieur.
+Schon seit Jahren rennen die Kids der Cebit die Tore ein - für die alte Technikschau Hannover Messe interessiert sich kaum jemand.
+Doch ohne kontinuierlichen Nachwuchs an tüchtigen Tüftlern bekommt die hiesige Wirtschaft über kurz oder lang ein Problem.
+Denn die schnellen Motoren von Mercedes, BMW & Co entstehen nicht in einer hippen Castingagentur, sondern in den Köpfen findiger Ingenieure.
+Angesichts des drohenden Ingenieurmangels hat die Technische Universität Chemnitz einen Roboter-Wettstreit ausgerufen, der in diesem Jahr erstmals bundesweit stattfindet.
+Vom 23. bis 24. April treten auf der Hannover Messe zwölf Schülerteams gegeneinander an.
+Die selbst gebauten Roboter müssen sich nicht etwa in einem martialischen Zweikampf gegenseitig zerlegen - der Ingenieurnachwuchs soll schließlich von kleinauf konstruktiv und lösungsorientiert arbeiten lernen.
+Die zwölf Roboter stammen aus Bayern, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz und Sachsen.
+In einer Spielrunde starten immer zwei Roboter in gegenüberliegenden Ecken des Labyrinths.
+Jedem Roboter wird vor Beginn der Runde eine Farbe zugeteilt.
+Die Bojen strahlen über einen Infrarotsender Signale aus, die von den Robotern erkannt werden, wenn sie in die Nähe der Boje kommen.
+Sieger einer Runde ist, wer nach Ablauf der Spielzeit die meisten Bojen auf seine Farbe umgeschaltet hat.
+Das Labyrinth ist quadratisch und insgesamt 2,40 Meter breit.
+Der genaue Aufbau des Irrgartens bleibt bis unmittelbar vor dem Wettbewerb geheim.
+Die Roboter müssen sich in einer für sie unbekannten Umgebung zurechtfinden.
+Bleibt der Roboter im Labyrinth stecken und muss von Hand nachgeholfen werden, so kostet dies Strafpunkte.
+Natürlich dürfe ein Roboter den anderen auch nicht absichtlich behindern oder beschädigen, erklärten die Organisatoren.
+Das sächsische Wissenschaftsministerium stiftete den Hauptpreis - einen Roboterhund Aibo ERS-210 von Sony, den die Sieger mit nach Hause nehmen dürfen.
+Die Roboking-Kandidaten repräsentieren ganz verschiedene Konzepte, die vom Lego-Modell bis zu Eigenbauten aus Plastik, Acryl oder Aluminium reichen.
+Zum Denken benutzen die Roboter sämtlich das gleiche Gehirn: ein bestimmtes, auch bei Handys genutztes Board mit Motorola-Prozessor.
+Diese Vorgabe soll für gleiche Chancen im Wettkampf sorgen: Wenn jedes Team einen anderen Microcontroller benutzt, würde der Wettkampf unfair wie ein Boxkampf von Schwergewicht gegen Fliegengewicht - so heißt es in der Ausschreibung.
+Bei der Auswahl der Sensoren und Antriebe standen den Schülern jedoch alle Möglichkeiten offen.
+Am Samstag entscheidet sich, welches Team das beste Konzept hat.

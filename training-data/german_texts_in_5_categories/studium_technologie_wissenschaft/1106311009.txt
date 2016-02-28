@@ -1,0 +1,22 @@
+Energie aus dem Weltall, drahtlos übertragen auf die Erde: Seit Jahren treibt Wissenschaftler die Vision um, die Energie der Sonne auf diese Art zu nutzen.
+Deutsche Forscher sind diesem Ziel ein Stück näher gekommen: Sie beamen Strom per Laser punktgenau zum Empfänger.
+Experten des Raumfahrtkonzerns EADS Space Transportation in Bremen sind dieser Vision jetzt einen wichtigen Schritt näher gekommen.
+Eine Montagehalle des Bremer EADS-Werks: Ein kleiner Rover dreht auf einem Tisch seine Runden.
+Gesteuert wird er mithilfe eines Laptops über Funk, die Energie für seine Bewegung bezieht er von einem grünen Laserstrahl aus etwa 30 Meter Entfernung.
+Die Energieübertragung mittels elektromagnetischer Strahlung ist keine grundlegend neue Technologie.
+Allerdings ist gegenwärtig noch umstritten, ob für die Übertragung großer Energiemengen im Mega- und Gigawattbereich Mikrowellen oder Laserstrahlen geeigneter sind.
+Für die Mikrowellen spricht ein deutlich höherer Wirkungsgrad bei der Umwandlung elektrischer Energie in Strahlung und wieder zurück.
+Etwa 60 Prozent der im Weltraum gewonnenen Energie könnte auf diese Weise am Boden genutzt werden, ungehindert durch Wolken.
+Die Japaner setzen bei ihrem ersten Weltraumkraftwerk, das im Jahr 2040 seinen Betrieb aufnehmen soll, auf diese Technik.
+Die EADS-Ingenieure geben dagegen dem Laser den Vorzug.
+Das am Boden ein buchstäblich kleineres Problem als im Weltraum.
+Jedes Gramm Ausrüstung, das in den Orbit transportiert werden muss, verursacht hohe Kosten.
+So hält denn Steinsiek auch die Entwicklung neuer, kostengünstigerer Weltraumtransportsysteme für einen wesentlichen Faktor bei der Realisierung von Kraftwerken im All.
+Ein weiterer wichtiger Faktor ist die Aufrechterhaltung des Kontakts zwischen Sender und Empfänger.
+Hier hat der Laser, dessen Strahl stärker konzentriert werden kann, einen klaren Vorteil.
+EADS-Techniker haben in Zusammenarbeit mit der Universität Kaiserslautern einen entscheidenden Durchbruch errungen durch die Entwicklung eines Rechenverfahrens, das eine automatische Zielfindung und Zielverfolgung ermöglicht.
+Der Trick besteht darin, den Laserstrahl nicht nur zur Energieübertragung zu nutzen, sondern ihn gleichzeitig Informationen zur Positionserkennung übermitteln zu lassen.
+Auf diese Weise wird eine punktgenaue Übertragung auch zu beweglichen Empfängern möglich: Das Empfängerpanel des Rovers bleibt ständig im Fokus des Lasers.
+Zukünftig soll die Steuerung des Rovers ebenfalls über den Laser statt wie jetzt separat über Funk erfolgen.
+Neben der Steigerung der Entfernungen und übertragenen Leistungen ist für die nähere Zukunft ein Experiment auf der Internationalen Raumstation geplant, um erstmals die Übertragung von Energie aus dem Weltraum zur Erde zu erproben.
+Neben der Versorgung der Erde mit Strom können sich die EADS-Ingenieure aber auch andere Anwendungen vorstellen.

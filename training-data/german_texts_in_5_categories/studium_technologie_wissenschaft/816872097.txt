@@ -1,0 +1,22 @@
+MyDoom zerstört sich nicht - wie geplant - von selbst, sondern entwickelt sich zur Dauerplage und größten Wurmattacke aller Zeiten.
+F-Secure entzifferte auch den Begleittext des Wurms.
+Inzwischen meinen Experten übereinstimmend, dass MyDoom sehr viel schlimmer sei als der Wurm Sobig.F, der im vergangenen August Millionen von Computer befallen hatte.
+Die britische Firma mi2g bezifferte die Folgekosten des Wurms auf 38,5 Milliarden US-Dollar.
+Die Zahl dürfte allerdings großzügig geschätzt sein, schließlich berät mi2g andere Unternehmen in Sachen IT-Sicherheit.
+Wie hoch die Schäden auch immer sind, in vielen Firmen entwickelt sich MyDoom zu einer echten Plage.
+Diese enthalten meist nur den Hinweis, dass der Empfang einer Virenverseuchten Nachricht vom Server abgelehnt wurde.
+Betroffen sind vor allem Firmen-Accounts.
+MyDoom verlangsamt das Internet, indem es hunderte Millionen E-Mails verschickt und die Briefkästen der Empfänger blockiert.
+Am gestrigen Sonntag starteten befallene Rechner eine Denial-of-Service-Attacke gegen die Softwarefirma SCO und legten deren Server lahm.
+Doch auch Microsoft-Server gehören zum Ziel von MyDoom-Mutanten.
+Eine schlechte Nachricht kam am Sonntag aus Paris: Der Computerwurm Mydoom soll sich nicht wie vorgesehen selbst zerstören, sondern die Störung von Computern weltweit unbegrenzt fortsetzen.
+Aufgrund eines Fehlers werde der Code zur Deaktivierung des Virus' nicht funktionieren, sagte Marc Blanchard von der IT-Sicherheitsfirma Kapersky Labs.
+Beide Varianten werden dann aktiv, wenn der Empfänger den Anhang der betroffenen E-Mail öffnet.
+Die Denial-of-Service-Angriffe und die starke Verbreitung des Schädlings sind wahrscheinlich weniger gefährlich für die Anwender als eingebaute Hintertüren.
+Das BSI rät Anwendern dringend, Viren-Schutzprogramme mit aktualisierten Signaturen zu installieren, die die Würmer erkennen und eine Infektion verhindern.
+Der Wurm MyDoom wurde vermutlich in Russland in die Welt gesetzt.
+Die ersten infizierten Mails seien von Adressen russischer Internet-Provider aus verschickt worden, teilte ein Sprecher der russischen IT-Sicherheitsfirma Kaspersky Labs mit.
+Es bestehe jedoch auch die Möglichkeit, dass die Urheber aus ganz anderen Ländern kämen und lediglich eine falsche Spur gelegt hätten.
+Russland sei bereits seit einem halben Jahr die größte Quelle von Computerviren, sagte der Unternehmenssprecher.
+Bei Mydoom handle es sich zwar um die verheerendste Epidemie.
+Derzeit seien aber noch etliche weitere Viren im Umlauf, von denen die beiden schlimmsten ebenfalls aus Russland kämen.

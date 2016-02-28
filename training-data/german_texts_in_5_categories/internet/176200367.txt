@@ -1,0 +1,26 @@
+Die Regierungen sind sich einig in der Ablehnung von Werbe-E-Mails, bekommen das Problem jedoch nicht in den Griff.
+AOL testet nun eine neue Technik, die Mails mit gefälschten Absender-Adressen gezielt herausfischt.
+Spam ist jetzt schon so wichtig, dass die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) einen zweitägigen Kongress dazu veranstaltet.
+Auf dem gestern in Brüssel beendeten Treffen wurde das Problem der unerwünschten Werbe-Mails zu einer Überlebensfrage des Internets erklärt.
+Mit dem Überleben meint die OECD vor allem das Überleben von Unternehmen.
+Spam verunsichere E-Commerce-Konsumenten, behindere die wirtschaftliche Entwicklung im Netz und setze sogar die Popularität des Mediums aufs Spiel, beklagten die Teilnehmer.
+EU-Industriekommissar Erkki Liikanen forderte, in allen OECD-Staaten wirksame Gesetze gegen Spam zu erlassen und die grenzüberschreitende Strafverfolgung zu ermöglichen.
+Doch auch die Industrie bekam ihr Fett weg: Sie müsse sich freiwillig verpflichten, keine Spam-Mails zu verschicken, forderte Liikanen.
+In der IT-Branche sucht man inzwischen nach neuen Wegen, um der Plage Herr zu werden.
+Bill Gates überraschte vor einer Woche mit der Aussage, schon in zwei Jahren werde dank Microsoft niemand mehr über Spam reden.
+Der Microsoft-Gründer will beispielsweise Mailserver eine kleine Rechenaufgabe lösen lassen, bevor ihre Nachricht angenommen wird.
+Zusätzliche Strafzölle für Werbe-Mails - vergleichbar mit Briefmarken - sollen Spammern das Geschäft kaputtmachen.
+Für die Gatesschen Heilsversprechen interessiert man sich beim amerikanischen Provider AOL nur am Rande - das Problem ist viel zu akut.
+Die Spam-Plage trifft AOL besonders hart, weil AOL-Adressen bei den Werbemüllern gern als Absenderadressen missbraucht werden, der Imageschaden ist enorm.
+Kein Spammer tritt unter seiner wahren Identität auf, nicht nur, weil er verklagt werden könnte, sondern vor allem, weil er die Gegenreaktion genervter Empfänger fürchtet.
+Das Prinzip ist simpel: AOL veröffentlicht die IP-Adressen sämtlicher Mailserver, über die seine Mitglieder Nachrichten verschicken.
+Ein Empfänger kann somit leicht feststellen, ob eine vermeintliche AOL-Nachricht auch wirklich von einem Kunden des Providers stammt.
+Das 20 Jahre alte E-Mail-Protokoll sah so etwas nicht vor.
+Damals konnte sich niemand vorstellen, dass eines Tages eine Handvoll Leute Millionen von Postfächern mit Angeboten zur Penisverlängerung bombardieren würden.
+Die SPF-Technik könnte deutlich schneller verfügbar sein, als Bill Gates' Mathematikaufgaben für Mailserver.
+Bis dahin sei SPF ein Zwischenschritt mit wirkungsvollem Mechanismus.
+Das System funktioniert nur, wenn möglichst viele Provider mitmachen.
+Und daran dürften sie ein großes Interesse haben, denn wer will schon, dass seine Domain als Absenderadresse von Spammern missbraucht wird.
+SPF, so ist die Hoffnung, könnte als sich selbst vorantreibendes System schnell Schule machen.
+Ob SPF hält, was es verspricht, wird die Praxis zeigen.
+An der Krake Spam sind bereits viele, überzeugend klingende Konzepte gescheitert.

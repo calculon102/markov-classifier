@@ -1,0 +1,28 @@
+Wahlfälschung programmiert?
+Stolze 22 Millionen Dollar hat das Pentagon in ein Online-Wahlsystem für Soldaten im Ausland gesteckt.
+Von der Regierung zur Prüfung bestellte IT-Sicherheitsexperten empfehlen seine Abschaffung noch vor der Einführung: Das System sei so löchrig, dass man damit die ganze Wahl verfälschen könnte.
+Dabei, finden die Experten, solle es auch bleiben, denn das sei gründlich in die Hose gegangen.
+Das aber schmeckt dem Pentagon gar nicht.
+Serve sollte bereits im Rahmen der Vorwahlen zum Einsatz kommen und seine Sternstunde dann bei der US-Präsidentschaftswahl im Herbst erleben.
+Auch der letzte US-Soldat im Ausland sollte mittelfristig Gelegenheit bekommen, bequem sein Kreuz am rechten Fleck zu machen.
+Testfall Ernstfall?
+Das meint auch Accenture, Hauptentwickler des Online-Wahlsystems.
+Damit ist gemeint, dass Serve zunächst in sieben Vorwahlen zum Einsatz kommen und dabei von rund 100.000 Soldaten in 50 Staaten und Ländern genutzt werden soll.
+Das entspricht einem Zehntel aller potenziellen Wähler, die einmal über das armeeeigene Wahlsystem eingebunden werden könnten.
+Pentagon und Accenture scheinen davon auszugehen, dass es innerhalb eines Clusters von 100.000 Stimmen zu keinen Wahl verfälschenden Effekten kommen könne.
+Man täte den Auslandswählern andererseits auch keinen Gefallen, wenn man ihnen nur das Gefühl geben würde, an der Wahl teilzunehmen, während ihre Stimmen am Ende nicht gezählt würden.
+Der Expertenkommission ist all das Grund genug, vor dem Einsatz des Systems vehement zu warnen.
+Darauf deute auch hin, dass eine vom kalifornischen Innenministerium beauftragte Expertenkommission schon im Jahr 2000 über das in Entwicklung befindliche Serve-Programm zu ganz ähnlichen Schlüssen gelangt sei.
+Zu den im Bericht angeführten ignorierten Sicherheitsrisiken gehört das so genannte ARP-Spoofing, mit dem auch und gerade innerhalb von geswitchten Netzwerken jeder Datenverkehr abgefangen und verfälscht werden könne.
+Damit ließen sich sämtliche abgegebenen Stimmen verändern.
+Sicherheitslösungen, mit denen sich ARP-Spoofing anmessen lässt, gibt es nur wenige: Serve beinhaltet keine.
+Selten ist Spoofing dagegen nicht.
+Entsprechende Programme, mit denen sich innerhalb von Firmen-, Universitäts- oder Militärnetzen sämtliche Passworte abfangen und Datenkommunikation verfälschen lassen, werden über Warez-Seiten im Web frei verteilt.
+Geredet wird über solche Risiken nur selten offen, weil sich über Spoofing so ziemlich alles knacken lässt: vom Online-Voting über Zahlungsabwicklungen bis hin zum Online-Banking.
+Sein größter Alptraum sei nun, dass Serve in diesem Jahr anscheinend erfolgreich getestet und dann bei der nächsten Präsidentenwahl landesweit eingesetzt werden könnte - mit dem möglichen Resultat massiver Wahlverfälschungen.
+Jetzt kämpfen Accenture und Pentagon darum, den Ruf von ihrem Serve-Programm zu retten.
+Ein Schönheitsfehler des Expertenberichts ist, dass er nur von vieren der zehn Mitglieder unterzeichnet sei.
+Ein Mehrheitsvotum gibt es allerdings nicht: Nicht nur, dass sechs der zehn Experten sich nicht äußerten, sie nahmen auch an den Sitzungen und System-Demonstrationen nicht oder nur unregelmäßig teil.
+Jetzt holen Pentagon und Accenture die fehlenden Stimmen per Telefonumfrage ein.
+David Dill, der vierte Unterzeichner und IT-Professor an der Stanford University, will das nicht gelten lassen.
+Ich verstehe durchaus, wie problematisch es sein kann, sich aus dem Ausland an Wahlen zu beteiligen, und ich meine auch, dass wir es diesen Leuten viel einfacher machen müssen.

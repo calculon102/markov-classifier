@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.input.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.text.TextFlow?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+
+<VBox xmlns:fx="http://javafx.com/fxml/1"
+	  spacing="6"
+	  fx:controller="de.fernunihagen.mathinf.kn.grossgasteiger.markovclassifier.javafx.about.AboutController"
+	  stylesheets="@style.css">
+
+		<padding>
+			<Insets bottom="12" top="12" left="24" right="24" />
+		</padding>
+
+		<Label wrapText="true" text="This sofware was created by Frank Großgasteiger &#60;frank.grossgasteiger@fernuni-hagen.de&#62; for his master-thesis" />
+		<Label text="Generierung von Markov-Modellen aus Textbausteinen" style="-fx-font-weight: bold;" />
+		<Label text="in computer-science during the second half of 2015."/>
+		
+		<Label wrapText="true" text="The thesis was made at the FernUniversität in Hagen, Faculty of Mathematics and Computer Science, Chair of communication networks."/>	
+		<Hyperlink text="http://www.fernuni-hagen.de/kn/en/" onAction="#onClickChairLink" styleClass="noPadding" />	
+</VBox>
+
+

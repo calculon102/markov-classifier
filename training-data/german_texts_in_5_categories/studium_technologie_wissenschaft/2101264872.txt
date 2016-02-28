@@ -1,0 +1,68 @@
+Nokia-Akkus sind ins Gerede geraten: Immer öfter brennen die Handys des Marktführers.
+Im Interview mit SPIEGEL ONLINE bezieht Janne Jormalainen, Vice President Mobile Enhancements bei Nokia Mobile Phones, Stellung zu explodierenden Handy-Batterien und verunsicherten Kunden.
+SPIEGEL ONLINE: Herr Jormalainen, kaum eine Woche vergeht, ohne dass irgendwo auf der Welt wieder ein Nokia-Handy explodiert.
+Können Sie nachts überhaupt noch ruhig schlafen?
+Janne Jormalainen: Tatsächlich ist die Situation ernst.
+Bisher gab es dreißig bis vierzig Zwischenfälle mit überhitzten oder explodierten Batterien.
+Aber alle fehlerhaften Batterien, die von uns untersucht worden sind, kamen entweder von Fremdherstellern oder von Produktpiraten.
+Aber derzeit werden es immer mehr Fälle.
+SPIEGEL ONLINE: Ein Norwegischer Journalist behauptet allerdings, dass es sich bei der jüngsten Nokia-Explosion in Norwegen um ein tatsächlich um eine Original-Batterie gehandelt hat.
+Jormalainen: Wir untersuchen diesen Fall immer noch.
+Wahrscheinlich wurde diese Batterie nicht sachgemäß behandelt.
+Außerdem ist sie nicht explodiert, sondern hat sich nur überhitzt.
+SPIEGEL ONLINE: Wie viele derartige fehlerhafte Nokia-Batterien untersuchen Sie denn derzeit?
+Jormalainen: Wie gesagt, sind es insgesamt 30 bis 40 Fälle.
+SPIEGEL ONLINE: Immer wieder beschweren sich Kunden, dass ihre reklamierten Originalteile nicht ersetzt werden und sie nie eine befriedigende Antwort bekommen.
+Wie lange kann denn so eine Untersuchung dauern?
+Jormalainen: Je nach Fall zwischen einer Minute und einigen Wochen.
+SPIEGEL ONLINE: Die belgische Verbraucherorganisation Test-Aankoop kommt in einem aktuellen Test zu dem erschreckenden Ergebnis, dass auch Nokia-Batterien, die im regulären Fachhandel gekauft worden sind, fehlerhaft sind und sich überhitzen können.
+Jormalainen: Wir zweifeln das Testergebnis an.
+Test-Aankoop hat selber zugegeben, dass wahrscheinlich auch nicht-originale Batterien mit in den Test gerutscht sind.
+SPIEGEL ONLINE: Der belgische Test hat weltweit für Aufsehen und Besorgnis gesorgt.
+Hat das zu einem Verkaufsrückgang von Nokia-Telefonen geführt?
+Jormalainen: Es ist noch zu früh, das einzuschätzen.
+SPIEGEL ONLINE: Aber zumindest der Image-Schaden dürfte doch beträchtlich sein.
+Wenn Sie so sicher sind, dass die Verbraucherschützer geschlampt haben, werden sie sie wegen Rufschädigung verklagen?
+Jormalainen: Nein, wie haben einen sehr konstruktiven Dialog mit denen.
+Die Leute von Test-Aankoop wollen nun mit unserer Unterstützung einen Test von garantiert echten Nokia-Batterien durchführen.
+SPIEGEL ONLINE: Mit welcher Technik stellt den Nokia sicher, dass Original-Batterien nicht explodieren?
+Jormalainen: Unsere Batterien verfügen über diverse Sicherheitsvorkehrungen.
+Sie sind so konstruiert, dass ein Kurzschluss verhindert werden soll, selbst wenn man die Batterie herunterwirft oder sonst wie malträtiert.
+Tritt aber aus irgendwelchen Gründen ein Kurzschluss auf, zum Beispiel durch ein defektes Ladegerät, wird der Stromkreis getrennt.
+Sollte die Batterie dennoch weiter überhitzen, entweicht der Überdruck über ein Sicherheits-Druckventil, bevor es zu einer Explosion kommen kann.
+SPIEGEL ONLINE: Wie heiß könnte denn eine originale Nokia-Batterie im Ernstfall werden?
+Jormalainen: Etwa 140 Grad Celsius wären denkbar.
+Aber diese Situation ist nach unserer Kenntnis bei sachgemäßer Behandlung noch nie eingetreten.
+Obwohl wir unsere Batterien extrem harten Tests unterziehen.
+SPIEGEL ONLINE: Die Batterien werden immer kleiner, wodurch auch die Isolationsschichten zwischen den Chemikalien in der Batterien immer dünner wird, sagt Professor Jürgen Besenhard von der österreichischen Univerität Graz.
+Er glaubt, dass durch die Miniaturisierung die Batterien potentiell unsicherer werden.
+Jormalainen: Ich glaube nicht, dass die Dicke der Isolationsschichten in Problem darstellt.
+Sogar bei heftigstem Missbrauch kann eine Nokia-Batterie nicht explodieren.
+SPIEGEL ONLINE: Bei fast allen Handy-Explosionen handelt es sich um Nokia-Telefone.
+Warum hört man nichts von explodierenden Handys der anderen Hersteller?
+Jormalainen: Ich möchte mich nicht zu unseren Mitbewerbern äußern.
+Aber als globaler Marktführer haben wir eben auch besonders viele Nachahmer und Produktpiraten.
+SPIEGEL ONLINE: Haben Sie denn schon Erkenntnisse sammeln können, wo die Piratennester der Batteriefälscher sich befinden?
+Jormalainen: Die meisten befinden sich in Südost-Asien.
+SPIEGEL ONLINE: Nokia hat zwar einen globalen Marktanteil von vierzig Prozent.
+Aber zumindest bei den öffentlich wahrgenommenen Explosionen handelt es sich zu über 90 Prozent um Nokia-Telefone.
+Warum knallt es bei Ihren Mitbewerbern nicht oder sehr viel seltener?
+Jormalainen: Das weiß ich nicht.
+Aber noch einmal: Die Produkte des Marktführers sind einfach der lukrativste Markt, sowohl für legale Nachbauten als auch für Piraten.
+SPIEGEL ONLINE: Wenn es nicht einmal den Verbraucherschützern gelingt, Originalteile von Nokia einzukaufen, wie kann denn der Endkunde sicher gehen, keine explosiven Billiggeräte zu kaufen?
+Jormalainen: Wir müssen unseren Kunden immer wieder nachdrücklich raten, nur beim Fachhandel zu kaufen.
+SPIEGEL ONLINE: Aber anscheinend tauchen auch im Fachhandel billige Nachbauten auf, wie das Beispiel der Warentest-Organisationen zeigt.
+Jormalainen: Damit sprechen Sie ein ganz ernstes Thema an.
+Wir haben extrem schlaue Feinde, die sehr geschickt sind in der Täuschung der Kunden.
+Deshalb arbeiten wir auch mit den Sicherheitsbehörden zusammen.
+SPIEGEL ONLINE: Wenn die Feinde so gefährlich sind, warum verfügen Nokia-Originalteile dann nicht einmal über Hologramm-Sticker, wie man es von Arzneimitteln oder Software kennt?
+Jormalainen: Wir sind schon seit einigen Monaten an dem Thema dran.
+Im Laufe des ersten Halbjahres 2004 werden unsere Kunden eine Möglichkeit bekommen, Original-Geräte von Nokia von Plagiaten zu unterscheiden.
+SPIEGEL ONLINE: Wie soll dieses System aussehen?
+Jormalainen: Ich will absichtlich noch keine Details verraten, um es den Fälschern so schwer wie möglich zu machen.
+SPIEGEL ONLINE: Wenn ich als Endkunde bis dahin sicher gehen will, dass mein Handy nicht explodiert, kann ich dann in einen Nokia-Servicepoint-Laden gehen und meine Batterie auf Echtheit untersuchen lassen?
+Jormalainen: Wer besorgt ist, kann sich natürlich bei einem Nokia-Service-Center beraten lassen.
+Einschränkend muss ich allerdings sagen, dass die Situation etwas komplizierter ist.
+Manche Plagiate lassen sich nicht von außen von den Originalen unterscheiden, dazu muss man sie erst öffnen.
+Aber wir sind dabei, unsere Zwischenhändler über die Unterscheidungsmerkmale aufzuklären.
+Auch unsere Kunden können sich auf unser Website informieren unter www.nokia.com.

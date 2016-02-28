@@ -1,0 +1,61 @@
+Wo ist der Pfeffer?
+Der Europastart ist für Juni geplant.
+Wir schauten mal rein.
+Wer bei Connect etwas herunterlädt, besitzt ein digitales Abspielgerät von Sony oder er hat ein Problem.
+Sony setzt auf sein proprietäres Dateiformat Atrac 3, das von elf Sony-Walkmen, MD-Playern und anderen Geräten gelesen werden kann - und sonst von nichts und niemand.
+Sony, einziger echter Mischkonzern unter den Musik-Entertainment-Riesen, hat sich mit digitalen Downloads lange schwer getan.
+Zwar wusste der Konzern, dass sich mit MP3-fähigen Abspielgeräten richtig Geld verdienen lässt, auf der anderen Seite glauben die großen Musikfirmen - zu denen auch Sony gehört - dass Downloads und digitale Kopien ihrem Geschäft direkt schaden.
+Sollte man sich also gezielt ins eigene Knie schießen?
+Sony versucht es seit einiger Zeit mit einem Mittelweg: Man bietet nur solche Maschinchen zum Abspielen digitaler Kopien an, die das Sony-eigene Format Atrac 3 brauchen.
+Die Firma liefert nicht nur Hardware, die mit dem Format fertig wird, sondern auch kostenlose Software für den PC.
+Trotzdem: Während die gängigen Formate MP3, Ogg Vorbis oder WMA von diversen Standard-Programmen gelesen werden können, fallen die Atrac-Daten als Exoten aus der Musiksammlung heraus.
+Atrac 3 ist natürlich mit einem digitalen Rechtemanagement (DRM)verbunden.
+Im Code der Datei lässt sich festlegen, womit und wie oft die Datei genutzt, überspielt oder gebrannt werden kann.
+Connect bietet seinen Kunden ein mit angeblich 500.000 Songs gefülltes Angebot.
+Die Songs lassen sich auf bis zu drei Computern speichern, die bei Connect registriert sein müssen.
+Von diesen Computern dürfen die Daten auf mobile Geräte überspielt werden.
+Eine Besonderheit: Die Daten können von den drei Rechnern aus ohne zusätzliche Zahlung direkt vom Server gezogen werden.
+Das ist sinnvoll, wenn man die Downloads beispielsweise zu Hause und im Büro abrufbereit haben will, ohne eine der kostbaren Kopier- oder Brennlizenzen zu verschwenden.
+Apropos Brennrechte: Jede Playlist kann bis zu zehnmal auf CD gebrannt werden, je fünfmal als Atrac-Datei oder als CD-Audio.
+Preislich findet zwischen den maßgeblichen Musikshops in den USA kein echter Wettbewerb statt: 99 Cent für ein Lied haben sich als Preis etabliert, für ein volles Album verlangt Connect pauschal 9,99 Dollar.
+Warum bei Connect aber Lieder, die länger als sieben Minuten sind, 1,99 Dollar kosten, entzieht sich jedem Verständnis.
+Bei der Konkurrenz sind die gleichen Songs zum halben Preis zu haben - und die schiere Länge eines Liedes wertet es natürlich nicht grundsätzlich auf.
+Sony bietet hier SonicStage 2.0 an, das man zum Probehören braucht, als Abspielprogramm für die gekauften Dateien und als Brennstation, will man diese auf CD übertragen.
+Wie bei Apple sind Programm und Shop so untrennbar verbunden, dass man ohne SonicStage außer Werbung nichts zu sehen bekommt.
+Man kann noch nicht einmal im Angebot stöbern und schnüffeln, um herauszufinden, ob sich der Download denn auch lohnt.
+Der ist zunächst nur 560 KB klein, doch man ahnt direkt: Das kann nicht alles sein.
+Der ganze Kram wächst schließlich zu einem immerhin 30,4 MB großen Download an: Eine Menge Holz für jeden, der a) noch per Modem oder ISDN unterwegs ist oder b) wirklich nur mal schnuppern wollte.
+Wie fast alle Software versucht das Ding im Laufe der Installation, erst einmal alle Konkurrenten zu verdrängen, aber diesen Unsinn muss man ja nicht mitmachen (Apples iTunes ist da keinen Deut weniger frech).
+Im konkreten Fall wäre es sogar kontraproduktiv, darauf einzugehen: Dafür ist SonicStage viel zu eingeschränkt in seinen Funktionen.
+Immerhin bedient SonicStage nicht nur das proprietäre Sony-Format, sondern auch MP3s und WAVs.
+Konvertieren kann man Dateien allerdings nicht.
+Wer nicht per Windows unterwegs ist, kann SonicStage und Connect direkt wieder vergessen.
+Ein echtes Grundinteresse daran dürfte der Konzern aber kaum haben, schließlich bedient der Shop passgenau Sonys Hardwareportfolio.
+Was also hat Connect konkret zu bieten?
+Zunächst einmal müssen sich Shop und Programm immer an der Konkurrenz messen lassen, und die ernstlichste und ähnlichste ist da einwandfrei Apple.
+Im direkten Vergleich hat Connect mit 500.000 Songs erst einmal rund 200.000 weniger im Korb als iTunes.
+Das allein sagt aber wenig, wie Stöberer im Angebot der deutschen Download-Dienste wissen: Auch die gehen mit riesigen Zahlen hausieren und schaffen es dann noch nicht einmal, die Mainstream-Charts zusammen zu bringen.
+Das ist bei Connect auch nicht anders.
+Stichproben weisen auf eine allenfalls relativ gute Chart-Musik-Füllung hin, die man sich zudem mühselig zusammenpusseln muss: Die Navigation sieht eine Zusammenstellung nach Genres vor, eine Suche nach Titeln, Alben oder Künstlern.
+Doch während Connect durchaus charmante Ansätze wie die von Prominenten zusammengestellten Playlists bietet, verzichtet der Shop darauf, die derzeit populärste Musik gebündelt zu präsentieren.
+Das Programm wirkt ganz schick, aber nackt und funktional und bietet dem Nutzer deutlich weniger Entertainment und auch Orientierung als beispielsweise iTunes.
+Das erspart wiederum die Peinlichkeit, die Lücken im brandaktuellen Angebot offenbar zu machen.
+Immerhin: Sieben von zehn Songs aus Apples aktuellen Download-Charts finden sich auch bei Connect.
+Das ausgerechnet die derzeitige Nummer 1 fehlt, ist allerdings peinlich und erinnert an die deutschen Download-Börsen.
+Ansonsten wirkt die Navigation im Angebot zunächst bequem.
+Die große Stärke von Connect ist die nüchterne, aber sehr effektive Suche.
+Das Probehören ist angenehm: Geboten werden 30-Sekunden-Samples von guter Qualität.
+In den Tiefen des Angebotes finden sich selbst ziemlich angelaufene Perlen, von denen man sich kaum mehr vorstellen kann, wer sich das noch anhören mag (13 Alben des Alan Parsons Project gefällig, oder lieber zwei der Bombasto-Rocker Gentle Giant?).
+Selbst Jazz-Kleinodien sind zu finden, die noch nicht einmal KaZaA, geschweige denn der Plattenhandel zu bieten hat (und auch daran müssen sich die Kommerziellen messen).
+Trotzdem: Selbst im Mainstream-Angebot klaffen dermaßene Lücken, dass der Shop nach kurzer Zeit zu nerven beginnt.
+Was nützen olle Kamellen, Perlen und Exoten, wenn man gerade Lust auf die Red Hot Chili Peppers hat?
+Andere mit Lizenzen notorisch geizige Künstler wie Madonna oder Metallica tauchen gerade einmal mit Best-of-Alben älterer Schaffensphasen auf.
+Das mieft nach Alibi-Befüllung zu offensichtlicher Lücken.
+Bisher fehlt dem Shop der Pfeffer.
+Dem Neugierigen, der erst einmal nur gucken will, macht es Connect unnötig schwer, indem der Betreiber vor das Umschauen den Download setzt (aber auch das ist bei Apple nicht anders).
+Das Angebot ist quantativ groß, aber in wichtigen Bereichen zu lückenhaft.
+Leider kann es sich da mit den meisten anderen Download-Shops vergleichen.
+Die Benutzerführung ist karg, nur die Suchfunktion versöhnt ein wenig: Hier verschwendet Connect Vermarktungsmöglichkeiten.
+Mit Connect steht der zweite kommerzielle Shop im Netz, der auf einer Vermarktungsstrategie fußt, die Hard- und Software umfasst und untrennbar verbindet.
+Der Erfolg von Connect ist damit an den Verkaufserfolg der digitalen Medienträger von Sony gebunden - und umgekehrt?
+Man wird sehen: Ab Juni auch in Europa.

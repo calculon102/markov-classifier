@@ -1,0 +1,37 @@
+Der xda ist so etwas wie eine eierlegende Wollmichsau.
+Nach Angaben der Verkäufer ermöglicht er den einfachen Zugang zu Internet, E-Mail-, SMS- und WAP-Diensten.
+Neben dem Telefonieren und dem Arbeiten mit Word- und Excel-Dokumenten müsse der Nutzer natürlich auch nicht auf die geschätzten PDA-Funktionen wie der Kontakt- und Terminverwaltung verzichten.
+Ein mobiles Büro in einer Hand?
+Die Testpersonen bekamen glänzende Augen.
+Bedingung für den lustvollen Gebrauch eines Smartphones wie des XDA ist allerdings eine gewisse Kompromissfähigkeit seitens des Benutzers: Der Bildschirm ist viel kleiner als bei einem Laptop und damit zum Arbeiten natürlich weit weniger komfortabel.
+Zum Telefonieren ist das Gerät im Vergleich zu herkömmlichen Handys wiederum zu groß.
+In Sachen Hardware kam der xda bei unseren Testern gut weg.
+Vor allem das farbige TFT-Display (4.096 Farben) wurde wegen seiner Darstellungsqualität (Auflösung 240 x 320 Pixel) gelobt.
+Auch der Navigationsstift, der bei Nichtgebrauch seinen Stammplatz in der Antenne einnimmt und so nicht verloren geht, bekam gute Noten.
+Etwas anders sah es schon beim Herz des Mini-Rechners aus.
+Der 32-Bit-Prozessor Strongarm SA1110, der mit 206 MHz getaktet ist, ermöglicht zwar meistens ein flüssiges Arbeiten.
+Der Hauptspeicher wurde jedoch mit 32 MB RAM/32 MB ROM zu dürftig bemessen.
+Er kann jedoch über einen Einschub für SD/MM-Karten am unteren Geräterand aufgerüstet werden.
+In einigen Extrem-Situationen führte es allerdings zu ungeplanten Abstürzen.
+An manchen Stellen ist das System auch noch nicht ganz eingedeutscht; problematischer gerade für Durchschnittsanwender ist aber die in manchen Konfigurationsmenüs fehlende Möglichkeit, Eingaben abzubrechen.
+Eigentlich verfügt der xda über eine Software, die sich beim ersten Start automatisch konfiguriert und auch die Wahlparameter für GSM- (900 und 1800 MHz) und GPRS-Verbindungen übernimmt.
+Die automatische Konfiguration der Internet- und WAP-Dienste war allerdings bei manchen unserer Tester erfolglos, so dass das Handbuch zu Rate gezogen werden musste.
+Nach einigen Anläufen ist die Konfiguration dann geglückt.
+Richtig Freunde bereitete das Surfen im Internet im PDA-gerechten Portal von O2, das eine optimale Darstellung gewährleistet und bereits einige interessante Location Based Services integriert.
+Probleme bereiten vor allem die für hohe Auflösungen optimierten Seiten oder solche, die Frames, Darstellungen mit CSS oder sogar Plug-Ins verwenden.
+Profis finden zwar auch dann noch oft den Weg zum Ziel, doch das dauert.
+Beispielsweise soll noch im September Immobilienmaklern eine eigene Branchenlösung angeboten werden.
+Als praktisch erweist sich vor allem die E-Mail-Funktionalität mit Zugriff auf ein eigenes Postfach.
+Möglich ist die Verwendung einer beliebigen E-Mail-Adresse, solange der verwendete Internet Service Provider die Abfrage und das Versenden über POP3/SMTP oder IMAP4 zulässt.
+Die Konfigurationseinstellungen erweisen sich in diesem Fall als problemlos.
+Auch die Telefonfunktionen kamen bei den Testern gut an, vor allem was die schnelle Anwahl von Rufnummern aus dem Adressbuch anging.
+Leider ist eine Rückrufmöglichkeit bei SMS-Nachrichten, die eine Rufnummer enthalten, nicht möglich.
+Der xda wiegt laut Herstellerangaben und eigener Waage lediglich 200 Gramm, was in Anbetracht des Leistungsumfangs durchaus vertretbar ist.
+Auf der Habenseite des Gerätes stehen laut Hersteller bis zu 3,5 Stunden Sprechzeit oder etwa 15 Stunden PDA-Arbeitszeit oder rund 150 Stunden Stand-by.
+Die mitgelieferte Docking-Station ist ganz passabel, den Datenabgleich mit dem eigenen PC übernimmt die mitgelieferte Software ActiveSync.
+Das Synchronisieren oder das Aufladen des eingebauten Lithium-Polymer-Akkus wird nur dann umständlich, wenn die mitgelieferte Lederschutzhülle - wie vorgesehen - mit dem xda verwendet wird.
+Mit Schutzhülle passt das Gerät leider nicht mehr in die Docking-Station.
+Ziemlich praktisch dagegen ist, dass sich der Netzadapter bei Reisen nach Großbritannien einfach tauschen lässt.
+Das Fazit unserer Tester: Mit dem sehr guten Farbdisplay und seiner überzeugenden PDA-Funktionalität, segelt der xda der Konkurrenz derzeit klar voraus.
+Für einen wirklichen Westentaschen-PC ist das Smart-Phone mit seinem Gewicht allerdings noch ein wenig zu Jackett-feindlich, wenn man nicht gerade einen xda-Halfter tragen möchte.
+Und noch ein Tipp: Wer häufiger mit dem xda telefoniert, sollte das mitgelieferte Headset benutzen, sonst gibt es störende Ohrabdrücke auf dem Display.

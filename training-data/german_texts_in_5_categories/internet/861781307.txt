@@ -1,0 +1,40 @@
+Freundlicher Helfer im Hintergrund?
+Was kann sich ein junges Unternehmen besseres wünschen, als wohlmeinende Förderer?
+Microsoft soll mit einer Empfehlung bei einer Venture-Capital-Firma dafür gesorgt haben, dass SCO das Geld nicht ausging.
+So ausgestattet macht SCO juristisch Jagd auf Linux-Firmen.
+Es gibt Unternehmen, die machen ihr Geld, indem sie entwickeln, produzieren und verkaufen.
+Es gibt andere, die machen ihr Geld, weil andere entwickeln, produzieren und verkaufen.
+Seit einem Jahr versucht SCO nun, IBM mit juristischen Mitteln um eine Milliarde Dollar zu erleichtern.
+In den letzten Monaten ließ das Unternehmen weniger hoch angesiedelte Klagen gegen DaimlerCrysler, Novell und Autozone folgen, weitere Linzenzgebühr-Forderungen und eventuell Gerichtsverfahren werden erwartet.
+SCO gehört darum nicht unbedingt zu den beliebteren Unternehmen: So gut wie jede größere IT-Firma setzt derzeit auch auf Linux als Alternative zu Microsoft-Software.
+Gäbe es ein Ranking der meistgehassten Web-Unternehmen, hätte SCO derzeit gute Chancen auf eine Top-Position.
+Das fand beispielsweise auch der Autor des MyDoom-Virus: Ziel seiner ersten Denial-of-Service-Attacke war SCO (Microsoft attackierte er im zweiten Anlauf).
+Fördert Microsoft SCO?
+Relativ unberührt von Debatte und Getümmel zwischen Linux- und SCO-Lager stand bisher Microsoft, mittelbarer Nutznießer jeder Entscheidung gegen das Linux-Lager.
+Schon früh argwöhnten Microsoft-Kritiker zwar, es könne anrüchige Querverbindungen zwischen SCO und Microsoft geben.
+Dafür ließen sich aber bisher keine konkreten Hinweise finden.
+Linux vs.
+Was es allerdings gab, gibt nun BayStar Capital, die Finanzierungsfirma, die SCO im Oktober 2003 mit 50 Millionen Dollar versorgte, zu, war zumindest eine freundliche Empfehlung: Demnach habe Microsoft SCO und BayStar erst zusammen gebracht.
+Das Ganze hätte den Charakter eines Tipps gehabt.
+Solche Dinge geschehen immer wieder, wenn ein junges Unternehmen beispielsweise nach Startkapital sucht.
+Davon aber konnte bei SCO keine Rede sein: Zum Zeitpunkt der willkommenen Millionen-Infusion stand SCO bereits seit rund acht Monaten mit IBM vor Gericht.
+Sowas kostet natürlich, da braucht man Geld.
+Direkt von Microsoft sei aber weder zu BayStar, noch zu SCO Geld geflossen.
+Lizenzzahlung als Schützenhilfe?
+Branchenanalysten vermuteten - angelehnt an ähnliche Lizenz-Deals - eine Zahlung in Höhe von rund 10 Millionen Dollar.
+Wichtiger war zu diesem Zeitpunkt aber, dass überhaupt jemand zahlte, ohne sich vor Gericht nach Kräften zu wehren: SCOs Aktien schossen nach Bekanntwerden der Nachricht um satte 38 Prozent nach oben.
+Ein Signal für die Branche entdeckten Analysten damals darin und vermuteten, dass nun andere folgen würden.
+Doch der Effekt blieb kleiner als erhofft.
+Vereinzelte Unternehmen zahlten, um präventiv Lizenzforderungen zu vermeiden.
+Ob diese Zahlungen an Rückzahlungsbedingungen gebunden sind, sollte SCO seine Prozesse verlieren, ist nicht bekannt.
+Seitdem haben SCOs Forderungen viel an Glaubwürdigkeit eingebüßt.
+Alle Beklagten fechten SCOs Forderungen an, ob diese sich gerichtlich durchsetzen lassen, erscheint zunehmend zweifelhaft.
+Stattdessen gerät SCO selbst immer stärker in die Kritik: Haarklein dokumentieren SCO-Gegner, wann und wo dem Unternehmen Gelder zugeflossen sind.
+Die Linux-Verfechter der Open Source Initiative sind sich mittlerweile sicher, das Microsoft von Anfang an im Hintergrund dafür gesorgt habe, dass Kapitalgeber auf SCO aufmerksam wurden.
+Anfang März erhielt die Open Source Initiative eine E-Mail mit einem Memo, das Einzelheiten über die Finanzierung von SCO enthielt.
+SCO bestätigte am 4. März, dass das Memo authentisch sei, bestand aber darauf, dass sein Inhalt fehlinterpretiert werde: Es gehe darin keineswegs um ein direktes Involvment von Microsoft in die Finanzierung von SCO.
+Die E-Mail gehe vielmehr auf einen externen Berater zurück, der im Rahmen eines Auftrages Kenntnis von SCO-Interna erhalten, bestimmte Dinge aber missverstanden habe.
+Eine direkte Beteiligung an der Finanzierung von SCO kann man Microsoft tatsächlich nicht vorwerfen.
+Direkte Querverbindungen zwischen dem Softwareriesen und den kapitalgebenen Firmen sind bisher zumindest nicht nachweisbar.
+Was bleibt, sind Tipps und Empfehlungen unter Freunden, man könnte sich doch einmal dieses nette Unternehmen etwas näher ansehen, das sich so hartnäckig in die Waden diverser Microsoft-Konkurrenten verbissen hat.
+Besonders vorteilhaft sieht auch das nicht aus.

@@ -1,0 +1,28 @@
+Zunächst werden die englischsprachigen Länder beglückt, deutsche Nutzer müssen sich bis Ende des Monats gedulden.
+Klaffende Sicherheitslücken (LSass) und zunehmende Probleme mit Viren- und Hackattacken brachten in den letzten Monaten mächtig viel schlechte Presse und eine nicht unerhebliche Verunsicherung der Kundschaft.
+Windows XP, einst als sicheres, bequemes Betriebssystem bejubelt, geriet in Verruf.
+Das alles soll der SP2 genannte Update der Software bereinigen.
+SP2: Was ist drin im Päckchen?
+Außerdem werden Schwachstellen in der Speicherverwaltung von Windows und im Internet Explorer behoben.
+Bedenken: Beißt SP2 andere Software?
+Und trotzdem sorgen die Eingriffe für Probleme.
+Schon vor Wochen warnte Microsoft, manche Software könne mit den veränderten Grundeinstellungen von Windows XP nicht mehr kompatibel sein.
+Das ist wohl so: Erst vor zwei Tagen forderte IBM seine rund 400.000 im Firmeneigenen Rechnerverbund verdrahteten Angestellten und Partner auf, Das SP2 nicht zu installieren.
+Aus Angst vor Inkompatibilitäten hat sich IBM entschlossen, eine eigene, auf die IBM-Software zugeschnittene SP2-Variante herausbringen zu wollen.
+So was aber kann sich nicht jeder leisten.
+Gerade die Anbieter von IT-Sicherheitsprodukten fürchten um Inkompatibilitäten &#8211; und auch, dass die von Microsoft versprochenen Sicherheitsfeatures vielleicht tatsächlich funktionieren und sie selbst überflüssig machen könnten.
+Noch also herrscht einige Verunsicherung.
+Ob die berechtigt ist oder nicht, wird man in Deutschland schon erfahren, bevor das deutschsprachige SP2 ausgeliefert wird.
+In Amerika hat die Auslieferung (zunächst an Firmenkunden) am Montag begonnen.
+Daneben gibt es die Möglichkeit des Einzel-Downloads oder der Bestellung einer CD.
+Die Anpassung an insgesamt 25 verschiedene Sprachversionen des Betriebssystems werde innerhalb der nächsten beiden Monate abgeschlossen sein.
+In Deutschland soll die Auslieferung Ende des Monats beginnen: Zwei bis drei Wochen Zeit, die Reaktionen auf SP2 in den Vereinigten Staaten abzuwarten und zu beobachten.
+Dass die Installation von SP2 grundsätzlich sinnvoll ist, wenn man Windows XP weiter nutzen will, bezweifelt derweil kaum jemand.
+Das Magazin bemängelt allerdings die Ausnahmeliste.
+Sie ermögliche es nicht nur dem Anwender, seine Firewall für bestimmte Dienste zu öffnen.
+Auf dem gleichen Weg könnten auch Angreifer eindringen.
+Einmal eingedrungene Schädlinge seien mitunter in der Lage die Firewall nach ihren eigenen Bedürfnissen einzustellen.
+Auch Outlook Express und der Internet Explorer werden dem Magazin zufolge sicherer.
+Das E-Mail-Programm lädt zum Beispiel keine in E-Mails eingebundene Grafiken mehr aus dem Internet nach - in der Vergangenheit immer wieder Ausgangspunkt für Angriffe.
+Insgesamt jedoch wirft das Fachblatt dem Konzern vor, die Möglichkeiten nicht ausgeschöpft zu haben, um Angreifer dauerhaft aus Windows-Systemen auszusperren.
+Im Wesentlichen seien bekannte Löcher gestopft worden.

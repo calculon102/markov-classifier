@@ -1,0 +1,41 @@
+Im Web ist weit mehr los, als man ahnt: Ständig kratzt und klopft es an den Pforten unserer Rechner.
+Da zahlt es sich über kurz oder lang aus, das gute Stück zu sichern.
+Zum Grundpaket Sicherheit gehört mehr als nur der Virenscanner.
+Vorab: Kein Betriebssystem ist wirklich sicher.
+Dass Microsoft gezwungen ist, etliche Male im Jahr vor Sicherheitslücken in seinen Produkten zu warnen, ist für das Unternehmen unangenehm, aber nicht verwunderlich.
+Betriebssysteme bestehen aus vielen Millionen Zeilen Code - und das bietet mächtig viel Gelegenheiten, Fehler zu machen.
+Microsoft steht als Marktführer allerdings unter Dauerbeschuss, und die bei weitem meisten Sicherheitsprobleme mit Hacks und Viren zielen auf Windows-Betriebssysteme.
+Linux und die Apple-Betriebssysteme gelten dagegen generell als sicherer: Ganz wertungsfrei kann man behaupten, dass das auch daran liegt, dass weniger Irre, Kriminelle oder Cybervandalen versuchen, ihr Mütchen an ihnen zu kühlen.
+Die Realität des Marktes jedoch sieht so aus: Über 90 Prozent aller Nutzer bewegen sich mit einem Windows-Rechner durchs Netz, und der ist schutzbedürftig.
+Das ist kostenlos, wenn auch lästig.
+Die bei weiten meisten PC-Nutzer verfügen heute über Virenscanner.
+Die machen allerdings nur dann Sinn, wenn man regelmäßig Updates durchführt.
+Populäre und erprobte Produkte gibt es von Firmen wie Kaspersky Labs, Trend Micro, Symantec, BitDefenders oder Sophos (siehe Linkverzeichnis).
+Doch der Virenscanner allein ist nur ein Baustein des PC-Sicherheitspakets.
+Die allein reicht jedoch nicht aus, um den komplexen Netzwerkverkehr abzuwickeln.
+Die E-Mail holt man per Pop3-Dienst in der Regel über den Port 110 TCP ab - und so weiter.
+Maximal verfügt ein Rechner über 65.536 Ports, denen sich Aufgaben zuweisen lassen.
+Das dürfte in der Praxis aber so gut wie nie der Fall sein.
+Dahinter verbirgt sich der Versuch, herauszufinden, ob es offene Wege in einen PC gibt, oder ob dieser bestimmte Dienste anbietet.
+Man kann sich das so vorstellen, als liefe jemand einen Hotelkorridor ab und probierte per Klinkendruck aus, ob jemand vergessen hat, seine Tür abzuschließen.
+Am Port 4662 fragen eDonkey-User an, ob es auf einem Rechner Dateien zu holen gibt.
+Solche Portscans müssen also durchaus nicht bösartig sein.
+Das ist nicht unrichtig: Der Portscan an sich ist weder böse noch gut.
+Wie jedes Werkzeug aber lässt er sich auch zur Waffe machen.
+Mit speziellen Tools, die eigentlich der Netzwerküberwachung und -diagnose dienen sollen, wird versucht, in einen Rechner einzudringen.
+Das geschieht weitestgehend automatisiert: Die meisten Personal Firewalls geben mehrere Sicherheitsstufen vor, mit denen man festlegt, wie stark man sich abschotten möchte.
+Kommt es zu einem bis dahin nicht dagewesenen oder einem Datenverkehr außerhalb der pauschal genehmigten Routinen, zeigt die Firewall das an und fragt danach, ob der Verkehr zu erlauben sei oder nicht.
+Blaster: Wie schlimm ist der Wurm wirklich?
+Blaster macht weltweit Schlagzeilen, doch die Einschätzung der entstandenen Schäden scheint bisher kaum möglich.
+Wie stark war und ist Deutschland betroffen?
+In aufwändigeren, kommerziellen Firewall-Programmen lassen sich zum Teil gezielt Ports sperren.
+Kostenlose Firewalls wie Zone Alarm bieten solche Finessen hingegen nicht: Trotzdem sollte eine Firewall zur Sicherheitsausstattung des Rechners gehören.
+Zumindest bietet sie dem User ein Feedback über den Zustand seines Rechners und darüber, ob dort etwas Außergewöhnliches geschieht.
+Nur wer bemerkt, dass er sich einen Trojaner gefangen hat, wird sich ein Removal-Tool dafür besorgen.
+Bekannte und erprobte Personal Firewalls gibt es unter anderem von Zone Alarm (kostenlos für Privatanwender, oft auf Beipack-CDs zu finden), Tiny oder Symantec.
+Als drittes Element im Grundpaket Sicherheit ist ein Programm gegen Schnüffelsoftware anzuraten.
+Programme wie Spybot, Ad-Aware oder PestPatrol finden nicht nur Spionagesoftware, sondern auch manchen Trojaner, der von herkömmlichen Virenscannern übersehen wird.
+Eine regelmäßige Überprüfung des Rechners sollte man zur Routine machen.
+Solche Scans sind zeitaufwändig, lassen sich zur Not aber auch über Nacht erledigen.
+Zurück zur Tür-Analogie: Auch die verschlossene Zimmertür kann man mit einem Dietrich knacken.
+Steht sie allerdings von vornherein offen, kommt auch der hinein, der mit einem Dietrich gar nicht umgehen kann.

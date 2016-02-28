@@ -1,0 +1,29 @@
+Ein Fahrradschloss knackt beinahe jeder.
+Eins zu hacken ist schon deutlich aufwendiger.
+Doch es geht: Hacker haben in Berlin fast 200 Mieträder der Deutschen Bahn manipuliert, um kostenlos damit zu fahren.
+Die Bahn kündigte Strafanzeigen an.
+Die Bahn macht mobil - seit einiger Zeit auch mit eigens entworfenen Mietfahrrädern.
+In Berlin, Frankfurt am Main, München und Köln stehen die voll gefederten Hightech-Räder auf der Straße herum.
+Ganz praktisch, wenn man nachts um drei kein Geld mehr fürs Taxi übrig hat und nicht auf den Nachtbus warten will.
+Ein Anruf im Bahn-Callcenter, und man bekommt den vierstelligen Öffnungscode für das elektronische Schloss übermittelt.
+Nach der Fahrt muss der Fahrer das Rad wieder anschließen und den Rückgabe-Code, den das kleine Display am Fahrradschloss anzeigt, dem Callcenter melden.
+Bezahlt werden sechs Cent pro Nutzungsminute.
+Offenbar war dies einer Gruppe Berliner Hacker immer noch zu teuer.
+Vielleicht hatten sie auch keine Lust, sich bei der nächtlichen Fahrt nach Hause immer beeilen zu müssen, schließlich kostet jede Minute extra.
+Es war tatsächlich eine, und sie wurde gemeistert: Auf der Website des Chaos Computer Club (CCC) berichtet ein Hacker ausführlich, wie sich das Fahrrad knacken lässt.
+Danach könne man mit dem Rad kostenlos fahren, berichtet der CCC, ohne dass die Bahn etwas davon bemerke.
+Das sind knapp 200 Räder.
+Bundesweit hat die Bahn 4250 Fahrräder auf die Straße gebracht.
+Dieses wurde dann eingehend inspiziert.
+Der Schlosskasten ließ sich mit Spezialwerkzeug öffnen, innen stießen die Tüftler auf eine mit schwarzem Silikon übergossene Platine, die schnurstracks frei gekratzt wurde.
+Zufällig sei man dann darauf gestoßen, dass ein Infrarot-Signal das System aktiviert.
+Weil sie in dem System keine direkt nutzbaren Schwachstellen oder Hintertüren entdecken konnten, entwarfen die Hacker kurzerhand eine eigene Software mit eingebauter Backdoor.
+Abgeschlossene DB-Räder geben regelmäßig ein Blinksignal ab, offenbar, um sie leichter zu finden.
+Die manipulierten Räder ließen sich fortan durch jeden kostenlos nutzen, der den selbst festgelegten Code kenne.
+Die Ausleihzentrale der Bahn soll von den illegalen Leihvorgängen nichts merken können - außer dass das Rad unter Umständen an einem anderen Ort steht, als in der Datenbank vermerkt ist.
+Die Bahn werde die Winterpause nutzen, um die Räder zu überprüfen.
+Genau an diesem Tag schickte der CCC auch die Information über den Fahrradhack an die Bahn.
+Wie oft die Hacker zum Nulltarif in Berlin unterwegs waren, will die Bahn jetzt bei einer Analyse ihrer Mietdaten herausbekommen.
+Besonders eilig hatten es die Hacker jedenfalls nicht, ihren Coup bekannt zu machen.
+Demonstriert wurde der Gratiscode bereits im Sommer, wie viele kennen ihn wohl inzwischen?
+Bringt Apple den Flash-iPod?

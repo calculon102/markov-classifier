@@ -1,0 +1,36 @@
+Berndt Feuerbacher, Direktor am Deutschen Zentrum für Luft und Raumfahrt, erklärt, wie die spektakuläre Landung auf dem Schweifstern gelingen soll und welche Geheimnisse dort warten.
+Die Ariane-Rakete wird einen Orbiter und einen Lander auf die rund zehn Jahre dauernde Reise schicken.
+Feuerbacher: Die Landung auf einem Kometen ist mit einer Marslandung kaum zu vergleichen, beide Körper sind zu unterschiedlich.
+Unser Ziel ist der so genannte Kern des Kometen, ein Körper von lediglich vier Kilometern Durchmesser - also winzig verglichen mit einem Planeten wie Mars.
+Das bedeutet aber, das die Anziehungskraft, die vom Kometenkern ausgeht, viel geringer ist.
+Sie müssen für eine weiche Landung viel weniger Abbremsen als bei einem Planeten.
+Deshalb brauchen wir auch keine Airbags oder Fallschirme wie bei der Marslandung.
+SPIEGEL ONLINE: Fallschirme würden sich bei einer Kometenlandung ja auch gar nicht öffnen ...?
+Feuerbacher: Richtig.
+Ein weiterer wichtiger Unterschied, der die Landung vereinfacht, ist dass Kometen keine Atmosphäre haben.
+Deshalb sind auch Fallschirme dort nutzlos.
+Einen Hitzeschild, der die Reibungshitze beim Flug durch die Gashülle vom Raumfahrtzeug abhält und der bei Landungen auf Mars, Venus und Erde überlebenswichtig ist, können Sie aus dem gleichen Grund weglassen.
+SPIEGEL ONLINE: Trotzdem müssen Sie zugeben, das es ein Flug in Unbekannte wird.
+Der Physikprofessor leitet das Institut für Raumsimulation am Deutschen Zentrum für Luft- und Raumfahrt (DLR) in Köln.
+Feuerbacher: Wir wissen bereits jetzt genug, um mit Rosetta dorthin zu fliegen.
+Nachdem wir in einen Orbit um den Kern einschwenkt sind, werden wir mindesten drei Monate Zeit haben, um mit dem Orbiter den Kometenkern aus der Nähe zu studieren.
+Dann können wir die Oberfläche im cm-Maßstab fotografieren und aus den Umlaufdaten ein detailliertes dreidimensionales Modell des Kernes erstellen, das uns bei der Landung vor unangenehmen Überraschungen bewahrt.
+Die vor Ort gewonnen Daten und das 3D-Modell helfen uns dann ein Landegebiet auszuwählen.
+Mit etwas Glück können wir dieses Zielgebiet auf 20 Meter genau treffen, das ist um mehrere Größenordnungen besser als bei einer Marslandung.
+SPIEGEL ONLINE: Es ist absehbar, das der Komet diesen unfreundlichen Akt interplanetaren Harpunierens mit garstigen Umweltbedingungen bestrafen wird.
+Tagestemperaturen von maximal -50 Grad Celsius und in der Nacht sogar -170 Grad - wie wird Ihre Bordelektronik damit fertig?
+Feuerbacher: Erstens haben wir Philae gegen die eisigen Temperaturen eine Wärmeisolierschicht eingebaut und zweitens verwenden wir jedes Watt doppelt.
+Die Elektrizität, die wir verbrauchen um unsere wissenschaftlichen Instrumente zu betreiben, fällt ja gleichzeitig auch als Abwärme an.
+Die wird dann noch mal verwendet, um den Lander von Innen zu erwärmen.
+Zwei bis drei Wochen nach der Landung wird die Kälte aber möglicherweise den Weg nach Innen finden - dann ist Philae programmiert, in eine Art Winterschlaf zu gehen.
+Der Lander wird dann später von den steigenden Temperaturen in Sonnennähe wieder geweckt.
+SPIEGEL ONLINE: Was können wir von Philaes wissenschaftlichen Experimenten erwarten, falls er seinen Auftrag folgsamer abarbeitet als der verzogene Mars-Beagle?
+Feuerbacher: Zunächst werden wir uns am Boden mal umsehen und Panoramafotos erstellen.
+Bislang ist ja niemand auf einem solchen Kometenkern gelandet.
+Wir wollen aber vor allem eine chemische Untersuchung des Kometen durchführen.
+Dazu nehmen wir frische Bodenproben aus 20 bis 30 Zentimetern Tiefe und geben sie in zur Analyse in unsere Massenspektrometer, die sich an Bord befinden.
+Kometen stehen in Verdacht komplexe organische Moleküle, zum Beispiel Aminosäuren, zu enthalten.
+Sie könnten in der Urzeit unseres Planeten, als Kometeneinschläge viel häufiger waren, dem irdischen Leben gleichsam auf die Sprünge geholfen haben.
+Auch das Wasser auf unserer Erde könnte mindestens zum Teil von solchen Kometen stammen.
+Seit diesen Urzeiten hat sich unsere Erde dramatisch verändert, die Kometen blieben jedoch im All konserviert.
+Damit sind sie so etwas wie Leitfossilien aus der Entstehungszeit unseres Planetensystems, die uns erlauben, Urmaterial aus einer Zeit vor 4,5 Milliarden Jahren zu untersuchen.

@@ -1,0 +1,29 @@
+Der überfällige Service Pack 2, der zahlreiche Sicherheitslecks schließen soll, wird das Leben für Nutzer von Windows XP zunächst nicht leichter machen.
+Experten erwarten Inkompatibilitäten mit Software anderer Hersteller.
+Als Vizepräsident des Sicherheitsunternehmens Symantec kann Matthew Moynahan die Bemühungen von Microsoft, das Betriebssystem Windows XP vor Angriffen zu schützen, nur begrüßen.
+Weit weniger gefällt ihm der Gedanke an die zahllosen Anrufe, die den Kundendienst seines Unternehmens nach dem für nächsten Monat erwarteten Windows-Upgrade beschäftigen werden.
+Die Anti-Viren-Software Norton von Symantec läuft immerhin auf rund 100 Millionen Rechnen weltweit.
+Und damit Norton und das neue Microsoft-System gut harmonieren, ist auch ein Norton-Upgrade fällig.
+Schon jetzt werden deshalb Pläne zum Ausbau des telefonischen Kundendienstes ausgearbeitet.
+Mit dem größten Sicherheits-Update für Windows, das es je gab, dem so genannten Service Pack 2 (SP2), versucht Microsoft die Balance zwischen dringend notwendigen Sicherheitsverbesserungen und dem reibungslosen Ablauf der Programme zu finden.
+So beschweren sich Firmen, dass Programme danach nur noch mit einem Upgrade laufen, gleichzeitig fordern Sicherheitsexperten von Microsoft weitere Änderungen.
+Programme mit Problemen: Spreu und Weizen?
+SP2 ist eine Antwort auf die zahllosen Angriffe der letzten Zeit, bei denen Windows-Sicherheitslücken unter anderem zur Verbreitung von Viren und zum Diebstahl persönlicher Informationen genutzt wurden.
+Vielen Firmen, die sich bemühen ihre Programme an SP2 anzupassen, bereiten die Änderungen echte Kopfschmerzen.
+Verbessert wird mit SP2 vor allem die Sicherheit des Windows-Browsers Internet Explorer und des Mail-Programms Outlook Express.
+Die Windows-Firewall, die unbefugte Zugriffe auf dem Rechner vom Internet her abwehren soll, wird jetzt in den Voreinstellung angeschaltet.
+Die neuen Vorkehrungen können aber Programme wie Online-Spiele stark beeinträchtigen, die auf Interaktion im Internet angewiesen sind.
+Wie stark die Auswirkungen tatsächlich sein werden, ist derzeit aber nur schwer abzusehen.
+Die Veröffentlichung des SP2 hat sich unter anderem auch deshalb immer wieder verzögert, weil sich Microsoft bemühte, die Kompatibilität zu verbessern.
+Auch die Experten von Gartner sind in dieser Hinsicht zuversichtlich.
+Vermutlich nur drei Prozent der Programme würden nach der Installation von SP2 Probleme bereiten.
+Größere Schwierigkeiten könnten aber Firmen haben, die mit selbst entwickelten oder modifizierten Programmen arbeiteten, sagt Goffe.
+Da es könne es Monate dauern, bis sie angepasst seien.
+Aber hier könne SP2 auch in einer abgespeckten Version installiert werden.
+Eine der größten Änderungen für die Nutzer dürften nach SP2 die zahlreichen Sicherheitshinweise sein, die darauf aufmerksam machen, welche Programme gerade auf den Rechner zugreifen wollten.
+Bei Macromedia, dessen Flash-Technik nur geringe Anpassungen erforderte, war man trotzdem besorgt.
+Dies betraf die Sprache der neuen Microsoft-Warnungen, die selbst bei legitimen Handlungen der Eindruck erweckte, dass dies möglicherweise falsch oder gefährlich sei.
+Bei Microsoft habe man auf die Einwände mit Verständnis reagiert, sagt Macromedia-Vertreter David Mendels.
+Das Service Pack 2 für Windows XP soll ab August kostenlos von der Microsoft-Website heruntergeladen werden können.
+Microsoft schlägt dazu vor, die Funktion Automatic Update in der Systemsteuerung zu nutzen.
+Man kann es sich aber auch als CD-ROM zuschicken lassen.

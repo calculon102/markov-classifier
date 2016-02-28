@@ -1,0 +1,30 @@
+Computerwesen verhalten sich zuweilen nicht anders als Menschen aus Fleisch und Blut.
+Als Forscher die Entwicklung von Völkern simulierten, stießen sie auf erstaunliche Parallelen zur Realität.
+Die auffälligste: Eine Gruppe ruhte nicht eher, bis die andere vernichtet war.
+Auf dem Bildschirm tobt der Mob: Völkermord.
+Sekunden später ist alles blau.
+Auch wenn es sich um eine Computer-Simulation handelt: Die Szene wirkt bedrohlich.
+Dennoch sieht es am Ende so aus, als hätten alle von Anfang an nur eines im Sinn gehabt: die jeweils anderen zu vernichten.
+Das digitale Experiment mit unerwartetem Ausgang variiert, was schon Ende der 1960er Jahre von dem amerikanischen Volkswirt Thomas C. Schelling auf dem Papier durchgespielt worden war.
+Er schuf künstliche Wohnviertel und ließ dort zwei unterschiedliche Ethnien einziehen, deren Mitglieder bereit waren, als Minderheit in einem gemischten Bezirk zu leben.
+Berücksichtigt wurde dabei lediglich der bescheidene Wunsch der neuen Einwohner, jeweils zwei der eigenen Gruppe zu Nachbarn zu haben.
+Künstlicher Krieg: Zwei Ethnien (Grün und Blau) treffen aufeinander, Mord ist die Folge (rote Punkte).
+Doch diese scheinbar harmlosen Entscheidungen Einzelner führten, programmgemäß fortgeschrieben, letztlich zum Konflikt: zur Rassentrennung.
+Offenbar organisieren sich Gemeinschaften nach Mustern, derer sich der Einzelne nicht bewusst ist, zu denen er aber gleichwohl durch sein Verhalten beiträgt.
+Die von Wissenschaftlern mit Hilfe moderner Software kreierten digitalen Gesellschaften sollen Phänomene sichtbar machen, die an menschlichen Gesellschaften zu beobachten sind und dennoch, was ihre Ursachen angeht, oft rätselhaft bleiben.
+Die im Computer eingesetzten, so genannten Multi-Agenten-Systeme folgen simplen Regeln, entwickeln aber mit der Zeit komplexe Strukturen, die der Lebenswirklichkeit verblüffend nahe kommen.
+Nahe genug jedenfalls, um der Hoffnung Nahrung zu geben, mit solchen Modellen menschliches Verhalten berechenbar machen zu können.
+Nach und nach entstand ein soziales Geflecht, in dem das überlebenswichtige Material ähnlich ungleich verteilt war wie Geld unter den Menschen.
+Wenn sich Gruppenverhalten in künstlichen Gemeinschaften beinahe naturgetreu simulieren ließ, so die Überlegung der Forscher, mussten sich doch auch Kulturen nachbilden lassen, die es wirklich einmal gab.
+So ließen Epstein und sein Team das vor 650 Jahren auf rätselhafte Weise verschwundene Volk der Anasazi elektronisch wieder auferstehen.
+Aus dem, was über die ehemals im Südwesten Nordamerikas siedelnden Indianer bekannt ist, konstruierten sie einen künstlichen Lebensraum, der sich auch klimatisch so veränderte wie der echte, und bevölkerten ihn mit Cyber-Anasazi.
+Die so gezüchtete Historie sollte den Wissenschaftlern helfen, das Rätsel um das Verschwinden der einstigen Kultur zu lösen.
+Doch sie lieferte ein erstaunliches Ergebnis: In den meisten Simulationsdurchläufen bildete sich die größte Siedlung genau dort, wo sie tatsächlich einmal bestanden hatte und wo noch heute Ruinen zu finden sind.
+Derart überraschende Wendungen ereignen sich nicht eben selten bei computergesteuerten Versuchen, das Verhalten von Gruppen digital auszudrücken und vorhersagbar zu machen.
+Rainer Hegselmann, Professor für Philosophie an der Universität Bayreuth, kreierte auf unterschiedliche Art hilfsbedürftige Agenten, gab ihnen eine Portion Altruismus mit und beobachtete, wie Solidarnetzwerke unter ihnen entstanden.
+Am Ende verstrickten sich seine Wohltäter jedoch in eine paradoxe Lage: Weil jeder helfen wollte, blockierten sich die Helfer schließlich gegenseitig.
+So absurd die Ergebnisse solcher Experimente auch bisweilen erscheinen, verspricht sich Hegselmann von ihnen doch wertvolle Einsichten.
+Gerade deshalb haben Simulationen Vorteile.
+Mit ihrer Hilfe ist es möglich, die Auswirkungen minimaler Veränderungen zu studieren und herauszufinden, welche von ihnen für einen Wandel in der realen Welt entscheidend sein könnte.
+Häufig nämlich, auch das ein Ergebnis der Erforschung virtueller Welten, führen gar nicht die großen, sondern die kleinen Schritte den Umschwung herbei.
+So zeigten Simulationen beispielsweise, dass die Kriminalitätsrate durch ein paar gezielte Festnahmen nachhaltiger gesenkt wird als durch eine Verhaftungswelle.

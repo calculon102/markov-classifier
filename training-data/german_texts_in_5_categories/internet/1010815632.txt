@@ -1,0 +1,54 @@
+Das skrupellose Geschäft mit Dialern läuft trotz strengerer Gesetze wie geschmiert.
+Auf hausaufgaben.de werden für 30 Euro aus dem Internet zusammenkopierte Texte verkauft, bei waehrungsrechner.de kostet die Umrechnung von Euro in Dollar ebenfalls 30 Euro.
+Es gehört zu den Besonderheiten der Computertechnik, dass sich aufwendig erstellte Werke im Handumdrehen kopieren lassen.
+Der Preis einer Kopie liegt praktisch bei null, teuer ist im Grunde nur das Original.
+Mit diesem Problem müssen alle kämpfen, seien es nun Musiklabels, Filmkonzerne oder Softwareanbieter.
+Ein findiger Unternehmer aus der hessischen Kleinstadt Büttelborn bei Darmstadt hat das problematische Businessmodell nun umgedreht.
+Er verkauft Kopien teuer, deren Vorlagen es im Netz umsonst gibt.
+Andreas Schmidtlein von der Firma Internet Services Solutions betreibt eine ganze Reihe von Dialerseiten.
+Schlimm genug, dass Schmidtlein auf die Unerfahrenheit von Kindern setzt, um mit seinen Malvorlagen ordentlich Reibach zu machen.
+Bei der Hausaufgaben-Seite, die Schülern beim Verfassen von Referaten helfen soll, geht der Büttelborner noch dreister vor.
+SPIEGEL ONLINE hat das Angebot ausprobiert und dabei einige Überraschungen erlebt.
+Zuallererst hat man für 29,95 Euro Einwahlkosten nicht etwa unbegrenzten Zugriff auf die Referate - die Verbindung wird vielmehr nach 30 Minuten wieder getrennt.
+Ungestörtes Stöbern funktioniert so natürlich nicht.
+Auch wenn die Seite in den Rubriken Biologie, Physik oder Deutsch jeweils mehrere Hundert Referate verspricht, sind jeweils nur 30 Arbeiten pro Fach abrufbar.
+Und es kommt noch dreister.
+Um zu prüfen, was für Texte Schmidtlein da eigentlich verkauft, wurde die Google-Suchmaschine bemüht.
+Und siehe da: Sämtliche 13 Texte waren im Internet zu finden - natürlich kostenlos.
+Vier Artikel standen beispielsweise auf fundus.org - einer frei zugänglichen Referate-Datenbank mit Tausenden Dokumenten, gegen die hausaufgaben.de wie ein schlechter Witz wirkt.
+Hatte Schmidtlein die Texte etwa wahllos aus dem Internet zusammenkopiert?
+Weil teilweise unter den Dokumenten auch die Namen und E-Mail-Adressen der Autoren standen, war die Nachfrage bei den Autoren kein Problem.
+Manche E-Mail-Adresse erwies sich als nicht mehr gültig, doch das Referat Nummer 13 über Dadaismus brachte einen Volltreffer.
+Ein Münchner namens Corbinian Lehner, ein heute 23 Jahre alter Computerspezialist, hatte es 1998 als Schüler verfasst.
+Fundus.org - kostenlose Referatedatenbank mit tausenden Artikeln Freiwillige Selbstkontrolle Multimedia-Diensteanbieter e.V.
+Vor etwa zwei Monaten entdeckte er zufällig, dass sein Text über einen Dialer angeboten wird - ohne je die Zustimmung dazu gegeben zu haben.
+Auf seine Aufforderung per E-Mail, den Text von der Seite zu nehmen, erfolgte keinerlei Reaktion.
+Auch mehrere Anfragen von SPIEGEL ONLINE per E-Mail und Telefon an Andreas Schmidtlein blieben unbeantwortet.
+Die ausdrückliche Aufforderung, zu den Vorwürfen Stellung zu nehmen, nahm Schmidtlein ebenfalls nicht wahr.
+Eigentlich wollte die Bundesregierung dem Treiben der Dialer-Branche längst ein Ende bereitet haben.
+Im August 2003 trat das Mehrwertdienstegesetz in Kraft.
+Seitdem müssen die Einwahlprogramme, die eine Verbindung zu 0190er oder 0900er Nummern aufbauen, bei der Regulierungsbehörde registriert werden.
+Die Beamten achten unter anderem darauf, dass die Preise korrekt angegeben und die Dialer nur so lange aktiv sind, wie der Surfer das kostenpflichtige Angebot tatsächlich nutzt.
+Wer allerdings glaubt, dass damit die dreiste Abzocke ein Ende hat, sieht sich getäuscht.
+Die Branche hat sich schnell auf die neue Gesetzeslage eingestellt, wie das Beispiel Andreas Schmidtlein zeigt.
+Die meisten Dialer schmücken sich nun mit einer Versionsnummer und einem so genannten Hashwert, der die Authentizität des Einwahlprogramms beweist.
+Die gesetzlich geforderte Kennzeichnung verleiht somit selbst unseriösen Anbietern den Anschein von höchster Seriosität.
+Dies sei jedoch nicht gleichzusetzen mit einer Wertung.
+Derzeit genügt eine Erklärung des Websitebetreibers, dass er den FSM-Verhaltenskodex beachtet, um die FSM als Jugendschutzbeauftragten angeben zu können.
+Geprüft wird sein Angebot erst, wenn Beschwerden gegen ihn erhoben werden.
+Das ist im Falle von Andreas Schmidtlein bereits geschehen, bei FSM und IVNM gingen mehrere Beschwerden ein.
+Beim IVNM läuft nach Auskunft seines Sprechers Christoph Lattreuter bereits ein Ausschlussverfahren.
+Schmidtleins Handeln widerspreche den Interessen seines Verbandes, erklärte Lattreuter gegenüber SPIEGEL ONLINE.
+Zudem erwecke der Anbieter den Eindruck, dass der Interessenverband ein solches Handeln unterstützt.
+Teuer und veraltet: Waehrungsrechner.de mit Kursen vom 17.4.
+Andreas Schmidtlein hat es jedoch nicht allein auf arglose Kinder abgesehen.
+SPIEGEL ONLINE testete noch ein zweites Angebot von ihm - seinen Währungsrechner.
+Mal eben den aktuellen Dollarkurs abfragen - das kostet bei www.waehrungsrechner.de 29,95 Euro.
+Moment, das stimmt nicht ganz.
+Auf Schmidtleins Seite gibt's nämlich nicht etwa aktuelle Daten, sondern zehn Tage alte Kurse.
+Schmidtlein hat dies extra auch deutlich vermerkt - dreister geht's kaum.
+Ein Fall für den Wucherparagraphen?
+Die Website wurde offenbar so schnell zusammengestrickt, dass auf der Startseite statt einer Begrüßung noch der Blindtext aus dem Webeditor steht.
+Dies falle nicht in den Bereich des Telekommunikationsgesetzes.
+Ein unverhältnismäßig hoher Preis, wie er möglicherweise im Fall waehrungsrechner.de vorliegt, könnte eventuell unter den Wucherparagraphen fallen, meint Boll.
+Hat es je solche Fälle gegeben?

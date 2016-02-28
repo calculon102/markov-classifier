@@ -1,0 +1,21 @@
+Was hat das zu bedeuten, wenn man die Logos vom Firmengebäude montiert und die restlichen Programmierer auf die Straße setzt?
+In Sachen Netscape fragt das niemand: Es ist das Ende.
+Aber was heißt das für Mozilla?
+So richtig verständlich war das nicht.
+Netscape führte unter dem Dach von AOL zwar über Jahre ein Schattendasein, erfuhr kaum Investitionen oder Verbesserungen.
+Der einstmals fortschrittliche Browser veralterte völlig und hechelte der Konkurrenz chancenlos hinterher.
+Selbst der Schritt, den Sourcecode der Open-Source-Gemeinde zu übergeben und fortan die Weiterentwicklung des Browsers im Mozilla-Projekt zu betreiben, brachte lange keine befriedigenden Ergebnisse.
+Dass AOL den Browser allerdings unbedingt in dem Jahr killen würde, in dem er seinen größten Schritt nach vorn machte, ist schwer zu verstehen.
+Gerade die Version 7.1, erst vor rund zwei Wochen veröffentlicht, ist das beste Stück Software, dass Netscape je hervorgebracht hat - und das letzte.
+Im Grunde ist der Browser baugleich mit der Mozilla-Version 1.4, und Mozilla darf künftig auch weitermachen.
+Ohne viel Tamtam montierten heute Handwerker die Firmenlogos von den Netscape-Büros, und die letzten rund 50 Programmierer erhielten ihre Kündigungen mit Wirkung zum 15. Juli 2003.
+Gäbe es Grabsteine für Firmen, müsste dieses Datum darauf prangen - auch, wenn zumindest der Support und die Website noch eine Weile fortgeführt werden sollen.
+Ein Aufschrei blieb aus: Diskussionen hatte es in den letzten Wochen allenfalls darüber gegeben, zu welchem Zeitpunkt AOL den Laden zumachen würde.
+Schade ist das trotzdem, denn mit Netscape stirbt einer der Urmythen des World Wide Web: Ohne den Browser hätte es den Dotcom-Boom in dieser Form vielleicht nie gegeben.
+Das wäre zwar in mancherlei Hinsicht besser gewesen, unter dem Strich aber bedauerlich: Netscape hat nicht nur die Web-Welt ein Stück verändert.
+Der Browser soll nun als Mozilla weiter existieren, unkommerziell und gut als Open-Source-Entwicklung.
+Für die werden nun auch einige der Ex-Netscape-Programmierer arbeiten, die bei AOL hausintern nicht unterschlüpfen konnten.
+Ihr Chef wird Mitch Kapor, betuchter Gründer von Lotus und Präsident der Electronic Frontier Foundation, der zwecks guten Beispieles und Aufstockung der Kasse gleich 300.000 Dollar aus eigener Tasche in die Mozilla-Stiftung einzahlte.
+Nun sucht die Organisation nach Spendern, um neben den zahllosen Ehrenamtlichen auch einige sonst arbeitslose Programmierer in Lohn und Brot halten zu können.
+Erste positive Signale aus der IT-Industrie kamen von Sun Microsystems und vom Linux-Distributor Red Hat.
+Zu denen gehört auf absehbare Zeit auch AOL.

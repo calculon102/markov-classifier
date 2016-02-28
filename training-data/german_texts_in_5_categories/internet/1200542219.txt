@@ -1,0 +1,27 @@
+Völlig überraschend erlebten Sharman Networks, führende KaZaA-Manager und die der Tauschbörse verbundene Firma Brillant Digital am Freitag letzter Woche parallele Razzien von Büros und Wohnungen.
+Schon am Dienstag wollen australische Musikindustrievertreter auf den Ergebnissen eine Klage gründen.
+Kampf gegen KaZaA: Erfolgsgeschichte der P2P-Börse vor dem jämmerlichen Ende?
+Lassen sich auf den Servern von KaZaA Nachweise dafür finden, dass die Firma aktiv an Verletzungen des Copyrights beteiligt ist?
+Das ist die Gretchenfrage, an der sich schon in dieser Woche entscheiden könnte, ob der P2P-Riese KaZaA ganz, ganz schnell zu Fall kommt oder nicht.
+Am Freitag letzter Woche klopften Detektive der australischen Music Industry Piracy Investigations (MIPI), ermächtigt durch entsprechende gerichtliche Beschlüsse, an Büro- und Wohnungstüren von KaZaA-Managern und den ihnen verbundenen Unternehmen.
+Parallel durchstöberten sie Datenbanken bei Serviceprovidern und an Universitäten.
+Sie machten keinen Hehl daraus, wonach sie suchten: Nach nachweisen, dass KaZaA aktiv an Copyright-Verletzungen beteiligt ist.
+Denn nur dann ließe sich das Unternehmen vor Gericht so gut wie umgehend lahmlegen.
+Die Betreiber dieser Börsen fanden sich vor Gericht chancenlos: Stets befanden Richter rund um den Globus, dass sie ihre Dienste einzustellen hätten.
+Anders bei den Börsen der zweiten Generation: FastTrack und Gnutella, Overnet und eDonkey gelten als verteilte Netze, die erst durch die Verschaltung der Nutzer miteinander entstehen.
+Unternehmen wie KaZaA sitzen da nur als Entwickler der nötigen Software mit im Boot, können vor Gericht aber argumentieren, Copyright-Verstöße seien nichts als ein Missbrauch ihrer anders gemeinten Software durch die P2P-Nutzer.
+Doch gerade im Falle KaZaA können da Zweifel aufkommen.
+Als sich KaZaA im Frühjahr 2002 recht ruppig vom ehemaligen Partner Morpheus trennte, wischte KaZaA einfach geschätzte 28 Millionen Morpheus-Nutzer aus dem gemeinsamen FastTrack-Netz.
+Denn der Rauswurf kam abrupt: KaZaA modifizierte das Protokoll des fastTrack-Netzwerkes und klemmte so die Morpheus-Nutzer ab, wie KaZaA es (weniger erfolgreich, aber nach und nach) heute mit den Nutzern von KaZaA Lite versucht.
+Das aber, meinen Experten bei der MIPI, setze ein gehöriges Maß Kontrolle über das Netzwerk voraus.
+Wenn den Fahndern dieser Nachweis gelingt, brechen für KaZaA harte Zeiten an.
+Bereits am Montag dementierte KaZaA, dass es über die Börse laufende Daten kontrollieren oder gar zensieren könne.
+Genau das aber wird die Industrie von der Börse verlangen.
+Das aber, sagen Sharman und KaZaA, sei Unsinn: Dass Altnet den eigenen Datenbestand sichern und kontrollieren könne, heiße nicht, dass man das auf alle Dateien bei KaZaA ausdehnen könne.
+KaZaA: Eingenapstert?
+Jetzt wartet die P2P-Szene auf den Dienstag morgen, denn da soll bereits Klage erhoben werden.
+Deren Chancen und Reichweite wird von den Befunden der Razzien der letzten Woche abhängen.
+Schon signalisierte die MIPI scheinbar großzügig, dass sie die Klage sofort fallen lassen würde, wenn KaZaA sich auf den Vertrieb von DRM-geschützten Altnet-Dateien beschränke.
+Das aber käme einer Schließung von KaZaA gleich: Erstens gibt es nur wenige legale Altnet-Dateien, zweitens sind die kein Grund, bei KaZaA zu bleiben.
+Als Alternativen blieben den P2P-Nutzern dann im Fall der Fälle die zahlreichen entstehenden kommerziellen Börsen - oder die KaZaA-Konkurrenten Shareaza, eDonkey, BitTorrent und Co. Die wachsen seit Monaten in dem Maß, in dem KaZaA schrumpft und mehr.
+Und wieder einmal könnte sich die P2P-Geschichte wiederholen.

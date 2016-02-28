@@ -1,0 +1,29 @@
+Nach dem Blackout im letzten Monat begann in den USA eine fieberhafte Suche nach möglichen Fehlerquellen.
+Fündig wurde man im Rechnerverbund: Vor den veralteten Kontrollsystemen warnen Experten schon seit Jahren.
+Vor den neuen auch.
+Die alten analogen Anlagen sollen nun schnellstmöglich gegen digitale ausgetauscht werden.
+Was wie ein guter Plan klingt, könnte jedoch zu einem Schuss in den Ofen werden.
+Denn genau die nun geplanten Verbesserungen, warnen Experten, machten das Stromnetz anfällig für neue Gefahren: Computerviren und Hacker.
+Diese könnten Städte und ganze Staaten lahm legen.
+Forscher, die für die Regierungen der USA, Großbritanniens und Kanadas arbeiten, haben bereits Hintertüren in den digitalen Relays und Kontrollraumtechniken entdeckt, die die Stromversorgung mehr und mehr beherrschen.
+Mit einigen wenigen Befehlen könnten sie nach eigenen Angaben Computernetze lahm legen oder Einstellungen so verändern, dass es einem größeren Stromausfall kommen könnte.
+Sicherheitsexperten warnen spätestens seit 1998 vor Angriffen auf das Stromnetz, nachdem Hacker im Auftrag der US-Regierung gezeigt hatten, dass sie in die Kontrollsysteme der Stromnetze eindringen können.
+Laut Byres gibt es die damals entdeckten Lücken immer noch.
+Und mit dem großen Upgrade nach dem Stromausfall würden die Stromnetze noch anfälliger für Angriffe von Hackern oder Terroristen, heißt es.
+Computerviren sind ein weiteres Problem.
+Und der Energieversorger, von dem der Stromausfall ausgegangen sein könnte, FirstEnergy, erklärte, in den Ermittlungen werde nichts ausgeschlossen.
+In Telefonmitschnitten war die Rede von Computerproblemen, die die Beseitigung von Fehlern behindert haben sollen.
+Im Januar schon hatte der Slammer-Wurm Überwachungscomputer im abgeschalteten Atomkraftwerk Davis-Besse von FirstEnergy lahm gelegt.
+Auch andere Kraftwerksbetreiber sollen betroffen gewesen sein, zu Schäden kam es damals aber nicht.
+In der Vergangenheit schützte die veraltete analoge Technik die Stromnetze vor den Anfälligkeiten des Computerzeitalters.
+Aber jetzt können die Schalter und die Software der Überwachungsgeräte auch aus der Ferne auf den neuesten Stand gebracht oder gewartet werden.
+Das aber setzt eine Verbindung zu einem Computernetz voraus; wenn dieses an das Internet angeschlossen ist, wächst die Verwundbarkeit.
+Byres fand bei Tests heraus, das ein einziges falsches Datenpaket ein bestimmtes Teil des Kontrollsystems zum Absturz bringen konnte, das in vielen Verteilerstellen verwendet wird.
+Andere Experten stellten sogar fest, wie sich über die Manipulation von Einstellungen Transformatoren zerstören lassen.
+Im Ernstfall wären umfangreiche Reparaturen fällig, die die Folgen eines Stromausfalls verlängern würden.
+Gary Seifert vom Energieministeriums klagt, einige der High-Tech-Relays könnten über eine Telefonleitung programmiert werden.
+Dazu sei nur ein achtstelliges Passwort notwendig.
+Und herauszufinden, welche Relays über Telefonmodems ansprechbar seien, sei auch nicht so schwer.
+Seifert forderte die Hersteller deshalb auf, die Geräte besser abzusichern.
+Einen völligen Schutz vor Hackern werde es wohl nicht geben.
+Aber man könne ihnen das Leben so schwer wie möglich machen.

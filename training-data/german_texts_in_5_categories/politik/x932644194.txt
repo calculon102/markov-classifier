@@ -1,0 +1,23 @@
+Weil mit Computern und Druckern urheberrechtlich geschützte Werke kopiert werden, wollen die Verwertungsgesellschaften bei jedem verkauften Gerät einen Teil des Verkaufspreises einnehmen.
+Die Hersteller sehen das nicht ein und rufen jetzt die Europäische Kommission zur Hilfe.
+Sollen die Hersteller an die Verwertungsgesellschaten zahlen oder nicht?
+Die Auseinandersetzung über eine Kopierabgabe auf Computer und Drucker geht in eine neue Runde.
+Nachdem sich die Produzenten der Geräte und die Verwertungsgesellschaften, die die Rechte von Künstlern und Autoren vertreten, auf keine gemeinsame Linie einigen konnten, soll nun die Europäische Kommission ein Machtwort sprechen.
+Der Branchenverband Bitkom, der nach eigenen Angaben rund 1300 IT-Unternehmen vertritt, hat in Brüssel eine entsprechende Beschwerde wegen Verstoß gegen das EU-Kartellrecht eingelegt.
+Indem sie willkürlich Abgaben in unverhältnismäßiger Höhe festsetzten, nutzten die Verwertungsgesellschaften (VG) ihre Monopolstellung aus.
+Denn nach dem Urheberrecht ist das Kopieren geschützter Werke für private Zwecke zwar ohne Zustimmung des jeweiligen Schöpfers erlaubt.
+Als Ausgleich müssen die Verbraucher beim Kauf von Geräten, die zum Kopieren bestimmt sind, aber eine Abgabe an die Verwertungsgesellschaften entrichten - über den Verkaufspreis.
+Bei Scannern oder CD-Brennern zahlen die Hersteller auch ohne großen Widerstand.
+Ob auch Computer oder Drucker unter die Vorschrift fallen, ist indes umstritten.
+Mittlerweile führen VG Wort und Fujitsu Siemens vor dem Landgericht München einen Musterprozess: Ende offen.
+Nun geht es also in Brüssel weiter.
+Zudem würde die Abgabe nur in Deutschland erhoben, und auch da bei lediglich 88 Prozent aller verkauften Geräte.
+Um das abzuwenden, wollen die Hersteller Verbraucher und Urheber möglichst direkt zueinander bringen.
+So lassen sich mit dem DRM-System von Adobe elektronische Bücher, so genannte eBooks, detailliert schützen.
+Buchhändler können bestimmen, wie oft der Text gedruckt werden darf, sie können die Nutzungszeit festlegen und die Zahl der kopierbaren Absätze.
+Um sicherzustellen, dass auch nur der Käufer das eBook lesen kann, erhält er parallel zum Buchtext eine Steuerdatei.
+Die generiert aus seinen Festplattendaten einen Schlüssel, mit dessen Hilfe das eBook geöffnet werden kann.
+Wird es weitergegeben oder auf CD gebrannt, bleibt der Bildschirm weiß.
+In der Praxis ergeben sich allerdings ganz andere Probleme: Auf dem langen Weg vom Autor über den Verlag und die Händler hin zum Verbraucher werden die vielfältigen Urheberrechte mitunter etwas lax gehandhabt, vermutet Guggemos.
+Nicht zuletzt deshalb wollen die Verwertungsgesellschaften beides: Pauschalabgaben und individuelle Rechte.
+Zudem könnten - selbst mit DRM - einzelne Bilder, das frei empfangbare digitale Fernsehen und die ganzen bereits bestehenden Internet-Texte gar nicht gegen Kopieren geschützt werden.

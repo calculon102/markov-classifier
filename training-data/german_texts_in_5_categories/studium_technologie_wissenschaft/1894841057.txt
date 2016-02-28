@@ -1,0 +1,22 @@
+Was Sun Microsystems am Dienstag auf einer Konferenz in San Jose vorstellen will, könnte den Halbleiter-Markt völlig revolutionieren, das Konkurrenz-Umfeld aufreißen.
+Ein neuer Sun-Chip verspricht, PC-Technologie um den Faktor 100 zu beschleunigen.
+Chip, das hieß lange Zeit vor allem Intel und AMD.
+Zwar tummeln sich im Markt noch zahlreiche andere Unternehmen mit teils spezialisierten Produkten, doch die Öffentlichkeit sah in den letzten Jahren auf die zwei PC-Chip-Riesen - und vergaß andere Größen.
+Sun Microsystems ist so eine, wenn das von Scott McNealy geführte Unternehmen auch in den letzten Jahren ein wenig ins Hintertreffen zu geraten schien.
+Auf dem Servermarkt ist Sun nach wie vor eine große Nummer, doch das reicht heute nicht mehr, um ein großes Unternehmen dauerhaft im IT-Markt zu etablieren.
+Der sowohl Hard- als auch Software produzierende Konzern konkurriert mit allen, die Rang und Namen haben: Von Cisco und IBM bis Microsoft - und auf dem alten Stammmarkt der Server nun zusätzlich auch noch mit dem Linuxlager.
+Was nun aus den Sun-Laboratorien kommt, könnte dazu werden.
+Mit der neuen Erfindung sollen Daten in einem Computer rund 60 bis hundert Mal schneller als heute üblich gesendet werden können, berichtet die renommierte amerikanische Zeitung.
+Die Wissenschaftler des kalifornischen Server-Herstellers haben dafür die einzelnen Chips nicht über Kupferverbindungen vernetzt, sondern in direkten Kontakt zu ihren Nachbarn gesetzt.
+Die Erfindung will Sun auf einer Halbleiter-Konferenz in San Jose am Dienstag vorstellen.
+Der neue Sun-Chip soll dagegen wenige Mikrometer dünne Sender haben, die für die direkte Übermittlung von Daten deutlich weniger Strom benötigen sollen als die bisher üblichen Halbleiter.
+Sun-Chef Scott McNealy: Schickt sich Sun an, das Konkurrenzfeld im Chipmarkt aufzubrechen?
+Der Rest ist noch Zukunftsmusik, aber eine mit erheblich größerem Potenzial als konventionelle Halbleitertechnik.
+Die neue Technologie, glaubt man bei Sun, hätte das Potenzial, die Datenübertragung zwischen Computer-Chips rund 100 Mal schneller zu machen als heute möglich.
+Bis dahin wird es aber wohl noch dauern, denn noch ist die Technologie nicht marktreif.
+Dafür ist die weitere Forschung schon einmal finanziert: So schoss die Pentagon-Forschungsförderung DARPA 49,7 Millionen Dollar zu.
+Das US-Verteidigungsministerium sieht in der Sun-Erfindung ein viel versprechendes Modell für den Bau neuer Supercomputer.
+Sun hatte den Forschungsetat im Sommer gegen starke Konkurrenz und zur Überraschung von Branchenbeobachtern gewonnen.
+Die IT-Branche hofft derweil darauf, das Ende ihrer seit drei Jahren andauernden Durststrecke zu erreichen.
+Für die nächsten zwei Jahre erwartet der Halbleitermarkt satte Umsatzsteigerungen von elf und 18 Prozent. 2003 sollen mit Chips weltweit 156 Milliarden US-Dollar umgesetzt werden.
+In den letzten Wochen mehrten sich die Anzeichen dafür, dass auch die Halbleiterpreise wieder ansteigen werden.

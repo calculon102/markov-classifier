@@ -1,0 +1,30 @@
+Nachrichten-Junkies, die sich gern auch zwischendurch auf den neuesten Stand bringen, bietet das Web mit RSS-Diensten ein echtes Bonbon: Sie sammeln Schlagzeilen und Kerninfos und lenken Interessierte hin zum entsprechenden Bericht.
+Trotz aller Multimedia-Angebote mit interaktiven Spielen und Kinofilmen zum Herunterladen, das Internet ist nach wie vor in erster Linie ein Informationsund Kommunikationsmedium.
+In Umfragen stehen Nachrichtenangebote regelmäßig weit oben auf der Skala der Beliebtheit.
+Das Netz bietet in diesem Bereich unschätzbare Vorteile: Gute Angebote sind sogar schneller als das Radio und Hintergrundinformationen gleichzeitig nur einen Klick entfernt.
+Mit seinen Lieblingssites kann sich jeder Nutzer individuell und gezielt informieren.
+Allerdings gibt es einen weitaus effizienteren Weg zu den Nachrichten aus dem Netz, als regelmäßig Websites abzusurfen.
+Viele Websitebetreiberneben Nachrichtenangeboten auch Weblog-Autoren - liefern neben der üblichen Browser-Version ihren Dienst auch in einem speziellen XML-Format an.
+Bei XML handelt es sich um eine Auszeichnungssprache ähnlich wie HTML.
+Während Webbrowser dazu da sind, Webseiten (meistens im HTML-Format) anzuzeigen, gibt es auch Programme, die XML-Dateien interpretieren und ähnlich wie E-Mails in einem Mail-Programm geordnet anzeigen können.
+Die Nachrichtenangebote bedienen sich des XML-Standards RSS.
+Die Abkürzung steht für Rich Site Summary.
+Während Websites neben Texten meist auch Bilder, Grafiken sowie eine Navigation und manchmal auch Animationen enthalten, sind RSS-Dateien auf den Inhalt reduziert und können daher von anderen Programmen verarbeitet und individuell dargestellt werden.
+Am gebräuchlichsten sind so genannte RSS-Reader.
+Diese Programme sehen selbständig auf den gewünschten Websites nach Neuigkeiten und laden diese in Form von Überschriften - zum Teil ergänzt durch kurze Teasertexte - herunter.
+Interessiert sich der Nutzer für eine Meldung im Detail, kann er sich diese mit einem Doppelklick auf die Überschrift im Volltext auf den Bildschirm holen.
+Erst in diesem Moment wird die entsprechende Website geladen.
+Ein sehr einfacher, jedoch zugleich funktionaler RSS-Reader ist das Programm Feedreader (www.feedreader.com).
+Die Software steht unter der General Public License (GPL) der Free Software Foundation, darf somit kostenlos eingesetzt und weitergegeben sowie - entsprechende Programmierkenntnisse vorausgesetzt - verändert werden.
+Die Oberfläche erinnert an gängige E-Mail-Programme wie Outlook oder den Messenger von Netscape.
+Links im Programmfenster befindet sich ein Menü, in das abonnierte Nachrichtendienste eingebunden werden.
+Rechts daneben zeigt das Programm die Nachrichtenüberschriften und in einem Fenster darunter die Teaser sowie bei Bedarf die Volltexte an.
+Als Alternative bietet sich zum Beispiel auch der RssReader (www.rssreader.com) mit einem ähnlichen Funktionsumfang an.
+Etwas schwieriger als die Installation und Einrichtung der Software ist es, die gewünschten Informationen zu finden.
+Doch die gilt es erst einmal zu finden.
+Schneller ist man gerade am Anfang mit Hilfe spezieller Verzeichnisse für RSS-Nachrichtendienste, zum Beispiel www.rss-verzeichnis.de.
+Das Abonnieren eines Nachrichtenangebots ist anschließend sehr einfach.
+Anschließend sucht sich das Programm die gewünschten Informationen automatisch und zeigt Überschriften und Teaser an.
+In vom Nutzer definierten Abständen sucht die Software von nun an nach neuen Nachrichten.
+P.S. in eigener Sache: Natürlich bietet auch SPIEGEL ONLINE einen top-aktuellen RSS-Newsfeed an.
+Mehr dazu auf unserer Übersicht über Nachrichten-Zusatzservices bei SPIEGEL ONLINE.

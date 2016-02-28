@@ -1,0 +1,27 @@
+Die Web-Ökonomie begünstigt Monopole.
+Immer ist es eine große Marke, die ein Marktsegment dominiert: Google bei der Suche, eBay bei Auktionen, Amazon beim Verkauf.
+Unter den P2P-Börsen heißt der Star KaZaA - auch wenn mittlerweile mehr User auf gehackte Versionen als auf das Original-Programm zugreifen.
+In den USA steht die Musiktauschbörse KaZaA gerade vor Gericht, im Web ist das Urteil längst gefallen: Keine P2P-Börse ist derzeit erfolgreicher als das Flaggschiff des Fasttrack-Netzes.
+Das klingt so, als sei KaZaA ein Gewinner, unter dem Strich jedoch ist er das nicht.
+Wenn man einer aktuellen Umfrage der MP3-Newsseite Tonspion folgt, dann ist wahr, was Experten seit langem vermuten: Nur eine Minderheit der Nutzer des KaZaA-eigenen Fasttrack-Netzwerkes nutzen dafür auch originale KaZaA-Software.
+Denn auch dieses Urteil steht spätestens seit letztem Sommer fest: KaZaA beschnüffelt seine Nutzer, spioniert sie aus, nutzt ihre Rechner für irgendwelche schwer nachzuvollziehende Marketing-Zwecke.
+Sharman, das Unternehmen hinter KaZaA, bestreitet das auch gar nicht.
+Wie sonst, fragt Sharman offensiv, sollte eine Börse Geld machen, als durch die Vermarktung der durch das Filesharing zugänglichen Ressourcen?
+Dabei, versichert das Sharmann-Management, gehe natürlich absolut alles mit rechten Dingen zu.
+Rund 77 Prozent der von Tonspion befragten P2P-Nutzer greifen auf einen der beiden KaZaA-Clients zurück - doch rund 68 Prozent davon nutzen die gehackte Version.
+Wenn das auch international nur annähernd repräsentativ wäre, würde ein Stück klarer, wie groß das Problem KaZaA aus Sicht der Musikindustrie wirklich sein muss: Kein Mensch weiß wirklich, wie oft das Programm bisher verteilt worden ist.
+Bekannt ist, dass allein Download.com die Originalversion von KaZaA stolze 185 Millionen Mal ausgeliefert hat.
+Die Auslieferung von KaZaA Lite läuft über eine Reihe von Webseiten an exotischen oder juristisch schwer zu erreichenden Orten und über diverse Download-Dienste: Da zählt niemand nach.
+Realistisch dürfte eine Gesamtgröße des KaZaA-Pools im Bereich zwischen 240 und 300 Millionen Downloads weltweit sein.
+Für die Musikindustrie ergeben sich daraus eine ganze Menge Probleme.
+Der Prozess gegen KaZaA dürfte noch eine ganze Weile dauern, doch selbst für den Fall, dass er mit einer Verurteilung enden sollte, dürfte die Abschaltung des P2P-Beinahe-Monopolisten weit schwerer zu bewerkstelligen sein, als im Fall Napster.
+Das KaZaA zugrunde liegende Fasttrack-Netzwerk, beschwören die Sharman-Vertreter, sei völlig dezentral.
+Daran gibt es zwar seit dem Streit mit dem ehemaligen Kooperationspartner Morpheus begründete Zweifel, doch völlig auszuschließen ist nicht, dass KaZaA Lite auch ohne KaZaA überleben könnte.
+Das Muster ist mittlerweile bekannt.
+Die Favoriten sind bereits sichtbar: WinMX und eDonkey - die in der Beliebtheit schon jetzt auf KaZaA und KaZaA Lite folgen, wenn auch mit großem Abstand - entwicklen sich gerade von Insider- zu Publikumsdiensten.
+Deutlich macht das die Veränderung des eDonkey: Der gehörte wegen seiner Geschwindigkeit und Download-Stabilität seit langem zu den Favoriten vor allem der Film-Fans.
+Seit eDonkey einen Programmhybriden vertreibt, der mit dem Overnet auf eine andere Serverstruktur zurückgreift, ist der Esel auch für Normalsurfer nahezu nutzbar.
+Bisher musste man noch umständlich und händisch die Verbindung zu einem Server suchen, sich vorher aktualisierte Listen besorgen.
+Dank Overnet entfällt das: Nun läuft die Sache automatisch - und die Nutzerzahlen schießen nach oben.
+Noch ist an KaZaA kein Vorbeikommen, doch sobald der auf die Nase fällt, geben die anderen Gas.
+Gewinnen wird wieder nur einer - und fortan den Kopf hinhalten für die nächste Klage der Musikindustrie.

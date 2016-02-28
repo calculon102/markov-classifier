@@ -1,0 +1,20 @@
+Genetische Barcodes sollen Ordnung ins Gewirr der Tierarten bringen: Anhand einer kurzen Gensequenz lässt sich nahezu jede Spezies korrekt identifizieren, haben Forscher herausgefunden.
+Der Mensch ist auf der Erde einzigartig, aber nicht allein: Bis zu hundert Millionen Tierarten bewohnen Schätzungen zufolge den Planeten.
+Aus dieser Masse haben Biologen in den letzten 250 Jahren gerade einmal rund 1,2 Millionen Spezies identifiziert.
+Vor allem von kleineren Insekten, Würmern und Einzellern ist nur eine Minderheit bekannt.
+Schmetterlinge: Ordnung durch DNS-Barcodes?
+Die mühselige und zeitraubende Arbeit des Einordnens und Vergleichens will ein Team um Paul Hebert von der University of Guelph im kanadischen Ontario jetzt erleichtern.
+Die Forscher haben gezeigt, dass sich Tiere mit einem aus ihrem Erbmaterial generierten Barcode einfacher identifizieren und einer Art zurechnen lassen.
+Bislang werden Tiere von erfahrenen Biologen auf Grund ihrer Merkmale einer Spezies zugeordnet.
+Insbesondere kleine Spezies, die optisch schwer zu unterscheiden sind, könnte ein Laborroboter identifizieren - zur Not auch anhand einzelner, Jahrzehnte alter Körperteile.
+Dieses so genannte COI-Gen eignet sich besonders gut als Erkennungsmerkmal: Weil die Mitochondrien über eigene Genome verfügen, ist es gleich in mehreren identischen Kopien in der Zelle vorhanden.
+Zudem entwickelt sich die mitochondriale DNS relativ schnell weiter, so dass das COI-Gen Unterschiede zwischen Tierarten gut abbildet.
+Aus der Reihenfolge der Basen in dieser Gensequenz entwickelten Hebert und Kollegen einen Barcode von 640 Zeichen Länge.
+Bei einem Test konnten die Wissenschaftler anhand dieses genetischen Etiketts über 2000 verschiedene Arten mit 99,9999-prozentiger Genauigkeit auseinander halten.
+Einzig Quallen und Seeanemonen bereiteten Probleme, vermutlich weil sie sich zu langsam entwickeln, um deutliche DNS-Unterschiede zu zeigen.
+Die COI-Technik ist nicht neu und steht auf dem Wunschzettel vieler Biologen, wird aber bislang nicht einheitlich eingesetzt.
+In Datenbanken lagern weltweit bereits 12.000 COI-Sequenzen verschiedener Organismen.
+Immerhin machen sich nun Organisationen wie etwa das US-amerikanische National Museum of Natural History daran, ihre Sammlung mit Hilfe von DNS-Barcodes neu zu katalogisieren.
+Mit umfangreicheren Barcoding-Projekten rechnet Hebert jedoch erst innerhalb der nächsten fünf Jahre.
+Sämtliche Spezies in einer Datenbank zu erfassen, würde nach seiner Einschätzung 20 Jahre dauern und rund zwei Milliarden US-Dollar kosten.
+Die schnellere Identifikation von Krankheitsüberträgern wie zum Beispiel Moskitos könnte diese Investition jedoch bald wieder wettmachen.

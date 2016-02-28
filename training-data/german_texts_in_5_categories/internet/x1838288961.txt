@@ -1,0 +1,35 @@
+Mit einer revolutionären Benutzeroberfläche und sprechenden Cartoonfiguren wollte Bill Gates sein Betriebssystem Windows auch für technophobe PC-Novizen bedienbar machen.
+Wer sich über die Benutzerführung von Windows XP beschwert, hat nie mit Windows 3.1. gearbeitet.
+Zur Erinnerung: Das bis 1994 verkaufte Betriebssystem besaß keine Startleiste, in der man verfügbare Programme aufgelistet bekam.
+Und wenn Windows abrauchte - etwa alle 3.1 Stunden - wurde der Nutzer in jene schwarze Leere namens Dos geschleudert, aus der es kein Entrinnen gab.
+Auf die wachsende Verzweiflung vor allem unerfahrener Computernutzer reagierte Redmond mit dem Projekt Microsoft Bob.
+Das Resultat kam im März 1995 in die Läden und war ein Zusatzprogramm für Windows.
+Statt auf dem normalen Desktop bewegte sich der Bob-Nutzer in einem Wohnzimmer, inklusive Fauteuil, Kamin und Vorhängen.
+Per Klick auf Gegenstände im Raum öffnete man die Anwendungen: Der Wandkalender führte zum Terminplaner, das Rolodex auf dem Beistelltisch zu den Kontakten.
+Und die Lavalampe?
+Die stand einfach nur herum und verlinkte nirgendwohin.
+Dies ist ein dekoratives Objekt.
+Außer Verwirrung zu stiften.
+Auch ansonsten war die Software spitze darin, den PC-Nutzer zu derangieren und auszubremsen.
+Wer Bob startete, musste zunächst einem Cartoon-Retriever namens Rover Rede und Antwort stehen und hilflos zuschauen, wie dieser in aller Seelenruhe aus dem Bild schlich.
+AP Bill und Melinda Gates: Innovative Software?
+Das goldfarbene Hündchen, das Novizen nach Vorstellung der Entwickler mit Rat und Tat zur Seite stehen sollte, entpuppte sich zudem als nervtötende Labertasche.
+Zur Wahl standen unter anderem eine bierbäuchige, Gitarre spielende Ratte (Scuzz), ein psychedelisch dreinschauendes Glühwürmchen (Blythe), ein koffeinsüchtiger Dinosaurier (Java) und, besonders originell, ein namenloser Unsichtbarer.
+Wie all dies dem User helfen sollte, blieb Redmonds Geheimnis.
+Bob war denn auch einer der wohl größten Flops der Microsoft-Firmengeschichte.
+Neben dem krautigen Design schreckte viele Konsumenten wohl auch der Preis (etwa 100 Dollar) und die für damalige Zeit hohe Systemanforderung (486er Prozessor, 8 Megabyte Ram) ab.
+Zudem war das Timing hundsmiserabel: Kurze Zeit nach dem Bob-Launch erschien das zwar notorisch instabile, aber dafür halbwegs benutzerfreundliche Windows 95 - was viele davon abgehalten haben dürfte, sich ein Upgrade für Windows 3.1. zu kaufen.
+Bob-Überreste in der XP-Suchfunktion: Was sucht der Köter da?
+Spötter behaupten, Bob wäre seinerzeit in Redmonds Entwicklungsabteilung verendet, hätte für die Entwicklung nicht die im Laufe des Projektes von Konzerngründer Bill Gates geehelichte Melinda French Gates verantwortlich gezeichnet.
+Unsinn, sagen Microsoft-Apologeten, Bobs Wohnzimmer sei eine echte Innovation gewesen.
+Kein anderer Softwarehersteller habe je ähnliches entworfen.
+Das stimmt nicht ganz: Packard Bell lieferte einige Jahre zuvor seine PCs bereits mit einer ganz ähnlichen Oberfläche aus.
+Der Packard Bell Navigator soll dem Vernehmen nach allerdings noch mieser gewesen sein als Bob.
+Auch der animierte Mutantenzoo, den Microsoft bis heute seinem Office-Paket beifügt, ist möglicherweise keine originäre Gates-Idee.
+Im Jahre 1999 klagte die kleine schottische Softwarefirma Inner Workings (IW) gegen Microsoft.
+IW hatte sich einige Jahre zuvor eine Cartoonfigur namens Lemon Dog schützen lassen und war überrascht, als in Office 2000 ein ganz ähnlich aussehender gelber Hund auftauchte.
+Der Rechtsstreit endete mit einem Vergleich.
+Microsoft durfte seinen Hund behalten.
+Selbsttest: Welcher IT-Typ sind Sie?
+Offenbar hat irgendjemand in Redmond einen Retriever-Fimmel, denn bis heute geistert Rover durch Windows.
+Zuletzt wurde er in der Suchfunktion von XP gesichtet.

@@ -1,0 +1,46 @@
+Open-Air-Büro: Traumhafte Vorstellung - aber realistisch?
+Die Frage nach dem drahtlosen Internet-Zugang trifft beim Geschäftsführer des Café Central den falschen Nerv.
+Allzu häufig funktioniere der Zugang nicht, und dann beschwerten sich die Gäste bei ihm.
+Thomas hat sich durch seine Gäste von der Euphorie um Wireless LAN, kurz WLAN, anstecken lassen.
+Die Gelegenheit schien günstig, da Hamburg an seinem Image als Medienstandort poliert.
+Der öffentliche Zugang zum Internet per Funk gilt als Boomsegment im lahmenden Markt für Informationstechnik.
+Zum Ende des letzten Jahres habe es in Europa 1000 kommerziell betriebene Zugangspunkte gegeben, schätzen die Marktforscher von IDC.
+Für 2007 prognostizieren sie 32.500 Hotspots.
+Die Auguren von Forward Concepts jonglieren mit deutlich höheren Zahlen: Sie erwarten in vier Jahren gar 800.000 Zugangspunkte in Europa.
+Für die angesagte Technik fand die Hamburger Initiative interessierte Partner: Die Telekom sorgt für die notwendigen Anschlüsse, und Fujitsu Siemens stellt die Geräte.
+Anbieter eines Hotspots müssen nur die monatlichen Kosten von 50 Euro für den Telekomanschluss tragen.
+Idee und Konzept erweisen sich als überzeugend.
+Projektleiter Uwe-Jens Neumann berichtet stolz von gut 40 Hotspots, die bereits am Netz seien.
+Doch die Nutzer sind eine rare Spezies.
+Im Café Central lassen sich trotz Kaffeezeit nur wenige Gäste nieder.
+Auf der Langen Reihe bummeln die Passanten ohne Laptop an den Schaufenstern vorbei.
+Hier einen Hotspot auszumachen, fiele ihnen ohnehin schwer.
+Das Hinweiszeichen - zwei Halbkreise, die sich im Scheitelpunkt berühren - ist gut versteckt.
+Wer hier mit dem Rechner hereinkommt, muss sich vorab im Internet über eine der vielen Listen öffentlicher Zugangspunkte informiert haben.
+In der Liste von Hamburg Hotspot wird auch die Bar ohne Namen in der ehemaligen New Economy-Hochburg, dem Schanzenviertel, als Zugangspunkt ausgewiesen.
+Außen fehlt einmal mehr der Hinweis.
+Drinnen wartet eine Überraschung.
+Der Chef käme gleich, trösten sie, der wisse sicher mehr.
+Tatsächlich: Prinzipiell gebe es Internet-Zugang, erzählt er, aber leider sei die Antenne seit drei Wochen defekt.
+Und nein, vermisst werde der Service nicht.
+Vielleicht drei Leute hätten in dieser Zeit nachgefragt.
+Da die Liste noch weitere Funklöcher bereit hält, ruht die Hoffnung schließlich auf dem Renommierstück der Hamburger Initiative, dem Alsterpavillion.
+Das geräumige Lokal ist am sonnigen Spätnachmittag kaum besetzt - bei diesem Wetter bevorzugen die Gäste die Terrasse.
+Sie unterhalten sich, lesen Zeitung und entspannen die ermüdeten Beine.
+Aber wo sitzt jemand vor einem Laptop?
+Da! Auf dem Ecktisch liegt vor einem chinesischen Pärchen ein zusammengeklapptes Notebook.
+Mit dem Blick auf die Alster klappt auch der Selbstversuch.
+Zügig baut der Browser die Seiten auf, nur die Konzentration auf die Inhalte fällt bei Musikberieselung und Geschirrgeklapper schwer.
+Während der Kellner den Kaffee serviert, stellen sich Irritationen ein: Der Abruf von E-Mails funktioniert nicht, Dateien lassen sich nicht kopieren.
+Auf die Frage, ob sich die Investition von monatlich 50 Euro rentiert, zögert Erkan Dalgic, der stellvertretende Betriebsleiter des Alsterpavillions.
+Doch an der Umsetzung der Idee hapert es noch.
+Häufig genug verheddern sich die Anwender in den Anforderungen ihrer Rechner, beobachtet Dalgic.
+Wenn die Geräte streiken, kann das Personal selten mehr unternehmen als zu rätseln und die Achseln zu zucken.
+Die habe die Initiative unterschätzt.
+Neumann verspricht Abhilfe.
+Noch in diesem Jahr soll die wartungsarme Variante von Hamburg Hotspot kommen.
+Wenn es funktioniert, dürfte Thomas' Vorhaben, den Hotspot wieder abzubauen, bevor der Boom eingesetzt hat, ein Einzelfall bleiben.
+Doch die Zukunft öffentlicher Hotspots bleibt ungewiss.
+Armin Medosch, Journalist in London, sieht für die jungen Projekte vorerst kein Ende bei der Suche nach einem tragfähigen Geschäftsmodell.
+Er befasst sich daher mit privat organisierten Hotspots, die, soweit die Antenne reicht, zur Vernetzung der Nachbarschaft und für den gemeinsamen Internetzugang genutzt werden.
+Die charmante Idee schlägt, etwa beim Freifunk-Projekt, auch in Deutschland Wurzeln.

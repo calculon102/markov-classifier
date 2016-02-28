@@ -1,0 +1,24 @@
+Jeder Internetsurfer zieht eine verräterische Datenspur hinter sich her. Aus IP-Adressen und Cookies lassen sich umfangreiche Nutzerprofile erstellen.
+Wissenschaftler arbeiten an multiplen Identitäten für das Netz, die dafür sorgen sollen, dass Privates auch privat bleibt.
+Dabei ist Abhilfe eigentlich einfach möglich: anonymes Surfen.
+Technologien dafür werden seit einiger Zeit weltweit entwickelt und eingesetzt, unter anderem auch an der Technischen Universität Dresden.
+Doch am Massenmarkt Fuß gefasst haben die Dienste für die unerkannte Netz-Reise noch nicht.
+Wichtig sei es zunächst, die User überhaupt für das Problem zu sensibilisieren, meint TU-Mitarbeiterin Sandra Steinbrecher im Gespräch mit SPIEGEL ONLINE.
+Ihr Kollege Thomas Kriegelstein glaubt, dass die Kunden durch die steigende Zahl von DSL-Anschlüssen Interesse am Thema bekommen werden.
+Denn hier bekommt jeder Nutzer eine feste IP-Adresse, die später Aufschluss über sein Surfverhalten geben kann.
+Doch auch die vollständige Anonymität der Surfer ist nicht in jedem Fall das Allheilmittel - das haben die Dresdner bei ihrer Arbeit in den vergangenen Jahren festgestellt.
+Schließlich wollen etwa Betreiber eines Webshops durchaus wissen, wer ihnen da auf der anderen Seite der virtuellen Ladentheke gegenübersteht.
+Dafür haben die Dresdner zusammen mit dem Unabhängigen Landeszentrum für Datenschutz Schleswig-Holstein eine so genannte Identitäts-Management-Software entwickelt.
+Mit ihrer Hilfe können User genau festlegen, wer wie viele Daten von ihnen erhält.
+Gespeichert werden alle Informationen - im Gegensatz zu Microsofts Identifikationssystem Passport - zu Hause, auf dem lokalen Rechner des Benutzers.
+Und nur wenn der Ja sagt, gehen seine privaten Informationen auf die Reise ins Netz.
+Pseudonyme machen es möglich, je nach Wunsch unter verschiedenen Identitäten aufzutreten - wenn man so will eine Art von digitaler Persönlichkeitsspaltung.
+Beim Prototyp, den die Informatiker aus Dresden auf der Cebit vorstellten, kann der Nutzer zunächst zwischen drei verschiedenen Profilen wählen.
+Das Konzept soll in Zukunft noch ausgebaut werden.
+Später einmal sollen beglaubigte Zertifikate dafür sorgen, dass der Verkäufer auf bestimmte Eigenschaften seines Kunden - also etwa das Alter - vertrauen kann, ohne die Daten genau zu kennen.
+Entwickelt wurde das Konzept der anonymen Kommunikation bereits Anfang der achtziger Jahre vom US-Amerikaner David Chaum.
+Seiner Meinung nach ist anonymes Surfen auch mit großen Vorteilen für die Anbieter von Waren und Dienstleistungen im Web verbunden - weil sie so dem Kundenwunsch nach mehr Privatsphäre entsprechen können.
+Und auch Sicherheitserwägungen sind für Chaum kein Argument gegen anonymes Surfen - und das obwohl in den USA nach den Terroranschlägen vom 11. September 2001 mehrere solcher Serviceanbieter aufgaben oder zur Aufgabe gezwungen wurden.
+Anonymisierung ist so manchem Staatsschützer ein Dorn im Auge: Seit Jahren versuchen Innenpolitiker, Polizeibehörden und Geheimdienste einen immer besseren Zugang zu Online-Daten zu bekommen.
+Neugierde entwickeln aber auch Wirtschaftsunternehmen.
+Wie sollte man damit umgehen?

@@ -1,0 +1,34 @@
+AOL und Microsoft legen ihre Streitigkeiten bei, Millionen Dollar fließen, Verträge werden unterzeichnet.
+In trauter Harmonie schlagen die großen Zwei künftig auf die Konkurrenz ein - und Netscape verliert seine Existenzberechtigung.
+Microsoft-Chefentwickler Bill Gates: Sind Monokulturen Verbraucherfreundlich?
+Viel zu spät hatte Microsofts Bill Gates erkannt, dass dieses Internet vielleicht doch noch interessant werden könnte.
+Zeitweilig sah es so aus, als wolle die US-Justiz Microsoft in viele kleine Microsöftchen zerteilen, doch Bush sei Dank wurde da nichts draus.
+Bill Gates gelobte Läuterung und künftig ewig freundliches Wohlverhalten, kam mit einem Tadel davon und macht seitdem fröhlich weiter - im neuen, freundlicheren Stil, versteht sich.
+Denn - wo die Liebe nicht überall hinfällt - der Deal zwischen den zwei Branchenriesen hat so einige Haken und Ösen, die nach verbraucherfreundlichen Lösungen klingen, letztlich aber die Monokultur im Netz zementieren sollen.
+Da wäre zum Beispiel das AOL-Anhängsel Netscape.
+Das hatte sich der amerikanische Großprovider 1998 einverleibt, in einem spektakulären Aktientausch, der einem Wert von sagenhaften 8,98 Milliarden Dollar entsprach.
+Bis zu diesem Tag hatte AOL seine User per Internet Explorer ins Web gehoben und damit viel für Microsofts wachsende Monopolstellung getan.
+Jetzt, jubilierten kurz die Optimisten, könne sich das Blatt vielleicht doch noch einmal wenden.
+Tat es aber nicht, denn AOL-User surften weiter mit Microsoft.
+Dem Netscape-Mutterunternehmen reichte es augenscheinlich, in Verhandlungen mit dem Software-Riesen aus Redmond ab und zu mit der bloßen Existenz des Konkurrenz-Browsers zu drohen.
+Netscape, einst innovativ und technische Trends setzend, wurde zur überwiegend theoretischen Verhandlungsmasse.
+Tatsächlich entwickelte AOL den Browser über zwei Jahre nicht fort.
+Die weitgehende Unterbrechung der Entwicklungsarbeit führte das mittlerweile arg geschrumpfte Unternehmen in die Paralyse.
+Vier viel zu lange Jahre - Nomen est omen- stagnierte Netscape am Ende in seiner Vierer-Version.
+Fortschritt erzielte Netscape letztlich nur noch durch das Mozilla-Projekt: Die Sourcecodes des Netscape-Browsers wurden zur freien Weiterentwicklung an die Open-Source-Gemeinde gegeben, die daraus den Mozilla-Browser entwickelte.
+Netscape schöpfte den weiterentwickelten Code im Jahr 2001 ab, bevor die Mozilla-Gemeinde das Projekt für veröffentlichungsreif erklärte, modifizierte ihn und veröffentlichte endlich eine neue Version.
+Die allerdings hieß 6.0 (die 5 war irgendwie abhanden gekommen), sah schick aus und konnte so gut wie nichts.
+Das Mozilla-Projekt nahm sich weit mehr Zeit und veröffentlichte erst im letzten Jahr eine erste Vollversion, die heute als Version 1.3 als einer der besten Browser am Markt gilt.
+Netscape 7, der erste nennenswerte Netscape-Browser seit 1998, kann seit dem Sommer 2002 gut mithalten und wieder Punkte machen.
+Allerdings wohl nicht mehr lang.
+Denn das Mutterunternehmen AOL hat soeben einen Vertrag unterschrieben, der den Internet Explorer für sieben Jahre zum Browser der Wahl erklärt: Für was Netscape dann noch gut sein soll, kann derzeit niemand mehr erklären.
+Dafür gibt es klare Anzeichen.
+Die Nachfrage nach dem Stellenmarkt in der Tageszeitung dürfte im Pausenraum von Netscape ruckartig gestiegen sein.
+Mit einem Aus für Netscape wäre das Browser-Monopol zumindest in der Windows-Welt wohl endgültig zementiert.
+Der wackere Opera-Browser - in vielerlei Hinsicht die innovativste Software am Markt - müht sich seit Jahren mit gleich bleibend kleinen Erfolgen, obwohl er dem Internet Explorer fraglos überlegen ist.
+Und Mozilla?
+Obwohl ein freies Projekt im Geist der Open Source, lebte die Entwicklung des Mozilla-Browsers immer auch von den Inputs bezahlter Netscape-Programmierer.
+Mozilla, sagen Experten, habe für ein Open-Source-Projekt erstaunlich viele Nutzer und erstaunlich wenige freie Programmierer, die ihm zuarbeiteten.
+Dass eine Schließung von Netscape für Mozilla ohne negative Effekte bleibe, erwartet darum niemand - obwohl Mozilla als der bessere Netscape-Browser gilt.
+Im zweiten Teil: Für viele Microsoft-Konkurrenten im Web wird es ernst, denn es geht nicht mehr um irgendwelche Anteile an einem Markt, der keine Gewinne bringt.
+Sehr bald schon geht es um sehr viel Geld - und da hört der Spaß auf.

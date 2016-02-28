@@ -1,0 +1,24 @@
+Die Meldung lässt aufhorchen: Da gibt es angeblich einen anonymen Spender, der einen immerhin 200.000 Dollar schweren Computer-Wettbewerb der besonderen Art ins Leben gerufen hat.
+Sieger dieses Wettbewerbs soll derjenige werden, der es als Erster schafft, das freie Betriebssystem Linux auf Microsofts Spielkonsole Xbox laufen zu lassen.
+Bewältigt werden müsste das Ganze bis Jahresende - und zwar ohne dass an der verwendeten Xbox auch nur eine einzige Schraube gelockert wird.
+Prämien gibt es auch für Teillösungen.
+Linux-Enthusiasten um den 23-jährigen Münchner Studenten Michael Steil.
+Was steckt nun hinter diesem Wettstreit?
+Vielleicht nicht ganz, denn in der Xbox steckt im Prinzip ein vollwertiger PC mit einer acht Gigabyte großen Festplatte.
+Interessant ist, dass solch ein Rechner kleiner und vor allen deutlich günstiger wäre als normale PCs.
+Das liegt daran, dass Microsoft im Moment jede einzelne Xbox subventioniert und nur durch den Verkauf der Spiele Geld verdient.
+Diese Strategie könnte torpediert werden, so dass die Konsole mit einem vollwertigem Betriebssystem nicht mehr zum Spielen, sondern als äußerst kostengünstiger PC eingesetzt wird.
+Dann würden zwar möglicherweise die Verkaufszahlen in die Höhe gehen, die Verluste von Microsoft aber auch - und auch die Hersteller von Billig-PCs könnten in Preisnöte kommen.
+Der anonyme Spender vielleicht, der die Öffentlichkeit scheut.
+Jedenfalls liegt der Gedanke nahe, dass es sich bei ihm um jemanden handelt, der Microsoft eins auswischen will.
+Doch das Xbox-Linux-Project glaubt, durch entsprechende Gestaltung der Regeln solche Probleme ausschließen zu können.
+Diese Fehler gelte es zu finden und zu nutzen.
+Prinzipiell ist es bereits jetzt möglich, der Konsole fremde Software unterzujubeln.
+Die entsprechenden Sicherheitsschlüssel wurden in den vergangenen Wochen geknackt.
+Allerdings muss dazu ein so genannter Mod-Chip in die Xbox eingebaut werden.
+Derartige Aktivitäten sieht Microsoft mit dem Verweis auf Copyright-Gesetze höchst ungern.
+Genau genommen sei es sogar so, dass man Informationen, die nur Softwareräubern dienen könnten, von den Augen der Öffentlichkeit zurückhalten werde.
+Playstation bewiesen.
+Betriebssystem auch Hardwarebestandteile wie Festplatte, Maus und Tastatur enthält.
+Abhilfe soll deswegen eine Erweiterung schaffen.
+Presseberichten zufolge soll die neue Xbox zusätzlich mit einem digitalen Videorekorder aufwarten.

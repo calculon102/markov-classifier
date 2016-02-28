@@ -1,0 +1,23 @@
+Das reicht, um die E-Mail-Fächer weltweit zu überfluten.
+Gegen die Weiterverbreitung des Virus hilft nur eins: infizierte Rechner säubern und sichern.
+SPIEGEL ONLINE erklärt, wie das geht.
+Doch auch der beste Virenscanner versagt bei wirklich neuen Viren: Für einige wenige Stunden, bis die IT-Sicherheitsunternehmen ihre Software auf den neuesten Stand bringen, ist jeder Rechner verletzlich.
+Das bedeutet auch, dass man die Update-Funktionen seines Virenprogrammes unbedingt regelmäßig nutzen sollte.
+Bei der Kaufentscheidung für eine Virensoftware sollte man auch auf den Update-Rhythmus des Herstellers achten: Je häufiger dieser seine Software pflegt, desto besser.
+Diese verbreiten das Virus fleißig weiter, kopieren und verschicken das Virus mitunter etliche Hundert Mal. Das Resultat ist in E-Mail-Fächern rund um die Welt zu besichtigen: eine schier unerträgliche Flut von Virenmails, Warn- und Fehlermeldungen.
+Bis Dienstagmittag fingen die Virenscanner des SPIEGEL MyDoom rund 75.000 Mal ab.
+Die Mailflut wird anhalten, solange infizierte Rechner mit dem Internet verbunden sind.
+Ob ein Rechner infiziert ist oder nicht, ist für den einzelnen Nutzer dabei kaum zu spüren.
+Auch die zahlreichen Warnmeldungen, man habe ein Virus verschickt, sind da kein Hinweis: Auch die bekommt zurzeit fast jeder.
+Denn MyDoom verschickt sich unter falschen, gestohlenen Absenderadressen.
+Genau das funktioniert bei MyDoom ungewöhnlich gut: das Abgreifen von E-Mail-Adressen.
+Die Datei ist ein Indikator für einen Virenbefall, wer aber sicher gehen will, sollte seinen Rechner mit einer auf den neuesten Stand gebrachten Virensoftware scannen.
+Alle Hersteller von Virenschutz-Software bieten inzwischen entsprechende Updates an, die zur Zeit auch unerlässlich sind, um das System vor einem künftigen Befall zu schützen.
+Der geschieht in der Regel per E-Mail und bewusstes Anklicken des mitgelieferten Dateianhanges: Das nicht zu tun, ist der sicherste und einfachste Virenschutz.
+Wer noch nicht über eine Virenscan-Software verfügt, kann diese auch über die Webseiten der diversen Hersteller beziehen.
+Die deutsche Software AntiVir ist für Privatanwender kostenlos zu haben.
+Darüber hinaus bieten einige Entwickler auch Stand-Alone-Lösungen zur Entfernung von MyDoom an (siehe Linkverzeichnis).
+Wie die Entfernung des Virus im einzelnen geschieht, ist abhängig von der eingesetzten Software.
+Auch zu diesem Thema stellen die Virenschutz-Entwickler ausführliche Erklärungen bereit.
+Bei den Betriebssystemen Windows ME oder XP muss vor der Entfernung die Systemwiederherstellung deaktiviert werden.
+Starten Sie den Computer im danach abgesicherten Modus.

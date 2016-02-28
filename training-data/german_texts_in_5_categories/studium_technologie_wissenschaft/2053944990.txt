@@ -1,0 +1,34 @@
+Schon jetzt ist 13,8 Prozent des gesamten E-Mail-Aufkommens so genannter Spam, also E-Mail, die niemand bestellt hat und keiner lesen mag.
+Experten befürchten für Europa eine Verdoppelung des Spam-Volumens alle sechs Monate.
+Nun startet Europa seinen Kampf gegen die Flut unerwünschter E-Mails.
+Im Zweifelsfall reicht aber auch eine hohe Präsenz in den Suchmaschinen als Garant für einen gefluteten Posteingangsordner.
+Der normale Spam-Empfänger hat kaum noch Chancen, sich zu wehren.
+Die Antwortadressen sind entweder fingiert, oder es werden gleich E-Mail-Adressen großer, seriöser Firmen als Absender angegeben.
+Das Vorgehen zeigt deutlich, wie sicher sich die Spammer fühlen.
+Erst vor wenigen Tagen ist die so genannte In die Robinson-Liste kann jedermann, der keine Werbemails empfangen möchte, seine E-Mail eintragen.
+Marketingfirmen gleichen diese Liste mit ihren Versandverteilern ab und streichen die Robinson-Mitglieder.
+Das klingt zunächst gut, doch Diskussionen um die Crack-Sicherheit der Listen oder den Missbrauch der Angaben waren zu Recht nicht zu vermeiden.
+Tatsächlich ist der Erfolg der Robinson-Liste eher bescheiden: Gerade einmal 62.500 E-Mail-Nutzer haben sich dort eingetragen und werden von 214 Marketingfirmen berücksichtigt.
+Letzte Woche versuchte eine aus Frankreich abgesendete Spam-Mail, unter Bezugnahme auf die Robinson-Liste Ahnungslosen ein Dialerprogramm für Sexseiten unterzuschieben.
+Wer sich darauf einließ, bekommt die Quittung per Telefonrechnung: Spam ist nicht nur lästig, sondern verursacht echte wirtschaftliche Schäden.
+Die EU empfiehlt bislang nur eine so genannte Opt-out-Lösung als Mindeststandard.
+Das heißt, der Empfänger einer unerwünschten Werbemail muss die Möglichkeit haben, sich aus der Versandliste streichen zu lassen.
+Spam-Gegner befürchten allerdings, gerade diese Abmeldung könnte gewinnbringend als Aktualisierungsbestätigung für den Weiterverkauf der Adresse verwendet werden.
+In Brüssel und Strasbourg scheiterte dieser Ansatz zunächst im Juli und September letzten Jahres.
+Aufgeben wollen die Opt-in-Befürworter deshalb nicht.
+Auch der Deutsche Multimediaverband erklärte sich, nach anfänglichem Zögern, mit dieser Opt-in-Regelung ebenso einverstanden wie der Verband der deutschen Internetwirtschaft (ECO).
+An guten Absichten fehlt es also nicht, doch wird sich das Spam-Problem durch Selbstverpflichtungen oder nationale Gesetze in Wohlgefallen auflösen lassen?
+Rechtsanwalt Stephan Ackermann aus Rostock beschäftigt sich schon seit Jahren mit dem Spam als Rechtsproblem.
+Schon heute entscheiden deutsche Gerichte überwiegend zu Gunsten der Spam-Opfer in Form strafbewährter Unterlassungserklärungen.
+Dieser Tage tingelt die US-Firma Brightmail, US-Marktführer für Spamfilter-Software, mit ihrem Vizepräsidenten Francois Lavaste durch Europa.
+Dabei traf sich Lavaste auch mit EU-Kommissar Erkki Liikanen.
+Gewöhnliche Werbemails sind zum Beispiel in Großbritannien erlaubt, in Deutschland hingegen verboten.
+Brightmail setzt auf sein neues technisches Gegengift: Mit 100 Millionen Köderadressen liegt man in Foren und Chatrooms auf der Lauer und analysiert die Herkunft des eingehenden Spams.
+Mit diesen Adressen füttert man die Sperrdatenbank und schon werden all diese Absender am Mailserver abgewiesen.
+Erfolgsquote laut Brightmail: 94 Prozent.
+Das Interesse potenzieller deutscher Kunden an solchen Spam-Filtern ist, so resümiert Lavaste etwas irritiert, sehr gemischt und in der Tendenz eher abwartend.
+Doch geschehen muss etwas, denn der Scheitelpunkt der Spam-Flut ist noch längst nicht erreicht.
+Opt-out, Opt-in, Double-Opt-in, Strafen für Verursacher: Ein globales Problem kennt keine europäische Lösung.
+Während die Debatte leise köchelt, kocht der Müll im Postfach über.
+Unabhängig von den anstehenden Entscheidungen aus Brüssel und Berlin kann unser Posteingang auch morgen wieder so viele Wunderdiäten und barbusige Schönheiten offerieren, dass so manch wichtige E-Mail schlichtweg übersehen und gelöscht wird.
+Denn so viel ist sicher: Wenn nichts geschieht, liegt vor uns die Spam-Flut.

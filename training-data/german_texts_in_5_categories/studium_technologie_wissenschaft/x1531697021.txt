@@ -1,0 +1,23 @@
+Nun folgen erste Spezialkonfigurationen: Mit Idot vertreibt Lindows Multimedia-PCs, die glänzen wie polierte Äpfel.
+Suse und Co halten mit inneren Werten dagegen - mit zunehmendem Erfolg.
+Das Beste aller Welten soll die Software bieten und Windows-Nutzern eine ihnen vertraute Oberfläche, während tief im Rechner ein modifiziertes Pinguin-Programm werkelt.
+Das - Linux nämlich - steht nach wie vor im Ruf, in Sachen Installation und Handhabung vergleichsweise kompliziert zu sein.
+Viele Linux-Nutzer sind darum bis heute eingefleischte Techies, die nicht davor zurückschrecken, ihrem PC zwei Betriebssysteme zu gönnen: Linux für die Arbeit, Windows für Lara Croft und Co.
+Inzwischen hat er da kräftig abspecken müssen: Word, Excel und Co sollen zwar laufen, doch den Rest der Windows-Welt bedient auch Lindows nicht.
+Doch die Antwort ist einfach: Was Windows am Markt als Quasi-Monopol in Sachen Betriebssystem zementiert, ist die Abhängigkeit der User von den Standard-Büroanwendungen.
+Nicht nur Lindows setzt darum auf Cross-Plattform-Kompatibilität: Auch Linux-Distributoren wie SuSe und andere setzen auf immer Windows-ähnlichere Benutzerführung - und bekommen die Bedienung von Windows-Programmen teils besser auf die Reihe als Lindows.
+Das ist deutlich mehr, als unter dem mit viel Vorschusslorbeeren bedachten Lindows möglich ist - was Robertson nicht hindert, sein Programm als die bequeme Profi-Alternative zu den angeblichen Frickel-Programmen im Zeichen des Pinguins zu verkaufen.
+Zudem bietet er - zugegebenermaßen bequem - über seine Software-Abos Produkte an, die andere Linux-Distributoren umsonst ausliefern.
+Alles, was Lindows dafür zum Ausgleich bietet, ist Chic und Bequemlichkeit.
+Bekannten Erfolgsrezepten folgend setzt Robertson auf die Partnerschaft mit Hardware-Herstellern.
+Mit Idot bietet er nun speziell auf Multimedia-Anwendungen zugeschnittene Lindows-PCs an, bei denen Look and Feel kaufentscheidende Faktoren zu sein scheinen.
+Drin werkelt zu einem Kampfpreis ab 249 Dollar ein Via-Prozessor (933 MhZ), der Rest der Konfiguration ist ansehnlich, das Äußere sowieso.
+Ja, so könnte das gehen.
+Und das Rad haben Lindows und Idot letztlich nochmal neu erfunden: Selbst Kaufhausketten wie Wal-Mart bieten längst Linux-Konfigurationen zu echten Schnäppchenpreisen.
+Gerade in solchen Preiswert-Angeboten werden sich in den nächsten Monaten zunehmend Linux-Betriebssysteme finden: Das Jahr 2003 schickt sich an, zum Testballon für Normalkunden-reife Linux-Konfigurationen zu werden.
+Triebfeder hinter dieser kommenden Entwicklung ist nicht der Idealismus der Pinguin-Gemeinde, sondern die magere bis Existenz-bedrohende Erlössituation der Hardware-Hersteller.
+Die Gewinnmargen im PC-Geschäft tendieren gen Unmessbar, und so mancher alter Platzhirsch steht vor dem Platzen: Selbst optimistischste Prognosen der Marke Pfeifen im Wald sagen dem PC-Geschäft für 2003 kaum Erholung voraus.
+Da heißt es straffen, rationalisieren, effektivieren, Kosten senken.
+Linux liegt in Industrie-Interesse, weil es die Gewinnmargen hebt.
+Kaum ein Experte bezweifelt, dass 2003 die Stunde von Liux schlägt.
+Doch gilt das auch für den Heim-PC-Markt?

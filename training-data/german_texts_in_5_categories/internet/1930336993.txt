@@ -1,0 +1,40 @@
+Der neue Kopierschutz für Musik-CDs von Sunncomm ist mit dem Betriebssystem Windows zu umgehen.
+Dies ist sowohl nach dem US-Gesetz als auch dem deutschen Urheberrecht verboten.
+Hersteller Microsoft befindet sich in einer verzwickten Situation.
+Seit dem 12. September 2003 legt der Paragraf 95a des Urheberrechtsgesetzes fest, dass Software zur Umgehung oder dem Knacken von Kopierschutzmechanismen nicht mehr legal ist.
+Deshalb verlagerten etliche Firmen im Sommer ihre Aktivitäten in liberalere Länder oder stellten diesen Geschäftsbereich ganz ein.
+Ein weniger restriktives Gesetz mit einer verstärkten Förderung des Digital Rights Management wäre jedoch im Rahmen der EU-Richtlinie möglich.
+Waren bislang überwiegend deutsche Firmen wie Roxio, S.A.D., Ahead und Pinnacle betroffen, erwischt es jetzt auch Microsoft und deren Betriebssystem Windows.
+Seit September liefert die Bertelsmann-Tochter BMG CDs mit dem neuen Kopierschutzverfahren MediaMax CD-3 von Sunncomm aus.
+Dieses als besonders sicher beworbene Verfahren wurde von dem Studenten John A. Halderman von der Princeton University mit einfachsten Mitteln geknackt.
+Das Abschalten der Autorun-Funktion von Windows, die für das automatische Starten eingelegter Scheiben verantwortlich ist, reicht zur Deaktivierung der Schutzfunktion.
+Damit entspricht Windows der Definition eines illegalen Tools zur Umgehung des Kopierschutzes und müsste vom Markt genommen werden.
+Nicht minder brisant ist die Situation in den USA.
+Da mit jeder Windows-Version der Kopierschutz umgangen werden kann, dürfte das System in den USA nicht mehr hergestellt oder benutzt werden.
+Nach Meinung von Microsoft ist Windows in Deutschland jedoch legal, da das Programm nicht als Kopierschutz beworben wird und außerdem eine andere wirtschaftliche Bedeutung hat.
+Nach dieser Auffassung wäre jedes Programm legal, welches noch wesentlich mehr kann als die Umgehung eines Kopierschutzes.
+Es wird auch bezweifelt, dass ein Kopierschutz, der nur durch Drücken einer Taste umgangen werden kann, überhaupt ein Kopierschutz ist.
+Damit stellt sich die Frage, welche Form Daten haben müssen, damit darin ein Kopierschutz zu sehen ist.
+Das Bundesjustizministerium ist der Auffassung, dass die Frage nur durch ein Gericht zu klären sei.
+Nach Auffassung des Münchner Urheberrechtsexperten Martin Schippan verletzt ein Programm den Paragrafen 95a und den DMCA, falls Teile des Programms zur Umgehung des Kopierschutzes genutzt werden können.
+Dies wäre unzweifelhaft bei Windows zutreffend.
+Unerwartete Hilfe könnte Microsoft für den deutschen Rechtsraum bei der Firma S.A.D. finden, die ein Rechtsgutachten durch den Münsteraner Rechtsprofessor Bernd Holznagel erstellen ließ.
+Da Kopierprogramme einen nicht unerheblichen Anteil am Umsatz der Firma ausmachen, liegt S.A.D. viel an einer Klärung der Rechtssituation.
+Holznagel kommt zum Schluss, das neue Urheberrechtsgesetz sei in den für S.A.D. relevanten Teilen unwirksam.
+Es bestünde weiterhin ein uneingeschränktes Recht zur Privatkopie.
+Herstellung, Vertrieb und Nutzung der Werkzeuge könnten daher ebenfalls nicht verboten werden.
+Straftat oder nicht?
+Der Rechtsanwalt für Urheberrecht Tarek Abdallah geht in seinem Aufsatz sogar davon aus, dass die Versuche der Musikindustrie Privatkopien zu unterbinden eine strafbare Handlung ist.
+Der Kopierschutz auf einer Audio-CD verhindert die bestimmungsgemäße Nutzung der Musikstücke auf handelsüblichen Geräten.
+Dabei wird nicht zwischen der legalen und illegalen Nutzung unterschieden.
+Die Hersteller erreichen den Schutz durch eine Veränderung oder Unterdrückung der Daten.
+Eine weitere Straftat wird beim Kopierschutzverfahren von Sunncomm begangen.
+Ohne Zustimmung der Nutzer wird eine Software auf dem Rechner installiert, die das Kopieren verhindern soll.
+Dies kann mit zwei Jahren Gefängnis geahndet werden.
+Handelt es sich bei Windows also rechtlich um das Abwehren einer Straftat oder um das illegale Aushebeln eines Kopierschutzverfahrens?
+Auch diese Frage soll auf den heute beginnenden Münchener Medientagen diskutiert werden.
+Dabei zeigt sich immer mehr, was das eigentliche Ziel der Musikindustrie ist.
+In der nächsten Fassung des Urheberrechtsgesetzes sollen Privatkopien grundsätzlich verboten werden.
+Auch die Radiosender wird es dann hart treffen, da sie für jedes zu sendende Musikstück vorab eine Genehmigung einholen müssten und die Ausstrahlung individuell vergüten sollen.
+Das derzeitige Ergebnis ist eine effektive Preiserhöhung durch Einschränkung der Nutzbarkeit.
+Der Gesetzgeber kümmert sich zwar derzeit sehr um die Medienindustrie, vergisst dabei aber den Verbraucher.

@@ -1,0 +1,46 @@
+Bilder, Songs und Videos verlangen nach Speicherplatz für Digitalkameras, MP3- oder Videoplayer.
+Allerdings ist die Vielfalt der Speichermedien unübersichtlich: Es gibt nicht nur viele unterschiedliche Bauformen, sondern verschiedene Speichervarianten.
+Bleibt nur eine Frage zu klären: Was bietet was - und was hat Zukunft?
+Zum Speichern verwenden die Module in der Regel so genanntes Flash-RAM - das ist Speicher, der auch ohne eigene Stromversorgung seine Inhalte nicht vergisst.
+Ab einer bestimmten Kapazität (4 Gigabyte) kommen alternativ Mini-Festplatten zum Einsatz.
+Digitalkameras haben das Knipsverhalten revolutioniert.
+Inzwischen haben Anwender sich daran gewöhnt, nicht wie bei Analogkameras jedes Bild zu zählen.
+Die Folge: Es wird digital geknipst, bis der Aufnahmechip glüht.
+Geradezu exponentiell hat sich der Speicherbedarf digitaler Kamera vervielfacht.
+Wurden die Geräte früher noch mit 16- oder 32 Megabyte ausgestattet, benötigt der angehende Hobbyfotograf heutzutage mindestens 256 Megabyte.
+Noch einmal multiplizieren muss man diesen Bedarf, wenn es Songs oder gar bewegte Bilder sein sollen, die zum Beispiel in einem Abspielgerät erklingen.
+Damit der Anwender nicht für jede Jogging-Session zum PC rennen und seinen Player neu füttern muss, erfordern die Geräte schon mindestens 512 Megabyte bis zu 4 Gigabyte.
+Grundsätzlich gibt es sechs verschiedene Speichermodul-Formate, aber in jedem noch verschiedene Varianten.
+Allen Speichermedien ist gemein, dass man sie problemlos wechseln kann - und über ein passendes Lesegerät am PC andocken.
+Solche Lesegeräte verstehen meist mehrere Varianten und somit bis zu 16 aktuelle Speichermodularten.
+Etwa Vorsicht ist bei der Handhabung der Module angesagt, denn die Führung ist vor allem bei Billiglesern nicht immer präzise.
+CompactFlash-Medien sind neben SecureDisc (siehe unten) am häufigsten im Einsatz.
+Sie sind dicker, aber robust und vergleichsweise preiswert.
+Achten sollte man bei Digitalkameras auf die Zugriffsgeschwindigkeit.
+Die billigsten Module bieten nur mittlere Zugriffszeiten und können so bei vielen Fotos, die schnell hintereinander geschossen werden, zu unfreiwilligen Pausen führen.
+CompactFlash-Module können auch in einige PDAs eingeschoben werden, um die Bilder unterwegs auch auf einem größeren Bildschirm betrachten zu können.
+Im CompactFlash-Format werden auch Mini-Festplatten ab einer Größe von 1 Gigabyte angeboten.
+Sie dienen als Speichermedium für größere Bilddateien, wie sie zum Beispiel von Profi-Digitalkameras erzeugt werden.
+Diese verfügen über einen Modus, um die Bilder für eine spätere professionelle Bearbeitung unkomprimiert abzulegen - das braucht natürlich entsprechend Platz.
+Achtung: Festplatten verbrauchen mehr Strom als Flash-Module, zudem sind die Laufwerke dicker und passen nicht in jeden CompactFlash-Steckplatz.
+Die flachen SmartMedia-Module sterben schon wieder aus.
+Grund: Ohne eigenen Controller ist es zu sehr abhängig von der eingesetzten Kamera, der flache Aufbau begrenzt die mögliche Kapazität.
+Darum gibt es auch keine Module, die mehr als 128 Megabyte speichern.
+Wer z.B. eine ältere Olympus-Kamera besitzt, wird trotzdem nach Ersatz Ausschau halten, der bereits besonders preiswert angeboten wird.
+Nur daumengroß sind die Multimedia Cards (kurz MMC), die vor allem bei Digitalkameras und MP3-Playern verwendet werden.
+Sie sind praktisch und preiswert - wenn man auf die Sicherheitsfunktionen der SD-Card verzichten kann, zu der sie kompatibel sind.
+Im gleichen Format wie MMC und dazu elektrisch kompatibel sind SD-Cards, wie diese Module in Kurzform heißen.
+Sie sind das universelle Flash-Speichermedium der Zukunft und verfügen gegenüber MMC über zusätzliche Mechanismen zur sicheren Speicherung von Daten.
+In fast allen PDAs und vielen Digitalkameras werden die Speicher eingesetzt.
+Auch von SD-Cards gibt es eine Variante mit schnellere Zugriffszeit speziell für Digitalkameras, für die man 10-15 Euro mehr bezahlt.
+Wer eine Digitalkamera, ein Notebook oder anderes elektronisches Multimedia-fähige Gerät von Sony benutzt, der speichert Bilder und Audio-Dateien auf MemoryStick.
+Die Unterschiede zu Multimedia- und SD-Card sind nicht riesig, aber gemein: MemorySticks kosten sehr viel mehr und sind außer zu sich selbst und ihren vielen Varianten zu nichts kompatibel.
+Nur vereinzelt springen andere Hersteller auf und verwenden diesen Stick auch in ihren Geräten.
+Positiv: In jedem Kartenleser ist mindestens auch ein MemoryStick-Leseschacht enthalten.
+Wer also auf Sony-Kameras schwört und weniger häufig Module nachkauft, kommt gut mit MemoryStick zurecht.
+Wichtig: Achten Sie darauf, dass die MemoryStick-Variante (Normal oder Pro) in Ihrer Digitalkamera funktioniert.
+Für Anwender von Digitalkameras hat SanDisk eine Variante mit Speicher entwickelt, der über besonders schnelle Zugriffszeiten verfügt.
+Die kleine xD-Card ist die jüngste Variante und beerbte bei Olympus beispielsweise die SmartMedia-Karte (siehe oben).
+Auch diese Module kommen ohne eigenen Controller, sind aber dank grundsätzlich großer Kapazität etwas flexibler im Einsatz.
+Die Module passen prima in einen MMC- oder SD-Card-Adapter - der dann in ein normales Lesegerät gesteckt werden kann.
+Für Fotofreunde und PDA-Benutzer sind diese Winzlinge eher weniger interessant.

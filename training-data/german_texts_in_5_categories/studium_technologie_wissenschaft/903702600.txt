@@ -1,0 +1,20 @@
+Nein, etwas besonderes ist Klez eigentlich nicht, meint Patrick Heinen, Virenanalyst bei der deutschen Dependance von Symantec.
+Klez ist einfach ganz besonders effektiv.
+Denn im Gegensatz zu Sircam oder Code Red ist Klez eigentlich ein verhältnismäßig harmloser Geselle.
+Das Virus selbst zerstört gar nichts, vermehrt und verbreitet sich nur mit rasender Geschwindigkeit.
+Schäden entstehen nur, wenn jemand von einer H-Variante betroffen wird, die huckepack das so genannte Elkern-Virus transportiert.
+Dann kann es teuer werden: Elkern löscht Datenbestände.
+Da helfe folglich nur ein aktueller Virenschutz.
+Den bieten alle Anbieter seit Wochen: Eigentlich - sollte man meinen - sollte Klez längst in die virtuellen ewigen Jagdgründe eingegangen sein.
+Für Klez sind solcherart ungeschützte Rechner ein gefundenes Fressen.
+Das Virus aktiviert sich bei jedem Boot-Vorgang neu, versendet sich nicht nur an die E-Mail-Adressen, die es im Adressbuch findet, sondern auch an die Adressen, die es sich im Posteingang zusammensucht.
+Theoretisch wird ein befallener Rechner so zum Verteiler von Tausenden von Virenmails.
+Tückisch ist Klez auch, weil das Virus oft erfolgreich versucht, die Virenschutz-Software eines Rechners außer Gefecht zu setzen.
+Erst dann lässt sich die Virenschutz-Software reaktivieren.
+Alle Hersteller halten für ihre Kunden detaillierte Anleitungen bereit, wie dabei vorzugehen ist.
+Für Virenfachleute ist Klez nicht mehr als ein Vorbote der Dinge, die da noch kommen mögen: Polymorphe Viren, sagt Heinen, stellen die konkrete Gefahr der unmittelbaren Zukunft dar.
+Gut fürs Geschäft: Heinen ist sich sicher, das künftig nichts mehr ohne Virenfilter läuft.
+Die Hersteller solcher Filter werden immer schneller: Gab es vor wenigen Jahren noch monatliche Updates, so kommen diese heute gemeinhin im Wochentakt.
+Manche Hersteller bieten ihren Geschäftskunden nächtliche automatische Updates.
+Alle bieten in der Regel nur Stunden nach dem ersten Auftreten eines neuen Virus Online-Updates an: Die funktionieren - gebunden an die Lizenz der erworbenen Software - für eine bestimmte Zeit, ganz wie ein Abonnement.
+Nach Verstreichen dieser Frist ist in der Regel ein kostenpflichtiges Update fällig.

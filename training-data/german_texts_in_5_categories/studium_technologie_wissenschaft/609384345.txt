@@ -1,0 +1,53 @@
+Hamburg - Der Laptop ist zwar vergleichsweise schwer und unhandlich, bietet aber volle PC-Funktionalität.
+Nicht nur, dass sich Dateien mit der bekannten PC-Software bestens bearbeiten lassen, der Laptop hat natürlich alleine durch seine Bildschirmauflösung erhebliche Handlingvorteile bei der Informationsbeschaffung aus dem Internet.
+Viele jedenfalls wollen ihr Laptop nicht gegen einen PDA eintauschen.
+Wer sein Büro mobil machen will, der kann mit einer PCMCIA-Card in die drahtlose Datenvielfalt einsteigen.
+Aber welche Übertragungsstandards soll das neue Funkmodem eigentlich unterstützen?
+Reine GPRS-Karten setzen eine hohe Netzabdeckung voraus.
+Mit einer GSM-/GPRS-Kombikarte steht man aber in jedem Fall auf der sicheren Seite.
+Für alle, die noch keinen GPRS-Kartenvertrag für den mobilen Datenverkehr haben, bietet O2 die Merlin-Card G201 in Verbindung mit dem Data-Tarif für 269 Euro an.
+Es handelt sich ein Dualband-Modem für GSM und GPRS in Form einer PCMCIA-II-Karte.
+Die Karte unterstützt GPRS Class 10 mit Datenraten im Download von bis zu 53,6 kbps.
+Die Software ermöglicht eine Einrichtung der Verbindung über das Microsoft-DFÜ-Netzwerk unter Windows 98, 2000, ME, XP und Pocket-PC 2000 und eignet sich daher auch für Webpads oder PDAs unter Windows mit Typ-II-Card-Slot.
+Als Option wird eine GSM-Telefonerweiterung angeboten.
+Telefoniert wird dann über ein Headset.
+Nokia bietet mit seiner D-211-Karte einen echten Tausendsassa an.
+Die Slot-II-Karte nimmt eine SIM-Karte eines Mobilfunkanbieters auf und fungiert mit ihr im Bauch als GPRS- oder HSCSD-Sendeempfänger.
+Ohne SIM-Karte schaltet die Karte automatisch in den Wireless-LAN-Betrieb nach 802.11b-Standard um.
+Die Funktionsumschaltung kann auch manuell erfolgen.
+Zum Einrichten der Karte steht eine kleine Windows-Software (Win98 SE bis XP sowie CE 3.0 bis Handheld PC 2000) zur Verfügung.
+Soviel Vielseitigkeit hat natürlich einen Preis.
+Der liegt, ohne Mobilfunkvertrag, bei rund 400 Euro und das ist eine vergleichsweise günstige Offerte.
+Allerdings unterstützt die Nokia D-211 nicht mehr den herkömmlichen GSM-Standard.
+Wie schwer ein solcher Nachteil wiegt, muss sich Reinhard Heerberg alleine ausrechnen.
+Wer meist in Ballungsgebieten unterwegs ist, wird kaum Netzprobleme bekommen.
+Und überhaupt: Wer will schon mit 9,6 Kilobit Übertragungsrate im Web surfen oder größere Dateien übertragen?
+Der problemlose Wechsel in den W-LAN-Modus ist hingegen ein klarer Vorteil und bietet künftig, durch immer mehr öffentlich zugängliche Funkzonen, einen spürbaren Mehrwert.
+Mit GPRS ist auch eine ständige Bedarfsvernetzung von zwei Desktoprechnern in weit voneinander entfernten Büros denkbar.
+Dafür gibt es von SonyEricsson das Modem GM29 für die serielle RS-232-Schnittstelle.
+Das Gerät vereint Fax-, Voice- und Datenmodem und unterstützt den GSM- sowie GPRS-Standard.
+Die Lösung hat unzweifelhaft den Reiz, an jedem PC und jedem Laptop eingesetzt werden zu können.
+Wenn es um die Anbindung eines rein stationären Rechners geht, kommt die PC-Karte GC75 für den Festeinbau ins Computergehäuse in Betracht.
+Die GPRS-Modemkarten sollen im Verlauf des dritten Quartals 2002 in den Handel kommen, der Preis steht noch nicht fest.
+Nein, man muss seinen alten PDA nicht entsorgen, weil er nur umständlich über die Infrarotschnittstelle des Handys mit der Außenwelt in Kontakt treten kann.
+Nicht außer Acht lassen sollte man in diesem Zusammenhang, dass ein PDA durch solche Zusätze an Gewicht und Volumen zunimmt.
+Für einen PDA in der Damen-Handtasche ist das zu verschmerzen, bei den Herren sind Störungen der Bekleidungssymmetrie, durch links von der Schulter rutschende Sakkos nicht länger auszuschließen.
+Damit kann der IPAQ über Wireless-LAN, GPRS und GSM-Netze kommunizieren.
+Billig ist das allerdings nicht.
+Der Preis liegt bei 800 Euro.
+Aus Deutschland kommt die Rettung für alle Visor-PDAs von Handspring.
+Die Firma Egeo bietet mit Fusion G3 einen Aufsatz, der die Visor-Familie zum Smartphone macht.
+Dazu nutzt Egeo die GSM-Telefonie, stellt SMS-Funktionalität bereit und arbeitet im Datenbetrieb als GPRS-Modem.
+Das GPRS-Modem kann bei entsprechend guter Netzversorgung bis zu acht Zeitschlitze nutzen und dadurch die volle GPRS-Geschwindigkeit von 53,6 Kilobit/Sekunde erreichen.
+Ein weiteres Highlight ist der eingebaute 12-Kanal-GPS-Empfänger, der im Verbund mit der serienmäßigen Basis-Routenplanungssoftware als Navigationssystem fungiert.
+Der Visor-Aufsatz bietet zudem auch noch zwei Steckplätze für SD- und/oder MMC-Karten.
+Das eröffnet Möglichkeiten für zusätzliche Erweiterungen, wie Barcode-Scanner, Bluetooth-Modul, serielle beziehungsweise parallel Schnittstellen oder sorgt für mehr Speicherkapazität.
+Zum komfortablen Telefonieren wird ein Plantronics-Headset verwendet und auch das wird mitgeliefert.
+Der Preis liegt ebenfalls bei 800 Euro.
+Die Mobilfunkbetreiber tun gut daran, nicht gegen die Wireless-LAN-Technik zu feuern, sondern vielmehr mit ihr im harmonischen Duett aufzutreten.
+Wie das in der Praxis funktionieren soll, zeigte die kalifornische Firma Mobility Networks Solution dieser Tage im kanadischen Toronto.
+Dort hat man ein W-LAN-System erfolgreich in das GPRS-Netz von Roger AT&T integriert.
+Ein Roaming zwischen den Systemen also.
+Die Laptop-Nutzer können in den Hotspots die hohe Datentransferrate von einigen Megabit nutzen und authentifizieren sich über die Mobilfunk-Infrastruktur.
+Die Abrechnung erfolgt direkt über den Betreiber des GPRS-Netzes.
+Ob Laptop oder PDA, den Kombikarten für GPRS und W-LAN gehört die Zukunft.

@@ -1,0 +1,22 @@
+Sie verständigen sich drahtlos per Communicator - wie Picard, Data und Worf.
+Die Namenswahl der Konferenzzimmer ist kein Zufall.
+Kirk, Spock und Picard heißen die Räume, in denen sich Mitarbeiter der kalifornischen Firma Vocera treffen.
+Sie sehen ihre Arbeit ganz in der Tradition der Kultserie Star Trek.
+Nicht dass sie immer wieder zu neuen Missionen aufbrechen, um im Auftrag der Föderation das All zu befrieden.
+Vocera hat sich ganz den Communicators verschrieben, die Captain Picard und seine Kollegen an der Brust tragen und über die sie miteinander sprechen.
+Der Vocera-Communicator misst drei mal zehn Zentimeter und wird wie bei den Helden der Serie einfach an Hemd oder Bluse geklemmt.
+Ein Knopfdruck genügt, um die Hightech-Plakette zu starten.
+Brent Lang, Manager bei Vocera, berichtet, dass bereits 40 Hospitäler nach Star-Trek-Manier kommunizieren.
+Ein Jahr ist der Communicator mittlerweile auf dem Markt.
+Für Krankenhäuser komme die Technik wie gerufen, glaubt man zumindest bei Vocera.
+Die Kommunikation dort sei oft äußerst ineffizient.
+Schwestern und Ärzte würden häufig minutenlang einander hinterher telefonieren oder Texte in Pager eintippen.
+Das System ist äußerst leistungsfähig, denn es benutzt auch Spracherkennung.
+Nachdem ein Arzt den Namen einer Schwester in den Communicator gesprochen hat, analysiert der Server seine Worte, identifiziert die gewünschte Person, lokalisiert sie im Funknetzwerk des Krankenhauses und baut die Verbindung auf.
+Die Commmunicator arbeiten mit dem klassischen WLAN-Standard.
+Das Gespräch selbst wird nach dem Voice-over-IP-Protokoll abgewickelt, das auch bei der Internettelefonie zum Einsatz kommt.
+Auch herkömmliche Anrufe lassen sich an die Star-Trek-Communicators durchstellen, genauso gut können Schwestern und Ärzte Telefonapparate innerhalb des Krankenhauses anrufen.
+Dank Spracherkennung kann eine Schwester auch den am schnellsten greifbaren Spezialisten zu sich ordern.
+Die intelligenten Walkie-Talkies sollen an Krankenhäusern eine Menge Zeit und Geld sparen.
+Das 300-Betten-Hospital St. Agnes in Long Beach, Kalifornien, will 1100 Schwesternstunden innerhalb eines Jahres gewonnen haben, im gesamten Krankenhaus spricht man sogar von 3400 Stunden.
+Wenn das Captain Kirk wüsste.

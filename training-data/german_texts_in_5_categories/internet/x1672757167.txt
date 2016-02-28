@@ -1,0 +1,40 @@
+In der Profiklasse übertreffen sich die Hersteller gegenseitig mit technischen Neuerungen.
+Fujifilm präsentiert einen Sensor für mehr Kontrast, Konica Minolta hat seine erste digitale Spiegelreflexkamera mit Anti-Shake-System versehen und Nikon verbindet hohe Auflösung mit Geschwindigkeit.
+Konica Minolta Dynax 7D: Nun hat es also auch Konica Minolta endlich geschafft.
+Vorgestellt worden war ein Prototyp der Dynax 7D bereits auf der PMA Las Vegas im Februar.
+Auf der Photokina ist die erste digitale Spiegelreflexkamera aus dem Hause Konica Minolta jetzt das Prunkstück am Stand des Herstellers.
+Die Dynax 7D ist mit nahezu allen vorhandenen AF-Objektiven aus dem eigenen Haus beziehungsweise kompatiblen Objektiven von Drittanbietern kombinierbar.
+Zum geplanten Verkaufsstart Mitte November stellt Konica Minolta außerdem noch zwei weitere, eigens für die 6,1-Megapixel-Kamera entwickelte, Objektive mit Brennweiten von 17-35 mm respektive 28-75 mm vor.
+Wie viele andere Digitalkameras verfügt die Dynax 7D über ein System zur Bildstabilisation.
+Allerdings handelt es sich dabei nicht um ein optisches Verfahren innerhalb des Objektivs, wie es die meisten Hersteller anbieten.
+Vielmehr arbeitet das Anti-Shake-System (AS-System) von Konica Minolta mit einem beweglich aufgehängten CCD, der durch die eigene Bewegung das Zittern des Fotografen ausgleicht.
+Dieses AS-System ist bereits in der Dimage-Reihe zum Einsatz gekommen, stellte die Dynax-7D-Entwickler aber trotzdem vor eine Herausforderung, da der CCD in der Spiegelreflexkamera um einiges größer ist als etwa in der Dimage2.
+Ansonsten zeichnet sich die Dynax 7D unter anderem durch ihre robuste Bauweise, ein - dank Glasprisma - klares Sucherbild und einen hoch auflösenden 2,5-Zoll-LC-Farbbildschirm aus.
+Noch etwas exklusiver geht es bei der Fujifilm FinePix S3 Pro zu.
+Die Spiegelreflexkamera gehört mit ihren 12,3 Megapixeln zur absoluten Oberklasse.
+Das besondere an diesem Profigerät ist sein - speziell für dieses Modell konzipierter - Sensor Super CCD-SR II, Nachfolger des bereits in der F700 zum Einsatz gekommenen Super CCD-SR.
+Dieser Sensor teilt die Pixel in unterschiedlich lichtempfindliche S- und R-Pixel auf, wobei die großen S-Pixel für dunkle und die kleinen R-Pixel für helle Lichtbereiche zuständig sind.
+Beim Fotografieren werden dann mit Hilfe der beidem Pixelarten sozusagen zwei Bilder gemacht.
+Aus diesen rechnet die S3 Pro ein einzelnes Foto zusammen, das dank des erweiterten Dynamikbereichs einen besseren Kontrast hat.
+Neu am Super CCD-SR II ist, dass Profifotografen jetzt den Dynamikbereich selbst bestimmen können, indem sie das Verhältnis der S- und R-Pixel festlegen.
+Wie ihre Vorläufer S1 Pro und S2 Pro basiert auch dieses Modell auf einem Nikon-Gehäuse.
+Außerdem verträgt sich die S3 Pro mit Nikons D-TTL-Blitzsteuerung und ist damit mit allen Nikon-kompatiblen Speedlights kombinierbar.
+Ein zusätzlicher Hochformat-Auslöser sowie Firewire- und USB-2.0-Schnittstelle sind weitere Merkmale des nicht ganz billigen Modells.
+Auf Anfrage von SPIEGEL ONLINE gab ein Fujifilm-Sprecher einen groben Preisrahmen von 1000 bis 5000 Euro an.
+Eine echte Spitzenkamera ist auch die Nikon D2X.
+Das Nachfolgemodell der D1X verbindet das, was Profifotografen bei digitalen Spiegelreflexkameras bisher vergeblich gesucht haben: Hohe Auflösung und Geschwindigkeit.
+Bei 12,4 Megapixeln schafft die D2X fünf Bilder pro Sekunde.
+Fotografiert man im abgespeckten Modus mit 6,8 Megapixeln, sind es sogar acht Aufnahmen pro Sekunde.
+Möglich macht das unter anderem der CMOS-Sensor, der die Bilddaten über vier Hochgeschwindigkeitskanäle weitergibt.
+Durch diese Technik verspricht Nikon neben der höheren Geschwindigkeit auch eine präzisere Aufbereitung der Daten und eine naturgetreue Farbwiedergabe.
+Um die ursprüngliche Bildinformation möglichst zu erhalten, erfolgt zum Beispiel auch der Weißabgleich vor der Umwandlung vom analogen zum digitalen Signal.
+Die Einstellung des automatischen Weißabgleichs ergibt sich aus den Messdaten von drei Sensoren, so dass ein manueller Abgleich laut Nikon nur noch in Ausnahmefällen nötig sein soll.
+Was die Belichtungsqualität betrifft, hat Nikon die Technik der D2X-Vorläufer ebenfalls verbessert.
+Dafür sorgt die 3D-Color-Matrixmessung mittels 1005-Pixel-RGB-Sensor.
+Die bereits in der D2H verwendete iTTL-Blitzbelichtungsmessung und -steuerung ist zudem für die professionelle Qualität beim Fotografieren mit Blitz zuständig.
+Auch die übrigen Leistungsmerkmale der D2X genügen Profianforderungen.
+Dazu gehören unter anderem die geringe Auslöseverzögerung von 37 Millisekunden, der starke Akku (etwa 2000 Bilder pro Ladung) sowie der hoch auflösende 2,5-Zoll-LC-Farbbildschirm.
+Optional ist außerdem das GPS-Kabel MC-35 zu haben, so dass Angaben wie geografische Länge, Breite und Höhe mit Hilfe eines GPS-Geräts den Aufnahmedaten eines Fotos hinzugefügt werden können.
+So viel Hightech in einer Kamera kostet natürlich entsprechend.
+Als unverbindliche Preisempfehlung gibt Nikon stolze 4999 Euro an.
+Erhältlich soll die D2X dann ab Januar 2005 sein.

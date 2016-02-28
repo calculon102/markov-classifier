@@ -1,0 +1,32 @@
+Mit immer raffinierteren Methoden wollen Ingenieure Telefonen das Klingeln zu unpassenden Momenten abgewöhnen.
+Störsender gelten als vergleichsweise grobes Schwert.
+Mittlerweile erzeugen Geräte ein Kein-Netz-Signal oder schalten die Telefone automatisch auf Vibrationsalarm um.
+Die allerorten läutenden Hightech-Spielzeuge lassen sich kaum noch bändigen.
+In manchem Theater ertönt mittlerweile vor Beginn der Vorstellung sogar ein lauter Klingelton aus Lautsprechern, um die Besucher an ihre stets eingeschalteten Geräte zu erinnern.
+Doch der Appell an die Vernunft ist häufig vergeblich.
+Mancher Kino- oder Restaurantbesitzer in den USA greift deshalb zu einem Störsender, der die Verbindungen für alle Handys in einem gewissen Umkreis unterbricht.
+Die Maßnahme ist freilich rabiat, denn selbst in einem Notfall wären die Telefone unbenutzbar.
+In Deutschland kommen derartige Handyblocker ohnehin nicht in Frage, denn ihr Einsatz ist durch die Regulierungsbehörde für Telekommunikation verboten.
+Weil Störsender genau dieselben Frequenzen nutzten, sei ihr Einsatz nicht erlaubt.
+Nicht zuletzt deshalb tüfteln verschiedene Firmen an Alternativen zu den Störsendern, die mittlerweile sogar bei eBay für einige Tausend Euro gehandelt werden.
+Ein interessanter Ansatz stammt von der US-amerikanischen Firma Bluelinx.
+Firmenchef Jeff Griffin weiß aus eigener Erfahrung genau, wo das Problem liegt.
+Die Frau habe ihr Telefon nicht finden können, die Angelegenheit sei ihr hochpeinlich gewesen.
+Mithilfe von Bluetooth-Funk sollen Handys, die sich in einem bestimmten Bereich wie einer Kirche oder einem Theater befinden, in den lautlosen beziehungsweise Vibrationsmodus versetzt werden.
+Voraussetzung ist allerdings, dass Mobiltelefone die neue Technik unterstützen und die Benutzer Q-Zone aktiviert haben.
+Bluelinx-Chef Griffin hofft, dass Q-Zones in einigen Jahren verfügbar sein wird.
+An einer anderen Technik arbeitet die Firma Cell Block Technologies aus Virginia.
+Ihr Übertragungsgerät gaukelt den Mobiltelefonen vor, dass kein Netz verfügbar ist - Anrufer werden automatisch an die Mailbox weitergeleitet.
+Die rauchmeldergroße Box könnte etwa auch in Spielcasinos zum Einsatz kommen, um Betrügereien zu verhindern.
+Handys muss man nicht unbedingt mit raffinierter Technik inoperabel machen - mitunter reicht es auch nur mitzubekommen, falls jemand angerufen wird oder telefoniert.
+Speziell gegen Spionageaktivitäten richtet sich ein Detektor des israelischen Unternehmens Netline.
+Es registriert alle Telefone, die sich im Gesprächsmodus befinden.
+Die Möglichkeiten liegen auf der Hand: Ein in einem unbeobachteten Moment im Büro verstecktes Telefon kann ein bis zwei Wochen lang als Wanze dienen - bis der Akku leer ist.
+Wer will, kann ein Telefon auch ganz offen zum Abhören einsetzen - etwa bei Verhandlungen zwischen Geschäftspartnern.
+Unter dem Vorwand, kurz mal auf die Toilette zu müssen, verabschiedet sich eine Person aus der Runde, lässt aber ihr Handy auf dem Tisch liegen.
+Vom Nebenraum ruft sie dann mit einem Zweithandy ihr auf dem Tisch liegendes Telefon an, das den Anruf automatisch annimmt, und kann den Gesprächen ihrer Geschäftspartner lauschen, die sich unbeobachtet wähnen.
+Der Cellular Activity Analyzer soll derartiges verhindern.
+Das Handheld-Gerät signalisiert nicht nur sämtliche Anrufe - es dokumentiert auch alle Aktivitäten von Telefonen über eine gewisse Zeit.
+Den sichersten Schutz gegen Handygebimmel oder Abhörtelefone bilden allerdings dicke Wände.
+Zufällig gehört die Frederick P. Rose Hall im Lincoln Center in Manhatten zu einem solchen verbindungsfreien Gebäude.
+Es wird im Oktober eröffnet und besteht aus zwei Hüllen - eine um den Konzertsaal, eine zweite um die Lobby, um akustische Störungen zu vermeiden.

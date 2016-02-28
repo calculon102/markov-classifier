@@ -1,0 +1,32 @@
+Blogging verlängert die Tradition des Tagebuchschreibens ins Digitalzeitalter.
+Die Zahl solcher Webtagebücher steigt explosionsartig.
+Anfangs wurden Weblogs nur belächelt.
+Doch spätestens seit dem Golfkrieg müssen Medienmacher einräumen, dass Weblogs ein nicht zu unterschätzendes Potenzial zur Nachrichtenverbreitung und Meinungsbildung darstellen.
+Auf dem Höhepunkt der Irak-Krise wurden von Augenzeugen verfasste Blogs zu einer echten Konkurrenz der etablierten Medien.
+Die beschworene Chancengleichheit im Internet bleibt letztlich Illusion: Auch im Irak-Krieg waren die reichweitenstärksten Blogs diejenigen der Nachrichtenkorrespondenten an Ort und Stelle.
+Doch die Sehnsucht der Websurfer nach alternativen und unabhängigen Nachrichtenquellen ist Realität.
+In den USA vermeldet Blogger.com, eine Großcommunity, die gerade von Google aufgekauft wurde, immerhin 500.000 Benutzer.
+In Deutschland führen Kantel.de oder Bloghaus.de viele individuelle Blogs zueinander.
+Die Online-Ausgabe des Stern kultivierte mit shortnews.de die kurzen, auf andere Quellen verweisenden Blogs zur gewaltigen Presseschau.
+Den echten Bloggern ist das alles völlig egal.
+Sie sehen sich nicht als Medienrevolutionäre, und der Hype der Massen, ein Weblog führen zu wollen, um die Welt wissen zu lassen, dass man heute Abend seine Lieblingsbackofenpizza essen wird, ist ihnen ein wahrer Gräuel.
+Die Inflation auch banaler Blogs kann kaum verwundern.
+Softwareangebote wie Manila, Radio oder Sunlog realisieren das eigene Weblog im Handumdrehen, auch ohne HTML-Kenntnisse: Ein Offline-Editor, eine Internet-Einwahl und schon ist die Seite online.
+Bei Anruf: Blog!
+In den USA lernt die Bloggerszene inzwischen sprechen.
+Der entscheidende Impuls hin zum sprechenden Weblog kommt aus der W3C-Standardisierung von Voice-XML, vorangetrieben durch so große Namen wie AT&T, IBM, Lucent und Motorola.
+Die Technik sollte eigentlich dazu dienen, sprachgesteuerte Telefondienste zu verbessern.
+Die Tinte der W3C-Empfehlung ist noch nicht ganz trocken, da drängen schon schlüsselfertige Weblog-Lösungen von Bevoice, Tellme, Audblog oder Open-Source-Projekte wie Phoneblogger in den Markt.
+Mit solchen Lösungen kann man per Mobiltelefon sein Weblog live von der Cocktailparty aus updaten.
+Das ist schick - und hat das Potenzial, weit mehr zu werden als nur ein Gimmick.
+Dank P2P zum Radio-Star?
+Die Universität in Bremen ist auf einem Weg, der weit darüber hinaus geht, Audio-Botschaften auf eine Webseite zu werfen.
+Er unterstützt das spontane Erstellen multimedialer Berichte mit mobilen Endgeräten vor Ort und erlaubt das Publizieren aktueller Informationen über einen innovativen Verteilmechanismus, dem Matrix Public Net.
+Dieser Mechanismus erlaubt es, eine breite, nicht vorab definierte Menge von Empfängern zu erreichen.
+Jeder Empfänger könne die Verlässlichkeit der Quelle bewerten, bevor eine Meldung vom Rechner des Hörers aus wieder zur Verfügung gestellt wird.
+Die Client-Software erlaube zudem eine Filterung der Inhalte nach Sprache, Standort und Themenbereich, damit Sender und Empfänger passend zueinander finden können.
+Das Netz von Rechnern, die Audiologs beherbergen, ist dabei dezentral organisiert, so wie man es von Musiktauschbörsen her kennt.
+An die Mikrofone, fertig, online!
+Um allerdings die viel diskutierten Weblogs dauerhaft zu einem Baustein der Online-Informationskultur werden zu lassen, muss der Zugriff auf alternative Nachrichtenquellen einfacher werden.
+Die Idee aus Bremen ist hierzu ein wertvoller Beitrag.
+Mehr noch: Es gewährt jedem Sender mehr Chancengleichheit und schafft vielleicht etwas, wovon das WWW bislang immer nur geträumt hat.

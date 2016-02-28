@@ -1,0 +1,27 @@
+Was Forscher nur mit großen Aufwand hinbekommen, schaffte die Natur vor zwei Milliarden Jahren ganz allein: In Afrika arbeiteten natürliche Kernreaktoren über 150.000 Jahre lang ohne Zwischenfall.
+Jetzt haben Physiker ihr Geheimnis gelüftet.
+Die Kernspaltung ist eine typische Erfindung der Neuzeit. 1938 gelang sie den Physikern Otto Hahn und Fritz Straßmann am Berliner Kaiser-Wilhelm-Institut erstmals experimentell, wenige Jahre später produzierten die ersten Reaktoren Strom.
+Doch die Natur praktizierte diese Technik zur Energieerzeugung schon vor Milliarden Jahren, wie Wissenschaftler vor 30 Jahren im westafrikanischen Land Gabun herausfanden.
+Dort entdeckten sie in der Region Oklo eine Uranlagerstätte mit einem Naturreaktor, in dem eine nukleare Kettenreaktion eingesetzt hatte und über 150.000 Jahre in Gang geblieben war.
+Die Leistung des Naturmeilers lag bei 100 Kilowatt, konnte also kaum mit heutigen Megawatt-Reaktoren mithalten.
+So überraschend auch die Entdeckung der natürlichen Kernspaltung war, umso rätselhafter erschien Physikern der Mechanismus, mit dem der Naturreaktor arbeitete.
+Nur mit größtem Aufwand an Technik und Elektronik gelingt es in modernen Kraftwerken, die Kettenreaktion so zu steuern, dass sie einerseits in Gang bleibt und andererseits nicht Überhand nimmt wie in einer Atombombe.
+Ein Forscherteam von der Washington University in St. Louis konnte das Rätsel des Naturreaktors nun lösen.
+Bei der Spaltung von Uranatomen werden Neutronen freigesetzt.
+Diese können, falls sie auf benachbarte Urankerne treffen, deren Spaltung auslösen, so dass noch mehr Neutronen freigesetzt werden, die noch mehr Atome spalten.
+Uran-235 oder auch Plutonium werden in erster Linie durch sich langsam bewegende Neutronen gespalten.
+Bei der Spaltung dieser Kerne entstehen jedoch schnelle Neutronen, die nur selten benachbarte Uran- oder Plutoniumkerne spalten.
+Um überhaupt eine Kettenreaktion in Gang zu bringen, müssen die Neutronen abgebremst werden - mit so genannten Moderatoren wie Graphit oder auch Wasserstoff.
+Diese Technik aus modernen Reaktoren nutzte auch die Natur, um die Kernreaktion in Gang zu halten, berichten Meshik und seine Kollegen.
+Wasser, das in Spalten in dem Uranerz stand, bremste die Neutronen auf Spaltgeschwindigkeit ab.
+Die Kettenreaktion setzte ein, und es wurde immer wärmer im Gestein, bis schließlich das Wasser verdampfte.
+Als es verschwunden war, fehlte plötzlich der Neutronendämpfer, und die Kernreaktion schlief ein.
+Erst nachdem die Temperatur wieder gesunken war und Wasser nachfließen konnte, startete die Kettenreaktion erneut.
+Auf die Spur dieses erstaunlichen Mechanismus brachte die Forscher Xenon, das sie in erstaunlich großen Mengen in einem wenige Millimeter großen Steinbrocken fanden, der vor allem aus Lanthan, Cer, Strontium und Kalzium bestand.
+Xenon entsteht als Nebenprodukt bei der Kernspaltung und verflüchtigt sich bei hohen Temperaturen.
+Weil es aber in dem Stein zu finden war, folgerten die Wissenschaftler, dass die Temperatur in dem Gestein periodisch gesunken sein muss, damit das Gas in Mineralkörnern eingeschlossen werden konnte.
+Ganz nebenbei sorgte der Naturreaktor auch für eine bunte Sammlung radioaktiver Abfallprodukte.
+Das in Mineralien gebundene Xenon entsteht auch in modernen Atomreaktoren, entweicht dort aber in die Atmosphäre, weil es keine brauchbare Auffangtechnik gibt.
+Meshik zeigte sich begeistert von der erfindungsreichen Natur: Das System arbeite nicht nur stabil, sondern bewahre auch den Abfall sicher auf.
+Wir haben alle möglichen Probleme mit unseren hochmodernen Kraftwerken.
+Möglicherweise könne man sich die Technik abschauen, sagte Meshik, um radioaktive Gase in Reaktoren aufzufangen.

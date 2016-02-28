@@ -1,0 +1,22 @@
+Doch siehe, es zuckte noch.
+Seinen letzten Atemzug nutzte das Tierchen, seine Zähne in Microsofts Internet Explorer zu schlagen und ein klaffendes Sicherheitsloch zu hinterlassen.
+Gopher ist ein längst überholtes Protokoll aus der Zeit des explosiven Internet-Wachstums.
+Laut einer Das Resultat ist ein dickes Loch in der Deckung, meldete jüngst die finnische Computersicherheits-Firma Online Solutions.
+Mit Hilfe des Gopher-Protokolls, warnen die Finnen, könnte ein Hacker volle Kontrolle über fremde Computer erlangen: Dateien löschen, Passwörter ausspähen, Kontoauszüge einsehen - alles kein Problem, sofern diese Daten auf der Festplatte liegen.
+Das Heimtückische an dem fiesen Erdhörnchen ist, dass man sich laut Online Solutions gar nicht erst aktiv in einen Gopher-Server einloggen muss.
+Schon ein Code in einer Webseite oder eine E-Mail könne den Rechner des Explorer-Benutzers zu einem Gopher-Server umleiten, auf dem bösartige Codes lauern.
+Nach Angaben der finnischen Firma, die den Fehler im Internet Explorer 5.5 und 6 nachgewiesen haben will, brauche ein Hacker nicht einmal einen vollwertigen Gopher-Server zu betreiben, um das Sicherheitsloch auszunutzen.
+Microsoft reagierte zunächst verschnupft auf die Meldung.
+Unseriös sei das, eine Sicherheitslücke an die große Glocke zu hängen und Verwirrung zu stiften, anstatt zuerst mit dem Hersteller zu sprechen.
+Genau das aber habe man versucht, kontern die Finnen.
+Nur habe Microsoft die Warnung in den Wind geschlagen.
+Deshalb verrät die Firma auf ihrer Homepage auch gleich einen Trick, das Loch zu stopfen.
+Der herzhafte Biss des Nagers hat den Software-Riesen nun offenbar geweckt.
+Viele uralte Teile des Windows-Programmcodes, die sich aus den Anfangstagen des Betriebssystems in die neueren Versionen hinüber gerettet haben, sollen demnächst in der digitalen Mottenkiste landen.
+Wenn Microsoft vor der Wahl stehe, alte und möglicherweise unsichere Programmteile zu entfernen oder aber einer kleinen Minderheit von Kunden zu gefallen, werde man sich für die Sicherheit entscheiden.
+Was neben der Gopher-Unterstützung geopfert werden soll, wollte der Microsoft-Mann nicht verraten.
+Auch nicht, wie groß der Anteil an altem Code in Windows XP ist.
+Denn die alten Teile aus dem Betriebssystem herauszuoperieren, dürfte ein schwieriges Unterfangen werden.
+Windows XP etwa besteht aus rund 50 Millionen Programmzeilen - ein elektronisches Biotop, in dem alles von allem abhängt.
+Wenigstens wähnt man sich bei Microsoft auf dem richtigen Weg.
+Im kommenden Service Pack 1 für Windows XP sei die Abschaltung der Gopher-Unterstützung schon vorgesehen gewesen, ehe die Sicherheitslücke überhaupt bekannt geworden sei.

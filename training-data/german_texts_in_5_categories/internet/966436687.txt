@@ -1,0 +1,35 @@
+Die jüngste Diskussion um den Großen Lauschangriff hat daran erinnert: Der Staat kann die Bürger belauschen.
+Auch neue Kommunikationsmittel sind dem Zugriff ausgesetzt.
+Und gerade bei E-Mails greift der Staat besonders hemmungslos zu.
+Sich vertraulich miteinander austauschen zu können, ist ein Grundrecht: Artikel 10 Grundgesetz schützt das Fernmeldegeheimnis.
+Es ist damit - ebenso wie etwa Gleichheitsgebot oder Meinungsfreiheit - ein hohes Gut, aber andererseits auch nicht unantastbar: Besonders relevant ist das Recht der Strafverfolger, die Telekommunikation anzuzapfen.
+Wohl schon seit 1989, spätestens ausdrücklich jedoch seit 1996, sind von der Befugnis nicht nur Sprachtelefonie, sondern praktisch alle Formen der Kommunikation umfasst.
+Eben diese Befugnis entwickelt sich dabei schleichend aber beständig zum rechtsstaatlichen Problemfall.
+Die Befugnis zum staatlichen Mithören erblickte 1968 im Zuge der Notstandsgesetze nach großen Kontroversen das Licht der bundesrepublikanischen Rechtsstaatswelt.
+Gerade weil das Lauschen ein schwerwiegender Eingriff ist, ermöglicht Paragraph 100a der Strafprozessordnung nur in bestimmten Fällen eine Überwachung der Telekommunikation.
+Ein Deliktskatalog zählt Straftatbestände auf, deren Verdacht ein Lauschen zwecks Aufklärung erlaubt.
+Für immer mehr Verdachtsfälle wird eine Überwachung möglich.
+Doch nicht nur, dass der Deliktskatalog immer mehr Raum zur Überwachung gewährt: Gerichtliche Anordnungen genügen häufig den Standards nicht, wie die Autoren einer Studie der Uni Bielefeld herausfanden.
+Auch bei den Benachrichtigungspflichten hapert es.
+Rechtsstaatlichkeit bedeutet, sich gegen staatliche Eingriffe wehren zu können.
+Da der naturgemäß geheime Charakter einer Überwachung den Betroffenen nicht den Eingriff erkennen lässt, ist zumindest nachträglich eine Benachrichtigung des Abgehörten gesetzlich vorgeschrieben.
+Zwar sind davon in engen Grenzen gewisse Ausnahmen möglich.
+In der Praxis sind diese Ausnahmen die 97-prozentige Regel.
+Auffälligster Umstand des staatlichen Lauschens ist die fortlaufend ansteigende Zahl der Überwachungen.
+Von 1991 bis 2001 stieg die Anzahl der richterlichen Anordnungen um knapp 800 Prozent.
+Ein Zuwachs, der sich nicht allein durch das Aufkommen von Handys und sonstiger technischer Neuerungen erklären lässt.
+Zwar wird die Anzahl der Überwachungen dokumentiert; im Gegensatz zu anderen Nationen findet eine Erfolgskontrolle jedoch nicht statt.
+Ob und in welcher Weise eine Telekommunikationsüberwachung für den Ausgang des Ermittlungsoder vielleicht anschließenden Strafverfahrens von Bedeutung war, bleibt unklar.
+Besonders hemmungslos vollzieht sich nun der Zugriff auf E-Mails.
+Die besonderen Hürden zur Kommunikations-Überwachung nach Paragraph 100a StPO werden teilweise umgangen, indem E-Mails zum Objekt einer einfachen Beschlagnahme nach Paragraph 94 StPO werden: Deliktskatalog ade.
+Das ist eine willkürliche Einschränkung der Grundrechte.
+Lösung Kryptografie?
+Doch andererseits gewährt die E-Mail dem Nutzer auch besonders einfache Möglichkeiten, den Inhalt vor jeglichen neugierigen Blicken zu schützen: mit Kryptografie.
+Die Ende der neunziger Jahre im Rahmen der Kryptodebatte diskutierten Verbotsmodelle erwiesen sich als nicht praktikabel.
+Kryptografie ist zusammen mit der artverwandten Signaturtechnik für den E-Commerce unumgänglich.
+Und die Möglichkeit, verschlüsselte Botschaften per Steganografie auch noch zu verstecken, etwa als Rauschen in Digitalfotos, macht ein Verbot der Verschlüsselung ohnehin kaum kontrollierbar.
+Verschlüsselungsprogramme wie PGP bleiben wohl auf lange Zeit hin ein legales Mittel, den Inhalt der Kommunikation vertraulich zu halten.
+Nicht zuletzt da sich der Bürger für den eher abstrakten Abbau seiner Rechte erfahrungsgemäß kaum interessiert, droht dem Telekommunikationsgeheimnis weitergehende staatlich betriebene Erosion.
+Erste Entspannung könnte einerseits die gerade im Bundestag verabschiedete Neufassung des TKG bringen: Die Diensteanbieter erhalten Anspruch auf staatliche Entschädigung für ihre zwangsweise Mithilfe beim Überwachen.
+Andererseits scheiterte der Entwurf erwartungsgemäß im Bundesrat.
+Einer der Hauptgründe: Die Länder-Forderung nach der Vorrats-Auftürmung gigantischer Datenberge durch sechsmonatige Speicherung der Telekommunikations-Verbindungsdaten.

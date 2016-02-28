@@ -1,0 +1,34 @@
+Statt in den Flieger setzen sich immer mehr Manager vor den Bildschirm - und konferieren bequem über das Internet.
+Doch trotz modernster Software haben die virtuellen Besprechungen ein Problem: Entweder sind sie günstig und unpersönlich oder behaglich und teuer.
+Dem Bahnchef wird diese Zahl überhaupt nicht gefallen - und auch Luftfahrtmanager dürften bei ihrem Anblick erschaudern: Auf stattliche 220 Millionen Euro soll der europäische Markt für Webkonferenzen bis zum Jahr 2009 steigen.
+Für das kommende Jahr sagen die Marktforscher von Frost & Sullivan einen Zuwachs von mehr als 50 Prozent voraus, für 2005 fast eine Verdopplung.
+Durch die Internet-Konferenzen steigt, so die Hoffnung ihrer Entwickler, die Produktivität im Unternehmen, die Reisekosten gehen zurück.
+Tony Gasson ist einer von denen, die Bahn und Flugzeug das Leben schwer machen wollen: Erst gestern hat der Vizepräsident der US-Firma WebEx, Marktführer bei Webkonferenzen, angekündigt, verstärkt in Europa aktiv zu werden.
+Spätestens seit dem 11. September 2001 boomt die Branche: Die Angst vor Terroranschlägen und zuletzt auch der Lungenseuche Sars treibt die Manager vor den Bildschirm statt in den Flieger.
+Nach dem Angriff auf das World Trade Center konnten viele Anbieter den Wünschen ihrer Kunden, schnellstmöglich vor Ort ein ausgewachsenes Konferenzsystem zu installieren, gar nicht nachkommen.
+Einen solchen Aufwand wollen die Anbieter von Webkonferenz-Lösungen bewusst umgehen.
+Tony Gasson reicht für Besprechungen ein Computer, eine Internetverbindung und ein Telefon.
+Wer ein Headset sein eigen nennt, kann auf den Telefonanschluss sogar verzichten - und direkt über die Internetleitung mit den Kollegen sprechen.
+Das reine Gespräch steht allerdings im Hintergrund.
+Angebote wie WebEx setzen vor allem auf die Präsentation und den Austausch von Dokumenten.
+Fremde Benutzer können sogar die Kontrolle über Anwendungen auf dem eigenen Rechner übernehmen, um so zum Beispiel gemeinsam eine Kalkulation zu erstellen.
+Praktikern wie Ken Lomax von der Siemens-Softwareentwicklung ist das allerdings zu unsicher - vor allem wenn Dokumente mit Partnern außerhalb des Firmennetzwerkes besprochen werden sollen.
+Moderne Webkonferenzsysteme setzen daher nicht nur auf eine komplette Verschlüsselung, sie belassen Dateien auch immer auf dem Rechner ihres Besitzers.
+Selbst wenn gemeinsam ein Excel-Datenblatt ausgefüllt wird, übermittelt die Software nur die Position der Maus, die Grafikinformationen und Tastatureingaben, nicht aber die Excel-Datei.
+Mit Webcams lassen sich die Gegenüber zudem beobachten.
+Die Aufnahmen ruckeln, im Gegensatz zu ferngesteuerten Programmen, allerdings gehörig.
+Doch immer realistischere aber auch aufwändigere Videosysteme sollen selbst diesen Zwang auf ein Minimum reduzieren.
+So hat das texanische Unternehmen Teleportec eine Tischplatte mit ausfahrbarer Glasscheibe entwickelt, auf der ein dreidimensionales lebensgroßes Hologramm des Gegenübers erscheint.
+Das Berliner Heinrich-Hertz-Institut (HHI) arbeitet sogar an einem Konferenzsystem, das Menschen aus unterschiedlichen Winkeln der Erde an einem virtuellen Konferenztisch zusammenbringt - so sieht es zumindest aus.
+In Wirklichkeit sitzt jeder der drei Teilnehmer an einem eigenen, halbkreisförmigen Tisch, der direkt vor einem großen Flachbildschirm steht.
+Darauf sind die anderen beiden Gesprächpartner zu sehen, lebensgroß, einer rechts und einer links, ganz so als hätten sie direkt nebeneinander Platz genommen.
+Videokameras neben und über dem Bildschirm nehmen jeden Blick, jede Geste des Sprechenden auf.
+Dessen Position im Raum lässt sich aus den kleinen Unterschieden der verschiedenen Kamerabilder berechnen.
+Dadurch wird klar, wohin er blickt oder zeigt; die Bilder auf dem Monitor werden entsprechend reproduziert.
+Schaut ein Teilnehmer dem anderen direkt in die Augen, hat auch der dritte Mitarbeiter vor seinem Bildschirm genau diesen Eindruck.
+Die künstlich erzeugte Distanz verschwindet, die Konferenz wird angenehmer, die Gespräche produktiver.
+Noch handelt es sich bei dem System um einen Prototypen - entsprechend hoch sind seine Anforderungen.
+Um die Video- und Richtungsdatendaten in Fernsehqualität zu verschicken, ist ein schnelles Firmennetzwerk nötig.
+Bis zu 30.000 Euro könnte ein solcher Videokonferenzplatz eines Tages kosten.
+Für den nachmittäglichen Kaffeeplausch mit der Familie vielleicht etwas zu viel.
+Für den gestressten Manager könnte sich das System allerdings schnell rechnen - spätestens nach sieben oder acht gesparten Business-Class-Flügen in die USA.

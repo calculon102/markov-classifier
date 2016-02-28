@@ -1,0 +1,44 @@
+Als erster Markenhersteller von Mobiltelefonen hat Motorola ein Handy entwickelt, das mit Software von Microsoft läuft.
+Herausgekommen ist ein Gerät, das von außen viel schöner ist als von innen.
+Auf dem Handymarkt herrscht aus Redmonder Sicht verkehrte Welt: Microsoft hat einen kaum messbaren Marktanteil.
+Mehr als 95 Prozent aller Mobiltelefone verwenden die Software-Plattform des von Nokia dominierten Symbian-Konsortiums.
+Außer dem britischen Mobilfunkbetreiber Orange hat Microsoft bisher noch keinen Netzanbieter gefunden, der Telefone mit seiner Software ins Sortiment nimmt.
+Das liegt vor allem daran, dass bisher kein Markenhersteller ein Windows-Handy auf den Markt gebracht hat.
+Das ändert sich jetzt: Als erstes Windows-Markenhandy ist in Deutschland seit einigen Tagen das MPx200 von Motorola erhältlich.
+Das MPx200 ist ein Smartphone - es soll zusätzlich zu den Telefonfunktionen auch alle Aufgaben eines Personal Data Assistants (PDA) übernehmen.
+Das Gerät ist solide verarbeitet, liegt gut in der Hand und hat eine ansprechende Optik.
+Nach Angaben von Motorola richtet sich das Modell vorrangig an Geschäftskunden.
+Eine Bluetooth-Schnittstelle, die für Business-Handies inzwischen eigentlich ein Muss ist, hat das Gerät allerdings nicht.
+Datenübertragung ist stattdessen über Infrarot oder USB möglich.
+Zudem gibt es einen Steckplatz für eine SD-Speicherkarte.
+Eine 32 Megabyte-Karte ist im Lieferumfang enthalten.
+Ein Pluspunkt ist das exzellente TFT-Farbdisplay mit 65.536 Farben.
+Internetseiten, Bilder und sogar kleine Filmchen werden auf dem 167 mal 220 Pixel großen Display gestochen scharf dargestellt.
+Ebenfalls angenehm fiel im Test die Übersicht auf, in der neben den wichtigsten Programmen Termine, Aufgaben und Nachrichten angezeigt werden.
+Von der Übersicht gelangt man direkt in die einzelnen Untermenüs.
+Die Synchronisation von Terminen und Kontakten mit Microsoft Outlook verläuft problemlos, was allerdings kein besonderer Pluspunkt, sondern eine Selbstverständlichkeit ist.
+Eine Dockingstation, in die man das Gerät zum Laden und Datenabgleichen stecken könnte, ist nicht im Lieferumfang enthalten.
+Stattdessen gibt es nur ein schlichtes USB-Kabel, was unpraktisch und für ein Businessprodukt etwas spartanisch ist.
+So ansprechend die Optik des MPx200 daherkommt, so nervtötend ist die Benutzerführung.
+Da wäre zunächst der Terminkalender.
+Mit der Tagesansicht kann man arbeiten, der Rest ist nutzlos.
+So gibt es etwa eine Wochenansicht, in der man anhand von blauen Balken erkennen kann, wo Termine liegen - leider wird nirgendwo angezeigt, um was für Termine es sich handelt.
+Das Gleiche gilt für die Monatsansicht.
+Das Adressbuch ist etwas brauchbarer.
+Ungewohnt ist allerdings die Suchfunktion: Bei den meisten Handy-Adressbüchern muss man die Anfangsbuchstaben eines Namens eingeben, um diesen zu finden.
+Das funktioniert einigermaßen, ist aber sehr gewöhnungsbedürftig.
+Auffällig ist bei allen Anwendungen, dass der Benutzer relativ viel klicken und drücken muss, um zur gewünschten Funktion zu gelangen.
+Die Untermenüs sind häufig unübersichtlich, was in der täglichen Anwendung wenig Freude macht.
+Irritierend ist zum Beispiel, dass sich die Reihenfolge der in der Kopfleiste des Displays gezeigten Anwendungen ständig ändert - das zuletzt benutzte Programm findet sich immer links.
+Dadurch muss sich der Nutzer jedes Mal von Neuem orientieren.
+Eine große Enttäuschung ist der Internetzugriff.
+Abgesehen davon, dass auf dem SPIEGEL ONLINE zur Verfügung gestellten Testgerät die Verbindungsprotokolle erst von Hand konfiguriert werden mussten, ist die Darstellung von Seiten in Microsofts Pocket Explorer völlig ungenügend.
+Alles außer speziell für Mobilegeräte programmierten Seiten kann der Benutzer getrost vergessen.
+Während etwa der kleine norwegische Explorer-Konkurrent Opera einen Handybrowser anbietet, der auch komplexe Seiten mit vielen Frames einigermaßen leserlich darstellt, ist Marktführer Microsoft an dieser Aufgabenstellung spektakulär gescheitert.
+Motorola wirbt damit, dass ein Handy, auf dem Windows läuft, dem Nutzer zahlreiche Vorteile gegenüber Symbian-Geräten bringt.
+Zudem hat Motorolas Smartphone anders als die Geräte der Wettbewerber keine Kamera - obwohl die inzwischen eigentlich zum Standardrepertoire gehört.
+Seltsamerweise gibt es dennoch eine Kamerasoftware.
+Der Gesamteindruck ist, dass es sich bei dem MPx200 noch nicht um ein vollends ausgereiftes Produkt handelt.
+Die Hardware funktioniert zwar sehr gut, die Software ist allerdings bestenfalls zweitklassig.
+Einige Standardfunktionen fehlen oder sind nicht aufzufinden.
+Zum Beispiel kann man keinen Vibrationsalarm zusätzlich zum Klingelton einstellen.

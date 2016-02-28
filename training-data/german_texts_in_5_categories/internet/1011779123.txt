@@ -1,0 +1,21 @@
+Muss Microsoft 520,6 Millionen Dollar zahlen, weil man aus dem Internet Explorer heraus Multimedia-Daten starten kann?
+Ein entsprechendes Patent hält die Firma Eolas, hofft auf astronomische Lizenzgebühren und droht damit, das Web zu verändern.
+Jetzt prüft das US-Patentamt, ob es nicht doch einen Fehler gemacht hat.
+Die Chance,mit einem entsprechenden Antrag durchzudringen, lägen bei noch nicht einmal ganz zwei Prozent.
+Microsoft hat das nun geschafft - mit Hilfe der Rückendeckung zahlreicher Microsoft-Konkurrenten und fast aller Internet-Verbände.
+Die hatte 1998 ein Patent von der University of California lizensiert bekommen, das diese 1994 angemeldet hatte.
+Der Inhalt des Patentes ist brisant: Es reklamiert das Prinzip, aus Web-Browsern heraus interaktive Programme und Routinen zu starten.
+Das aber ist ein Grundmerkmal des World Wide Web, der mit Abstand populärsten Anwendung des Internet.
+User halten es für selbstverständlich, das nach dem Klick die Animation folgt, der Film, die Audio.
+Doch das Patent könnte noch weit mehr abdecken: Interaktion beginnt schon beim Ausfüllen von Web-Formularen - und davon lebt der gesamte E-Commerce.
+Doch das Patent steht, befand am 11. August ein US-Gericht in einem Prozess von Eolas gegen Microsoft und verdonnerte den Software-Riesen zur Zahlung von 520,6 Millionen Dollar und diversen Auflagen.
+Zu denen gehörte, dass künftige Versionen des weltweit populärsten Browsers Internet Explorer so verändert werden müssten, dass Interaktivitäten eben nicht mehr aus dem Browser selbst heraus gestartet werden dürften.
+Patent 5.838.906 ist in den Augen von Unternehmen wie Technikern wie Web-Aktivisten ein Fortschrittshemmnis erster Güte - und insofern ein Trivialpatent, als dass es ein Grundcharakteristikum des interaktiven Netzwerkes als geistiges Eigentum reklamiert.
+Also solidarisierten sich selbst Erzrivalen des Redmonder Großkonzerns mit Microsoft.
+Auch Tim Berners Lee, Vater des World Wide Web und sonst niemand, der sich in die kommerzielle Verwertung seiner Schöpfung einmischt, erhob förmlich und vehement Einspruch.
+Das Patentamt habe unter anderem übersehen, dass Patent 5.838.906 Vorgänge schütze, die zum Zeitpunkt seiner Registrierung bereits Gang und Gäbe waren.
+Microsoft zeigt sich erfreut über die erneute Prüfung, vertraut aber nicht darauf, dass das Patent tatsächlich aufgehoben wird.
+Längst hat das Unternehmen Richtlinien für Webentwickler veröffentlicht, wie eine Lizenzzahlung an Eolas zu vermeiden wäre, längst ist eine entsprechende Überholung des Internet Explorers auf den Weg gebracht.
+Unter vermehrten Druck gerät dagegen die US-Patentbehörde, der seit langem der Vorwurf gemacht wird, viel zu viele und viel zu oberflächlich geprüfte Patente zu genehmigen.
+Auch der US-Kongress wurde nun darauf aufmerksam und hat sich vorgenommen, die Behörde ins Visier zu nehmen.
+Die erneute Prüfung des Patentes könnte bis zu einem Jahr in Anspruch nehmen.

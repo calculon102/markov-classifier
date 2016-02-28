@@ -1,0 +1,30 @@
+Biometrie gibt's nicht nur für Menschen, sondern auch für Stallbewohner.
+Während USA-Reisende ihren Daumen zeigen müssen, ist es bei Kühen die Netzhaut.
+Der Augenscan soll Tiere identifizieren und ihren gesamten Lebensweg dokumentieren.
+Einen Datenschutzbeauftragten gibt es im Kuhstall nicht.
+Deshalb musste die US-Firma Optibrand auch nicht mit dem Widerstand besorgter Tiere rechnen, die um ihre Privatsphäre fürchten.
+Optibrand hat nämlich einen Augenscanner für Kühe entwickelt, der die Tiere zweifelsfrei am individuellen Muster der Netzhautstruktur identifiziert.
+Derartige Verfahren beim Menschen angewandt provozieren immer wieder die Proteste von Datenschützern.
+Zu Recht, schließlich soll ein Blick auf die menschliche Netzhaut unter anderem die Diagnose bestimmter Krankheiten erlauben, das behaupten zumindest Iridologen.
+Bei Rindern halten sich die Bedenken jedoch in Grenzen.
+Ganz im Gegenteil: Es geht darum, Tiere zweifelsfrei zu identifizieren, und den Weg, den sie genommen haben, zu verfolgen.
+In Zeiten von Seuchen wie BSE hat dies enorm an Bedeutung gewonnen.
+Bislang setzen Bauern auf Ohrmarken, Tätowierungen oder Brandmarken - sicher sind diese Verfahren allesamt nicht.
+Der Optibrand-Scanner garantiere hingegen Fälschungssicherheit, wie Lasse Joussen von der Lauenburger Firma Agrosom betont.
+Agrosom vertreibt den Netzhautscanner in Deutschland.
+Das System überzeugte die deutschen Agrarexperten - dabei ist es hier zu Lande nicht einmal im Einsatz, wenn man von einigen Vorführungen absieht.
+In den USA sollen nach Angaben von Agrosom bereits 1,5 Millionen Rinder erfasst worden sein.
+Der Augenscanner besteht aus einer Digitalkamera und einem damit verbundenen Kleincomputer.
+Nach dem Einschalten sucht das Gerät automatisch Kontakt zu den Satelliten des Navigationssystems GPS.
+Wer gerade im Stall steht, muss also erst mal nach draußen, um die eigenen Koordinaten zu ermitteln - ohne GPS-Daten kann der Augenscan nicht starten.
+Die erzwungene Positionsbestimmung ist beabsichtigt, schließlich soll das Gerät den Lebensweg der Tiere dokumentieren.
+Zu den GPS-Daten und dem Namen des erfassten Tieres kommen noch Datum und Zeit, eventuell auch weitere Informationen wie verabreichte Medikamente oder durchgeführte Besamungen.
+Der nationale und internationale Viehverkehr sollte zum Schutz des Verbrauchers lückenlos überwacht werden, betont Produktmanager Joussen.
+Standortwechsel der Tiere müssten stets nachvollziehbar sein.
+Das System eigne sich als ideale Plattform des Tiermanagements.
+Aufwendige Datenerfassung und die Auswertung per Hand seien überflüssig.
+Agrosom verkauft das Gerät nicht zum Stückpreis, sondern berechnet ähnlich wie Mobilfunkbetreiber Nutzungsgebühren.
+Ein kompletter Lebenslauf von Geburt bis zur Schlachtung einer Kuh kostet fünf bis sieben Euro.
+Seine 20 Milchkühe hätten sogar alle einen Namen, erklärt Zacharias.
+Er kenne jedes Tier und wisse, woher es kommt.
+Für seinen kleinen Betrieb sei die Technik nicht nötig.

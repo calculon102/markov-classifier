@@ -1,0 +1,20 @@
+FINANZtest hat sechs Spracherkennungsprogramme getestet.
+Preise: 50 bis 199 Euro. mehr...
+Lernen 1. Sie bringen der Software die richtigen Worte bei, indem Sie den Korrekturmodus verwenden.
+Sie tippen ein nicht erkanntes Wort ein und der Computer wiederholt dieses gegebenenfalls noch einmal.
+Die Fehlerrate wird dadurch fast halbiert.
+Bei einem längeren Geschäftsbrief dauert das Procedere nicht länger als eine Viertelstunde.
+Mit jedem neuen Brief verkürzt sich die Lernzeit.
+Lernen 2. Benutzen Sie auch den Buchstabiermodus.
+Sie lesen ein falsch erkanntes Wort Buchstabe für Buchstabe vor.
+Danach erkennt die Software das Wort korrekt.
+Lernen 3. Auch die Dokumentenanalyse ist hilfreich.
+Wenn Wörter vorkommen, die nicht im Wortschatz der Software enthalten sind, werden sie ausgezeichnet.
+Sie lesen diese dann vor.
+Dadurch stellt sich das Programm auch auf von Ihnen häufig verwendete Wortgruppen und Ihren Satzbau ein.
+Wenn Sie mit dem mitgelieferten Headset nicht zufrieden sind, finden sie unter scansoft.com kompatible Modelle für Dragon Naturally Speaking und IBM ViaVoice.
+Sie müssen beim Sprechen nicht unbedingt vorm Computer sitzen.
+Besser ausgestattete Programme können auch Gesprochenes in Form einer Datei verstehen.
+Sie nehmen ihren Text mit einem digitalen Diktiergerät oder einem Taschen-PC auf und lassen die Datei vom Programm bearbeiten.
+Dies funktioniert so, als hätten sie direkt in den Computer gesprochen.
+Mit den Standardversionen von Dragon und IBM gehts nicht.

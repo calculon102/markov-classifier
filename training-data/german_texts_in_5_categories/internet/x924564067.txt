@@ -1,0 +1,65 @@
+Mit Klingeltönen für Handys verdient die Musik- und Mobilfunkbranche schon heute Millionen.
+Jetzt soll das Geschäft ausgebaut werden - mit Musikdownloads aufs Handy.
+Dank UMTS ist das Herunterladen schnell und einfach - doch die Klangqualität ist noch ziemlich mies.
+SPIEGEL ONLINE hat die neuen Angebote getestet.
+Wie häufig im Leben, sind es Preise, die die Gemüter bewegen.
+Warum kostet eine Software in den USA deutlich weniger als hier zu Lande?
+Und warum verkaufen US-Musikshops ihre Songs im Internet für 99 US-Cent, während dasselbe Lied in Deutschland bis zu 1,79 Euro kostet?
+Sofern es überhaupt erhältlich ist.
+Für die hiesige Musikbranche scheint festzustehen, dass 99 Cent für einen Download zu billig sind.
+Wer zwei Euro für einen grottigen Klingelton ausgibt, der kann auch 1,30 Euro und mehr für einen Song in erstklassiger Audioqualität zahlen, erklärten die Vertreter der Branche im März auf der Cebit in Hannover, als sie ihre Plattform Phonoline starteten.
+Provision, Provision!
+Beim Verkauf eines Titels im Internet halten viele Beteiligte die Hände auf.
+Das treibt den Preis nach oben.
+Nicht nur Künstler, Labels und Gema kassieren.
+Auch das Bezahlsystem, die Datenübertragung und der Shop selbst kosten Bares.
+Diese reinen Transaktionskosten können durchaus 50 bis 60 Cent je Song erreichen - und machen das Ganze unnötig teuer.
+Kein Wunder, dass die Mobilfunkbranche hier eine große Chance wittert.
+Schließlich können Vodafone & Co ihre eigenen Netze zum Verteilen der Musikdateien nutzen und anfallende Kosten sehr leicht über die Handyrechnung abwickeln.
+T-Mobile und O2 haben ihre Musikshops fürs Handy bereits vor wenigen Wochen gestartet, Vodafone und E-Plus wollen demnächst nachziehen.
+Die Preise sind für deutsche Verhältnisse durchaus konkurrenzfähig: T-Mobile verlangt 1,49 Euro, allerdings werden die Lieder vorerst nach etwa 90 Sekunden ausgeblendet, um die Datenmenge zu begrenzen.
+Die Konkurrenz bei O2 kassiert 1,79 oder 1,99 Euro und liefert dafür unverstümmelte Songs.
+Die Preise beinhalten übrigens sämtliche Kosten - für den Download muss nicht etwa noch einmal zusätzlich gezahlt werden.
+Das Stöbern im O2-Shop ist umsonst, während T-Mobile dabei die üblichen Datentransfer-Gebühren kassiert.
+Was das Handling betrifft, hat T-Mobile derzeit klar die Nase vorn.
+Das für den Musikkauf geeignete Nokia-Handy 7600 funkt schon im flotten UMTS-Netz und holt die rund 500 bis 700 Kilobyte großen Songs in 20 bis 40 Sekunden in den Speicher.
+Danach ist der Spaß jedoch schon wieder vorbei, denn die Titel gurgeln mitunter heftig, weil sie sehr stark komprimiert sind.
+T-Mobile komprimiert, wie übrigens der viel gelobte Apple-Shop iTunes auch, im AAC-Format, einem Nachfolger des beliebten MP3-Standards.
+Allerdings kommt nur eine mickrige Datenrate von 48 kBit/s zum Einsatz.
+Zum Vergleich: iTunes arbeitet mit 128 kBit/s, dazwischen liegen klangtechnisch Welten.
+Wie klingt's denn so?
+O2 hat sich für die effektivere Kompressionstechnik AAC plus entschieden, die speziell für mobile Dienste entwickelt wurde.
+Die Songs klingen trotz geringerer Datenrate von nur 36 kBit/s deutlich besser als bei T-Mobile.
+Auch was die Zahl der Titel betrifft, ist O2 unangefochtener Spitzenreiter. 100.000 Songs sollen mittlerweile verfügbar sein - nachprüfen lässt sich das freilich nicht.
+Das größte Hindernis der mobilen Musikshops bilden zweifellos die kaum verbreiteten Endgeräte, die Download und Wiedergabe unterstützen.
+Das eigenwillig klobige Nokia-Parallelogramm 7600 dürfte es jedenfalls schwer haben, als sexy Gadget zu punkten, obwohl es immerhin weiße Ohrstecker hat und sein Besitzer eventuell mit einem coolen iPod-Besitzer verwechselt werden könnte.
+Gar nicht so dumm, denn der Player ist ein vollwertiger MP3-Abspieler.
+In wenigen Tagen soll zusätzlich das neue Siemens-Telefon SX1 in den Handel kommen, das das Zusatzgerät überflüssig macht, weil es einen eigenen Musikplayer mitbringt.
+Auch Vodafone will seinen Musikshop mit dem SX1 starten.
+Schade, dass dieses Gerät kein UMTS versteht, obwohl die Netze in Großstädten längst stehen.
+Vodafone setzt, wie O2 auch, vorerst auf die deutlich langsamere GPRS-Übertragung, so dass ein Download schon mal drei bis fünf Minuten dauert.
+Wie schön übersichtlich ein 1024 mal 768 Pixel großes Browserfenster am PC ist, merkt man, wenn man anfängt, auf dem Handy nach einem bestimmten Song zu suchen.
+T-Mobile glänzt immerhin mit einer richtigen Suchfunktion, die freilich wegen des derzeit dünnen Angebots kaum zu Treffern führt.
+Bei O2 funktioniert die Suche streng alphabetisch.
+Wer Madonna will, wählt erst M, dann Ma bis Mc und schließlich Mac bis Mad - und findet trotzdem nichts, weil die Popdiva derzeit kaum Lizenzen zum elektronischen Verkauf vergibt.
+Leider läuft die Technik noch nicht ganz so rund, wie sie sollte.
+Die Netzbetreiber konnten sich diese Fehler nicht so recht erklären - hoffentlich handelt es sich dabei nur um Anlaufschwierigkeiten.
+Natürlich legen die Handy-Musikshops ihren Titeln Fesseln an.
+Ohne digitales Rechtemanagement (DRM) geht heutzutage (fast) nichts mehr.
+O2 erlaubt immerhin, gekaufte Songs auf dem PC zu sichern.
+Dort abspielen oder auf CD brennen kann der Käufer die Musik dann nicht.
+Das soll sich nach Auskunft des O2-Sprechers Roland Kuntze jedoch ändern.
+Bald schon werde es eine Software mit Player und Brennfunktion geben, erklärte er gegenüber SPIEGEL ONLINE.
+Vodafone will nach eigenen Angaben von Beginn an mit Brennoption starten und macht somit ebenfalls den Musikshops im Internet direkt Konkurrenz.
+T-Mobile hält sich beim Thema Export auf den PC bedeckt.
+Mit dem Nokia 7600 klappt dieser jedenfalls nicht.
+Wer einen Song auf dem Handy löscht, hat ihn unwiderruflich im Papierkorb versenkt.
+Ein zwangsläufiger Nebeneffekt von digitalem Rechtemanagement.
+Echte Geizkragen werden die neuen Angebote jedoch kaum zum Musikshoppen bewegen.
+Schließlich können alle downloadfähigen Handys und der Music-Player von O2 auch MP3s wiedergeben.
+Und wenn man davon die Festplatte voll hat, dann muss man sich ja keine kopiergeschützten Songs in reduzierter Qualität kaufen.
+Selbst MP3-Verächter kriegen Musik für lau aufs Handy.
+Neuere Geräte wie das SX1 von Siemens oder das 6800 von Nokia kommen nämlich mit einem integrierten Radio daher.
+Und Sender, die die aktuellen Charts hoch und runterdudeln, gibt's zuhauf.
+Trotzdem hat der Musikvertrieb aufs Handy durchaus Chancen.
+Wenn Preis und Soundqualität stimmen könnte sich daraus ein einträgliches Geschäft entwickeln, das ganz nebenbei noch den Nutzen von UMTS vorführt.

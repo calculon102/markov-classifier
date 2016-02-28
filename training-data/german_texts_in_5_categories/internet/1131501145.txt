@@ -1,0 +1,41 @@
+Dieses Lied könnte Ihnen gefallen, vermeldet eine Musikempfehlungssoftware aus dem Hause Fraunhofer.
+Auf der Musikmesse Popkomm treten vier verschiedene Programme gegeneinander an, das Mysterium menschlicher Hörvorlieben zu durchschauen.
+Will er nicht immer dasselbe hören, muss er seine Musiksammlung auf dem Laptop durchforsten und einzelne Titel zu einer Wunschliste zusammenklicken.
+Wenn er fertig ist, ist das Essen kalt.
+Eine neue Software seiner Firma soll das nun möglich machen: Zu jeder Laune und Situation sucht sie die passende Musikauswahl.
+Außerdem fahndet sie im Internet oder auf der Festplatte nach Titeln, die den eigenen Lieblingssongs ähneln.
+Unternehmen wie Hifind wurden vor kurzem noch mitleidig belächelt.
+Mit Musikdienstleistungen war im Internet kein Geld zu holen.
+Nun scheint das Geschäft mit Klangdaten seinen Rhythmus zu finden.
+Immer mehr Menschen laden sich Stücke aus den neuen Online-Musikläden herunter - und bezahlen brav dafür.
+Mit dem iTunes Music Store von Apple begann der Erfolg, inzwischen sind allein in Deutschland vier weitere große Anbieter dazugekommen.
+Der Wettbewerb wird also härter, und wer ihn gewinnen will, muss die wechselhafte Kundschaft mit dem besten Service locken.
+Deshalb basteln Internetfirmen und Forschungsinstitute fleißig an Zusatzdiensten, in der Hoffnung auf eine Partnerschaft mit den Musikshops.
+Jüngster Trend: Musikempfehlungsmaschinen, die dem Kunden die Wünsche quasi von den Ohren abhören.
+Der Branchenverband Phononet hat jetzt einen Wettbewerb mit vier Konkurrenten initiiert.
+Auf der Kölner Musikmesse Popkomm soll Ende September der Sieger gekürt werden.
+Mit Hifind konkurrieren die Geschmacksagenten SoundsLike, SoundProfiler und MusicLens um den Titel des besten Empfehlungssystems.
+Die Grundidee bei allen vieren ist gleich, die Konzepte zur Umsetzung sind radikal verschieden.
+Die einen setzen auf Menschen, die anderen auf Maschinen.
+Hifind bezahlte früher 300 und heute immerhin noch rund 50 Musikjournalisten, Komponisten und geschulte Hörer dafür, dass sie Musikstücke nach Stimmung, Tempo, Dynamik, Genre und anderen Kriterien klassifizieren.
+Die Emotionen von Musik könne kein Computer erfassen.
+Das sieht die Konkurrenz vom Fraunhofer-Institut für Digitale Medientechnologie in Ilmenau (IDMT) anders.
+Unter der Leitung von MP3-Erfinder Karlheinz Brandenburg wird am IDMT ein Computerprogramm entwickelt, das die Musikexperten ersetzen soll.
+SoundsLike heißt die Software.
+Sie analysiert die Frequenz der Musikstücke und berechnet Zahlenwerte für Merkmale wie Tempo, Instrumentierung und Rhythmik.
+Wird dem Programm später ein Stück vorgespielt, sucht es in der Datenbank nach Titeln mit ähnlichen Werten.
+DPA MP3-Erfinder Brandenburg: Neuer Erfolg mit Kategorisierung von Musik?
+Geschmack sei nun mal subjektiv.
+Ein weiterer Vorteil: Auch brandneue oder seltene Titel, die noch kein Experte katalogisiert hat, können von der Software analysiert werden.
+Die computertreuen Fraunhofer-Forscher und die expertengläubigen Hifind-Entwickler bilden die Extreme - Phononet mit seinem SoundProfiler und die Hamburger Multimedia-Agentur DDD Design mit ihrer Software MusicLens liegen dazwischen.
+MusicLens setzt ähnlich wie Hifind auf eine Katalogisierung der Musik durch Hörer aus Fleisch und Blut, verwendet allerdings weniger Kriterien und ermittelt Ähnlichkeiten auch mit Hilfe von unscharfer Fuzzy-Logik.
+Einen ähnlichen Ansatz verfolgt das US-Unternehmen MoodLogic.
+Als Anreiz bekommen aktive Musikbewerter die Software kostenlos.
+Der Erfolg der Musikempfehlungsmaschinen wird nun davon abhängen, ob sie das Geld einspielen, das sie kosten, und ob sie den Kunden einen echten Mehrwert bringen.
+Die Pilotversionen der Wettbewerber machen schon mal neugierig.
+Hifind beeindruckt durch eine erstaunliche Vielzahl an Metadaten.
+Die Fraunhofer-Software wirft Stücke von Bryan Adams, Ace of Base und den Barenaked Ladies (einer Männerband) in einen Topf, was auch nicht so falsch ist.
+Wird eines der vorgeschlagenen Stücke schließlich gekauft, so das Geschäftsmodell, erhält der Musikempfehler einen Teil des Kaufpreises.
+Claus Zimmermann von DDD Design nennt Beispielrechnungen mit einem Cent pro Song.
+Ob das reicht, um Experten und Programmierer zu bezahlen, muss sich noch zeigen.
+Die beteiligten Unternehmen wollen sich auf der Popkomm nach Partnern umsehen.

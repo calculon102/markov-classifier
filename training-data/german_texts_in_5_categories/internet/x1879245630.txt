@@ -1,0 +1,39 @@
+Mit Adrian Lamo steht ein Robin Hood des Internetzeitalters vor Gericht.
+Drei Jahre lang knackte er Firmennetze von Konzernen wie AOL, Microsoft, NBC und Yahoo!.
+Er informierte Firmen und Medien über die Sicherheitslücken - und wurde oft dafür belohnt.
+Wer ist Lamo?
+Lamo sagte zu.
+Seine Kritiker werfen ihm seit langem vor, vor allem das Licht der Öffentlichkeit zu suchen.
+Kaum einer scheint da so geeignet wie Adrian Lamo, 22, nach eigener Aussage obdachlos.
+Seit knapp drei Jahren wandert und trampt der blasse junge Mann mit dem Kindergesicht mit kleinem Gepäck inklusive Laptop durch Amerika und legt sich mit der IT-Security großer Firmen an.
+Und das sieht so aus: Lamo knackt Firmennetzwerke ohne Zuhilfenahme spezialisierter Tools.
+Sein Werkzeug ist in der Regel ein normaler Web-Browser, mit dem er so lang in den Angeboten von Unternehmen herumsurft, bis er eine Sicherheitslücke findet.
+Dabei zeigt er eine Menge Gespür und Talent - und polarisiert sein Publikum.
+Kritiker aus dem Hackerlager etwa sagen, er sei ein mediengeiler Kleinhacker ohne spezialisierte Kenntnisse: Die von ihm offen gelegten Sicherheitslücken seien nichts Ungewöhnliches.
+Lamo kann das.
+Seine Karriere begann zunächst unauffällig im November 2000.
+Da galt er noch nicht als Hacker, war Mitbetreiber einer AOL-Nutzerwebsite, die kritische Informationen zum weltgrößten Onlinedienst veröffentlichte.
+Dort erschien, geschrieben von Lamo, erstmals eine Warnung vor einer kritischen Sicherheitslücke im AOL Instant Messenger - verbunden mit einer flammenden Anklage der laxen Security.
+Der Nachweis wurde über einen Hack geführt, in dessen Verlauf auf AOL-Kundendaten zugegriffen wurde.
+Ob Lamo daran beteiligt war, ist nicht geklärt.
+Es würde zu ihm passen.
+Ab Mai 2001 wurde Adrian Lamo abrupt zum Star.
+Viele kritische Sicherheitslücken werden so erst öffentlich, wenn ein Security-Patch bereit steht - oder gar nicht.
+Doch Adrian Lamo arbeitet anders.
+Er informiert nicht nur die gehackten Unternehmen, sondern auch die Medien.
+Für andere wieder ist er schlicht kriminell: Die Veröffentlichung von Sicherheitslücken, ohne dem betroffenen Unternehmen eine Chance zum Stopfen des Lecks zu geben, wirkt wie die Einladung zu deren Ausnutzung.
+Schließlich surft er nur, wie er dem NBC-Kamerateam bereitwillig zeigte.
+Binnen knapp fünf Minuten knackte er vor laufender Kamera erfolgreich das Netzwerk eines Großunternehmens.
+NBC kündigte den spektakulären Hack erst groß an, verschob dann den Sendetermin und strich den Beitrag schließlich ganz aus dem Programm.
+Lamo hatte vor laufender Kamera NBC selbst geknackt.
+Es wurde Lamos bisher letzter spektakulärer Hack.
+Zu denen gehörten neben Journalisten und zahlreichen Pop-Prominenten auch Personen, bei denen die Staatsmacht umgehend Schutzreflexe entwickelt.
+Lamo selbst hatte gegenüber der Presse trompetet, nun über die Kontaktdaten von Bill Clinton zu verfügen.
+Zwar knirschte so mancher IT-Verantwortliche mit den Zähnen, wenn er von einem Hack zuerst durch die eigene Presseabteilung erfuhr.
+Andererseits aber genoss Lamo wachsende Popularität, und er schadete niemandem.
+Ja, er hatte zu Demonstrationszwecken mehrere Artikel auf der Newsseite von Yahoo!
+Er hatte sich Zugang zu Kundendaten nicht nur bei Microsoft verschafft.
+Dessen Management bedankte sich sogar öffentlich für den Hack und ließ sich anschließend von Lamo beraten, wie (zumindest) dieses Problem zu beheben sei.
+Lamo auf dem Höhepunkt seines Ruhmes.
+Jetzt droht Haft - und das Verfahren droht, zum Musterprozess zu werden.
+Zum zweiten Teil...

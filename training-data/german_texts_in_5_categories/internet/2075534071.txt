@@ -1,0 +1,20 @@
+Nun ist auch für kleine Organizer mit Microsoft-Software der erste Virus aktenkundig.
+Der Schädling mit dem Namen Duts.1520 befällt Pocket PCs, Schaden richtet er jedoch keinen an.
+Erst kürzlich war ein ebenfalls harmloser Virus für Symbian-Handys aufgetaucht.
+Duts befalle Pocket PCs mit ARM-Prozessoren und enthalte keine Schadensroutine.
+Er breite sich auf andere Organizer aus, indem Anwender Programme austauschen.
+Der Virus ist geradezu höflich.
+Wird eine mit Duts infizierte Datei ausgeführt, dann öffnet sich ein Dialogfenster und der Virus fragt den Anwender, ob er sich weiter ausbreiten darf.
+Stimmt der User zu, infiziert Duts alle EXE-Dateien im aktuellen Verzeichnis.
+Im Unterschied zu Cabir sei Duts jedoch ein rein parasitärer Virus, der Dateien infiziere.
+Noch gehe keine ernste Gefahr von den Schädlingen aus.
+Die derzeitige Diskussion um die ersten Handy-Würmer beruhe daher mehr auf Sensationsgier denn auf echter Gefahr fürs Handy, urteilt das Magazin.
+Anteil daran habe auch die Anti-Viren-Industrie, die in der potenziellen Bedrohung eine lukrative Einnahmequelle sehe.
+Falls er jemals in Umlauf geraten sollte, würde sich seine Bösartigkeit darin erschöpfen, sich per Bluetooth zu übertragen und so den Akku des betroffenen Geräts schnell leer zu saugen.
+Auch das so genannte Bluejacking, bei dem kleine Botschaften per Bluetooth auf fremde Handys geschickt werden, sei nicht gefährlich, sondern nur lästig.
+Um die Sicherheitslücke in Bluetooth-Handys zu schließen, rät die Zeitschrift den Anwendern, keine Daten zu akzeptieren, die sich unangemeldet per Bluetooth auf das Handy übertragen möchten.
+So werde nur eine Kopplung mit einem bekannten Gerät erlaubt.
+Echte Gefahren stellten hingegen mangelnde Sicherheitsmechanismen der Mobilfunkbetreiber fürs mobile Surfen per GPRS dar.
+Bei T-Mobile gebe es ähnliche Sicherheitsmängel, wie sie Hacker schon längst für Angriffe auf PCs im Internet nutzten, berichtet das Magazin.
+Auch die komplexe, zunehmend einheitliche Software der Handys berge potenzielle Eintrittslöcher für Handy-Parasiten.
+Immer kürzere Entwicklungszeiten und offene Schnittstellen öffneten Hackern Tür und Tor.

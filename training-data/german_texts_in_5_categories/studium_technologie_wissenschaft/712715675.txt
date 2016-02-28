@@ -1,0 +1,26 @@
+SERVER VS.
+Beim Duell der Giganten geht es um Grundsätzliches: Soll ein Media-PC im Wohnzimmer stehen - so will es Microsoft -, oder streamt er Filme und Musik diskret aus dem Arbeitszimmer wie bei Sony.
+Sonys neuer Home-Server funkt im WLAN und brennt DVDs.
+Die Schreibtische der Welt beherrscht Microsoft schon lange mit seinem allgegenwärtigen Windows.
+Als nächste Bastion soll nun das Wohnzimmer geschliffen werden - mit der Windows XP Media Center Edition.
+Diese Software verwandelt Multimedia-PCs in wahre Alleskönner.
+Fernseher, Videorekorder und Hifi-Anlage haben ausgedient - die Unterhaltungselektronikbranche muss um ihr Geschäft fürchten.
+Auch Hardware-Schrauber wie Dell und Medion drängen auf den Markt, von dem sie sich alle große Geschäfte versprechen, selbst Linux-Lösungen sind am Start.
+Der japanische Konzern Sony versucht, die Konkurrenz mit einer eigenen Strategie abzuwehren.
+Dabei befindet sich Sony in einer prekären Lage: Nicht nur die Multimedia-PCs von Dell & Co, sondern auch die eigenen Vaio-Rechner machen den eigenen Verstärkern, DVD-Playern und Fernsehern Konkurrenz.
+Nicht zuletzt deshalb hat nach Sony-Philosophie ein PC in der guten Stube nichts zu suchen - obwohl er sich vom Design her dort nicht verstecken müsste - im Unterschied zu den meisten anderen Rechnern.
+Sony lässt den PC irgendwo im Nachbarzimmer stehen - Schrankwand oder Hifi-Rack soll die markentreue Kundschaft wie gehabt mit anderen Sony-Produkten bestücken.
+Den PC macht Sony zum Home-Server, der Fernseher und Radio via Ethernet oder WLAN mit Bildern und Tönen versorgt.
+Hinzu kommen ein DVD+/-R-Brenner, eine ATI-Radeon 9600 XT Grafikkarte und ein umfangreiches Softwarepaket - unter anderem die Bildbearbeitung Photoshop Elements und die Videoschnittsoftware Premiere 6 LE.
+Der PC taugt selbstredend auch für herkömmliche Aufgaben - wegen seiner schnellen Hardware soll gleichzeitiges Tippen im Arbeitszimmer und Blockbuster Konsumieren im Wohnzimmer kein Problem sein.
+Die Verbindung zum Wohnzimmer hält ein WLAN-Adapter.
+Dort steht eine kleine Box - der Sony Network Receiver, der die Mediadaten per Funk empfängt und über Audio- oder Videokabel an Fernseher oder Stereoanlage weiterreicht.
+Mit einer Fernbedienung steuern High-Tech-Papas (und -Mamas) dann gemütlich vom Sofa aus, welcher Film oder welcher Song laufen soll.
+Das Sony-System kann alles, was man von einem Home-Entertainment PC erwartet: Fernsehsendungen aufnehmen, Digitalfotos präsentieren, Songs aus dem Musikarchiv wiedergeben und nicht zuletzt Videos auf DVD brennen, wenn die Festplatte überläuft.
+Von der Bedienung her kann die Sony-Lösung nicht ganz mit der Microsoft-Konkurrenz mithalten.
+In einem Test der Computerzeitschrift c't wurde vor allem die Vielzahl von Programmen bemängelt, mit denen der Anwender hantieren muss, bevor die Videos den Fernseher überhaupt erreichen.
+Gelobt wurde hingegen die gute Bild- und Tonqualität.
+Im Januar kündigte Bill Gates auf der Messe Consumer Electronics in Las Vegas eigene Streaming Clients an.
+Sie stehen wie eine Set-Top-Box neben dem Fernseher, die Daten kommen per Ethernet oder WLAN.
+Auch die Spielkonsole XBox will Microsoft zum Streaming-Client aufrüsten.
+Kein Wunder, schließlich setzen auch Hersteller wie Pinnacle und Hauppauge auf eigenständige, wohnzimmerkompatible Streaming-Boxen, die sich Videos und Songs vom PC im Nachbarzimmer holen.

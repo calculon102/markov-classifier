@@ -1,0 +1,24 @@
+Die US-Filmindustrie will digital ausgestrahlte Fernsehsendungen mit einem Kopierschutz versehen, um die Weitergabe von Kopien oder das Aufnehmen zu verhindern.
+Microsoft & Co helfen fleißig mit beim Zunageln des Fernsehers.
+Videorekorder sind ein Buch mit sieben Siegeln.
+In gewisser Weise ähneln heutige Computer den mitunter störrischen VHS-Rekordern: Ihr Verhalten ist teilweise unvorhersehbar, als Laie ist man schon glücklich, wenn die einfachen Grundfunktionen klappen.
+Bei den neuen digitalen Videorekordern soll das alles ganz anders sein.
+Sie zeichnen Sendungen auf Festplatte auf, manche brennen auch gleich auf DVD - alles mit einem Knopfdruck auf der Fernbedienung.
+Wer will, kann eine 20.15-Uhr-Sendung auch erst um 20.45 Uhr anschauen - parallel zur noch laufenden Aufnahme.
+Werbepausen lassen sich per schnellem Vorlauf überspringen.
+Und die Programmierung ist dank elektronischem Programmguide ein Kinderspiel: Sendung auswählen, Record-Taste drücken, fertig.
+Doch es könnte ganz anders kommen: Digitalrekorder machen möglicherweise bald die selben Zicken wie ihre analogen Urahnen.
+Schuld ist nicht etwa der blöde Benutzer, sondern die Filmindustrie, die Angst davor hat, dass hochwertige Digitalaufnahmen in Tauschbörsen zirkulieren.
+Oder: Du darfst die Werbeblöcke nicht überspringen.
+Oder: Du darfst mich nur einmal anschauen.
+Und natürlich manchmal auch: Du darfst mich nicht aufnehmen.
+Die American Library Association, die Electronic Frontier Foundation und andere Initiativen haben sogar eine Klage gegen die FCC eingereicht.
+Die Kläger wollen vor Gericht klären, ob die FCC überhaupt das Recht hat, Gerätehersteller zum Einbau von Kopierschutzeinrichtungen zu zwingen.
+FCC-Chef Michael K. Powell verteidigte das Broadcast Flag.
+Seiner Meinung nach ist es sogar der Retter des Free-TV.
+Wenn Digitalaufnahmen in Tauschbörsen zirkulieren, dann müssten die TV-Stationen ihre Programme verschlüsseln, erklärte Powell.
+Außerdem werde durch das Broadcast Flag die Entwicklung innovativer Kopierschutzsysteme gefördert, meint er.
+Microsoft hat mit seinem eigenen digitalen Videorekorder bereits einschlägige Erfahrungen gesammelt.
+In einer neuen Version der Center-Edition hat Microsoft diese Sperre wieder entfernt.
+Es muss jedoch befürchtet werden, dass künftige Ausgaben der Software mit Kopierschutzflags arbeiten.
+Sie hätten Angst vor Kreativität, die sie nicht sofort nutzen und zu Geld machen könnten.

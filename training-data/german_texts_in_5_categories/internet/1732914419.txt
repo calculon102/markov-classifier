@@ -1,0 +1,20 @@
+Nach den Protesten von Voice-over-IP-Anbietern gegen die grassierende Nummernknappheit hat die Regulierungsbehörde angekündigt, früher als geplant eigene Vorwahlen für Internettelefonanschlüsse zu vergeben.
+Bereits ab Januar soll es die neue Vorwahl 032 geben.
+Voraussichtlich ab Jahresbeginn können Kunden Rufnummern auch ohne geografischen Bezug verwenden, wie der Präsident der Regulierungsbehörde für Telekommunikation und Post (RegTP), Matthias Kurth, gestern in Bonn sagte.
+Die Regeln für die Vergabe der neuen Nummernblöcke an die anbietenden Unternehmen sollten am 24. November veröffentlicht werden.
+Eine Anhörung habe ergeben, dass am Markt Bedarf für die Rufnummern mit der Vorwahl 032 bestehe.
+Sie treten neben die herkömmlichen Nummern, die bereits an Kunden innerhalb ihrer jeweiligen Ortsnetze vergeben werden.
+Nachgedacht wird zudem darüber, dass die Anbieter von Internet-Telefonie (Voice over IP) Nummern auf Ortsnetzebene künftig nicht mehr unbedingt von der Deutschen Telekom beziehen müssen, sondern diese möglicherweise über den Regulierer erhalten.
+In der vergangenen Woche hatten mehrere Voice-over-IP-Anbieter der Regulierungsbehörde vorgeworfen, die Entwicklung der Internettelefonie zu behindern und somit die Telekom vor unliebsamer Konkurrenz zu schützen.
+Anlass war eine Verfügung der Regulierungsbehörde, die Firmen wie Sipgate oder Freenet vorschreibt, Telefonnummern nur noch lokal entsprechend der Ortsvorwahl zu vergeben.
+Ein neuer Sipgate-Kunde in Hamburg darf beispielsweise nur noch eine Nummer mit Hamburger Vorwahl zum Telefonieren im Internet zugeteilt bekommen.
+Für die Internettelefonierer ein Affront, denn sie verfügen in vielen Ortsnetzen über keine eigenen Nummernblöcke und können diese von der Regulierungsbehörde auch nicht erhalten.
+Die Proteste sind offenbar in der Regulierungsbehörde angekommen.
+Sie erwägt laut Kurth, die Vergabe auch nach dem Wohn- oder Standortprinzip zuzulassen.
+Dadurch würde der Telekom nach Ansicht von Marktbeobachtern die Möglichkeit genommen, Wettbewerber durch bewusste Verzögerungen bei der Nummernvergabe zu behindern.
+Gleichzeitig prüft die Regulierungsbehörde nach Angaben Kurths, ob der breitbandige Internetzugang vom Telefonanschluss getrennt werden könne.
+Einige Voice-over-IP-Anbieter forderten dies.
+Sollte es zu einer Abkoppelung kommen, hieße das aber nicht, dass bei den Kunden die Kosten für den Telefonanschluss vollständig entfielen, stellte Kurth klar.
+Denn auch bei einem alleinigen DSL-Anschluss müssten die Netzkosten der Telekom gedeckt sein.
+Voice-over-IP-Anbieter reagierten auf Kurths Ankündigungen zurückhaltend.
+Es bestehe zudem die Gefahr, dass das Anrufen dieser Vorwahl erheblich teurer sein werde als Anrufe bei Ortsnetz-Nummern.

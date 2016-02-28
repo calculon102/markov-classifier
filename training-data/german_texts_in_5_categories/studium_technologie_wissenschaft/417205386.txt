@@ -1,0 +1,29 @@
+In den Arm implantierte Funkchips sollen künftig den Missbrauch von Waffen verhindern.
+Der Abzug wird nur freigegeben, wenn der rechtmäßige Besitzer die Pistole in der Hand hält.
+Erste Abnehmer könnten Polizisten sein.
+Ein neuer Computerchip soll verhindern, dass Polizeiwaffen abgefeuert werden können, wenn sie in falsche Hände geraten.
+Der in die Hand eines Polizisten implantierte Funkchip soll den Missbrauch ausschließen.
+Ein in die Pistole eingebauter Scanner erkennt den Chip in der Polizistenhand und gibt den Abzug frei.
+Falls ein Kind oder ein Krimineller die Waffe in die Hand nimmt, kann damit nicht geschossen werden.
+Die intelligente Pistole wurde gemeinsam von dem Chiphersteller Verichip und dem Waffenproduzenten FN Manufacturing entwickelt.
+Bislang existiert nur ein Prototyp.
+Verichip-Chef Keith Bolten erklärte gegenüber der Nachrichtenagentur AP, die Technik könne auch die Sicherheit bei Militärs und privaten Waffenbesitzern erhöhen.
+Schusswaffen stellen in den USA ein permanentes Sicherheitsproblem dar.
+Fast 200 Millionen Gewehre, Revolver und Pistolen befinden sich im Besitz von US-Bürgern - etwa 40 Prozent aller Haushalte sind bewaffnet.
+Hunderttausende Waffen werden jährlich gestohlen.
+Nach Angaben des FBI wurden zwei Drittel aller 16.000 Morde im Jahr 2002 mit Schusswaffen begangen.
+Drei Jahre nachdem entsprechende Techniken vom obersten Staatsanwalt als marktfähig anerkannt werden und auch verfügbar sind, müssen alle neu verkauften Waffen damit ausgerüstet sein.
+Neben dem neuen Funkchip-Ansatz arbeiten Forscher unter anderem auch an Waffen, die ihren Besitzer am Fingeroder Handabdruck erkennen.
+Der Sender von Verichip ist etwa so groß wie ein Reiskorn und wird mit einer Injektionsspritze implantiert.
+Firmenchef Bolton sagte, es seien keine medizinischen Komplikationen zu erwarten.
+Seine Firma bietet schon seit mehreren Jahren Chips an, die wichtige persönliche Daten wie Blutgruppe und Vorerkrankungen speichern und unter die Haut eingesetzt werden.
+Nach seinen Angaben haben sich bisher 900 Personen weltweit einen solchen Chip implantieren lassen, um in Notfällen schnell und mit den richtigen Medikamenten versorgt zu werden.
+Der Waffenchip arbeitet wie ein RFID-Label - auch Smart-Tag genannt, mit dem Handelsketten schon bald sämtliche Waren in den Supermärkten ausrüsten wollen.
+Er benötigt keine eigene Stromversorgung und sendet seine Kennung, sobald er in die Nähe eines Scanners kommt.
+Datenschützer kritisieren RFID-Chips als Instrument der totalen Überwachung, weil damit praktisch jeder Jogurtbecher eine individuelle Kennzeichnung bekommt und sein Weg genau verfolgt werden kann.
+Amerikanische Polizisten reagierten skeptisch auf die neue Sicherheitstechnik für Pistolen.
+William Sandmann, ein Polizeiausbilder aus West Palm Beach, warnte vor Fehlfunktionen des Scanners.
+Genauso gut könne der Chip bei einem Handgemenge kaputt gehen oder ein Beamter die Waffe seines Kollegen benötigen.
+Verichip hält derartige Schwierigkeiten jedoch für beherrschbar.
+Eine Waffe ließe sich auch für mehrere Polizisten gleichzeitig freigeben, erklärte Bolton.
+Und die Pistolen könnten bei jedem Schichtwechsel auf ihre Funktionsfähigkeit überprüft werden.

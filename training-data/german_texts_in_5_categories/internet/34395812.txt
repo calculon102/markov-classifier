@@ -1,0 +1,32 @@
+Europas Mobilfunk-Konzerne haben Milliarden für UMTS-Lizenzen ausgegeben.
+Doch während der Markt noch immer auf das UMTS-Zeitalter wartet, setzt sich WLAN schleichend durch.
+Jetzt droht den Mobilfunkern neue Konkurrenz - aus dem Kinderzimmer.
+Sony will die nächste Spielkonsolen-Generation mit WLAN ausrüsten.
+Hamburg ist ein Paradies für mobile Surfer.
+Allein die Initiative Hamburg@work hat inzwischen im Rahmen eines Projektes 45 kostenlos nutzbare Hotspots für den mobilen Internetzugang per Wireless-LAN eingerichtet.
+Weitere 42 Funkknoten stehen den Kunden von AOL zur Verfügung, etwa in Cafés, Bars und Restaurants.
+In anderen deutschen Großstädten sieht es ähnlich aus: W-LAN wächst und wächst.
+Derweil wartet Europa immer noch auf den Durchbruch von UMTS.
+Der einzige, der sich bis jetzt richtig über die für Milliarden Euro ersteigerten Lizenzen freuen konnte, war Finanzminister Hans Eichel.
+Zwar wurde bei der Cebit in Hannover wieder von allen Beteiligten reichlich Optimismus für die Zukunft des teuren Standards verbreitet.
+UMTS-Endgeräte sind aber immer noch nicht in ernstzunehmenden Stückzahlen im Handel, spezielle UMTS-Dienste lassen weiter auf sich warten.
+Entsprechend gering ist die Motivation, einen teuren UMTS-Vertrag abzuschließen.
+Interessant ist der neue Standard bisher in erster Linie für mobile Laptopnutzer, die jederzeit und überall einen schnellen Netzzugang wollen.
+Und gerade da ist W-LAN eine ernstzunehmende und vergleichsweise kostengünstige Alternative - auch wenn man sich zur Nutzung zunächst einen Hotspot suchen muss.
+Besonders in Unternehmen sei der Funknetz-Standard schon sehr verbreitet.
+Die Netzbetreiber setzten unterdessen auf eine Doppelstrategie, UMTS plus W-LAN lautet das Motto.
+Erst kürzlich stellte Nokia das erste Handy vor, das innerhalb eines Hotspots auch das Telefonieren über W-LAN ermöglicht.
+Für UMTS-Kunden wären Hotspots damit preiswerte Inseln inmitten des hochpreisigen UMTS-Meeres.
+Wozu noch UMTS, könnte sich da mancher Kunde fragen, im Gehen bin ich ja doch eher selten online.
+Die Netzbetreiber haben diese Gefahr offenbar erkannt und setzen auf UMTS-Paketpreise.
+Wenn der Kunde ohnehin pro Monat pauschal bezahlt, so die Überlegung, wird er nicht jede UMTS-Verbindung als quälendes Tröpfeln aus dem eigenen Geldbeutel erleben.
+In England gibt es sogar bereits ein Notebook von Fujitsu Siemens für 150 statt 1800 Euro - für Kunden, die gleichzeitig einen Zweijahresvertrag bei Vodafone unterschreiben.
+Der kostet pro Monat zwar 130 Euro, dafür kann der Kunde dann aber UMTS und W-LAN nutzen, je nach Umgebung.
+Ein Hauptproblem für die grenzenlose W-LAN-Freiheit besteht im Augenblick noch in der Vielzahl unterschiedlicher Provider.
+Zwar können manche Hotspots, wie die der Hamburger Initiative Hamburg@work von jedem kostenlos benutzt werden, für viele braucht man aber einen Vertrag mit dem entsprechenden Provider.
+AP Sony-Manager Kutaragi mit PSP-Disk: Konkurrenz zu UMTS?
+Wie der Branchendienst Gamesindustry.biz berichtet, plant Sony für die PSP die Möglichkeit, verschiedene Onlinedienste zu nutzen und innerhalb von Hotspots gegen andere PSP-Besitzer zu spielen.
+Um das drahtlose Daddelvergnügen so einfach wie möglich zu gestalten, will Sony seinen Kunden den Provider-Wirrwarr abnehmen, so Gamesindustry.biz.
+Die Konsolebesitzer könnten dann über einen Vertrag mit Sony einfachen Zugang zu allen Hotspots bekommen, die von den unterschiedlichen eingebundenen Anbietern betrieben werden - aus Kundensicht eine höchst sinnvolle Vereinfachung.
+Bislang scheint es konkrete Pläne in dieser Richtung nur für Japan zu geben, es wäre aber verwunderlich, wenn Sony auf ähnliche Bedingungen und ähnliche Bedürfnisse in Europa und den USA nicht mit einer ähnlichen Strategie eingehen sollte.
+Ein derart vereinheitlichtes Netz von Hotspots wäre eine noch weitaus mächtigere Konkurrenz für UMTS - und sicher nicht nur für Daddler von Interesse.

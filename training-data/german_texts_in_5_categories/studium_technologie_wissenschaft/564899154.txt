@@ -1,0 +1,24 @@
+In Mäuseversuchen haben Forscher Viren gegen Krebszellen kämpfen lassen - die experimentelle Schlacht gewannen die Erreger.
+Die Resultate lassen Mediziner auf eine neue Therapie gegen Hirntumoren hoffen.
+Im Kampf gegen tödliche Krebserkrankungen des Gehirns haben Forscher möglicherweise einen neuen Verbündeten gewonnen: einen manipulierten Erreger aus der Gruppe der Adenoviren, die sonst Erkältungen hervorrufen.
+Adenoviren unter dem Mikroskop: Verbündete im Kampf gegen den Krebs?
+Zwar gab es zuvor bereits ähnliche Versuche, und auch der neue Erreger beruht auf einem schon früher erprobten Virus.
+Doch die verbesserte Version zeigte offenbar einen solchen Erfolg, dass das US-amerikanische National Cancer Institute die Entwicklung eines entsprechenden Medikaments finanzieren will.
+Das Mittel könnte bereits Ende des nächsten Jahres an Menschen erprobt werden.
+Die Wissenschaftler um Juan Fueyo vom M. D. Anderson Cancer Center der University of Texas hatten das Virus namens Delta-24-RGD an Mäusen mit bösartigen Gliomen getestet, der gefährlichsten Form von Hirntumoren.
+Die kranken Tiere bekamen den Erreger direkt in die Geschwulste gespritzt. 60 Prozent der behandelten Nager überlebten länger als vier Monate, während unbehandelte Tiere im Schnitt nach weniger als drei Wochen starben.
+Als die Forscher die Gehirne der behandelten Mäuse untersuchten, fanden sie dort, wo vorher Tumoren waren, nur noch Löcher und Narbengewebe.
+Das Virus Delta-24-RGD ist eine Weiterentwicklung von Delta-24, einem genetisch veränderten Adenovirus, das in früheren Versuchen zwar das Tumorwachstum unterdrücken konnte, aber insgesamt nicht so effektiv war wie erhofft.
+Fueyo und Kollegen veränderten diesen Erreger so, dass er einfacher an Krebszellen andocken kann.
+Glaubt man den Forschern, dann ist die neue Variante sechsmal infektiöser, repliziert sich effizienter und ist überdies für Krebszellen tödlicher als die alte Version.
+Um zwischen gesunden und kranken Zellen unterscheiden zu können, nutzen die Wissenschaftler eine genetische Eigenart von Tumorgewebe: Krebszellen fehlt das so genannte Retinoblastoma-Protein.
+Dieses Eiweiß, kurz Rb-Protein genannt, verhindert in normalen Zellen eine unkontrollierte Vermehrung.
+Fehlt es jedoch, dann teilen sich die Zellen wieder und wieder, es entsteht ein Tumor.
+In gesunden Zellen hat das Rb-Protein noch eine andere Funktion: Es hindert eindringende Viren daran, sich zu replizieren.
+Normale Adenoviren verfügen als Gegenmaßnahme über ein Eiweiß, welches das Rb-Protein bindet.
+Bei Delta-24-RGD ist dieses Virenprotein jedoch ausgeschaltet, wodurch der Erreger in gesunden Zellen keine Chance hat.
+Einzig Krebszellen, die nicht über das Rb-Protein verfügen, werden befallen und vernichtet.
+In einen Tumor gespritzt, breiten sich die Viren wellenartig aus und zerstören die Krebszellen.
+Nur in einer kleinen Zone um das Geschwulst könnten gesunde Zellen in Mitleidenschaft gezogen werden, so die Forscher.
+Ob dadurch beim Menschen neurologische Schäden entstehen, können die Wissenschaftler vor Beginn klinischer Studien nicht sagen.
+Unklar ist auch noch, wie sich das Immunsystem verhält - wenn es die Viren zu früh ausschaltet, könnte der Tumor die Therapie überstehen.

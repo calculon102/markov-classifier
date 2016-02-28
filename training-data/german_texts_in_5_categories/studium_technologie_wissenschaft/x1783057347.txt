@@ -1,0 +1,21 @@
+Das Hickhack um die Implementierung von Java in Windows XP nimmt kein Ende.
+Anfang Februar erwirkte Microsoft einen Aufschub vor Gericht, jetzt will der Konzern eine Aufhebung des Urteils.
+Eigentlich ist Java eine feine Sache: Die Programmiersprache erlaubt es, über das Internet quer über alle Plattformen hinweg vergleichsweise kleine Programme zu übermitteln, die dem Nutzer dann zeitlich begrenzt zur Verfügung stehen.
+So weit die Theorie, in der Praxis jedoch hat Java einen nicht unerheblichen Makel: Es stammt aus dem Hause Sun Microsystems, und das ist einer der ärgsten Konkurrenten von Microsoft.
+Das Gates-Imperium ging darum schon bald nach Veröffentlichung von Java daran, eigene Standards zu entwickeln.
+ActiveX fand jedoch nie die Verbreitung, die Java erreichte, und auch in Sachen Flexibilität hinkt Microsofts Antwort auf die Kaffeetasse für alle hinter der Sun-Entwicklung hinterher.
+Sun war es sehr frühzeitig gelungen, mit Java so etwas wie einen Standard zu schaffen, an dem kein Browser-Entwickler vorbeikam.
+Weil das Web voll Java ist, ist ein Browser, der es nicht beherrscht, nur eingeschränkt nutzbar.
+Für Microsoft ist das noch längst kein Grund, darum stets auf dem letzten Stand zu sein und somit die Technologie eines Konkurrenten zu fördern.
+Ergo verbaute die Gates-Company ins neue Betriebssystem XP eine veraltete Java-Engine - und Sun klagte wegen Wettbewerbsverzerrung.
+Das ist erstens kein Pappenstiel, und zweitens so etwas wie ein rotes Tuch: Microsoft focht das Urteil an.
+Anfang Februar erwirkte der Konzern einen Aufschub, der Microsoft mehr Zeit zur Umsetzung der Forderungen erlaubte.
+Doch Microsoft reicht selbst diese Lösung nun nicht mehr, längst geht es ums Prinzip.
+Als Signal an Sun veröffentlichte Microsoft schon einmal ein kleines Update, das die alte Java-Version aus Windows XP entfernt.
+Doch damit ist die Sache längst nicht ausgestanden.
+Sun Microsystems, sagen die Microsoft-Anwälte, habe im ersten Prozess nicht nachweisen können, dass Microsofts Weigerung, den neuesten Java-Standard zu implementieren, eine unmittelbare und irreparable Schädigung seiner Interessen darstelle.
+Das aber sei doch Voraussetzung für die behauptete Wettbewerbsverzerrung.
+Diese Argumentation findet sich nun in einem Antrag auf ein Berufungsverfahren.
+Nun mahlen die Mühlen der Justiz auf ein Neues, und Sun wird auf die Implementierung von Java weiter warten dürfen.
+Wie auch die XP-User, die sich nun im Bedarfsfall das Programm-Applet erst aus dem Netz herunterladen müssen.
+Das geht zwar schnell, ist aber lästig.

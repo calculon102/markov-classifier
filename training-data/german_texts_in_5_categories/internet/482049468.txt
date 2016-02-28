@@ -1,0 +1,25 @@
+Emanuele Aliberti und sein weltweit verteiltes Team von Open-Source-Programmierern stricken am alternativen Betriebssystem der Zukunft.
+Ihr Ziel: Absolute Kompatibilität zu Windows, aber kostenlos, sicherer und unkomplizierter.
+Ein Alptraum für Microsoft, ein Traum für PC-Nutzer.
+Wenn man Programmierer nach ihren gerade laufenden Projekten fragt, füllen sich ihre Augen normalerweise mit Glanz und ihre Sätze mit Superlativen.
+Nicht so bei Emanuele Aliberti.
+Na gut, wir werden uns bemühen.
+Was wir hiermit erledigt hätten.
+Bei aller gebotener Zurückhaltung und ganz ohne falsche Begeisterung: Was sich Aliberti und seine Mitstreiter vorgenommen haben, könnte sich zu einer mittleren Sensation mausern.
+Die zwanzig bis dreißig weltweit verstreuten Entwickler werkeln an einem Betriebssystem, das hundertprozentig kompatibel zu Windows-Applikationen und Gerätetreibern sein soll.
+In Sachen Ausnutzung der Hardware-Resourcen will man den Weltkonzern sogar noch übertreffen und ganz nach GNU-Tradition wird das System für jeden Nutzer kostenlos sein.
+Der kleine Idealistentrupp möchte mit ReactOS das Haupthindernis für einen Wechsel des PC-Betriebssystems elegant umgehen.
+All diese Probleme hätte der ReactOS-Anwender nicht: Mit einem Schlag stände ihm die ganze Welt der Windows-Applikationen offen.
+Zurzeit liegt das System in der Version 0.2 vor und neben dem Explorer und einem Minesweeper-ähnlichem Spiel lassen sich nur ein paar systemeigene Programme bewundern.
+Zeitplan: Ein Jahr bis zum Launch?
+Weidenmüller ist sich sicher, dass spätestens im Frühjahr 2005 das alternative Betriebsystem für alltägliche Arbeiten geeignet sein wird.
+Textverarbeitung, E-Mailen oder das Web durchstreifen sollen dann problemlos möglich sein.
+ReactOS geht auf die Initiative FreeWin95 zurück, die 1996 einen freien Windows95-Klon züchten wollte.
+Dummerweise verloren sich die Programmierer in Grundsatzdebatten und Glaubenskriegen, was ihre produktive Arbeit arg lähmte. 1997 tauchte dann mit Jason Filby die Persönlichkeit auf, die dem zerstrittenen Haufen bislang offenbar gefehlt hatte.
+Der 25jährige Oracle-Entwickler aus Durban in Südafrika stellte das Projekt vom Kopf wieder auf die Füße und gab als neue Marschrichtung die Programmierung eines Windows-NT-kompatiblen Systems aus.
+Klar, die ideale Reaktion auf Unzufriedenheit ist seit je her: Besser machen.
+Fortan wurde auch eng mit dem WINE-Team kooperiert, das sich seit Jahren müht, Windows-Programme unter Linux lauffähig zu machen.
+Trotz der Nähe zum Linux-Team ziehen die Entwickler jedoch eine klare Trennlinie.
+Berührungsängste zum Redmonder Riesen existieren offensichtlich nicht.
+Direkte Kontakte zum Softwarekonzern gab es allerdings noch nicht.
+Und ein wenig Begeisterung scheint auf einmal doch mit zu schwingen.

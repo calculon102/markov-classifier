@@ -1,0 +1,34 @@
+Egal ob SAP, Siemens oder IBM, auf der Computermesse Cebit zeigen viele Firmen denkbare Einsatzgebiete für die RFID-Technologie.
+Die Industrie erkennt zahlreiche Nutzungsmöglichkeiten, wo Datenschützer vor allem Gefahren sehen.
+Geld verdienen lässt sich darum auch mit Gegenmaßnahmen.
+Bisher bezeichnet der klassische Strichcode nur die Sorte des jeweiligen Produkts.
+Jetzt lassen sich mit den Transpondern alle Produktdaten viel einfacher mit Liefer- und Bestandsinformationen verknüpfen.
+Was die Logistiker erfreut, beunruhigt schon jetzt Datenschützer und Bürgerrechtler.
+Die Überwachungsmöglichkeiten der Kunden kann man zum jetzigen Zeitpunkt nur erahnen und die Funktransponder werden auch in anderen Bereichen Einzug halten.
+Denn auf den kleinen Chips mit Antennen kann weit mehr gespeichert werden als eine Nummer zur Identifikation.
+Die Firma Cypak (Halle 17, Stand G11) aus Stockholm hat eine RFID-Lösung im Angebot, die sich in die Verpackung von Medikamenten einbauen lässt.
+Der Datenspeicher von 32 kByte kann mehre Druckseiten speichern und die Informationen können verschlüsselt abgelegt werden.
+Jede Entnahme eines Medikaments wird aufgezeichnet und mit einer Zeitmarke versehen.
+Die Technik kann mit einem elektronischen Tagebuch und Erinnerungen durch akustische Signale ergänzt werden.
+Hier geht es um sensible persönliche Daten, und man kann sich vorstellen, was passiert, wenn Informationen über eingenommene Medikamente in die falschen Hände geraten.
+Cypak auch hat für die schwedische Post eine Verpackung entwickelt, die Absender- und Empfängerdaten speichert.
+Der Empfänger wir informiert, falls sich jemand an einem Paket zu schaffen gemacht hat.
+Die Seeburger AG aus Bretten ist ein bekannter Anbieter von branchenspezifischen Business-Integration-Lösungen und bietet eine komplette RFID-Lösung von der Prozessanalyse bis zur Integration aller Geschäftspartner an.
+Ein RFID-System besteht aus dem Transponder, dem Lesegerät mit Antenne und der Applikationssoftware.
+Der Kostenfaktor war bisher das größte Hindernis bei der Einführung von Funktranspondern, deshalb bietet das Unternehmen seinen Kunden die Transponder kostenlos an und die Infrastruktur kann gemietet werden.
+Funktransponder können auf allen Produkten angebracht werden und ermöglichen eine lückenlose Verfolgung im Unternehmen.
+Entscheiden werden die Kosten, wann Unternehmen auf die Funktechnik umsteigen und ihre Produkte mit Transpondern ausstatten.
+Manchmal hilft allerdings auch Druck von oben nach, denn der Konzern Wal-Mart verlangt von seinen Zulieferern, schon im nächsten Jahr auf RFID umzusteigen.
+Auch die Metro-Gruppe ist mit ihrem Testlauf im Futurestore Rheinberg so zufrieden, dass ab November 250 Läden von Real und Kaufhof mit den funkenden Etiketten ausgestattet werden.
+Das amerikanische Verteidigungsministerium verlangt ab 2005, dass alle Lieferungen an das Ministerium mit einem Funketikett ausgestattet sein müssen, egal ob es sich um Stiefel, Handgranaten oder Zahnbürsten handelt.
+RSA: Umsatz mit Anti-RFID-Sendern?
+Datenschützer wenden sich gegen die weltweite Rückverfolgung gekaufter Produkte und fordern eine Blockierung der Daten nach dem Verlassen des Geschäfts.
+Die Funktransponder sind so klein, dass man sie als Verbraucher kaum erkennen kann und eine Kennzeichnungspflicht gibt es bisher nicht.
+Außerdem brauchen die Chips keinen Anstoß um aktiv zu werden, denn sobald sie in die Reichweite eines passenden Sensors gelangen, werden Daten ausgetauscht.
+RSA-Security (Cebit Halle 6, Stand G17) aus Bedford in Massachusetts hat bereits einen Störsender entwickelt, der die Kommunikation zwischen Sender und Empfänger stört.
+Die Bürgerrechtler vom FoeBud aus Bielefeld sind mit der Entwicklung des DataPrivatizer beschäftigt.
+Mit dem kleinen Gerät sollen Kunden schon die versteckten Funkchips aufspüren können.
+Die Firmen sind angehalten, dass Vertrauen ihrer Kunden nicht durch Heimlichkeiten bei der Einführung von Funktranspondern zu gefährden.
+Transparenz ist das Gebot der Stunde und die Lesbarkeit der Tags muss mit dem Verlassen des Ladens ebenfalls zu Ende sein.
+In aktuellen Diskussionen zum Datenschutz und dem Erhalt bürgerlicher Rechte dominieren derzeit allerdings die Überwachungsfreunde aller politischen Richtungen.
+Die Funktransponder werden kommen und die Datenschützer sind jetzt gefordert.

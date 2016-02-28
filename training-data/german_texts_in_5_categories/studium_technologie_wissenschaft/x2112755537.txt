@@ -1,0 +1,20 @@
+In einen Teelöffel passen 15 Billiarden Computer: Israelische Forscher haben den bislang kleinsten Rechner auf DNS-Basis entwickelt.
+Sogar der Treibstoff des neuen Modells besteht aus dem Erbmolekül.
+Pünktlich zum 50. Geburtstag der Doppelhelix-Entdeckung durch James Watson und Francis Crick haben israelische Forscher ein neues Modell ihres DNS-Computers vorgestellt.
+Seit einiger Zeit arbeiten Forscherteams an molekularen Computern auf DNS-Basis, die in manchen Disziplinen einmal herkömmlichen elektronischen Superhirnen überlegen sein könnten.
+Bislang beruhten die Entwürfe jedoch meist auf einem Molekül namens ATP, das in den Zellen sämtlicher Lebensformen die Standard-Energieeinheit darstellt und auch als eine Art Treibstoff die Erbgut-Rechner laufen lassen sollte.
+Damit entwickeln die Forscher einen früheren Flüssigrechner weiter, den sie vor gut einem Jahr präsentiert hatten.
+Das Wasserhirn besteht im Prinzip aus einer Lösung, die Software in Form von DNS-Molekülen enthält.
+Die Eingabe erfolgt, indem Daten ebenfalls als DNS-Stränge beigefügt werden.
+Bei jedem Rechenschritt verbindet sich ein Eingabemolekül spontan mit einem Softwaremolekül.
+Das biochemische Programm veranlasst dann ein in der Flüssigkeit enthaltenes Enzym, das Eingabemolekül zu spalten.
+Dieses Protein, das so genannte FokI, stellt die Hardware des DNS-Rechners dar.
+Zugleich sorgt es für den Betrieb des Bio-Computers: Beim Spalten des Eingabemoleküls löst es zwei chemische Bindungen.
+Die darin gespeicherte Energie wird als Wärme freigesetzt, die den Betrieb des Flüssigrechners ohne ATP oder einer anderen externe Energiequelle erlaubt.
+Das Ergebnis gibt das wässrige Superhirn in Molekülform aus.
+Wie Shapiro und seine Kollegen kalkuliert haben, passen in einen Teelöffel 15 Billiarden Recheneinheiten.
+Diese wären demnach zusammen in der Lage, in einer Sekunde 330 Billionen Rechenschritte auszuführen.
+Die Genauigkeit liegt, so die Wissenschaftler, bei 99,9 Prozent pro Rechenschritt.
+Die Funktionstüchtigkeit der nassen Maschine hat das Team um Shapiro mit einigen relativ einfachen Reaktionen erprobt.
+Wenn der Bio-Computer eines Tages kompliziertere Aufgaben lösen kann, ließe er sich zum Beispiel bei der automatischen Analyse von DNS-Material einsetzten.
+Auch Anwendungen im menschlichen Körper sind denkbar: Dort könnten molekulare Rechner in ferner Zukunft auf biochemische Veränderungen reagieren und im Bedarfsfall ein Medikament als Ergebnis ausschütten.

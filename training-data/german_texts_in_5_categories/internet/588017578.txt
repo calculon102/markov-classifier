@@ -1,0 +1,26 @@
+Ziel des Angriffes: Microsoft.
+Am 16. Juli sah sich Microsoft wieder einmal gezwungen, die Hosen herunterzulassen: Eindringlich warnte das US-Unternehmen vor den klaffenden Sicherheitslücken in der eigenen Software.
+Betroffen sind in diesem Fall ausgerechnet die Anwender von Windows 2000 und XP, Betriebssystemen, die im Vergleich zu den Vorgänger-Programmen 95 und 98 als relativ sicher galten.
+So was ist zwar peinlich, andererseits aber auch nicht ungewöhnlich.
+Wer Microsofts Newsletter abonniert hat, bekommt regelmäßig entsprechende Warn-Postund in aller Regel passiert dann ja doch herzlich wenig.
+Wie auch das aktuelle Beispiel - zumindest bisher - zeigte.
+Bis gestern Nacht.
+Da begann ein Viren-Wurm um die Welt zu ziehen, an den man sich am Microsoft-Firmensitz in Seattle möglicherweise länger erinnern wird.
+Blaster will etwas, und zwar von Microsoft.
+Microsoft hingegen will, dass die User das Sicherheitspatch gegen die RPC-Sicherheitslücke installieren, so lange das noch geht.
+Denn Blaster will das gern unterbinden: Das Virus schließt einige Ports der befallenen PCs, öffnet etliche andere und bereitet eine Denial-of-Service-Attacke vor, die sich gewaschen hätte, wenn sie gelingt.
+Vom 15. August bis zum 31. Dezember planen die Blaster-Autoren, Microsoft unter Dauerfeuer zu nehmen.
+Zielpunkt der Attacke: Die Update-Seiten, über die man unter anderem die Sicherheitsloch-Flicken beziehen kann, die die Attacke vielleicht noch verhindern könnten.
+Zehntausende von Rechnern, melden Sophos und Symantec, seien schon befallen.
+Viele Computer-Nutzer werden einen Angriff nicht sofort bemerken, da sich der Wurm nicht über E-Mail verbreitet.
+Neben dem aktuellen Microsoft-Flicken brauche man deshalb auch dringend ein Update des Virenscanners.
+Einige der IT-Sicherheitsunternehmen haben bereits Tools bereit gestellt, mit denen sich Blaster/LoveSan entfernen lässt.
+Die Blaster-Attacke: Auftakt einer Angriffswelle?
+Zwar zerstöre Blaster zunächst keine Daten auf den befallenen Rechnern.
+Der Wurm könne aber zu unkontrollierbaren Abstürzen führen, warnt das Bundesamt für Sicherheit in der Informationstechnik BSI.
+Wichtiger noch ist aber, dass Blaster ganz nebenbei einige Ports als Hintertürchen offen hält, was prinzipiell die völlige Fernsteuerung des Heimrechners ermöglichen würde.
+Nicht nur deshalb erwartet Alfred Huger, Virenexperte bei Symantec, dass die Blaster-Attacke erst der Beginn eines rauen Rittes auf der RPC-Sicherheitslücke darstellt.
+Ansatzpunkte finden die Virenschreiber stets genug: Neben den offen Ports der bereits befallenen Rechner bieten sich weiterhin die bekannten Sicherheitslücken von Windows an, die von zu vielen Nutzern nicht rechtzeitig geflickt werden.
+Doch selbst wenn, bedeutet das keinen völligen Schutz: Auch das aktuellste Microsoft-Sicherheitspatch schließt nicht alle bereits bekannten Sicherheitslücken.
+Neben dem durch den Flicken behebbaren Leck im RPC-Dienst klafft da nämlich noch ein Löchlein - am gleichen Orte, knapp neben dem Flicken: Das wird dann wohl beim nächsten Update gestopft.
+Bis dahin, rät Heise, sollte man ein Auge auf die UDP- und TCP-Ports 135 bis 139 sowie 445 und 593 halten: Dort findet man den Hintereingang für ungebetene Besucher.

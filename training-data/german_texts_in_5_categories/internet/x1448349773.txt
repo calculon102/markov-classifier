@@ -1,0 +1,31 @@
+Die Kritiker von Softwarepatenten machen wieder europaweit mobil.
+Mit Demonstrationen, Kundgebungen und Aktionen soll die Verabschiedung der europäischen Patentrichtlinie verhindert werden.
+Viele Entwickler von Software und mittelständische Firmen befürchten, dass mit einer Patentierung ihre Arbeit unmöglich gemacht wird.
+Dabei haben sich die Abgeordneten des Europäischen Parlaments schon im letzten Jahr gegen Patente auf Software ausgesprochen.
+Doch diese Entscheidung wurde gegen den starken Widerstand von EU-Kommission, Ministerrat und Industrielobby getroffen.
+Der niederländische EU-Kommissar Frits Bolkestein hatte schon zu Anfang der Debatte angekündigt, eine Richtlinie für Softwarepatente auf jeden Fall durchsetzen zu wollen.
+Nachdem während der irischen Präsidentschaft ein Vorschlag die Diskussion wieder neu entfacht hat, sieht sich der Europäische Rat im Aufwind und auch die Industrie ist bemüht, eine Entscheidung in ihrem Sinn herbeizuführen.
+Das Rundschreiben ging an die Entwicklungsabteilungen verschiedener Unternehmen, mit der Bitte um Unterstützung.
+Das Info-Netzwerk silicon.de berichtet von Drohungen aus der TK-Branche, Investitionen in Milliardenhöhe aus Europa abzuziehen, wenn sich das Europäische Parlament durchsetzen sollte und sich gegen Softwarepatente entscheidet.
+Der Förderverein für eine Freie Informationelle Infrastruktur (FFII) geht davon aus, dass in Europa bereits 30.000 Patente auf Software erteilt wurden.
+Bisher ohne rechtliche Grundlage, denn das Europäische Patentabkommen lässt keinen Zweifel daran, dass Software und Algorithmen durch Patente nicht zu schützen sind.
+Etwa drei Viertel der Patente kommen von Firmen aus den USA und Japan.
+Die von Nokia und anderen großen Firmen ungefragt vereinnahmten kleinen Firmen fühlen sich in der ungleichen Allianz nicht recht wohl, denn sie sehen durch Softwarepatente ihre Existenz gefährdet.
+Was bedeutet das für unser Unternehmen mit mehreren Dutzend Snort Installationen?
+Große Unternehmen regeln ihre Patentangelegenheit mit einer eigenen Abteilung und dabei sind auch ungewöhnliche Kooperationen möglich.
+Microsoft und Siemens haben Anfang Mai eine Vereinbarung getroffen, die den Zugriff auf alle Patente der beiden Unternehmen gestattet.
+Allein Siemens hat im letzten Jahr 5,1 Milliarden Euro für Forschung ausgegeben und hält weltweit etwa 45.000 Patente.
+Zwischen großen Konzernen ist die Weitergabe oder der Tausch von Patenten ein alltägliches Geschäft.
+Kleine Firmen und Freiberufler können da kaum mithalten.
+Linux-Verband EU-Parlament: Kommitees Recht und Binnenmarkt EU-Patentübereinkommen: Was ist patentierbar?
+Der Entwickler ist der Einzige, der die Software weiterentwickeln und Serviceleistungen anbieten darf.
+Jeder, der ein Computerprogramm von Anfang an selbstständig entwickelt, kann heute davon ausgehen, dass er keine Rechte Dritter verletzt.
+Auf einer Protestveranstaltung vor dem Bundesjustizministerium haben die Kritiker jetzt unerwarteten Beistand erhalten.
+Ministerialdirektor Elmar Hucko hat sich auf die Seite der Demonstranten geschlagen und erklärt, dass die Bundesregierung im Rat gegen die umstrittene Softwarerichtlinie stimmen wird.
+Auch in Regierungskreisen scheint sich die Einsicht durchzusetzen, dass Softwarepatente amerikanische Verhältnisse schaffen könnten und sich zur Verdrängung der Konkurrenz missbrauchen lassen.
+In den Vereinigten Staaten haben die Aktivisten der Electronic Frontier Foundation (EEF) ebenfalls mit Aktionen gegen Software- und Internetpatente begonnen.
+Sie kritisieren den Schutz durch Patente für große Unternehmen und die Benachteiligung von Institutionen, die ohne Profite arbeiten wollen.
+Die EFF dokumentiert unsinnige Patente, wie zum Beispiel das 1-Click-Patent von Amazon.
+Der Buchhändler ermöglicht registrierten Kunden mit nur einem Mausklick eine Bestellung aufzugeben und geht gerichtlich gegen Nachahmer des Verfahrens vor.
+Noch ist die Entscheidung zu Softwarepatenten nicht gefallen.
+Das letzte Wort in dieser Sache hat weder die Kommission, noch der Ministerart, sondern im Herbst das neu gewählte europäische Parlament.

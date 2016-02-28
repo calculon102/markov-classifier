@@ -1,0 +1,23 @@
+Microsofts großer Wurf in Sachen Sicherheit gilt zwar insgesamt als gelungen, bringt jedoch manches laufende Windows-XP-System aus dem Tritt.
+Programme verhalten sich seltsam oder verweigern den Dienst ganz.
+Weitere Updates sollen die Konflikte beseitigen.
+Für Privatanwender hat Microsoft sein Service Pack 2 eigentlich noch gar nicht freigegeben.
+Wer unter Windows XP ein automatisches Software-Update startet, lädt zwar einige Programmaktualisierungen vom Microsoft-Server herunter - das Service Pack 2 lässt jedoch noch auf sich warten.
+Bislang gibt's das lange angekündigte Sicherheitspaket nur zum Download und Installieren per Hand.
+Das Aufspielen des Programms ist keine Sache von ein paar Minuten - der Rechner ist für eine Stunde blockiert.
+Wer versucht, Software aus dem Internet herunterzuladen, zu installieren oder zu starten, wird durch ein sich öffnendes Fenster vor möglichen Risiken gewarnt.
+IT-Sicherheitsexperten haben Service Pack 2 als Schritt in die richtige Richtung begrüßt, kritisieren jedoch unter anderem, dass Microsoft den Umgang mit Administrator-Rechten nicht grundlegend neu geregelt hat, um Windows noch sicherer zu machen.
+Anwender, die das Update bereits installiert haben, klagen über diverse Probleme mit der aufgemöbelten Windows-Version.
+Beispielsweise behindern sich Sicherheitsfunktionen gegenseitig: Wenn man Norton Antivirus von Symantec installiert hat, beschwert sich Windows mit Service Pack 2 über einen fehlenden Schutz.
+Denn diese Antiviren-Software weigert sich aus Sicherheitsgründen, externen Programmen Auskunft über den eigenen Status zu geben.
+Symantec hat angekündigt, seine Software so zu ändern, dass sie mit dem Service Pack 2 zusammenarbeitet.
+Doch dies ist längst nicht das einzige Problem.
+Microsoft hat im Web mittlerweile eine Liste von rund 50 Programmen veröffentlicht, bei denen Schwierigkeiten im Zusammenspiel mit Service Pack 2 dokumentiert sind.
+Dazu gehören ironischerweise auch Produkte aus dem Hause Microsoft selbst, wie Visual Studio .NET oder die Server-Software Systems Management 2003.
+Bei den meisten Programmen dürfte die per Default eingeschaltete Firewall für die Schwierigkeiten verantwortlich sein.
+Dadurch können die Programme nicht mehr wie vor dem Update über das Internet zu anderen Systemen Kontakt aufnehmen.
+Doch auch beim Internet-Explorer und programmierten Erweiterungen können Probleme auftreten.
+Das Auktionshaus eBay informierte seine Kunden darüber, dass einige Funktionen der eBay-Toolbar nicht mehr funktionieren.
+Die Meldungen über Inkompatibilitäten dürften viele User abschrecken, Service Pack 2 zu installieren, obwohl es - sicherheitstechnisch gesehen - Windows XP ein ganzes Stück nach vorn bringt.
+Wer das Update installieren will, sollte am besten zuvor seine Daten sichern und, wenn möglich, ein Image des Systems erstellen.
+Dies empfiehlt übrigens auch Microsoft selbst.

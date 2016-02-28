@@ -1,0 +1,27 @@
+Datenschützer schlagen Alarm.
+Bei der Fußball-EM in Portugal haben nur diejenigen Fans eine Eintrittskarte erhalten, die bereitwillig ihre persönlichen Daten preisgegeben haben.
+Name, Adresse, Telefonnummer, Nationalität und Kreditkartennummern sind in die Computer der Uefa gewandert.
+Auf den Eintrittskarten zu den Spielen der Fußball-EM ist nicht nur eine Seriennummer aufgedruckt, sondern auch der Name des Käufers.
+Mit der Akzeptanz der Geschäftsbedingungen erklärt sich der Zuschauer auch bereit, auf Verlangen seinen Ausweis vorzuzeigen.
+Ein anonymer Besuch im Stadion wird so nahezu unmöglich gemacht.
+Der DFB vertreibt die Karten im Auftrag der Uefa und äußert sich nicht weiter zu dem Bestellvorgang.
+Neben der personalisierten Kontrolle erhalten die Fußballverbände auch eine aktuelle und damit überaus lukrative Datensammlung der Zuschauer.
+Was mit der Europameisterschaft in Portugal beginnt, findet nach dem Willen der Veranstalter bei der Weltmeisterschaft in Deutschland seine Fortsetzung.
+Auch hier gibt es die Tickets nur in personalisierter Form und sie werden zusätzlich mit einem kleinen Sender versehen.
+Die Kartenwünsche können im ersten Quartal 2005 abgegeben werden und der Interessent muss dazu Namen, Adresse, Telefonnummer, Ausweisnummer und die Zahlungsweise angeben.
+Er erhält eine schriftliche Bestätigung und wenn er zu den glücklichen Käufern gehört, wird das Ticket einige Wochen vor dem Turnier zugeschickt.
+Die Organisatoren wollen das Internet als Hauptvertriebskanal nutzen und auch an den offiziellen Verkaufsstellen kann man die Karten nicht anonym mit Bargeld, sondern nur per Kreditkarte erwerben.
+Die Kritiker befürchten, dass nach dem Turnier die neue Kontrolltechnik auch in den Stadien der Bundesliga eingeführt wird.
+Schon im Januar hat das Organisationskomitee der WM auf dem Branchentreffen der Chipkarten-Industrie seine Pläne erläutert.
+Welches Unternehmen das Vorhaben umsetzen soll, ist noch offen, aber mit Philips ist bereits ein geeigneter Partner aus dem Feld der Sponsoren zum Berater aufgestiegen.
+Die Fragen des Datenschutzes sind noch nicht gelöst, und bei internationalen Veranstaltungen haben die deutschen Behörden nur eingeschränkte Einflussmöglichkeiten.
+In der Vergangenheit gab es immer Bestrebungen, eine personalisierte Eintrittskarte einzuführen.
+Er ist beim Regierungspräsidenten Darmstadt für den Datenschutz beim DFB zuständig.
+Bisher liegt uns auch kein Konzept des Veranstalters vor und eine datenschutzrechtliche Bewertung ist noch nicht möglich.
+Eine endgültige Entscheidung ist noch nicht gefallen und es wird auch darum gehen, was auf den RFID-Tickets letztlich gespeichert wird.
+In Verbindung mit Funketiketten auf Fan-Produkten oder Bewegungsmeldern könnte im schlimmsten Fall ein optimales Profil der zahlungskräftigen Fans erstellt werden.
+Die ersten Erfahrungen von Bürgerrechtlern mit der Funktechnologie haben bisher nicht für besonderes Vertrauen gesorgt.
+So hat zum Beispiel der Metrokonzern in seinem Superstore nicht nur die Produkte mit Transpondern ausgestattet, sondern heimlich auch die Kundenkarten der Käufer.
+Die Weltmeisterschaft in Deutschland soll nicht nur guten Fußball zeigen, sondern die Verantwortlichen wollen auch mit technischen Innovationen glänzen.
+Neben der Einführung von personalisierten Eintrittskarten mit Funktranspondern will der Branchenverband Bitkom das Turnier auch zum Experimentierfeld für biometrische Überwachungsverfahren machen.
+Es ist zu befürchten, dass datenschutzrechtliche Bedenken im WM-Fieber allzu leicht ignoriert werden.

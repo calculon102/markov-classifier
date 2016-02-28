@@ -1,0 +1,26 @@
+US-Bürger erleben gerade, dass Privatfernsehen mitunter wenig mit Privatsphäre zu tun hat. 700.000 Nutzern des Digitalen Videorecorders der Marke Tivo schauen Marktforscher beim Fernsehen über die Schulter.
+Janet Jacksons Enthüllung beim Superbowl-Finale am Sonntag hat nicht nur selbsternannte Sittenwächter auf den Plan gerufen.
+Die Folgen des Live-Strips beschäftigen inzwischen auch amerikanische Datenschützer.
+Grund ist eine Veröffentlichung des TV-Dienstes Tivo.
+Das Unternehmen hat inzwischen 700.000 Abonnenten mit Digitalen Videorecordern ausgestattet, mit denen Zuschauer Sendungen Zeit-versetzt anschauen und somit auch die Werbung überspringen können.
+Das Aufnehmen einer Sendung machen die Set-Top-Boxen mit eingebauter Festplatte zum Kinderspiel: Ein Knopfdruck im elektronischen Programmguide genügt.
+Diesen Guide liefert Tivo digital via Modem an seine Kunden.
+Doch die Informationen fließen nicht nur zum Zuschauer hin, Tivo holt sich auch einiges an Daten wieder zurück.
+Auf die Sekunde genau erfährt das Unternehmen, welches Programm auf welcher Set-Top-Box gerade läuft, wie oft Zuschauer eine bestimmte Szene zurückspulen und noch einmal anschauen und welche Werbeblöcke sie überspringen.
+Tivo-Abonnenten hätten sich die Szene drei Mal hintereinander angeschaut.
+Der Strip - ob gewollt oder ungewollt -, sei somit die am häufigsten wiederholte Szene in der dreijährigen Zuschauermessung überhaupt.
+Tivo-Sprecher Scott Sutherland erklärte gegenüber dem Newsdienst Cnet, dass sich das Unternehmen an seine Datenschutzregeln halte.
+Auch wenn es denkbar wäre, das Fernsehverhalten jedes einzelnen Kunden zu analysieren, tue Tivo dies nicht.
+Es würden nur gelegentlich die Daten von 20.000 zufällig ausgewählten Zuschauern erfasst und statistisch ausgewertet.
+Der Sprecher betonte, auch beim Superbowl sei man so verfahren.
+Bedenken unter Datenschützern hatte auch ein in dieser Woche abgeschlossener Vertrag von Tivo mit dem Marktforschungsunternehmen Nielsen Media Research geweckt.
+In dem Vertrag verpflichtet sich Tivo, Nielsen mit anonymisierten Daten über die Benutzung des Digitalen Videorecorders zu versorgen.
+Nielsen interessiert sich unter anderem für Alter und Geschlecht der Abonnenten.
+Diese mussten der anonymen Teilnahme an der Untersuchung allerdings zuvor zugestimmt haben.
+Vor allem das mit den Digitalen Recordern problemlose Überspringen der Werbung bereitet den TV-Stationen Kopfschmerzen, weil sie um ihre Einnahmen fürchten.
+Gleichzeitig lockt sie jedoch die Möglichkeit, das Verhalten ihrer Zuschauer mit bisher kaum möglicher Präzision auszuspähen.
+Während der gläserne Fernsehzuschauer in Amerika teilweise schon Realität ist, bahnt sich auch in Deutschland Ähnliches an.
+Vor allem das Zusammenwachsen von PC, Fernseher und Videorecorder zu einem Gerät - in der IT-Branche Media Center genannt -, erleichtert die Überwachung der Zuschauer.
+Weil diese Media Center ihre Programmguide-Informationen aus dem Internet beziehen und permanent online sind, ist auch der Rückkanal offen.
+Wer wann welche Sendung sieht; können die TV-Dienste-Anbieter problemlos auf ihren Servern erfassen.
+Die Marktforscher reiben sich die Hände.

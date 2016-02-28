@@ -1,0 +1,32 @@
+Seit heute ist der Open-Source-Browser Firefox offiziell erwachsen - das Preview-Stadium ist vorbei.
+Die 1.0-Version überzeugt als schneller, schlanker und individuell konfigurierbarer Browser.
+Microsoft setzt derweil auf Add-Ons, um den funktional unterlegenen Internet Exporer aufzuhübschen.
+Seit heute morgen ist er fertig: Firefox 1.0 steht auf den Mozilla-Servern zum Download bereit, selbstverständlich kostenlos, schließlich handelt es sich um ein Open-Source-Produkt.
+IT-Experten lobten den schlanken, schnellen Browser bereits in der Vorversionen.
+Er unterstützt in einem Fenster mehrere Tabulatoren (Tabbed Browsing), bindet diverse Suchfunktionen ein, blockt Pop-ups und ermöglicht eine intelligente Passwortverwaltung.
+Als Preview-Version brachte es der Browser auf acht Millionen Downloads.
+Die nun veröffentlichte 1.0-Ausgabe dürfte diese Zahl weit übertreffen - nicht zuletzt, weil der Browser den Angriff auf den Marktführer Internet Explorer wagen will.
+Firefox und der Mutterbrowser Mozilla sind längst keine Programme mehr für IT-Freaks und Open-Source-Jünger allein.
+In Punkto Bedienung und Schlichtheit kann sich der Explorer mehr als nur eine Scheibe von Firefox abschneiden.
+Die Menschen würden begreifen, dass der Browser, den sie auf ihrem Rechner fänden, nur einen Startpunkt markiere und keinen Endpunkt.
+Veröffentlicht wurde die 1.0-Version parallel in 14 Sprachversionen, darunter auch Deutsch.
+Gerade mal 4,5 Megabyte ist die Installationsdatei groß.
+Die Version unterscheidet sich von der letzten Preview-Variante vor allem durch korrigierte Fehler (Bug-Fixes) und eine bessere Unterstützung von Links, die über andere Programme geöffnet werden.
+Hier hat der Surfer jetzt die volle Gewalt darüber, ob die Seite in einem neuen Tab, einem existierenden Tab oder einen neuen Fenster angezeigt werden soll.
+Ob Firefox den Browsermarkt tatsächlich durcheinander wirbeln kann, werden die nächsten Monate zeigen.
+Der Markt wird klar vom Internet Explorer dominiert, der es auf rund 90 Prozent Marktanteil bringt.
+Microsofts Browser gerät jedoch immer wieder wegen auftretender Sicherheitslöcher in die Kritik, viele IT-Experten raten sogar generell davon ab, den Explorer zum Surfen einzusetzen.
+Auch wenn belastbare Statistiken kaum möglich sind, so scheint Firefox immer mehr Freunde gefunden zu haben.
+Nach Jahren des Stillstands tut sich tatsächlich etwas auf dem Browsermarkt - langsam, aber stetig.
+Browser-Trends: Firefox gewinnt an Fahrt (02.11.2004) Web-Gerüchte: Google + Firefox = Watsche für Microsoft?
+Dabei stand es anfangs gar nicht so gut um das Mozilla-Projekt. 1998 entschied Netscape, den Code seines ehemals marktbeherrschenden Browsers unter der Open-Source-Lizenz zu veröffentlichen.
+Die ersten Ausgaben der Mozilla-Suite, zu der auch ein Mail-Programm gehört, fanden jedoch kaum Anhänger.
+Zu überfrachtet kam das Programm daher und bot kaum eine attraktive Alternative.
+Doch von Version zu Version wurde Mozilla stabiler und besser.
+Nur das Größenproblem ließ sich nicht lösen.
+So beschloss die Entwickler-Community, aus Mozilla heraus einen kleinen, flotten Browser zu bauen.
+Nach knapp zwei Jahren kann das Ergebnis auf Windowssystemen, Mac OS und unter Linux besichtigt werden.
+Obwohl Microsoft einen riesigen Vorsprung besitzt, scheint man sich in Redmond doch einige Sorgen um den Internet Explorer zu machen.
+Vor wenigen Tagen startete der Software-Gigant eine Übersichtsseite, um Explorer-Nutzern schnellen Zugriff auf verfügbare Add-Ons von Drittanbietern zu geben.
+Dort finden sich dann Dinge wie ein Pop-up-Blocker oder ein Tabbed-Browsing-Tool, die bei Firefox und Mozilla längst Standard sind.
+Microsoft-Suchdienst vor dem Start?

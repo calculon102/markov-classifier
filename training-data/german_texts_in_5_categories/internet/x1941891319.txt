@@ -1,0 +1,22 @@
+Als der Risiko-Kapitalgeber BayStar im Herbst letzten Jahres stolze 50 Millionen Dollar in das umstrittene Unternehmen SCO investierte, machte das weltweit Schlagzeilen.
+Damit schien der Linux-Jäger für seinen juristischen Feldzug gewappnet.
+Jetzt will der Investor sein Geld zurück.
+SCO gilt als meistgehasstes IT-Unternehmen der Welt, seit die Firma damit begonnen hat, Copyrights auf Teile des Linux-Codes in Anspruch zu nehmen und Lizenzgebühren für die Linux-Nutzung einzuklagen.
+Der Prozess gegen IBM (und inzwischen einige andere Großunternehmen) dauert seit gut einem Jahr an und steht - nach Auskunft von SCO - vor seiner entscheidenen Phase.
+Bald schon, versprach vor rund zwei Wochen der SCO-Manager Gregory Blepp im Gespräch mit SPIEGEL ONLINE, werde sein Unternehmen schlüssige Beweise vorlegen, die SCOs Ansprüche untermauerten.
+Vom Ausgang dieses Prozesses hängt viel ab.
+Die SCO Group, hervorgegangen aus der Fusion der Firma The Santa Cruz Operation und des Linux-Distributors Caldera, steht am Scheideweg: Das letzte Urteil im Linux-Prozess könnte SCO zu einem Branchenriesen aufblasen - oder aber völlig ruinieren.
+Denn SCO lebt auf Pump.
+Die mit angeblich rund 80 Millionen Dollar gefüllte Kriegskasse besteht zum größten Teil aus Krediten.
+BayStar hoffte offenbar auf satte Renditen, SCOs Aktien stiegen.
+Als dagegen kurz darauf bekannt wurde, dass ein ehemaliger Microsoft-Manager bei der Vermittlung des Kredites seine Finger im Spiel hatte, bekam der Vorgang ein Geschmäckle.
+Wie berechtigt SCOs Forderungen wirklich sind, wie gut die Chancen, sie vor Gericht durchzusetzen, ist seitdem umstrittener denn je.
+Interpretiert man die Börsenbewertung als Indiz für SCOs Chancen, sieht die Zukunft für die Linux-Welt besser aus als für SCO: Seit dem Herbst 2003 geht es mehr oder minder kontinuierlich abwärts.
+Nach der BayStar-Finanzspritze stieg SCO zeitweilig auf über 18 Euro, mittlerweile wird die Aktie bei knapp über 7 Euro gehandelt.
+BayStars Rückzug: Die nächste Wende?
+Als Begründung dafür führt BayStar an, SCO habe den gemeinsamen Vertrag in mehreren Punkten verletzt.
+Auch das läuft wohl auf eine Klage hinaus, denn natürlich bestreitet SCO die Vertragsverletzung.
+Gespannt wartet nun die IT-Welt auf die Reaktion des zweiten großen Investors, der Royal Bank of Canada.
+Die war auf Betreiben von BayStar mit einem Kredit über 30 Millionen Dollar eingestiegen.
+Noch verhält sich die Bank abwartend, kommentiert den Ausstieg des Kreditvermittlers nicht.
+Sollte auch dieser größere Batzen des über BayStar vermittelten Kredites zurückgefordert werden, würde die Luft sehr dünn für SCO.

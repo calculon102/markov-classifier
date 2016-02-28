@@ -1,0 +1,22 @@
+Nicht alle Vorhersagen wurden bis heute in der Praxis bestätigt.
+Vor mehr als 40 Jahren kam ein junger englischer Physiker nach Kalifornien, um für einige Zeit an der Stanford University in Palo Alto zu forschen.
+Francis Everitt wollte nur ein paar Jahre an einem Weltraumprojekt mitarbeiten.
+Es ging um einen Satelliten, der in über 600 Kilometern Höhe die Erde umkreisen sollte, um festzustellen, ob Albert Einstein mit seiner Allgemeinen Relativitätstheorie Recht hat oder nicht.
+Konkret ging es um die Krümmung von Raum und Zeit durch das Gravitationsfeld der Erde.
+Everitt, inzwischen 69 Jahre alt, arbeitet heute immer noch am Beweis von Einsteins Theorie.
+Inzwischen sind 42 Jahre vergangen und 700 Millionen Dollar ausgegeben.
+Am 17. April nun soll das Mammutprojekt endlich in seine heiße Phase treten.
+Der Satellit soll gleich zwei Theorien Einsteins überprüfen.
+Kern des Experiments sind vier so genannte Gyroskope.
+Dabei handelt es sich um absolut runde, sich drehende Quarzkugeln von der Größe von Tischtennisbällen.
+Um höchste Genauigkeit zu gewährleisten, befinden sich die Kugeln in einem Vakuumbehälter; die Temperatur liegt nahe dem absoluten Nullpunkt von minus 273 Grad Celsius.
+Es sei die ruhigste Umgebung, die es je gegeben habe, sagte Anne Kinney, Direktorin der Nasa-Abteilung für Astronomie und Physik.
+Wenn sich die Richtung der Rotationsachse im Laufe eines Umlaufs ändert, wären Einsteins Vorhersagen richtig.
+Der Satellit soll insgesamt 16 Monate um die Erde kreisen.
+Einstein entwickelte 1916 die Idee, dass Raum und Zeit eine Struktur bilden, die sich durch den Einfluss von Gravitation ändert.
+Die Krümmung der Raumzeit gehört zu den Kernpunkten der Allgemeinen Relativitätstheorie.
+Zwei Jahre später schlugen andere Forscher vor, dass ein rotierendes Objekt Zeit und Raum mit sich ziehen und deren Struktur verformen müsste.
+Wenn diese Theorien stimmen, müsste sich die Ausrichtung der Kugeln 640 Kilometer über der Erde messbar ändern.
+Eine weitere Konsequenz aus der Allgemeinen Relativitätstheorie ist, dass der Gang von Uhren von ihrer Position im Gravitationsfeld abhängt.
+Einfach ausgedrückt: Eine Uhr auf einem Berg läuft schneller als eine im Tal.
+Der Effekt ist auf der Erdoberfläche vernachlässigbar klein, muss jedoch bei der Positionsbestimmung mit dem Navigationssystem GPS beachtet werden.

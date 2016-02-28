@@ -1,0 +1,43 @@
+Pop-up-Kaskaden, Spy- und Schnüffelsoftware, Adressenhändler und Dialer-Betrüger - es gibt Methoden im eCommerce, die sind zwar erfolgreich, aber alles andere als schön.
+Kein Mensch weiß, wie viele Menschen weltweit noch die Musiktauschbörse KaZaA nutzen.
+KaZaA selbst nennt sie eine Ad-Ware, die vor allem für die Auslieferung der Werbung zuständig sei; allein, vielen Nutzern fehlt der Glaube.
+Denn Spyware - Software, deren Aufgabe es ist, den User zu beobachten - ist die Stinkmorchel des Webs, und wer sowas vertreibt ist in der Denke der meisten Web-Surfer sowas wie ein Abschaum, ein Schmarotzer, zumindest aber ein Mafioso.
+Nicht selten stimmt das sogar.
+Spyware beobachtet das Verhalten von Web-Surfern und meldet es an einen zentralen Server.
+Das ist nicht illegal.
+Mit einem Mal ist die Welt des Users voller Reklame, die angeblich seine Interessen bedient.
+Das perfide daran: Oft hat der User irgendwann sein Einverständnis dazu erklärt.
+In aller Regel ja.
+Zumindest die seriöseren unter den Spyware-Vertreibern begreifen ihren Griff in die Datenschutz- und Intimssphäre des Internet-Nutzers als einen Deal auf Gegenseitigkeit.
+Und der funktioniert so: Die Spyware-Firma finanziert ein Stück guter, nützlicher Software, und im Gegenzug lässt der Nutzer ein Stück die Hosen runter.
+Robert Regular, einer der Köpfe der berüchtigten Spyware-Firma Cydoor, hält das nicht nur für legitim, sondern auch die Aufregung über solche Dinge für überzogen.
+Es gehe bei seriöser Spyware doch nur um einen Refinanzierungsweg für wertvolle Dienstleistungen.
+Sie hört einfach auf, die entsprechenden Programme herunterzuladen.
+Ich fürchte, wir kommen irgendwann an einen Punkt, an dem immer dann, wenn ein Dialogfenster erscheint und 'Möchten Sie dies oder das tun?'
+Regulars Sicht der Dinge kann zwangsläufig kaum anders aussehen.
+Viele Internet-Nutzer meiden solche Software wie sonst nur die Beulenpest.
+Das mag im Einzelfall übertrieben sein, im Allgemeinen jedoch ist es so verständlich wie vernünftig.
+Der PC-Verkäufer Dell hat gerade den Kampf gegen Spyware und Anverwandte zur vornehmsten Aufgabe erklärt.
+Schon jetzt bezögen sich satte 15 Prozent aller Supportanfragen auf Spyware-Probleme.
+Bei AOL schätzt man, dass nur drei solcher Programme für rund 300.000 abgebrochene Verbindungen verantwortlich seien - und zwar täglich.
+Denn längst kommen Spy- und Adware auf vielfältigen Wegen auf den Rechner - und sie beschränken sich nicht mehr darauf, den Nutzer nur mit Werbung zu beglücken oder ihn zu beobachten.
+Bereits vor Jahren versuchte KaZaA, im Verbund mit den Firmen Brilliant Digital Entertainment (BDE) und AltNet, die per P2P-Software gekaperten Rechner per Distributed Computing zu eigenem Nutzen kommerziell zu nutzen.
+Beim Distributed Computing reserviert man einen Teil seiner Rechnerressourcen für die Nutzung durch eine externe Partei.
+Die mag dann auf dem Computer Berechnungen durchführen, sie könnte dort aber auch Daten parken, Geld waschen, Denial-of-Service-Attacken vorbereiten oder ähnliches - der Nutzer weiß schlicht nicht, was auf seinem Rechner geschieht.
+Da wird so manchem Surfer mulmig, und die Leistung des Rechners nimmt merklich ab.
+Dafür steigt die Zahl der entsprechend verseuchten Programme.
+Besonders häufig ist die Verbindung von Aureate, Gator, Cydoor und anderen penetranten Schnüfflern mit Free- und Shareware, die mitunter als Träger eben für die Schnüffelprogramme entwickelt wird.
+Entsprechende Listen verzeichnen derzeit über 1000 frei verfügbare Programme, die mit Spyware verschiedenster Art verbunden sind.
+Ad-Aware ist ein bewährtes Programm, das zudem kostenlos verfügbar ist, Spybot ein anderes.
+Das Problem Spyware wird dadurch nicht gelöst, doch zumindest wird deren Verteilung erschwert.
+Insbesondere Anwender des Internet Explorer und von Windows XP sind durch eine weitere Spyware-Variante gefährdet, wenn sie ihre Programme nicht auf dem neuesten Sicherheits-Stand halten.
+Solche tollen Tölen wieder los zu werden, ist so einfach nicht - ganz im Gegensatz zur Leichtigkeit, mit der man sich die kleinen Miststücke einfängt: Man braucht nur zur falschen Zeit am falschen virtuellen Ort zu sein.
+Denn Programme wie Xupiter - ein Programm, das sich als Browser-Toolbar in Microsofts Internet Explorer festsetzt - sind selbstinstallierend.
+Ein Pop-up oder der Besuch einer P2P-Börse oder Website genügen, und der Parasit wird dem Internet-Explorer-Nutzer als Kuckucksei per ActiveX untergejubelt.
+Verwandte Programme wurden gerade XP-Nutzern in den letzten Monaten über die so genannte LSass-Sicherheitslücke angehängt: In diesen Fällen reichte es schon, online zu gehen - und der Rechner wurde gekapert.
+Microsoft schloss dieses Leck mit dem viel diskutierten Service Pack 2. Verringern lässt sich das Risiko einer Infektion auch mit anderen Betriebssystemen wie MacOS oder Linux oder dem Einsatz anderer Browser wie Opera oder Firefox.
+Programme wie Xupiter und seine zahlreichen Cousins wie SideSearch, HuntBar, Lop, AllCyberSearch oder SearchEx erkennt man an deren Verhalten: Man gibt im Browser eine Adresse ein und landet ganz woanders.
+Und plötzlich erscheinen irgendwelche Online-Spiele oder Pornowerbung in Pop-ups.
+Dass dahinter ein Kidnapping-Programm steht, das es in sich hat, begreift man spätestens, wenn man feststellt, dass der Browser umkonfiguriert wurde und den Befehlen seines Nutzers nicht mehr gehorcht.
+Wer das wieder ändern will, muss bis hinein in die System-Registry: Browser-Kidnapper restaurieren und reinstallieren sich selbsttätig, wenn nicht alle Programmbestandteile gelöscht werden.
+IT-Sicherheitsexperten raten darum seit langem dazu, neben dem obligatorischen Virenschutz auch einen guten Spywareblocker zu installieren (siehe Linkverzeichnis).

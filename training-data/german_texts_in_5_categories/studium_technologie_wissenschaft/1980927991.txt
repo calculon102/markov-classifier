@@ -1,0 +1,42 @@
+Die Nachfrage nach Internetadressen ist ungebrochen.
+Bei der deutschen Registrierungsstelle Denic in Frankfurt am Main sind inzwischen über acht Millionen Domainnamen mit der Endung .de registriert.
+Die deutsche so genannte Top-Level-Domain ist damit die erfolgreichste länderbezogene Domainnamen-Endung.
+Allein Adressen mit der Endung .com, einer generischen Top-Level-Domain, gibt es mit 30 Millionen häufiger.
+Die wenigsten Domains werden jedoch direkt bei der Denic bestellt.
+In der Regel sucht sich der zukünftige Betreiber eines Internetangebots zunächst einen Webhoster, der ihm Platz auf einem Server sowie eine Anbindung ans Internet verkauft.
+Anwender stehen allerdings schnell vor dem sprichwörtlichen Heuhaufen, in dem sie nach der Nadel in Form des am besten auf ihre Bedürfnisse abgestimmten Angebots suchen müssen.
+Denn neben großen Webhostern wie Strato und 1&1 gibt es auf dem deutschen Markt gut 2000 weitere Anbieter.
+Den Einstieg gibt es bereits für ein paar Cent.
+In einem ersten Schritt sollten private wie geschäftliche Website-Betreiber den eigenen Bedarf ermitteln.
+Für einen kleinen privaten Internet-Auftritt mit ein paar Seiten über die eigenen Leidenschaften benötigen Hobby-Webmaster nicht mehr als ein paar Megabyte (MB) Platz auf einem Server, den sie sich mit anderen Anwendern teilen (shared hosting).
+Wichtig ist, dass sich die eigene Domain über ein benutzerfreundliches Webinterface verwalten lässt, um zum Beispiel E-Mail-Adressen und Weiterleitungen anzulegen.
+Alternativ bieten sich Webspace-Pakte an, die mehrere Domains enthalten.
+Dann kann jedes Familienmitglied seine eigene Adresse auf dem gemieteten Serverplatz ablegen.
+Für ungeübte Anwender ohne HTML-Erfahrung lohnt sich der Blick auf Angebote mit einem Home-Page-Baukasten-System, wie es sie zum Beispiel bei Strato und 1&1 gibt.
+Mit ein paar Klicks lassen sich Seiten meist direkt online auf Grundlage von Vorlagen zusammenstellen.
+Zum Standard sollte bei jedem Webspace-Angebot ein so genannter FTP-Zugang gehören.
+Manche Provider bieten auch einen Upload per Web an.
+Für die schnelle und bequeme Homepagepflege ist ein FTP-Programm jedoch komfortabler.
+Die Kosten für diese Basisangebote reichen von rund 20 Cent pro Monat bis zu 5 Euro.
+Ein Preis- und Leistungsvergleich lohnt sich daher.
+Neben dem Platz und der Software auf dem Server beinhalten die Angebote von Webhostern in der Regel auch ein limitiertes Transfervolumen für die Übertragung von Daten.
+Datenverkehr verursacht nicht nur die Pflege der eigenen Homepage, etwa wenn neue Dateien auf den Server geladen werden.
+Auch jeder Surfer, der auf der Seite vorbeischaut, ruft mit seinem Browser Daten vom Server ab und belastet das Datenkonto.
+Ist das im Webspace enthaltene Transfervolumen aufgebraucht, berechnen die Hoster weitere Datenübertragung extra.
+Die Kosten hierfür bewegen sich zwischen 5 Cent und 60 Euro pro Gigabyte (GB).
+Am besten ist es daher, bereits vorher abzuschätzen, wie viel Datenverkehr der eigene Auftritt verursachen wird.
+Für einen kleinen privaten Auftritt mit ein paar Fotos sollten fünf GB pro Monat mehr als genug sein.
+Reicht das enthaltene Freivolumen dann doch nicht - weil die eigene Seite inzwischen sehr populär geworden ist - bietet es sich meistens an, in einen besser ausgestatten Tarif zu wechseln.
+Soll das Internet-Angebot nicht nur aus statischen HTML-Seiten bestehen, benötigt der Anwender weitergehende Funktionen.
+Ein dynamischer Aufbau der Site ist immer dann sinnvoll, wenn Inhalte häufig geändert werden sollen oder mehrere Benutzer etwa am Auftritt eines Vereins arbeiten.
+Dynamische Websites setzen sich zusammen aus Seitenvorlagen (Templates), in denen das Layout gespeichert ist und den Inhalten.
+Sie liegen in einer Datenbank auf dem Server und werden beim Aufruf der Seite über einen Browser abgefragt.
+Als Datenbank hat sich im Internet MySQL durchgesetzt.
+Dynamische Webseiten werden häufig in PHP geschrieben, einer Skriptsprache, die auf dem Server ausgeführt wird.
+Für ein entsprechendes Angebot müssen daher beide Funktionen auf dem Server installiert sein.
+Inzwischen gibt es in PHP geschriebene, frei verfügbare Systeme zur Verwaltung von Website-Inhalten.
+Eines der bekannteren ist zum Beispiel PHP-Nuke (http://phpnuke.org).
+Sie erfordern allerdings eine gründliche Einarbeitung.
+Für knapp 5 Euro im Monat bietet das Unternehmen seinen Kunden ein halbes Gigabyte (GB) Speicherplatz und 50 GB Datentransfer-Volumen sowie PHP und MySQL.
+Bei der eigenen Suche nach dem besten Angebot hilft zum Beispiel www.webhostlist.de.
+Die Site verfügt über eine Datenbank mit über 2000 Webspace-Anbieter, die sich durchsuchen lässt.

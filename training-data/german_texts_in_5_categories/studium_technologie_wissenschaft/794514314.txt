@@ -1,0 +1,26 @@
+Mobile Handheld-PCs unterscheiden sich in vielen Facetten vom Büro-PC oder dem tragbaren Notebook.
+Vielen langjährigen PC-Benutzern fällt es schwer, sich mit den erheblich kleineren Anzeigen anzufreunden.
+Einer der vielen Vorteile ist jedoch, dass sie keine lange Anlaufzeit benötigen, um einsatzbereit zu sein.
+In Kombination mit einem Mobiltelefon der neuen Übertragungstechnologien GPRS und UMTS können die Baby-PCs ohne weiteren Kostenaufwand sogar stets online sein.
+So ist es kein Wunder, dass sie als eines der neuen Anwendungsgebiete mit erheblichem Potenzial für die neuen Mobilfunkgenerationen Location Based Services (LBS) gesehen werden.
+Nach einer Analyse von The Strategis Group sollen die Anwenderzahlen von Location Based Services weltweit von 70 Millionen in diesem Jahr auf über 220 Millionen im Jahr 2005 steigen.
+Location Based Services sind personalisierte Informationsangebote, die dem Mobilfunkkunden in zeitlicher und standortbezogener Relevanz angeboten werden.
+Die Einsatzmöglichkeiten sind sehr vielfältig und kaum begrenzt.
+Doch fast immer geht es um E-Commerce-Lösungen, bei denen Unternehmensdaten durch die Verknüpfung mit der standortbezogenen Verbreitung einen Wettbewerbsvorteil erlangen sollen.
+Angebote für die breite Masse können sich auf die Bereitstellung von Informationen über die nächstgelegenen Tankstellen oder Geldautomaten im Umkreis erstrecken.
+Mit den neuen Mobilfunkgenerationen wird das Netz der Funkzellen noch einmal erheblich feinmaschiger, so dass auch Angebote kleiner Geschäftstreibender in die Systeme eingespeist werden könnten.
+Die Ideen für Location Based Services sind so neu nicht.
+Im Münchener Business-Plan-Wettbewerb 1998/99 gewannen Ralph Meyfarth und sein Team von der Brandenburgischen Technischen Universität Cottbus mit ihrer ausgegründeten Firma namens Lesswire AG den dritten Platz.
+Dies stellte mobilen Benutzern ortspezifische Dienste bereit.
+Je nachdem, wo sich der Benutzer befand, konnte er über sein Endgerät (Handy, Palm-Computer, Laptop et cetera) Informationen von dort abrufen.
+Die Möglichkeiten künftiger Angebote werden heute verstärkt entwickelt und mit den bestehenden Technologien ausgetestet, egal ob mit einem WAP-Handy oder einem mobilfunktauglichen PDA.
+Fast alle Mobilnetzbetreiber haben bereits die eine oder andere Anwendung in ihr WAP-Portal integriert.
+So bietet O2 in Zusammenarbeit mit dem HRS-Hotel-Service seinen Kunden ortsbezogene Hotelübersichten mit allen wichtigen Informationen und einen Direktbuchungsservice.
+Um unnötige Anfragen zu vermeiden, werden nur solche Hotels angezeigt, die noch über freie Betten verfügen.
+Sofern das eigene Handy eingeschaltet und innerhalb des O2-Netzes eingebucht ist, kann es über das Internet gegen Passwortschutz auf eine Funkzelle genau lokalisiert werden.
+Praktisch, wenn man das Gerät einmal hat liegen lassen und nicht mehr weiß, wo genau.
+Zu Käufen animieren soll der Shopping-Führer namens Kompazz, der nach Sonderangeboten in lokalen Einzelhandelsgeschäften fahndet.
+Ein Bauteil ist defekt, der Betrieb steht still.
+Per WAP-Handy ruft er eine Info-Plattform für Bauzubehör auf.
+Hier erfährt er, wo sich die nächstgelegenen Händler befinden.
+Beim Anbieter mit dem günstigsten Preis wird sofort geordert und die Lieferung per Kurier veranlasst.

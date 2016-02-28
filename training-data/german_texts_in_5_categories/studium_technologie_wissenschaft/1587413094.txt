@@ -1,0 +1,26 @@
+Nach den Vorstellungen des Branchenverbands Bitkom soll die Fussball-WM 2006 zum Experimentierfeld für biometrische Überwachung werden.
+Bevor Weltstar Zidane sein Leibchen überstreifen kann, müsste er sich durch einen Blick in eine Computer-Kamera identifizieren.
+Erst wenn die ihn erkennt, soll sich die Kabinentür öffnen.
+Nach den Anschlägen vom 11. September haben biometrische Verfahren bei Sicherheitsexperten Hochkonjunktur, aber einen groß angelegten Einsatz haben die Schwächen der Verfahren bisher verhindert.
+Die Technik ist noch lange nicht so ausgereift und vor allem zuverlässig, wie die Industrie immer behauptet.
+Bei der Überwachung von großen Menschenmassen setzen die Regierungen in Europa und den USA gleichwohl auf die Biometrie.
+Die EU-Innen- und Justizminister haben sich inzwischen darauf geeinigt, Gesichtsbild und Fingerabdrücke in Visadokumente und Aufenthaltstitel aufzunehmen.
+Für die Akzeptanz der Biometrie in der Bevölkerung soll auch das Spiel mit dem runden Leder sorgen.
+In der Idealvorstellung können computergesteuerte Kameras über automatischen Bilderabgleich in einer Datenbank verdächtige Personen aus großen Menschenmassen identifizieren.
+Bei einem Test des Bundesamtes für Sicherheit in der Informationstechnik (BSI) schnitt die Technologie allerdings nicht besonders gut ab.
+Der Bildervergleich mit 50.000 Fotos offenbarte die Hauptschwäche des elektronischen Gesichts-Checks: Je größer der Datensatz, desto öfter kommt es zu einer falschen Einordnung.
+Um dies zu vermeiden, sollen neben der Gesichtserkennung auch Fingerabdrücke verglichen werden.
+Der Einsatz biometrischer Verfahren birgt jedoch datenschutzrechtliche Risiken, denn die abgespeicherten Referenzdaten können zu Zwecken genutzt werden, die über die reine Authentifizierung hinausgehen.
+So können Mediziner aus einem Iris-Scan Rückschlüsse auf mögliche Krankheiten der Person ziehen.
+Statische Methoden basieren auf unveränderlichen physiologischen Merkmalen, wie Fingerabdruck, Hand- und Venen-Geometrie, Iris und Gesicht.
+Zurzeit werden von den Experten Fingerabdruck und Gesicht favorisiert.
+Für Grenzkontrollen und die Verhinderung illegaler Einreise sollen die technischen Möglichkeiten derzeit schon ausreichen.
+Die Vereinigten Staaten wollen künftig nur Menschen mit biometrischen Ausweispapieren eine zügige Abwicklung der Einreiseformalitäten ermöglichen.
+In der Europäischen Union liegt ein Gesetzentwurf auf dem Tisch, der sich mit der Vereinheitlichung von Visa- und Aufenthaltsgenehmigungen befasst.
+Er beinhaltet konkrete Vorschläge, die Aufnahmepflicht biometrischer Merkmale auf 2005 vorzuziehen.
+Biometrie wird Behörden und der Polizei die Arbeit erleichtern, allerdings sind auch hier Fehler nicht ausgeschlossen.
+Die Folgen für den Einzelnen können dramatisch ausfallen, wenn die Technik über Asylanträge und Aufenthaltsgenehmigungen mitentscheidet.
+Auch bei der Fußball-WM wären die Konsequenzen falscher Gesichtszuordnungen drastisch, wenngleich in einem anderen Sinn.
+Ein Finale ohne den ausgesperrten Ballvirtuosen Zidane bliebe fad, die Zuschauer wären enttäuscht.
+Den Deutschen würde die verrückt spielende Software allerdings kaum helfen, sofern sie es überhaupt bis ins Finale schaffen.
+In der gegenwärtigen Verfassung verlören sie gegen Frankreich - mit oder ohne Zidane.

@@ -1,0 +1,20 @@
+Erstmals ist es Forschern gelungen, Nanoröhren in Silizium-Schaltkreise zu integrieren - ein Meilenstein auf dem Weg zum superschnellen Nanocomputer.
+Immer schneller sollen sie werden, die Chips in den Computern.
+Doch die herkömmlichen Schaltkreise aus Silizium stoßen zunehmend an ihre physikalischen Grenzen.
+Die Strukturen können nicht beliebig weiter verkleinert werden - auch der Taktfrequenz sind Grenzen gesetzt.
+Abhilfe könnten winzige Röhrchen schaffen, die meist aus einem einschichtigen, zusammengerollten Kohlenstoffnetz bestehen.
+Die Nanotransistoren ermöglichen höhere Taktfrequenzen, daraus gefertigte Bauteile sollen zudem weniger Energie verbrauchen als herkömmliche Siliziumchips.
+Allerdings hatten Forscher bisher vergeblich versucht, aus Nanotransistoren komplexe elektronische Schaltungen zu bauen.
+Wissenschaftler der University of California Berkeley und der Stanford University haben nun erstmals derartige Nanotransistoren in einen Silizium-Schaltkreis integriert.
+Die Wissenschaftler glauben, dass sie Nano-Speicherchips nun ein großes Stück näher gerückt sind.
+Nach derzeitigen Schätzungen könnten Nanoröhren-Chips 10.000-mal mehr Daten speichern als solche aus Silizium.
+Die Nanoröhren wurden direkt auf einer Siliziumscheibe gezüchtet.
+Mit dem hitzebeständigen Metall Molybdän stellten Bokor und Dai die elektrischen Verknüpfungen zwischen den Transistoren her.
+Der so hergestellte Chip enthielt tausende Nanoröhren, die mit einem Schaltkreis auf einem ein Quadratzentimeter großen Siliziumchip verbunden waren.
+Durch das Ein- und Ausschalten bestimmter Verbindungen gelang es, auf Nanotransistoren einzeln zuzugreifen und festzustellen, ob sie metallische oder Halbleiter-Eigenschaften hatten.
+Bislang musste diese Prüfung mühsam per Hand erfolgen.
+Die amerikanischen Wissenschaftler nutzten dazu nun einen Computer.
+Die kleinen Röhrchen aus Kohlenstoff könnten nicht nur Computerchips revolutionieren.
+Forscher sind auch von ihren mechanischen Eigenschaften begeistert: Nanotubes sind zehnmal zugfester als Stahl und beinahe doppelt so stabil wie Diamant - der bislang härtestes bekannte Stoff.
+Eine mögliche Anwendung sind Nanoantriebe.
+Auch in der Biotechnologie sollen die Karbonröhrchen zum Einsatz kommen.

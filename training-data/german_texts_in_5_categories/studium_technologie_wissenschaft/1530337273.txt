@@ -1,0 +1,27 @@
+Microsofts Internet Explorer beherrscht den Markt - trotz fitter Konkurrenzprodukte.
+Jetzt häufen sich die Sicherheitslecks, und der Explorer gerät unter Druck.
+In den USA empfehlen Behörden den Umstieg, die Medien stürzen sich darauf, und immer mehr Menschen folgen dem Rat. Der mögliche Gewinner heißt Mozilla.
+Für viele ist der Internet Explorer der Web-Browser schlechthin, für manche die größte Sicherheitslücke der Welt.
+Am Thema Browser scheiden sich die Geister, auch wenn die Zeiten, in denen das Thema mit Leidenschaft diskutiert wurde, lang vorbei schienen.
+Denn seit 1996 rollte Microsoft mit dem Internet Explorer den Markt regelrecht auf - bis zum heutigen Marktanteil von rund 93 Prozent.
+In den ersten Jahren des WWW waren es dagegen die Programmierer von Netscape, die die Standards setzten.
+Doch Microsoft verknüpfte elementare Programmfunktionen von Windows mit dem Explorer, drängte die Konkurrenz so aus dem Markt.
+Netscape aber ging unter, wurde 1998 von AOL gekauft, aufs Abstellgleis gestellt und über Jahre nicht weiterentwickelt.
+Netscape entschloss sich 1998, seinen Sourcecode einer Open-Source-Entwicklergemeinde zu übergeben und wurde in der Folgezeit parallel als kommerzielles und als Open-Source-Projekt weiterentwickelt.
+Netscape hat das auch deshalb nicht gerettet, weil die Entwicklung zu lang dauerte: Erst 2002 gab es vorzeigbare Ergebnisse.
+Die aktuelle Version 7.1 wird wohl die letzte sein, doch Mozilla hob in der Folgezeit regelrecht ab.
+Der machte, insbesondere im Verbund mit dem Mail-Programm Outlook Express, im Verlauf der letzten vier Jahre eine höchst unrühmliche Karriere als Viren-Einfallstor Nummer eins.
+Microsoft hatte seine liebe Mühe, mit der Produktion dringend benötigter Sicherheitsflicken für die Software nachzukommen.
+In den letzten Monaten verlor der Softwareriese dieses Rennen gleich mehrere Male - und das so gründlich, dass in den USA inzwischen sogar Regierungsbehörden die Internet-Nutzer zum Browserwechsel auffordern.
+Die zunehmende Frustration der User über Sasser-Viren und Co., die den Rechner befallen, ohne dass der PC-Nutzer noch selbst eine Dummheit machen müsste, spiegelt sich in ersten Veränderungen der Marktanteile.
+Schon im Mai war der Marktanteil des IE erstmals seit 1998 rückläufig, während Browser-Alternativen dazugewannen.
+Offizielle US-Empfehlung: weg damit!
+Da konnte und wollte sich das amerikanische CERT, eine Expertenkommission, die Regierung und Wirtschaft in IT-Sicherheitsfragen berät, nur noch anschließen.
+Unwahrscheinlich, dass dieser Trend so schnell endet, denn erst am Montag wurde eine weitere frische, kritische Sicherheitslücke im Explorer bekannt.
+Diesmal heißt das Einfallstor ActiveX.
+Bill Gates muss nun erleben, dass seine groß angekündigte Sicherheitsinitiative fast täglich durch die Realitäten konterkariert wird.
+Tatsache ist, dass der IE bis dahin ein Scheunentor für Virenund Hackereinfälle bleibt.
+IT-Sicherheitsexperten wundert das alles gar nicht.
+Gerade die in der letzten Woche entdeckte Trojaner-Lücke, über die Online-Banking-Abläufe ausgespäht werden können, ziele auch auf deutsche Banken und deren Kunden.
+Im zweiten Teil: Deutsche IT-Sicherheitsexperten sprechen sich gegen den Umstieg aus.
+Wie aber soll sich der User dann helfen gegen die Flut der Viren und Sicherheitslecks?

@@ -1,0 +1,49 @@
+Selbst wenn ein Dialer-Programm von der Registrierungsbehörde RegTP verboten wurde, ist der Kunde vor dessen Auswirkungen nicht geschützt.
+Die Telekom kassiert weiter ab, das Geld muss sich der Kunde selbst zurückholen.
+Ein kurzer Blick auf die Telefonrechnung genügt, um einen kleinen Schock zu bekommen: 50 Euro mehr als im vergangenen Monat.
+Doch nicht stundenlange Telefonate sind der Grund, sondern ganze zwei Verbindungen von je 60 Sekunden Länge.
+Beide Male steht eine 0900-Nummer in der Telefonrechnung - ein Internet-Dialer.
+Dabei handelt es sich um ein Computerprogramm, mit dessen Hilfe Verbindungen zu bezahlpflichtigen Internetangeboten aufgebaut werden.
+Auch nach der Einführung einer Registrierungspflicht für Dialer ist das Thema des Betruges und der überhöhten Rechnungen längst nicht vom Tisch.
+In den vergangenen Monaten häuften sich die Beschwerden bei der Regulierungsbehörde für Telekommunikation und Post.
+Die Behörde ging den Beschwerden nach und verbot schließlich rund 25.000 der über 900.000 registrierten Dialer in Deutschland.
+Geholfen hat das dem Kunden jedoch nicht.
+Mit der Telefonrechnung für den vergangenen Monat kassierte die Telekom auch für diese verbotenen Dialer ab.
+Wie viele Kunden betroffen sind, lässt sich noch nicht abschätzen.
+Sicher ist dennoch: Die Telekom muss die Kosten erstatten, die für die zurückgezogenen Dialer entstanden sind.
+Denn mit dem Verbot der Programme dürfen deren Anbieter keine Gebühren mehr einziehen.
+Im Gegensatz zur Telekom, über deren Rechnung die Kosten zunächst abgerechnet und dann weitergeleitet werden.
+Das Inkasso-Verbot greift nur, wenn dem Kunden der unwiederbringliche Verlust seines Geldes droht.
+Das ist bei den jüngst verbotenen Dialern nach Ansicht der Behörde jedoch nicht der Fall.
+Da die Registrierung der Programme sogar rückwirkend aufgelöst wurde, können Kunden ihr Geld für alle bereits bezahlten Gebühren zurückfordern.
+Neben dem größten Netzanbieter Telekom gibt es rund 50 weitere.
+Dabei sollte eigentlich alles besser werden: Im vergangenen August verschärfte der Gesetzgeber die Registrierungs-Voraussetzungen für Dialer.
+Demnach müssen die Anbieter mittlerweile nachweisen, dass jedes Programm eindeutig erkennbar ist.
+Der Nutzer muss dann dem Runterladen der Datei, der Installation des Dialers auf dem eigenen Rechner sowie dem Verbindungsaufbau einzeln zustimmen.
+Auch die Kosten sollen transparent sein.
+Die Höchstpreise liegen bei zwei Euro pro Minute und 30 Euro bei zeitlich unbegrenzten Verbindungen.
+Als Folge der neuen Regeln verbot die Regulierungsbehörde im Oktober bereits rund 400.000 Dialer.
+Damals waren über 60 Millionen Euro irrigerweise abgerechnet worden.
+Grund für das neue Verbot war das Fehlen einer so genannten Wegsurfsperre.
+Die Dialer-Verbindungen blieben so auch dann noch bestehen, wenn der Nutzer die teuren bereits Seiten verlassen hat.
+Betroffen von dem Verbot sind drei Firmen: Intexus, Consul Info und Global Netcom.
+Jedes Unternehmen bietet zahlreiche Dialer an.
+Doch Kontakt mit den Verantwortlichen aufzunehmen, erweist sich als schwierig.
+Mit einer aufgeschlüsselten Rechnung kann zwar die Telefonnummer ermittelt werden, die der Dialer genutzt hat.
+Auf Antrag teilt die Telekom dann auch den Anbieter mit, so etwa die Global Netcom mit Sitz im westfälischem Wetter.
+Ansprechpartner sind hier allerdings nur Mitarbeiter in einem Call-Center.
+Helfen können sie nicht.
+Schuld an dem ganzen Ärger sei schließlich der Anbieter der Internetseite, auf der die Dialer heruntergeladen werden, und nicht Global Netcom.
+Die Firma würde nur die Software zur Verfügung stellen, heißt es.
+In diesem Wirrwarr von Unternehmensverflechtungen könne der Geschädigte nur den Überblick verlieren, sagt dagegen Helga Zander-Hayat.
+Am einfachsten lässt sich der abgerechnete Dialer mit der Datenbank der Regulierungsbehörde aufspüren, verfügbar auf deren Internetseite.
+Mit Hilfe der kompletten Telefonnummer kann dort nach dem Anwahlprogramm gesucht werden.
+Pro Nummer gibt es allerdings Hunderte Angebote.
+Um das Richtige zu finden, muss der Kunde den so genannten Hash-Wert eines Dialers kennen.
+Dabei handelt es sich um eine Ziffernkombination, die wie ein Fingerabdruck jedes Programm eindeutig identifiziert.
+Dieser Code findet sich in den Dateiinformationen des heruntergeladenen Dialers.
+Löschen sollte man das Programm daher nicht.
+Sicherer ist es, dem ganzen Procedere von Anfang aus dem Weg zu gehen.
+Gegen eine geringe Gebühr sperrt die Telekom alle Dialer-Nummern für den eigenen Anschluss.
+Kostenlos können auch Schutzprogramme aus dem Internet heruntergeladen werden.
+Das spart in Zukunft Nerven und Geld: Denn die Regulierungsbehörde hat bereits weitere Dialer-Verbote angekündigt.

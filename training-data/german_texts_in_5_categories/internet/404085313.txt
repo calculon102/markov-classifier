@@ -1,0 +1,22 @@
+Die Computerbranche lebt seit Jahren von der Tatsache, dass alles immer schneller wird.
+Doch es gibt Grenzen, wie ein internationales Forscherteam nun herausgefunden hat.
+Festplatten können nicht beliebig schnell beschrieben werden.
+Es geht immer noch schneller - daran haben sich die PC-Benutzer längst gewohnt.
+Diese Regel gilt zum Erstaunen vieler Experten schon seit mehreren Jahrzehnten.
+Doch langsam stoßen Computer an ihre Limits.
+Nicht nur, weil es immer schwieriger wird, die Prozessoren noch weiter hoch zu züchten.
+Auch die Festplatten bilden eine Grenze, und zwar bei der Geschwindigkeit, mit der Daten auf sie geschrieben werden können.
+Die gute Nachricht: Dieses Geschwindigkeitslimit für Magnetspeicher ist 1000 Mal so hoch, wie die bisher auf Festplatten erzielten Datenraten.
+Kein Grund zur Beunruhigung also, vorerst.
+Die Erkenntnisse des russisch-amerikanischen Forscherteams überraschen gleichwohl.
+Der Stanforder Physiker Ioan Tudosa und seine Kollegen hatten das Geschwindigkeitslimit bei Experimenten mit einem Teilchenbeschleuniger entdeckt, der einen Magnetspeicher mit immer kürzeren Magnetpulsen neu beschrieb.
+Auf Festplatten befinden sich viele kleine Bereiche, die in die eine oder andere Richtung magnetisiert sind, um entweder eine Null oder Eins zu repräsentieren.
+Beim Abspeichern von Daten werden elektromagnetische Pulse ausgesandt und die Bereiche neu polarisiert.
+Je schneller die Pulse aufeinander folgen, umso mehr Daten werden pro Sekunde gespeichert.
+Bei den Experimenten verkürzten die Wissenschaftler von der Stanford University und dem Landau Institut für Theoretische Physik Moskau den Pulsabstand auf 2,3 Pikosekunden.
+Eine Pikosekunde ist der Millionste Teil einer Millionstel Sekunde.
+Bei diesen kurzen Pulsabständen stellten die Forscher fest, dass die magnetischen Veränderungen nur noch zufällig erfolgten statt auf die gewünschte, vorhersagbare Weise.
+Mark Kryder, Technologie-Chef des Festplattenherstellers Seagate, der am Experiment ebenfalls mit einem Entwickler beteiligt war, erklärte jedoch, die Erkenntnisse hätten kaum Auswirkungen auf die Praxis.
+So hohe wie in dem Experiment verwendete Datenraten würden nie und nimmer in aktuellen Laufwerken erreicht.
+Danilo Pescia von der Eidgenössischen Technischen Hochschule Zürich betrachtet die Erkenntnisse doch nicht als rein theoretisch.
+Man wisse nun, dass die Datenrate bei Magnetspeichern noch um den Faktor 1000 gesteigert werden könne.

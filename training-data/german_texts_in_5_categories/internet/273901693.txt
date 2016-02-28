@@ -1,0 +1,20 @@
+Cell lautet der Codename für den neuen Prozessor, den Sony und IBM gemeinsam mit Toshiba entwickeln.
+Der Superchip soll bis zu zehnmal schneller sein als heutige Prozessoren und ab 2006 in High-Definition-Fernsehern, PCs und der neuen Playstation 3 stecken.
+Sonys Spielkonsole Playstation 2 kommt langsam in die Jahre.
+In Sachen Videografik kann sie schon lange nicht mehr mit modernen PCs mithalten.
+Wer die neuesten Spiele in höchstmöglicher Auflösung erleben will, braucht einen flotten PC mit möglichst aktueller Grafikkarte.
+Doch im Jahr 2006 sollen auch Konsolenspieler wieder jede Falte im Gesicht ihrer virtuellen Kontrahenten erkennen können.
+Cell soll es möglich machen, der neue Superchip, den Sony, IBM und Toshiba bereits seit drei Jahren entwickeln.
+Im nächsten Jahr soll die Produktion anlaufen.
+Der 64-Bit-Prozessor ist darauf optimiert, Spiele und Videodaten gleichermaßen in hoher Geschwindigkeit zu verarbeiten.
+Bis zu zehnmal schneller als heutige Prozessoren soll Cell rechnen können.
+Der Chip soll nicht nur in Spielkonsolen oder hochauflösenden Fernsehern stecken, sondern auch in klassischen Workstations.
+Die Hersteller versprechen Rechengeschwindigkeiten bis zu 16 Teraflops (1 Teraflop = 1 Billion Operationen pro Sekunde), wenn mehrere Cell-Prozessoren gemeinsam in einem Rack rechnen.
+Technische Details zu Cell wollen die beteiligten Unternehmen im Februar bei der International Solid State Circuits Conference in San Francisco offen legen.
+Sony will den ersten mit Cell ausgerüsteten Rechner eventuell schon im kommenden Jahr auf den Markt bringen.
+Cell könnte, wenn er von den gängigen Betriebssystemen unterstützt wird, durchaus ein ernst zu nehmender Konkurrent der Intel-Prozessoren werden, die heute den PC-Markt dominieren.
+Mit einer so ausgestatteten PS 3 würde dann nicht nur gedaddelt, sondern auch Musik gehört, Video geschnitten und DVD geschaut.
+Allerdings verkauft sich das Zwischenmodell PSX, eine Mischung aus Playstation 2, DVD-Brenner und TV-Tuner, in Japan derzeit nur schleppend.
+Die Markteinführung in Europa und Amerika wurde verschoben.
+Wie so oft, dürfte auch der hohe Preis eine Rolle gespielt haben, der deutlich über 500 Euro liegt.
+Für 150 Euro - so viel kostet eine Playstation 2 zurzeit, wird eine PS 3 mit Videofunktion kaum zu haben sein.

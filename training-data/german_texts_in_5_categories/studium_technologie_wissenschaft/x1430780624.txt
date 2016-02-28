@@ -1,0 +1,21 @@
+Verteiltes Rechnen ist in.
+PC-Besitzer können bereits bei der Suche nach Außerirdischen und der Berechnung von Klimamodellen helfen.
+Prozessoren von Computern arbeiten die meiste Zeit im Leerlauf.
+Der Computerhersteller IBM und verschiedene Forschungsorganisationen weltweit unternehmen nun einen neuen Anlauf in Sachen verteiltes Rechnen.
+Teilnehmer müssen ein kleines Programm installieren, das automatisch Aufgaben herunterlädt, ausführt und die Ergebnisse an den Projektserver meldet.
+Vorbild des World Community Grid ist grid.org, das bereits seit mehreren Jahren Krebs und Pockenerreger erforscht.
+Zu den Sponsoren gehören unter anderem Intel und Microsoft, die Zahl der Teilnehmer beträgt mehrere Millionen.
+Begonnen wird mit der Erforschung der Proteinfaltung beim Menschen.
+Bei diesem in jeder Zelle ablaufenden Prozess erhalten die produzierten Proteine ihre dreidimensionale Struktur und somit ihre Funktion.
+Wissenschaftler wollen bei der Untersuchung der Proteinfaltung Genstrukturen identifizieren, die Krankheiten verursachen können.
+Die Wissenschaftler hoffen, dass durch die Beteiligung des Weltkonzerns IBM bis zu zehn Millionen Teilnehmer zusammen kommen.
+Die Firma bürge für die Seriosität des Projekts.
+Dies könnte auch manchen Systemadministrator überzeugen, sein Netzwerk für das verteilte Rechnen zu öffnen.
+So ließe sich auch an Tausenden Firmen-PCs nebenbei Forschung betreiben.
+Seti@home war hingegen eher ein Projekt der Netzcommunity.
+Koordiniert wird das Projekt von einem 16-köpfigen Gremium, in dem auch der südafrikanische Wissenschaftler Sibusiso Sibisi sitzt.
+Er setzt große Hoffnungen in das verteilte Rechnen - unter anderem bei der Erforschung von Klimaveränderungen und Auswirkungen auf die Landwirtschaft.
+Derartige Forschungen seien für viele Institute anders kaum möglich, sagte Sibisi, weil sie selbst keine Supercomputer bezahlen könnten.
+Vor einem Jahr hatten britische Wissenschaftler das Klimaforschungsprojekt Climateprediction.net gestartet.
+Mittlerweile berechnen über 40.000 Rechner Modelle, mit denen globale Klimaentwicklungen prognostiziert werden sollen.
+Die Software-Plattform BOINC der University of Berkeley führt verschiedene Projekte zum verteilten Rechnen zusammen, unter anderem Seti@home, Climateprediction.net und Einstein@home.

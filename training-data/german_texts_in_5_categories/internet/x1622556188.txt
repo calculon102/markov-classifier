@@ -1,0 +1,32 @@
+Internet-Telefonie (VoIP) gilt seit Jahren als nächste große Web-Goldgrube - nur die Kunden wollten bisher nicht mitspielen.
+Abgesehen vielleicht von den Terroristen und Schwerverbrechern unter ihnen, fürchtet das FBI - denn Web-Telefonie ist weitgehend abhörsicher.
+Was es nicht weiß, macht es heiß, das FBI: Seit Jahren lobbyiert die US-Bundespolizei auf immer weitgehendere Überwachungs- und Schnüffelbefugnisse.
+Hüben wie drüben reicht oft ein Anruf bei Gericht, und binnen Minuten wird auch die Erlaubnis zur Telefonüberwachung gegeben.
+Schöne neue Welt, in der neue technische Möglichkeiten angeblich die flächendeckende Überwachung großer Bevölkerungsteile möglich machen.
+Absoluter Vorreiter bei der Einführung neuer Techniken ist die amerikanische Bundespolizei FBI.
+Carnivore überwacht nicht nur Telefonleitungen, sondern allen digitalen und analogen elektronischen Nachrichtenverkehr -oder versucht das zumindest.
+Mit mächtigen Filtern beschnüffelt Carnivore den Volltext diverser Nachrichten und schlägt Alarm, wenn etwas ins Raster passt.
+US-Datenschützer liefen Sturm gegen die Zumutung, doch mit dem 11. September 2001 drehte sich die Stimmung: Zugunsten der inneren Sicherheit schien plötzlich jeder Verlust an Rechten zu rechtfertigen.
+Dann war es längere Zeit still um Carnivore und das Thema Überwachung des privaten Raumes - abgesehen von gelegentlichen Nachrichten darüber, wie wenig bei allem monströsen Aufwand herauskommt bei der Lauschattacke.
+Jetzt meldet sich das FBI wieder fordernd zu Wort, denn angeblich reichen die bisher gewährten Befugnisse nicht aus.
+Weil das, was dabei herauskam, lange Zeit klang wie CB-Funk unter Wasser, wartete die viel versprechende Technik seit Ende der Neunziger vergeblich auf den großen Durchbruch.
+Doch der, fürchtet das FBI, könnte nun kommen.
+Bisher nutzten vor allem Unternehmen mit ihren breitbandigen Standleitungen VoIP, um die astronomischen Infrastrukturkosten zu senken.
+Doch auch dem Privatanwender bietet VoIP die Möglichkeit, zum Orts-Internetarif stundenlang mit Freunden auf Papua-Neuguinea zu chatten.
+Manche dieser Freunde, warnt das FBI, könnten Kumpel aus Al-Qaida-Kadern sein: VoIP sei das absolut ideale Werkzeug für Terroristen und andere Verbrecher.
+Denn VoIP lässt die Lauscher bisher so gut wie taub.
+Natürlich ist auch das gezielte Abhören bestimmter Internet-Zugänge auf VoIP-Gespräche möglich, wenn auch mit deutlich höherem technischen Aufwand als bei herkömmlichen Telefonen.
+So gut wie unmöglich ist es dagegen, VoIP-Gespräche aus dem Grundrauschen des Web-Traffics zu filtern.
+Als einziger logischer Ansatzpunkt für eine Überwachung von VoIP-Gesprächen bleibt darum der Serviceprovider vor Ort.
+Und VoIP macht sich breit - Breitband sei Dank.
+Erst der Boom der DSLund Kabelverbindungen brachte die Websurfer zu Bandbreiten, die Internet-Telefonie heute zu einer realistischen Alternative zum Telefon machen.
+Die Anbieter spüren den beginnenden Boom: Nach Jahren des bloßen Überlebens kündigen sich fette Zeiten an.
+So manchem Kleinanbieter steigen die steigenden Zahlen schon zu Kopf: Keck verkündet etwa Vonage (derzeit ca. 34.000 Kunden), bis Ende 2004 eine Million zahlende Kunden haben zu wollen.
+Das könnte dem Zwerg unter den Kleinwüchsigen nur gelingen, wenn VoIP tatsächlich einen riesigen Markt erschließen würde.
+Firmen wie Net2Phone sind besser aufgestellt, und mit lauernden Giganten wie Time Warner Cable im Hintergrund ist das realistischste Szenario wohl eher das, dass die Kleinen den Markt bereiten, den die Großen dann abräumen werden.
+Mit einem eventuell einsetzenden Boom privater VoIP-Gespräche ergäbe sich auch in Europa das Problem der Überwachung.
+Wie in den USA sind auch hierzulande Service-Provider und Telekommunikationsunternehmen dazu verpflichtet, ermittelnden Behörden Abhörmöglichkeiten zu gewährleisten.
+In den USA bewilligte der Kongress einen Topf von 500 Millionen Dollar, um die Service-Provider für ihren technischen Mehraufwand zu entschädigen.
+Der beschränkt sich - je nach Architektur des verwendeten Rechnernetzes - nicht unbedingt auf die Implementierung neuer Software: Oft ist Hardware fällig.
+Ein Problem, das auch der Trendsetter FBI sieht.
+Bei der Handelsaufsicht FCC brachten das FBI darum den Vorschlag ein, Serviceprovider und Telekommunikationsunternehmen beim Aufbau künftiger Infrastrukturen direkt zu verpflichten, diese Abhör-kompatibel zu gestalten.

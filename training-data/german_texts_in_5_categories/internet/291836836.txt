@@ -1,0 +1,21 @@
+Darmstadt - Es gibt böse Hacker.
+Und es gibt gute.
+Studenten an der Technischen Universität Darmstadt werden dazu ausgebildet, in fremde Computer einzubrechen - und trotzdem stehen sie auf der guten Seite.
+Zwölf Studenten erarbeiten sich im Praktikum dabei zunächst die rechtliche Situation.
+Die Rechtslage ist beim Hacken oft nicht eindeutig, es gibt viele Grauzonen.
+Die Teilnehmer bauen selbst Netze auf, die andere wiederum versuchen zu knacken.
+Als Szenario greifen sich im kommenden Semester zwei konkurrierende Firmen gegenseitig an.
+Gestartet wird mit Software, wie sie in Computergeschäften zu kaufen ist.
+Dabei sind laut Schumacher zunächst die Angreifer im Vorteil.
+Aber die Abschottung der Computer wird von Stunde zu Stunde besser.
+Nach einiger Zeit wende sich dann das Blatt: Die Verteidiger bekommen ihr Netz immer wasserdichter.
+Am Ende haben es die Angreifer sehr schwer, noch irgendwo ein Leck zu finden.
+Zunächst spähen die Studenten die Situation aus: Welches Betriebssystem, welche Software kommen zum Einsatz?
+Anschließend wird abgetastet.
+Schumacher sagt, man könne sich das wie das Klingeln an allen Wohnungen eines Hochhauses vorstellen: Wer sich nicht meldet, ist vermutlich nicht da - und irgendjemand lässt einen immer ins Haus.
+Wer einmal drin ist, verändert möglicherweise Dateien, stiehlt Informationen oder richtet sich durch eine Hintertür einen dauerhaften Zugang ein.
+Dafür müssen die Studenten aber mindestens zwölf Stunden pro Woche investieren.
+Ein Vorbereitungssemester soll alle Teilnehmer auf den gleichen Stand bringen.
+Bis Jahresende stehen in Darmstadt drahtlose Funk-Computernetze, so genannte Wireless Lans, im Mittelpunkt.
+Auf ein dutzend Plätze kommen in diesem Semester 24 Bewerber.
+Bei der Kooperation mit der Wirtschaft sind die Darmstädter Informatiker vorsichtig.

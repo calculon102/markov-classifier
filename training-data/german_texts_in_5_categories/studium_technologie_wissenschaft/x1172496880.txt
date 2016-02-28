@@ -1,0 +1,31 @@
+Während sich die Kamerahersteller noch an zehn Megapixeln berauschen, wollte eine niederländische Forschergruppe deutlich mehr: 2,5 Gigapixel groß ist ihr Foto, das sie aus 600 Einzelschnappschüssen zusammen gestückelt hat.
+Wie so manches verrücktes Vorhaben von Wissenschaftlern, geht auch das 2,5-Gigapixel-Foto der holländischen Stadt Delft auf eine kleine Wette in der Kantine zurück.
+Jurgen den Hartog und seine Kollegen vom physikalisch-technischen Forschungsinstitut TNO TPD wussten anfangs noch nicht genau, worauf sie sich damit eingelassen hatten.
+Sie kannten die ein Gigapixel große Aufnahme vom Bryce Canyon Nationalpark im US-Bundesstaat Utah, die der amerikanische Fotograf Max Lyons vor einem Jahr aus 196 Einzelfotos zusammengestückelt hatte - und wollten noch mehr.
+Das Zusammenkleben mehrerer Einzelaufnahmen ist auch unter Fotoamateuren weit verbreitet.
+Besonders beliebt sind Panoramafotos, die mit so genannter Stitching-Software im Handumdrehen erstellt werden können.
+Die Delfter Forscher stießen bei ihrem Mammutprojekt jedoch auf ungeahnte Schwierigkeiten.
+Unter anderem erwies sich das Standard-Bildformat TIF als ungeeignet, weil es nur Bildgrößen bis vier Gigabyte unterstützt.
+Eine 2-Gigapixel-Aufnahme ist aber schon sechs Gigabyte groß.
+Den Forschern blieb nichts anderes übrig, als ein neues Bildformat zu kreieren.
+Natürlich mussten auch Bearbeitungs-Tools und Skripte modifiziert werden, um der gigantischen Bildgröße Herr zu werden.
+Hoch ist das ausgewählte Uni-Hochhaus tatsächlich (100 Meter) - auch leicht zu erreichen.
+Attraktiv dürfte der Ausblick jedoch allerhöchstens Holländern erscheinen, die spektakuläre Berge nur vom Hörensagen kennen.
+Hartog und seinen Kollegen war schnell klar, dass das Projekt eine automatische Kamerasteuerung erforderte.
+Nur damit konnte es gelingen, in überschaubarer Zeit und ohne Fehler das Panorama in 600 Einzelbildern zu erfassen.
+Ein PC und Elekroantriebe drehten die Kamera präzise von Bildausschnitt zu Bildausschnitt - bei möglichst geringer Überlappung der Motive.
+Bei der Kamera griffen die Physiker zu einem Spiegelreflex-Modell für Profis, der Nikon D1x mit 400-Millimeter-Objektiv.
+Sie hat eine Auflösung von sechs Megapixeln und einen Firewire-Ausgang, um die Bilddaten direkt auf Festplatte zu schreiben.
+Flashspeicher-Karten erwiesen sich für das Projekt als ungeeignet, man hätte sie laufend wechseln müssen.
+Das Fotografieren der 600 Einzelbilder dauerte eine Stunde und 15 Minuten.
+Im Grunde ist das 2,5-Gigapixel-Bild eine Film.
+Es zeigt unter anderem, wie die Zeiger an den Kirchtürmen vorgerückt sind: Auf einer Uhr ist es 15.05 Uhr, auf einer anderen 15.14 Uhr.
+Das Foto enthält auch echte Artefakte, wie eine laufenden Torso und einen Pkw, der mit einem Bus zu verschmelzen scheint (siehe Fotostrecke).
+Bei der Nachbearbeitung rechnete ein Computer zunächst 24 Stunden lang, um die überlappenden Bilder miteinander zu vergleichen und zu optimieren.
+Das Ergebnis, ein Foto mit einer Auflösung von 78.797 mal 31.565 Pixeln, kann mit einer Flashsoftware begutachtet werden.
+Das Foto in voller Auflösung ins Netz zu stellen, hätte die Server vollkommen überfordert.
+Stattdessen kann in das Bild hineingezoomt werden.
+Die gleiche Flashsoftware kommt auch bei anderen hoch aufgelösten Fotos zum Einsatz, etwa bei einer beeindruckenden Luftaufnahme des Disney-Parks in Florida oder bei einem Luftbild der Stadt Paris.
+Ausgedruckt wäre das Delfter Panorama 6,67 mal 2,67 Meter groß (Auflösung 300 dpi).
+Die holländischen Forscher denken bereits über das nächste Projekt nach: Ein 360-Grad-Panorama der Kleinstadt.
+Vielleicht sollte sich ihr Institut erbarmen und den Reiseetat erhöhen, damit das Panorama nicht nur aus technischer Sicht fasziniert.

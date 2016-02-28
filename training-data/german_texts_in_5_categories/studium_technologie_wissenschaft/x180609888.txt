@@ -1,0 +1,28 @@
+Mediziner wollen gebrochene Knochen künftig per Computer reparieren.
+Ein 3D-Drucker soll auf Knopfdruck Ersatzteile auswerfen, die exakt passen und aus dem gleichen Material wie natürliche Knochen bestehen.
+Ein kleiner Schritt in die falsche Richtung, der Fuß verhakt sich an einem Stein, und die junge Frau stürzt auf das Geröllfeld.
+Ein Knöchel am Fußgelenk ist gebrochen.
+Glücklicherweise verläuft der Unfall glimpflich, ein paar Wochen später kann die Patientin wieder mühelos laufen.
+Doch nicht immer lassen sich Knochenbrüche so einfach heilen: Bei komplizierten Brüchen können die Ärzte nicht ohne weiteres die Fragmente zusammenfügen.
+In solchen Fällen benötigen sie oft ein Stück körpereigenen oder künstlichen Knochen, den sie an der verletzten Stelle einsetzen.
+Dieses Material wird zum Beispiel an der Hüfte entnommen.
+Neben Rinderknochen werden unter anderem auch Korallenstücke verwendet, die einen ähnlichen Aufbau wie natürliche Knochen haben.
+Der Haken dabei: Der Mensch ist weder Rind noch Koralle, und das Skelett des einen Menschen entspricht nie haargenau dem eines anderen.
+Dieses Zuschneiden könnte jedoch in Zukunft entfallen: Am Caesar entwickelt Seitz zusammen mit seinem Kollegen Carsten Tille und weiteren Mitarbeitern ein Verfahren, mit dem passgenaue Knochenstücke gedruckt werden können.
+Auf Knopfdruck werden dabei die fertigen Implantate von einem so genannten 3D-Drucker ausgegeben, berichteten die Forscher auf der Medica in Düsseldorf.
+Kommt ein Patient mit einem herausgebrochenen Knochensplitter in die Klinik, wird die Verletzung zunächst per Computertomografie (CT) aufgenommen.
+Nach der genauen Vermessung der Lücke wandelt ein Computerprogramm die zweidimensionalen Bilder in eine dreidimensionale Darstellung um.
+Ausgehend von den Maßen des Lochs kann das gesuchte Implantat entworfen und hergestellt werden.
+Dazu wird eine dünne Schicht keramisches Pulver auf eine Bauplatte aufgetragen.
+Anschließend wird Bindeflüssigkeit darüber gedruckt, dann folgt die nächste Schicht Keramik.
+Die Bindeflüssigkeit verklebt die Schichten miteinander.
+So wächst der Knochen Stück für Stück aus dem 3D-Drucker in die Höhe.
+Da das keramische Pulver aus dem gleichen Stoff besteht wie natürlicher Knochen, erwarten die Forscher, dass das Implantat sehr gut vom Patienten vertragen wird.
+Zumindest lassen die ersten Ergebnisse im Labor von Schieker darauf schließen.
+Deshalb versucht sein Team, die keramischen Implantate mit Knochenzellen zu besiedeln, die aus adulten Stammzellen gewonnen werden.
+Die Knochenzellen sollen durch die Poren der Keramik bis ins Innere dringen.
+Sobald das präparierte Knochenstück in den menschlichen Körper eingesetzt ist, sollen die Zellen aktiv werden und rasch mit dem anliegenden natürlichen Knochen verwachsen.
+Ein solcher Knochen erlangt nie wieder seine einstige Stabilität.
+Mit dem gedruckten und in Stammzellen getränkten Knochen könnte dies künftig passé sein, hoffen die Forscher.
+Denkbar sei beispielsweise, die kleinen Keramikstücke bei Mund-, Kieferund Gesichtsoperationen passgenau in Fehlstellen einzufügen.
+Für gebrochene Beine, Arme oder Rippen werden die Knochen aus dem Drucker vorerst nicht infrage kommen.

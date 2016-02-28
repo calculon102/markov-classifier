@@ -1,0 +1,26 @@
+Kommt das Monopol des Internet Explorer nun ins Wanken?
+Erst mit der Version 1.0 übernehmen Entwickler Gewähr für ihr Produkt.
+Der hat im Laufe dieses Jahres sein Fett gründlich wegbekommen: Amerikanische Sicherheitsbehörden warnen wegen ständiger Sicherheitsprobleme vor seinem Einsatz, empfehlen stattdessen Firefox, Opera und andere Browser.
+Am Wochenende wagte sich in Deutschland BSI-Sprecher Michael Dickopf mit einer ähnlichen Empfehlung vor.
+Dafür, und das zeigt Firefox, ist sie mitunter einfach besser.
+Bereits mit frühen Testversionen heimste Firefox Preise ein, weil er mit komfortablen Funktionen wie Tab-Browsing oder Popup-Killer Dinge bot, die Microsoft immer noch für die nächste Generation des IE verspricht.
+Dem entsprechend hoch sind die Erwartungen der Fans an den kleinen Bruder des Netscape-Nachfolgers Mozilla.
+Was so gut ist, denken sie, müsste doch in der Lage sein, dem Internet Explorer endlich Marktanteile abzugraben.
+So wird das wohl auch sein, wenn auch nicht viele.
+Insofern ist Microsofts Strategie, Browser und Betriebssystem zu verbinden, voll aufgegangen.
+Solche Nutzer alternativer Browser sind oft Überzeugungstäter.
+In ihrer Sicht ist der übermächtige IE aus Prinzip schlecht, schlimm, böse, weil er aus Redmond kommt.
+Ihre Opposition gegen den IE hat also fast etwas ideologisches - und selten hat sich eine Ideologie nutzbringender ausgewirkt: Ohne diese Fraktion herrschte längst eine 100-Prozent Monokultur.
+In den letzten Jahren jedoch häuften sich die sachlichen Argumente für einen Browserwechsel.
+Die steigende Qualität der Alternativbrowser im Verbund mit dem langen technischen Stillstand bei der Weiterentwicklung des Internet Explorer haben den IE zur störanfälligen Klapperkiste unter lauter Neuund Jahreswagen werden lassen.
+Aktuelle Probleme löst Microsoft nicht etwa mit einer Überholung des Produktes, sondern mit immer neuen Sicherheitsflicken.
+Gut wäre das für alle, und nicht zuletzt für Microsoft: Die Monopolstellung des IT-Riesen auf diversen Gebieten ist Crackern und Virenschreibern ein Dorn im Auge.
+Auch da liegt einer der Gründe, warum Microsoft mit so viel Sicherheitsproblemen zu kämpfen hat: Was hacken kann, stürzt sich mit Vorliebe auf die Produkte aus Redmond.
+Dass satt 90 Prozent aller Virenattacken die Kombination Windows-IE-Outlook betreffen, spiegelt letztlich doch nur die Marktrealitäten.
+Auch Mozilla und Firefox, Opera und Safari wiesen schon klaffende Sicherheitslecks auf, weitere wird man im Laufe der Zeit entdecken.
+Die Prognose, dass die Probleme mit Hacks und Viren analog zum steigenden Marktanteil wachsen würden, ist dabei wohl kaum gewagt.
+Weit mehr zieht da das Argument, dass Browser-Alternativen (noch) mehr bieten als der IE (was sich mit der nächsten Release allerdings ändern könnte).
+Firefox ist derzeit der kleinste und schnellste Browser auf dem Markt - und er kann alles, was die Großen können (außer E-Mail zu verschicken) und deutlich mehr als der Internet Explorer.
+Spaß macht das fixe Surfbrett und ja, es mag für Bewegung im Markt sorgen, denn es ist auch ein Produkt mit einem sexy Image.
+Mein Tipp: 10-12 Prozent Marktanteil bis Ende 2005, 17-20 Prozent für die Alternativbrowser insgesamt.
+Probieren Sie's aus, bevor Sie sich eine Meinung bilden: Browser kosten ja nichts (siehe Linkliste).

@@ -1,0 +1,32 @@
+Nichts ist Autofahrern in manchen Momenten so kostbar, wie die intelligente Idee, einen Stau zu umfahren.
+Dafür ist heutzutage noch nicht einmal mehr ein im Auto eingebautes Navigationssystem nötig.
+Es genügt ein PDA mit Erweiterung.
+Ein solches System bietet Tegaron Telematics in Deutschland an.
+Die Verkehrsdaten liefern 4000 bundesweit an Autobahnbrücken installierte Staudetektoren, die in einer Redaktion mit anderen Datenquellen zusammengeführt werden.
+Es ist sogar daran gedacht, die Autos der Nutzer in die Datenerhebung einzubeziehen, um auch außerhalb der Autobahnen Daten zur Verkehrslage zu sammeln.
+Die Tegaron-Entwickler stellen sich vor, dass die Nutzer diese Daten anonym an die Verkehrsleitzentrale zurückmelden.
+Bislang funktioniert dieses System auf einem iPAQ Pocket PC von Compaq oder einem Trium Mondo von Mitsubishi .
+Es ist damit unabhängig von fest installierten Systemen im Auto. Die benötigte Software kann über den eigenen PC auf dem Organizer installiert werden.
+Bei Fahrtantritt wird die aktuelle Position des Fahrzeugs ermittelt.
+Anschließend gibt der Fahrer seinen Zielort ein, woraufhin beide Angaben über ein angeschlossenes GSM-Telefon per SMS an die Tegaron-Zentrale übermittelt werden.
+Dort findet auf einem Zentralrechner in wenigen Sekunden die Berechnung der optimalen Fahrtroute statt, bei der auch die gegenwärtige Verkehrslage berücksichtigt wird.
+Die Rückmeldung erfolgt ebenfalls per SMS an den Pocket PC.
+Doch die Sache hat einen Haken.
+Jede Berechnung kostet derzeit einen Euro, und wer sicher gehen will, dass bei einer langen Wegstrecke die ermittelte Route noch immer aktuell ist, muss ein Update bei der Zentrale anfordern.
+Eine monatliche Grundgebühr wird von Tegaron allerdings nicht erhoben.
+Für Autofahrer, die viel auf deutschen Autobahnen unterwegs sind und das Tegaron-System für die Optimierung ihrer Fahrtrouten nutzen, können dennoch schnell hohe Gebühren zusammen kommen.
+Ein ähnliches, ebenfalls kostenpflichtiges Angebot hat O2 für das Smart-Phone xda entwickelt, Nach der Lokalisierung des Gerätes werden hier eine Straßenkarte der Umgebung und aktuelle Staus, Straßensperrungen und Gefahrenstellen angezeigt.
+Dieser Service funktioniert bisher allerdings nur immer für den momentanen Standort, für die Zukunft ist die automatische Übermittlung aktueller Verkehrsinformationen auch nach Fahrtantritt geplant.
+Die Lokalisierung des eigenen Standortes kostet jeweils 19 Cent, hinzu kommt das verbrauchte Datenvolumen bei der Übertragung der Kartenanzeige.
+Ohne Zusatzkosten, allerdings auch ohne aktuelle Staumeldungen ist eine Kombination der Palm-PDAs der M500-Serie mit einem Magellan GPS Companion.
+Das System funktioniert auch bei schwierigen Empfangssituationen wie in Häuserschluchten und bestimmt die aktuelle Position mit einem Korrekturverfahren bis auf drei Meter genau.
+Die Software berechnet wahlweise die schnellste oder kürzeste Route mit dem Auto oder zu Fuß und zeigt den bevorstehenden Weg grafisch oder als textbasierte Anweisung auf dem Organizer an.
+Der GPS-Companion kostet rund 250 Euro.
+Auch bei dieser Lösung wird der PDA um ein GPS-Satellitennavigationssystem erweitert.
+Mit der Software lassen sich auch aufeinander folgende Besuchsrouten in ganz Europa planen, die anschließend auf den Handheld-Computer übertragen werden.
+Dort wird dann per GPS der Standort des Fahrzeugs ermittelt, und der Fahrer wird per Sprachausgabe und über Pfeilsymbole auf dem Display des Organizers über bevorstehende Richtungsänderungen informiert.
+Hat man sich einmal verfahren, berechnet die Software die Route innerhalb eines bestimmten Korridors ohne weiteren Eingriff neu und führt den Fahrer wieder auf die ursprünglich geplante Strecke zurück.
+Das map&guide-System soll 500 Euro kosten.
+In Singapur ist man schon einen Schritt weiter.
+Vier Jahre lang hat dort rund ein Dutzend Wissenschaftler des Centre for High Performance Embedded Systems an einem neuen Handheld-Navigationssystems gearbeitet.
+Bei der asiatischen Variante lassen sich sogar landschaftlich besonders schöne Wegstrecken bei der Routenplanung berücksichtigen und auch mautpflichtige Straßen umgehen.

@@ -1,0 +1,26 @@
+Der PDA-Pionier Palm steht unter Druck: Während Handspring 15 Prozent Marktanteil behaupten kann, fiel der Palm-Marktanteil 2001 von 71 auf 58 Prozent ab.
+Doch noch mehr leidet man an der CE-, Pocket-PC und Stinger-Konkurrenz.
+Das Palm-Betriebssystem, daran besteht kein Zweifel, ist Rückgrat der Mission.
+Die Softwareentwicklung und Lizenzvergabe für das Palm OS wurde an eine Tochter, die auf den Namen PalmSource hört, ausgegliedert.
+Balsam auf die Wunden der überzeugten Palm-OS-Anhänger, die von Compaq-iPaq- und HP-Journada-Besitzern bereits milde belächelt werden.
+Der Wechsel vom Palm OS 4 auf das Palm OS 5 bringt mehr als Oberflächenkosmetik.
+Zum Beispiel volle Unterstützung für Arm-Prozessoren von Intel oder Texas Instruments, bei Abwärtskompatibilität zu OS-4-Applikationen der bekannten PDAs mit den 68000er Prozessoren von Motorola.
+Das Surfen im Netz soll durch einen neuen Browser versüßt werden, der Displays bis 320 mal 480 Bildpunkte ansteuern kann.
+Auch die trendigen Smartphones, also Kombigeräte aus Handy und Organizer, werden künftig vom neuen Betriebssystem voll abgedeckt.
+Neben Bluetooth wird Palm OS 5 WLan-Anbindungen nach 802.11b-Standard ermöglichen, und schließlich soll eine vollständige 128-Bit-Verschlüsselung für Sicherheit sorgen.
+Im Bereich der Palm-Software für OS 5 werden Spracherkennungs- und biometrische Identifikationslösungen versprochen.
+All das klingt klasse und endlich wieder konkurrenzfähig - nur ist es bisher nicht mehr als ein Versprechen: Von Palm OS 5 ist nichts zu sehen, auch nicht auf der Cebit.
+Auf der Cebit ist die neue Tochter PalmSource erst gar nicht präsent, und bei den Neuheiten auf dem Stand von Palm Inc. wird man den Eindruck nicht los, dass man sich auf der deutschen Computermesse sehr zurückhält.
+Die zwei neuen Palms, der m130 und m515, sollen durch Farbdisplay und Positionierung im unteren und mittleren Preissegment vor allem Stückzahlen bringen.
+Die Bluetooth-Karte für den SD-Slot wurde von Palm-Fans lange erwartet und ist auch keine echte Überraschung.
+Ungläubiges Staunen gibt es am Cebit-Stand von Palm jedoch, wenn beredte Mitarbeiter bei Fragen zu Endgeräten für das OS 5 andeuten, dass solche möglicherweise zuerst von der Konkurrenz kommen könnten: Man solle doch mal bei Sony vorbeischauen.
+Die Japaner präsentieren mit dem Clié PEG-NR70V einen PDA mit Farb-Touchscreen, eingebauter Kamera und Tastatur, der mit einem 66 MHz Dragonball-VZ-Prozessor arbeitet.
+Ein denkbarer Kandidat für die Einführung von Palm OS 5?
+Für PalmSource sind Lizenznehmer Kunden, für die Palm Inc. sind es Konkurrenten.
+Doch was soll's?
+Der Kultstatus des einstigen Palm Pilot wanderte ohnehin zusammen mit seinem Erfinder Jeff Hawkins zu dessen neuer Firma Handspring.
+Mit der Präsentation des ersten bezahlbaren Smartphones Treo 180 sorgt Handspring erneut für Schlagzeilen.
+Statt auf das Palm OS 5 zu warten, verwendet Handspring ein modifiziertes Palm OS mit der kryptischen Bezeichnung 3.5.2H.
+Für die Palm Inc. geht es in diesem Jahr scheinbar nur um den Namenserhalt, aber vielleicht feuert man ja im Weihnachtsgeschäft ein Feuerwerk innovativer Neuheiten mit dem neuen Betriebssystem ab?
+Das soll - je nachdem, wem man nun folgt - im Juni kommen oder auch im Oktober.
+Warten wir's ab: Aber viel mehr Zeit sollte Palm sich wohl nicht lassen.

@@ -1,0 +1,21 @@
+Der Softwarekonzern Microsoft sieht sich mit einer Klage konfrontiert, die wohl relativ wenig Aussicht auf Erfolg hat - und trotzdem hochgradig peinlich werden dürfte: Koreanische Bürgerrechtler verklagen den Konzern wegen Sicherheitslücken.
+Aktueller Anlass: Die Schäden durch Slammer.
+Wer sollte für den Schaden aufkommen, wenn's leckt im System?
+Microsoft, argumentiert die Gruppe, habe nicht alles getan, um die Schäden zu verhindern.
+Microsoft sieht das natürlich anders.
+Die von Slammer ausgenutzte Sicherheitslücke war bereits seit dem Sommer letzten Jahres bekannt, Microsoft hatte wie üblich einen entsprechenden Patch veröffentlicht.
+Den aber, stellte sich in der letzten Woche heraus, hatten nicht genügend viele Sicherheitsverantwortliche installiert - und Slammer brach alle bisherigen Geschwindigkeitsrekorde bei der Verbreitung eines Virus im Web.
+Der Wurm zielte nicht auf die Rechner von Privatanwendern, sondern auf Web-Server.
+Die fielen wie die Dominosteine: Der Befall eines einzelnen zog die den Befall vieler weiterer nach sich.
+Für IT-Experten offenbarte Slammer ein netzinhärentes Sicherheitsproblem: Das Internet stellte sich als erheblich verletztlicher heraus, als bisher gedacht.
+Wer hat Schuld: Nutzer oder Produzent?
+Für PSPD offenbarte Slammer noch eine weitere Sicherheitslücke: Die Art und Weise, wie Softwareunternehmen auf ihnen bekannte Sicherheitsprobleme reagieren.
+Microsoft, sagt die Gruppe, habe von der Sicherheitslücke im SQL-Server gewusst.
+Zwar sagt Microsoft, man habe im letzten Sommer per E-Mail vor der Lücke gewarnt und auf das Patch hingewiesen.
+Das aber sei nicht hinreichend, findet PSPD: Immerhinn verfügte der Konzern doch über eine vollständige Kundenliste der Käufer ihres SQL-Servers.
+Mehr als 3000 Breitbandnutzer in Korea unterstützten nun die Klage gegen den Konzern.
+Peinlich dürfte das allemal werden.
+Sicherheitslücken sind alles andere als selten, die entsprechenden Warnmails fast schon alltäglich.
+Am heutigen Donnerstag gab Microsoft wieder eine Warnmeldung heraus: Der Internet Explorer weise eine Sicherheitslücke auf, die es einem Angreifer ermöglichen könnte, Kontrolle über den Rechner zu erlangen.
+Sollte es also zum Prozess kommen, wird vor Gericht vor allem die Frage nach der Verantwortlichkeit zur Debatte stehen.
+Wer ist am Ende zuständig für die Sicherheit des Systems: Der Nutzer und Kunde - oder der Hersteller der unsicheren Software?

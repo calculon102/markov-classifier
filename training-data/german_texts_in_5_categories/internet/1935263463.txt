@@ -1,0 +1,26 @@
+In der Nacht vom Freitag zum Samstag hat ein Herr Seidel aus Niedersachsen die Domain eBay.de gekapert.
+Die beliebte Auktionsseite war stundenlang nicht erreichbar, Versteigerungen liefen trotzdem weiter.
+Noch rätselt man bei eBay, wie die Kaperung überhaupt gelingen konnte.
+Passionierte eBayer bekamen am Samstagmorgen ziemlich schnell mit, dass mit der Versteigerungswebsite etwas nicht stimmte.
+Statt der üblichen Angebote von Handy-Oberschalen, Laptops und gebrauchter Kinderwagen bekamen sie eine Fehlermeldung zu Gesicht, wenn sie ihre Lieblingsseite aufriefen.
+Alles sah aus wie ein Serverausfall, der gelegentlich einmal vorkommt.
+Doch es steckte wesentlich mehr dahinter als ein technisches Problem: Die Domain eBay.de hatte in der Nacht zum Samstag den Besitzer gewechselt.
+Frank Seidel aus dem niedersächsischen Städtchen Schöningen war laut Auskunft des deutschen Domainverwalter Denic der neue Herr über Millionen von Auktionen.
+Laut Telefonbuch gibt es tatsächlich einen Frank Seidel in Schöningen.
+Dieser war am Freitagabend nach Angaben seiner Frau jedoch grillen und dürfte mit der Aktion nichts zu tun haben.
+Er wohnt auch nicht in der Straße, die bei der Denic kurzzeitig hinterlegt wurde.
+Die deutsche Domainverwaltung versucht derzeit die Hintergründe der Domain-Kaperung aufzuklären.
+Fest steht aber, dass neben der Domainübertragung an den ominösen Frank Seidel auch ein Providerwechsel bei der Denic eingegangen ist.
+Die beteiligten Provider, der alte und der neue, hätten die Richtigkeit der Daten prüfen müssen, so der Denic-Sprecher.
+Gleiches gelte für den vollzogenen Inhaberwechsel.
+Mit Erfolg: Im Laufe des Samstags bekam das Auktionshaus seine Domain zurück und eBay.de war wieder erreichbar.
+Die geglückte Domain-Kaperung ist nicht die erste ihrer Art. Erst vor wenigen Wochen gelang es dem Anwalt des Computerteileversenders Norsk-IT, die Adresse des kritischen Verbraucherportals snakecity.de zu übernehmen.
+Der Norsk-IT-Anwalt schnappte sie sich daraufhin - seitdem findet sich auf der URL ein Statement der Firma Norsk-IT.
+Bei der Denic will man diese beiden Fälle aber nicht miteinander vergleichen.
+Sauber gelaufen sei der snakecity-Fall jedoch nicht, räumt er ein.
+Die eBay-Kaperung dürfte Verkäufer einiges an Umsatz gekostet haben.
+Denn wenn niemand auf die Seite zugreifen kann, werden auch keine Gebote abgegeben.
+Clevere Surfer gingen den Umweg über den US-Server von eBay und konnten so trotzdem auf die deutschen Versteigerungen bieten - und tatsächlich mal ein Schnäppchen machen, die sonst nur noch schwer möglich sind.
+Ob eBay die um ihr Geschäft gebrachten Versteigerer entschädigen wird, ist fraglich.
+Wenn die Schuld des Ganzen nicht bei eBay liegt, dann wird das Auktionshaus kaum zahlen wollen.
+Nach ihren Angaben waren nicht alle Surfer in Deutschland von eBay.de abgeschnitten.

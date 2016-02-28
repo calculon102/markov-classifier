@@ -1,0 +1,26 @@
+Die internationale Enum-Initiative will die Welten von Telefonie und Internet zusammen bringen.
+Wer eine Telefonnummer kennt, wüsste damit auch gleich die E-Mail-Adresse.
+Die Denic erprobt ab sofort, ob die Sache wirklich funktioniert - und ob es einen Markt dafür gibt.
+Callcenter: Enum versucht nicht, alle Nummern und Adressen zu vereinheitlichen, sondern sie miteinander zu verbinden.
+Man wählt eine Telefonnummer.
+Ist diese besetzt oder nicht erreichbar, wird automatisch das Handy angewählt, dann vielleicht ein Voice-Mail-Zugang aktiviert oder eine SMS versendet.
+Auch ein Fax findet automatisch seinen Weg.
+Was sich heute vielleicht Spitzenmanager leisten, könnte bald für jedermann zu haben sein - wenn denn Enum Wirklichkeit wird.
+Offen ist aber unter anderem noch, ob die Telekommunikationsunternehmen, denen das UMTS-Desaster noch in den Knochen steckt, bereit sind, die neue Technik aufzugreifen.
+Enum steht für Electronic Numbering und könnte einmal so etwas wie eine Brücke zwischen Internet und Telefonie werden, wie Sabine Dolderer vom Vorstand der Internet-Domain-Verwaltungsgesellschaft Denic erklärte.
+Die Denic und die Regulierungsbehörde für Telekommunikation und Post (RegTP) haben jetzt den Vertrag über den Enum-Testbetrieb unterzeichnet.
+Enum ist ein internationaler Standard, bei dem Telefonnummern zu Internetadressen werden.
+Es ist eine offene Plattform, die jeder nutzen kann, wie Matthias Kurth, Präsident der Regulierungsbehörde, betonte.
+Ein Anrufer braucht also nur eine Telefonnummer zu wissen und kann den Betreffenden über verschiedene Geräte bis hin zur Web-Site erreichen.
+Der Kunde könne dabei ruhig die Anbieter der verschiedenen Dienste mischen, sagte Dolderer.
+Das Telefon bei der einen Firma, Internetzugang bei einer anderen und bei wieder einer anderen das Mobiltelefon.
+Ob und welche Probleme es in der Praxis geben kann, soll der Feldversuch jetzt klären.
+Die Denic bringt hier ihre Erfahrungen in der Verwaltung von Internetadressen ein, die RegTP als Behörde für die Nummernvergabe in Deutschland kennt sich in der Telekommunikation und beim Datenschutz aus.
+Ziel des Testbetriebs ist es, ein Betriebsmodell unter Beteiligung aller betroffenen Gruppen - wie Hard- und Softwareanbieter, Internet-Provider und Telefonfirmen - zu erarbeiten.
+So sollen Dienste und Geräte für die neue Technik entwickelt und auf ihre Praxistauglichkeit überprüft werden.
+So müssen etwa Vorgehensweisen entwickelt werden, die sicherstellen, dass nur der tatsächliche Inhaber einer Rufnummer die korrespondierenden Enum-Dienste nutzen kann, sagte Kurth.
+Laut Denic-Vorstand Dolderer werden verschiedene Verfahren zur Authentifizierung erprobt.
+Ein Verfahren für den Massenbetrieb muss noch entwickelt werden.
+Ob es einen Markt gebe, müsse aber abgewartet werden.
+Kurth will auch keine Prognose wagen, ob und wann eine Kommerzialisierung beginnen kann.
+Das System an sich sei sehr interessant, für einen Erfolg müssten aber die verschiedensten Interessengruppen zusammenarbeiten.

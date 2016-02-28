@@ -1,0 +1,24 @@
+Vor allem im Sommer ist ein tragbarer Computer eine feine Sache: Im Freiluft-Büro auf der grünen Wiese bleibt nur eine Sorge: Wie lange hält der Laptop-Akku?
+Nicht mehr lang: Die Brennstoffzelle für mobile Kleingeräte ist fast schon reif für den Markt.
+Heute ist beim Kauf eines mobilen Rechners oft nicht mehr die Größe der Festplatte oder die Geschwindigkeit des Prozessors entscheidend, sondern die Laufzeit ohne Netzstecker.
+Ein herkömmlicher Lithium-Akku hält etwa zwei bis vier Stunden - also noch nicht einmal einen halben Arbeitstag lang.
+Vor allem die Farbdisplays moderner Laptops verbrauchen viel Strom.
+Längst basteln die Hardware-Hersteller an einer leistungsfähigeren und zugleich umweltfreundlicheren Energiequelle: der Brennstoffzelle.
+Brennstoffzellen sind kleine Kraftwerke.
+Sie bestehen im Prinzip aus einer Kathode und einer Anode, die durch eine Membran voneinander getrennt sind.
+In der Zelle wird ein Brennstoff - in diesem Fall Methanol - in einer kontrollierten elektrochemischen Reaktion mit Sauerstoff in Strom umgewandelt.
+So liefert die Direkt-Methanol-Brennstoffzelle des japanischen Herstellers Toshiba, die auf der diesjährigen Computermesse Cebit in Hannover für Aufsehen sorgte, je nach Größe der Kartusche fünf bis zehn Stunden elektrischen Strom.
+Sie wird wie ein Ladegerät an den Laptop gesteckt und erzeugt die Energie direkt dort, wo sie gebraucht wird.
+Neigt sich der Inhalt der Methanol-Kartusche dem Ende zu, wird sie - ähnlich wie eine Druckerpatrone - einfach ausgewechselt.
+Die einzigen Abfallprodukte bei diesem Vorgang sind geringe Mengen von Wasserdampf und Kohlendioxid.
+Nach Angaben von Toshiba und SFC sollen die Brennstoffzellen-Systeme schon im nächsten Jahr auf den Markt kommen.
+Mergel, der seit zehn Jahren mit der Technik experimentiert, hält die Euphorie jedoch für verfrüht.
+Der Forscher aus Jülich rechnet damit, dass die Techniker der Hardware-Firmen noch mindestens bis 2005 brauchen, um die Brennstoffzelle für elektronische Kleingeräte zur Marktreife zu bringen.
+Ein weiteres Problem: Noch sind die kleinen Kraftwerke zu groß, um in das Innere eines Laptops zu passen: Die Direkt-Methanol-Brennstoffzelle von Toshiba beispielsweise wiegt fast ein Kilo und misst 27,5 mal 7,5 mal vier Zentimeter.
+Zwar ist es dem Fraunhofer-Institut für Solare Energiesysteme (ISE) gelungen, eine streichholzschachtelgroße Mikro-Brennstoffzelle zu entwickeln, statt mit Methanol wird das System jedoch mit Wasserstoff betrieben.
+Die Eigenschaften dieses gasförmigen Brennstoffs, der durch kleinste undichte Stellen entweichen kann, erschweren jedoch die Handhabung und Lagerung.
+Wasserstoff ist in Verbindung mit Sauerstoff explosiv - so mancher wird sich in diesem Zusammenhang an die Knallgas-Experimente aus dem Chemieunterricht erinnern.
+Für den Brennstoff Methanol gibt es bereits eine Infrastruktur, die ausbaufähig ist: Es lässt sich ähnlich handhaben wie Benzin und könnte über den Computer-Fachhandel, Tankstellen und Drogerien vertrieben werden.
+Die behördlichen Hürden sind jedoch nicht zu unterschätzen: So ist beispielsweise noch unklar, ob Fluggesellschaften den Passagieren erlauben werden, methanolbetriebene tragbare Computer mit an Bord zu nehmen.
+Wohin die Reise geht, ist klar - die Reisevorbereitungen sind jedoch noch längst nicht abgeschlossen.
+Kurz erklärt: So funktioniert die Direkt-Methanol-Brennstoffzelle.

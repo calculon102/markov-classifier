@@ -1,0 +1,37 @@
+Welche Fessel hätten Sie denn gern, fragen Online-Musikshops ihre Kunden bald auch in Europa.
+Mit ausgeklügeltem Kopierschutz legen sie die Hörer in Ketten.
+Apple, Sony und Microsoft streiten sich noch darüber, wer die Oberdomina spielen darf.
+Für ehrliche Kunden, die Musik legal im Internet kaufen, müsste die Musikindustrie eigentlich den roten Teppich ausrollen.
+Doch in der Regel tut sie das genaue Gegenteil.
+Sie gängelt, bevormundet und beschränkt die scheue Kundschaft, wo sie nur kann - zurzeit in den USA, in wenigen Monaten aber auch in Europa.
+Der Käufer darf seine Songs mitunter nicht mal auf CD brennen, braucht Spezialsoftware zum Anhören und für unterwegs auch noch einen Spezialplayer, falls es einen solchen überhaupt gibt.
+Es ist die Angst vor dem Kopieren, die die Musikbranche erst monatelang in eine Starre versetzte und inzwischen zu immer drakonischeren Maßnahmen greifen lässt.
+Kopierschutz auf Musik-CDs, der die Scheiben in vielen PCs und Autoradios stumm bleiben lässt, ist das eine.
+Ausgeklügeltes Digitales Rechtemanagement (DRM) bei Kaufmusik aus dem Internet das andere.
+Vom populären MP3-Format wollen die großen amerikanischen Online-Musikshops nichts wissen, denn normale MP3s lassen sich ohne Beschränkung kopieren und auf CD brennen.
+Auch das viel gelobte Ogg Vorbis, ein Open-Source-Konkurrent zu MP3, der bei Hörtests wiederholt sehr gut abschnitt, ist kein Thema.
+Die Shops bieten ihre Musik in der Regel in den Formaten Windows Media Audio (WMA, von Microsoft) oder Advanced Audio Codec (AAC) an - eine Weiterentwicklung von MP3.
+Künftig könnte noch die Sony-Kreation Atrac dazustoßen.
+Alle drei Formate sind wie MP3-Songs komprimiert und enthalten bis auf ganz wenige Ausnahmen ein Rechtemanagement (DRM).
+Für den Kunden fangen damit die Probleme an.
+Zum einen braucht jedes Format seine eigene Abspielsoftware.
+Immerhin gibt es diese meist kostenlos im Shop zum Herunterladen.
+Aber wer die online gekaufte Musik dann im CD-Abspieler oder im portablen Player dudeln lassen will, spürt früher oder später die Knute der Musikindustrie.
+Apple zählt mit seinem Shop iTunes dabei noch zu den weniger strengen Dominas.
+Mit DRM geschützte WMA-Songs können je nach Musikshop gar nicht gebrannt oder kopiert werden - sie bleiben lebenslänglich Gefangener der eigenen Festplatte.
+Hoffentlich raucht diese nicht unerwartet ab - sonst ist die ehrlich erworbene Musik nämlich futsch.
+WMA-Musik verkaufen unter anderem der Anbieter Musicmatch und der neu gestartete Napster-Dienst - beide jedoch ausschließlich an Kunden in den USA.
+Napster erlaubt nur ein fünfmaliges Brennen - Musicmatch setzt wie iTunes keine Obergrenze für das Brennen.
+Das Kopieren auf portable Player ist bei Napster und Musicmatch unbegrenzt oft möglich.
+Damit die Kunden angesichts der verschiedenen Musikformate und Kopiersperren nicht gleich das Weite suchen, locken immer mehr Anbieter mit einem Paket aus portablem Player und darauf abspielbarer Digitalmusik.
+Auch wenn Fesseln da sind - der Hörer soll davon möglichst wenig mitbekommen.
+Apple hat es allen vorgemacht: Zuerst kam der relativ teure, aber äußerst schnuckelige MP3-Player iPod auf den Markt.
+Und dann startete das kalifornische Unternehmen mit iTunes einen Musikshop.
+Die dort verkauften AAC-Songs bringt allerdings ausschließlich der iPod zum Klingen.
+Das Konzept scheint aufzugehen: Der iPod ging über zwei Millionen Mal über den Ladentisch.
+Und die amerikanischen Kunden kauften mehr als 30 Millionen Songs bei iTunes.
+Der PC-Hersteller nimmt demnächst einen von Apple gebauten Player in sein Programm auf und rüstet sämtliche Computer ab Werk mit der zugehörigen iTunes-Software für AAC-Songs aus.
+Ein HP-Manager sagte, man plane derzeit keine Unterstützung für das WMA-Format.
+Microsoft schäumte.
+Nutzer müssten ihre Soft- und Hardware frei wählen können - erstaunliche Aussagen aus dem Hause Microsoft.
+Neues Ungemach droht dem Redmonder Softwaregiganten demnächst auch aus Japan.

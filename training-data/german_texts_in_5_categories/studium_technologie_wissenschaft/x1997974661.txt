@@ -1,0 +1,30 @@
+Mit einer neuen Methode will ein US-Wissenschaftler genauere Umfrageergebnisse erreichen.
+Demoskopen wissen genau, dass längst nicht jeder Umfrageteilnehmer die Wahrheit sagt.
+Eine Mischung aus Psychologie und Statistik soll die ehrlichen Antworten herausfiltern.
+Meinungsumfragen sind eine delikate Angelegenheit, vor allem, sobald es um Tabuthemen oder Statusfragen geht.
+Bei seriösen Magazinen gibt es den gegenteiligen Effekt: Es bekennen sich mehr Befragte dazu, als es tatsächlich Leser gibt.
+Auch Unentschlossene zeigen ein Verhalten, das Demoskopen die Arbeit erschwert: Sie tendieren dazu, sich der Mehrheitsmeinung anzuschließen.
+Dasselbe gilt für Fragen, auf die es ohnehin kaum eine objektive Antwort gibt.
+Menschen antworten dann das, was ihrer Meinung nach die Mehrheit sagen würde.
+Die Konsequenz: Minderheitenmeinungen sind bei bestimmten Umfragen unterrepräsentiert.
+Ein amerikanischer Management-Professor will diese Schwäche jetzt mit ein wenig Psychologie und statistischer Mathematik ausgleichen.
+Dra&#65533;en Prelec vom Massachusetts Institute of Technology versieht die ehrlich gegebenen Antworten mit einer höheren Gewichtung als von Erwartungshaltungen beeinflusste Äußerungen.
+DPA Call-Center: Umfragen künftig präziser?
+Aus den Antworten auf beide Fragen leitet Prelec die Gewichtung, das so genannte Scoring, der Antworten ab.
+Das Gewichten von Umfrageergebnissen ist unter Demoskopen gängige Praxis.
+Bei Wahlprognosen sehr verbreitet ist der so genannte Recall.
+Gefragt wird nicht nur nach der Partei, die man wählen würde, sondern auch nach der, die man bei der letzten Wahl gewählt hat.
+Der Vergleich mit tatsächlichen Wahlergebnissen gilt als Indiz für den Wahrheitsgehalt der Aussagen.
+Der Grund: Politik sei für sehr viele nicht besonders wichtig, so Roth.
+Managementprofessor Prelec hat es mit seiner neuen Gewichtungsmethode weniger auf politische Wahlen abgesehen, sondern vor allem auf Fragen, bei denen das Abstimmungsverhalten weitgehend unbekannt ist.
+Seine Methode, die auf der so genannten Bayes-Statistik beruht, gewichtet Antworten stärker, die häufiger gegeben werden als im Mittel von allen Befragten vorhergesagt.
+Gleichzeitig werden seltener gegebene Antworten untergewichtet und damit als potenziell unwahr eingestuft.
+Ein einfaches Beispiel: 25 Prozent der Befragten halten Picasso für den größten Künstler.
+Zugleich werden sie gefragt, für wie hoch sie den Anteil der Picasso-Verehrer unter den anderen Teilnehmern halten.
+Liegt dieser Wert im Schnitt bei 40 Prozent, liegt der wahre Anteil der Picassoverehrer wohl noch unter 25 Prozent - weil das Modell davon ausgeht, dass viele Befragte sich der vermeintlichen Mehrheitsmeinung anschließen.
+Letztlich ist Prelecs Methode ein Versuch, den Wahrheitsgehalt von Antworten statistisch zu bestimmen und somit Lügen auszufiltern.
+Die Methode soll generell bessere Umfrageergebnisse liefern.
+In der Praxis muss sie sich aber noch bewähren.
+Bislang haben die MIT-Forscher die Gewichtung nur am Schreibtisch getestet: mit alten Umfragen, bei denen die Teilnehmer keinen Grund zur Lüge hatten.
+Sobald die Wissenschaftler statt der wahren Antworten falsche verwandten, wurden diese Antworten statistisch unterbewertetder Lügenfilter funktionierte.
+Prelec glaubt, dass seine Methode vor allem in der Marktforschung Chancen hat und Unternehmen bessere Entscheidungsgrundlagen liefern könnte.

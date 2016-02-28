@@ -1,0 +1,29 @@
+Das Internet ist, was Domains angeht, bislang ein weitgehend pünktchenfreier Raum.
+Umlaute und andere Sonderzeichen kommen in den Namen von Webseiten nicht vor.
+Seit Montag bietet die deutsche Denic nun auch Domains mit Umlaut an.
+Die Nachfrage ist groß, beim Start gab es aber einige Probleme - möglicherweise mit Konsequenzen.
+Am Montag um 10 Uhr sollte es losgehen.
+Die Müllers, Schröders und Häberleins Deutschlands standen in den Startlöchern für die Registrierung ihrer ganz persönlichen Domain mit zwei Pünktchen.
+Die Registrar-Unternehmen, die Mitglieder des Domain-Vergebers Denic sind, konnten ihre Wünsche per E-Mail an die Organisation weiterleiten - eine Mail-Bomb mit Einladung sozusagen.
+Wie der laufend aktualisierten Denic-Statistik zu entnehmen war, gingen schon in den ersten Stunden Hunderttausende Anfragen nach Umlaut-Domains ein.
+Besonders beliebt waren wohl potenziell profitable Namen wie Börse.de oder Anwälte.de.
+Die neuen Namen sind dank eines erweiterten Zeichenstandards möglich, der Internationalized Domain Names (IDN) heißt, und mehr Symbole als der gute alte ASCII-Zeichensatz erlaubt.
+Ob es an der Überfülle der Anfragen lag, ist noch unklar, jedenfalls hielt der Denic-Mailserver über den die Registrierung abgewickelt werden sollte, nur eine gute Minute lang durch.
+Alle danach eingegangenen Anträge mussten erneut geschickt werden.
+Erst um 15 Uhr nahm man den Registrierungsprozess wieder auf, mit einem Backup-System.
+Der Zeitgleich an den Start gegangene Schweizer Service Switch hatte mit ähnlichen Sorgen zu kämpfen.
+Was genau mit dem Server schief lief, wird noch geklärt, verspricht Denic-Sprecher Klaus Herzig.
+Der abgestürzte Server war aber nicht das einzige Problem.
+Verschiedene Denic-Mitglieder beschweren sich seit gestern heftig auf der internen Mailingliste.
+Der Grund: Einige der digital signierten Antrags-E-Mails wurden vom System nicht akzeptiert.
+Und das, wie Winfried Haug berichtet, obwohl E-Mails des gleichen Formats sowohl vom Test-System von Denic als auch von der herkömmlichen Registrierung für Seiten ohne Umlaute akzeptiert wurden.
+Das Livesystem habe andere Informationen gewollt als das Testsystem, beschwert sich auch ein anderes Denic-Mitglied, das ungenannt bleiben will.
+Für die Provider ist mit solchem Pech nicht nur Ärger, sondern auch handfester finanzieller Verlust verbunden, denn etwa für die Domain börse.de wird wohl einiges gezahlt werden müssen.
+Sollte sich eine Benachteiligung einzelner Provider nachweisen lassen, wäre eine Klage kaum verwunderlich.
+Beim kommerziellen Denic-Konkurrenten Afilias kann man sich ein bisschen Schadenfreude nicht verkneifen.
+Afilias hatte die Einführung von Umlaut-Domains mit der Endung .info schon mehrmals verschoben, weil man technische Probleme ausschließen wollte.
+Am 16. März gehen jetzt die .info Domains mit ä, ü und ö an den Start, den Rest der nach dem neuen IDN-Standard möglichen Sonderzeichen spart man sich bei Afilias zunächst - um Schwierigkeiten zu vermeiden.
+Für die Registrierung wird man ein anderes System verwenden, mit direkten Verbindungen zwischen dem Anbieter und den interessierten Providern, so der Afilias-Vorsitzende Philipp Grabensee.
+Das soll Pannen wie bei Denic von vornherein verhüten.
+Benutzer von Microsofts Internet Explorer oder anderer, älterer Browser bekommen, wenn sie die Adresse ins Browserfenster eingeben, ohnehin eine Fehlermeldung: Der Explorer muss erst mit einem Plugin fit für die neuen IDN-Domainnamen gemacht werden.
+Alternative: Man kann die Adresse im so genannten Punycode eingeben, der auch für nicht IDN-fähige Software verständlich ist.

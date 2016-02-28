@@ -1,0 +1,24 @@
+Zigtausende Spam-Mails aus der rechten Ecke werden seit gestern früh über das Web verteilt.
+Ihr Inhalt: Türkenhetze, ausländerfeindliche Kommentare, Links zu NPD- und anderen Webseiten.
+Es begann irgendwann kurz nach 2 Uhr, in der Nacht von Mittwoch auf Donnerstag: Eine Flut von E-Mails begann, die elektronischen Postwege zu verstopfen.
+Das ist nicht neu, denn die Spam-Lawine rollt bekanntlich heftig: Weltweit bewegt sich die Quote des unerwünschten Werbemülls am Gesamt-Mailaufkommen zwischen 60 und 80 Prozent.
+Doch diese Welle ist anders.
+Als angebliche Absender der Nachrichten fungieren zahlreiche Privatpersonen, aber auch große Firmen und Medienunternehmen, darunter der Heise-Verlag, die Deutsche Welle, DER SPIEGEL und manager magazin.
+Mit allerhöchster Wahrscheinlichkeit beruht die politische Spam-Welle auf einem so genannten Bot-Net - und das ist wirklich neu.
+Das heißt noch nicht, dass sie auch an der Planung, Finanzierung oder Durchführung der Spam-Aktion beteiligt waren.
+Massenmails aus dem rechten bis rechtsextremen Umfeld gab es immer.
+So etwas ist leicht auszufiltern: Zwar ändern die Newsletter-Versender ab und zu ihre Adresse, aber letztlich braucht es nur ein paar Klicks, um sie wieder für Wochen direkt in den Spam-Filter laufen zu lassen.
+Die derzeitige Aussendungswelle ist anders.
+Eine Analyse der Mails zeigt, dass diese von verschiedenen Accounts ausgehen.
+Weit über 80 Prozent der beim SPIEGEL eingelaufenen rechten Spams liefen über einen Server an der Uni Rostock.
+Eine Nachfrage in der dortigen Netzwerkverwaltung ergab, dass die identifizierte IP-Nummer des Versenders zum Mail-Account eines dortigen Studenten gehört.
+Andere Mails kamen aus dem Netz von T-Online, von Einwahlverbindungen in verschiedensten Städten.
+Mindestens eine Spam-Mail nahm ihren Ursprung in Paris, eine in Tschechien, eine in Australien.
+Dabei nutzen Spammer die Möglichkeit, per Viren, Würmern oder Trojanern eigene Mailserver auf befallenen Rechnern aufzubauen, über die sich dann auf Befehl Massenmails verbreiten lassen.
+Die wahren Urheber zu finden dürfte schwierig werden.
+Der Rechner des Studenten in Rostock allerdings könnte wertvolle Hinweise enthalten, wie das Spam-Verteilernetz aufgebaut wurde.
+Kein Wunder: Einwahlverbindungen weisen dem mit dem Internet verbundenen Rechner jedes Mal eine andere IP-Adresse zu.
+Anders der Rechner in Rostock.
+Nun wird sie versuchen, in Verbindung mit dem IT-Sicherheitsdienstleister der Uni dem Verteilmechanismus auf die Spur zu kommen.
+Bis dahin rollt die rechte Propagandawelle - und wohl kaum zufällig.
+Das Herumreiten auf Überfremdungsängsten deutet darauf hin, dass hier gezielt Stimmung mit Blick auf die Europawahl am Sonntag gemacht werden soll.

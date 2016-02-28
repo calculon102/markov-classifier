@@ -1,0 +1,42 @@
+Ohne Schach kein Computer: Für diese steile These ließen sich zahlreiche Indizien beibringen.
+Tatsächlich ist die Geschichte von Computern, Kryptografie und Schach aufs engste verwoben.
+Ihren Anfang nahm sie im Zweiten Weltkrieg beim britischen Geheimdienst - und bei einem skurrilen Mathematiker und Schachfan: Alan Turing.
+In den Jahren 1939 bis 1945 kam es häufiger vor, dass Bewohner des Örtchens Bletchley sich furchtbar erschraken.
+Die Ursache waren nicht etwa deutsche Luftangriffe.
+Nur einmal hatte ein deutscher Bomber seine sechs Bomben versehentlich auf Bletchley abgeworfen.
+Treffen wollte er eigentlich die vier Meilen nördlicher gelegenen Wolverton-Werke.
+Nein, es war Alan Turing, der mit seinem Fahrrad zur Arbeit fuhr: Im Frühling trug er dabei eine Gasmaske.
+Manche, die ihn sahen, dachten bei seinem Anblick deshalb an einen deutschen Giftgasangriff.
+Turing jedoch litt schlicht und ergreifend an Heuschnupfen.
+Und mit der Gasmaske ging es ihm besser.
+Seit Anfang des Krieges arbeitete Turing mit vielen anderen in dem geheimsten Projekt der Engländer während des Zweiten Weltkrieges, dem Unternehmen Ultra.
+Alle Unterkünfte in größerem Umkreis, privat bei Familien oder in öffentlichen Gebäuden, waren von den Bletchley-Mitarbeitern belegt.
+Keinem war es erlaubt, über das zu sprechen, was in den Gebäuden des Parks vor sich ging.
+Die meisten kamen wie Turing mit dem Fahrrad, allerdings ohne Gasmaske.
+Meist waren es alte Klappergestelle - die Fabriken in England waren mit anderen Dingen beschäftigt, als Fahrräder zu bauen.
+Bei Turings Drahtesel sprang ständig die Kette ab.
+Alle vierzehn Umdrehungen, wie Turing zu beobachten glaubte, so dass er alle dreizehn Umdrehungen anhielt und den Sitz der Kette korrigierte.
+Turing war Mathematiker.
+Der Beitrag dieses etwas verschrobenen Menschen zum Ausgang des Krieges und damit zur Geschichte ist gewaltig.
+Doch Bletchley lieferte auch die Initialzündung für eine Technologie, die unsere Welt so stark wie sonst kaum eine beeinflussen sollte: Die Rede ist vom Konzept der programmierbaren Computer.
+Doch Turing sah Collossus nicht als intelligent an, denn dafür fehlte es ihm an einer Fähigkeit: Collossus konnte nicht Schach spielen.
+Ein Computer, der Schachpartien spielte, wäre dem menschlichen Hirn weitaus ähnlicher als eine reine Rechenmaschine, die nur Zahlen addiert.
+Also schrieb Alan Turing auch noch das erste Schachprogramm der Welt und spielte damit Partien, indem er selber den Computer simulierte und nach seiner Programmierung, die er vom Blatt ablas, die Züge ausführte.
+Was aus heutiger Sicht vielleicht skurril wirkt, erschien damals nur logisch.
+Oft wird die Computertechnik als Kind des Krieges bezeichnet, aber das allein trifft es nicht.
+Schachprogramme wie programmierbare Computer selbst erfüllen ein Grundbedürfnis von Mathematikern und Schachspielern: von einer Ausgangslage ausgehend Vorgänge und potenzielle Verläufe zu Ende zu denken.
+Spielen Sie das legendäre Spiel Turing Enginge gegen Human 1953.
+Die vorhandenen Gebäude reichten bald nicht aus und es wurden einige Holzbaracken auf dem Gelände hinzugefügt, die man durchnummerierte und beispielsweise Hut 4 (Hütte vier), Hut 6 oder Hut 8 nannte.
+Die Codebreakers lieferten unentwegt Nachrichten, die mit großer Geschwindigkeit nach Wichtigkeit sortiert und weitergeleitet wurden.
+Ebenso wenig entsprach die Gruppe dort versammelter Menschen dem Klischee cleverer, Code knackender Agenten: Neben Mathematikern wie Alan Turing arbeiteten Sprachwissenschaftler und alle möglichen Tüftler in Bletchley an der Entschlüsselung.
+Und eine Reihe von bekannten Schachspielern!
+Ihre Erfolge sind heute legendär.
+Das heißt jedoch nicht, dass sie zu ihrer Zeit gewürdigt worden wären.
+Auch das Genie Turing - denn das war er ohne Zweifel - wurde von seinem Heimatland keinesfalls hoch dekoriert oder geehrt.
+Im Gegenteil: Turing war homosexuell.
+Solche Neigungen gab man nicht öffentlich zu, denn es war gesetzlich verboten.
+Seine Verdienste blieben weitgehend unbekannt.
+Die Liaison von Schach und Computertechnik aber, die mit Turing begann, besteht bis zum heutigen Tag fort.
+Mathias Feist ist Co-Autor der Schach-Engine von Fritz und hat mit Hilfe von Ken Thompson, dem Miterfinder des Betriebsystems Unix, die Turing-Engine in moderne Maschinensprache übersetzt und als Schach-Engine für die Fritz-Schachoberfläche programmiert.
+Entpacktes Programm funktioniert nur im Zusammenspiel mit Fritz: Testversionen des Schachprogramms sind bei Chessbase erhältlich (siehe Linkverzeichnis).
+Die Turing-Engine ist der Beginn maschinellen Denkens, das kybernetische erste Rad.

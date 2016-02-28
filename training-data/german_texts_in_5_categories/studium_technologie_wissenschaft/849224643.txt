@@ -1,0 +1,44 @@
+Microsofts MSN-Dienst hat mit dem Betatest einer eigenen News-Suchmaschine begonnen - in Konkurrenz zu Google.
+Ein Trend mit Schattenseiten, denn Newsbots sind zwar praktisch, verbergen aber auch Informationen und schränken die Vielfalt ein.
+Newsbots: Jetztzeit-Archiv der Weltpresse?
+Am Morgen des 20. November haben die Nachrichten-Suchroboter das Rennen klar verloren.
+In Istanbul explodierten Sprengsätze, und die Nachricht ging wie ein Lauffeuer um die Welt.
+Die großen Nachrichten-Websites brachten ihre ersten Eilmeldungen kurz nach 10 Uhr deutscher Zeit, und prompt begann die Medienmaschinerie zu rattern: Korrespondenten wurden auf den Weg geschickt, Kontakte geschlossen, nach Hintergründen gesucht.
+Bei den großen Nachrichtensammlern hingegen tat sich erst einmal gar nichts: Ohne eigene Produktion und ohne Redaktion gab es keine Reaktion.
+Kurz vor Mittag bot nicht nur Newsgoogle, der weltweit bekannteste Nachrichtensammler, eine absolute Fehlanzeige, auch MSN Newsbot, die taufrische Microsoft-Konkurrenz im Betatest, versagte.
+Im Umgang mit den Breaking News, den heißen Nachrichten, offenbaren sich die Schwächen der Newsbots.
+Tagessieger unter den Nachrichten-Suchdiensten - Kenner wird das nicht überraschen - wurde im Übrigen Rocketnews, die rund zehn Minuten vor Google mit der Nachricht kamen.
+MSN Newsbot dagegen war gegen 12.30 Uhr immer noch damit beschäftigt, Michael Jackson zu verhaften.
+Das alles ist kein unmotiviertes Meckern, sondern nimmt den Anspruch der News-Sammelseiten beim Wort.
+Die wollen ihren Lesern schnell und möglichst vollständig den völligen Überblick bieten.
+Dazu sammeln sie ihre Berichte von oft Hunderten von Nachrichtenquellen ein.
+Die Zeitangabe bezieht sich auf den Zeitpunkt, wann der Bot den Artikel fand.
+Newsbots erfreuen sich seit Jahren einiger Beliebtheit.
+Schon seit Beginn des WWW hatten es sich Anbieter auf die Fahne geschrieben, die explodierende Zahl von Nachrichtenangeboten im Web für ihre Leser zu erschließen und durchsuchbar zu machen.
+Die Idealvorstellung dahinter ist, stets eine Art Jetztzeit-Archiv der Weltpresse zu schaffen, und das klingt zunächst einmal gut.
+Ob dieses Clustering, die Zusammenfassung von Nachrichten zu Themenkomplexen, aber gut ist für Leser und Medienmacher, ist fraglich.
+Eine aktuelle Studie der Online Publishers Association OPA argumentiert, dass Angebote wie Newsgoogle kleineren Angeboten Leser zuführen, während sie den Großen zumindest nicht schaden.
+Das aber ist nicht die einzige zu klärende Frage.
+Im Mittelpunkt sollte vielmehr diese stehen: Was bewirken Newsbots?
+Microsoft verspricht, dass ihr MSN Newsbot anders funktionieren solle als Newsgoogle.
+Redakteure, die den Aufbau der Seite beeinflussen, sind nicht im Spiel.
+Ein Blick in eine beliebige Unterrubrik von Newsgoogle verdeutlicht das: Sport, Deutschland, Wirtschaft, International - der Effekt ist überall derselbe.
+Google sortiert die Nachrichten und bündelt sie zu Blöcken.
+Theoretisch sollten sich daraus Quellensammlungen zu einem Thema ergeben, verschiedene Blickwinkel.
+Praktisch passiert genau das Gegenteil: Erkannt, erfasst und gebündelt werden vor allem Artikel, die weitgehend identisch sind.
+Sie unterscheiden sich oft nur noch durch variierende Überschriften und Anläufe - und manchmal noch nicht einmal das.
+Konkretes Beispiel: Zum Thema des Bush-Besuches in Großbritannien fand Newsgoogle am Mittwoch, 19. November, gegen Mittag 203 Nachrichten.
+Eine weitere Stichprobe ergab: Neun von zehn Artikeln waren nichts anderes als die gleichlautende dpa-Meldung in verschieden Kürzungsgraden.
+Das heißt nicht, dass die deutschen Medien im Web nicht schnell mehr zu bieten gehabt hätten.
+Das Problem: Gerade dann, wenn sie in Aufbereitung, Aufbau oder Schwerpunkt vom Mainstream abweichen, werden sie vom Newsbot nicht als thematisch verwandt erkannt.
+Ihr Thema mag aufgegriffen werden, wenn beispielsweise dadurch, dass später eine Nachrichtenagentur das Thema aufnimmt, andere Medien mit Berichten folgen.
+Garantiert als thematisch verwandt erkannt wird dann wieder der Einheitsbrei - während das in Bezug auf den auslösenden Artikel durchaus nicht gesagt ist.
+Im Klartext: Vorprescher werden ignoriert, Nachläufer präsentiert.
+Nachrichten-Sammelseiten fördern Einheitsbrei - und vielleicht sogar schon in der Produktion.
+Denn gerade kleineren Anbietern, die ihre Leserzahlen über Newsbots wie Google zu erhöhen hoffen, wird schnell klar, dass sie es nur mit dem Mainstream hinein schaffen.
+Was anders ist, bringt ihnen auf diesem Weg keine Leser.
+Zugegeben, das gewählte Beispiel ist extrem: Gerade im Bereich der Auslandsnachrichten ist die Abhängigkeit der deutschen Medien von Nachrichtenagenturen besonders hoch - das gilt für nahezu alle.
+Dass aber im Nachrichtencluster gerade die sehr individuellen Artikel der wenigen verbliebenen Korrespondenten durchs Sieb fallen, ist schon ein Stück traurige Realsatire.
+Der Einheitsbrei-Mechanismus greift zudem auf allen Ebenen, in allen Ressorts, wenn auch nicht immer so stark: Wer es nicht glaubt, kann sich durch willkürliche Stichproben davon überzeugen.
+Und was kann Microsoft?
+Der MSN Newsbot ist anders - aber ist er auch neu?

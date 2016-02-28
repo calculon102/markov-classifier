@@ -1,0 +1,23 @@
+Deutschlands Polizei und Geheimdienste sind international führend, wenn es um das Belauschen von Telefonen der Bürger geht.
+Bei Gesprächen über das Internet könnten sie jedoch Schwierigkeiten beim Mithören bekommen, wenn diese verschlüsselt sind.
+Breitbandanschlüsse mit attraktiven Preisen verhelfen der Telefonie über das Internet scheinbar zu dem Durchbruch, auf den Anwender und Anbieter schon seit Jahren warten.
+Telefonica, Sipgate und Telekom sind nur einige der Unternehmen, die ihren Kunden jetzt diese Möglichkeiten bieten.
+Die vielseitige Box wird ab April zunächst nur über Internet-Anbieter vertrieben.
+In den letzten Wochen hat es mehrere Meldungen gegeben, dass sich Staatsanwälte und das BKA besorgt bei der Regulierungsbehörde über mögliche Abhörmaßnahmen erkundigt haben.
+Die Behörde verrät aber auch nicht, ob sie überhaupt in der Lage ist, solche Telefonate abzuhören.
+Eigentlich müssten sich die Freunde und Helfer keine Sorgen machen, denn das Abhören eines IP-basierten Telefonats ist einfach möglich.
+Ein Gespräch über das Netz basiert auf dem Internet Protokoll und überträgt die Daten in einzelnen Paketen.
+Für die Kommunikation multimedialer Daten sind zwei Übertragungswege notwendig: Über ein Signalisierungsprotokoll wird die technische Steuerung der Sitzung übernommen und das eigentliche Telefonieren erfolgt über den Datenpfad.
+Im Prinzip ist Internettelefonie genauso abzuhören, wie jede andere Kommunikation über das Netz auch.
+Firmen sind natürlich auf die Geheimhaltung und Vertraulichkeit der Gespräche angewiesen.
+Es ist der Vorteil digitaler Übertragungswege und Computernetze, dass auch qualitativ hochwertige Verschlüsselungsverfahren eingesetzt werden können.
+Der Standard verwendet Schlüssel mit 128 Bit und es kommt zu Verzögerungen bei der Datenübertragung.
+Eine zuverlässige Verschlüsselung setzt voraus, dass bei beiden Gesprächspartnern entsprechende Telefone stehen.
+Die Firma Zultys aus dem kalifornischen Sunnyvale bietet IP-Telefone auf Linuxbasis für etwa 400 Dollar an, die mit einem symmetrischen 128 Bit Verschlüsselungsverfahren arbeiten.
+Man kann allerdings auch ohne Hardware abhörsicher telefonieren.
+Das Unternehmen Xten aus dem kalifornischen Santa Clara bietet mit der Software Xpro eine starke Verschlüsselung an, die es auch in einer kostenlosen lite-version gibt.
+Die Datenschützer fühlen sich nach den jüngsten Entscheidungen der Verfassungsrichter ermutigt, zumindest die klassische Telefonüberwachung etwas einzuschränken.
+Mit der Problematik der Telefonie über das Internet hat sich der Datenschutz hierzulande allerdings noch nicht auseinander gesetzt.
+Einen Zugriff auf die Telefonate über das Netz würde voraussetzen, dass internationale Standards den Lauschangriff möglich machen.
+Die Internet Engineering Task Force (IETF) und das European Telecommunications Standards Institute (ETSI) bemühen sich bereits um Schnittstellen für Abhörmaßnahmen.
+Das amerikanische Unternehmen Cox Communications hat die nötigen technischen Schritte bereits eingeleitet und staatliche Stellen können die Gespräche der etwa eine Million Kunden überwachen.

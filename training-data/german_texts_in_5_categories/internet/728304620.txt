@@ -1,0 +1,47 @@
+Die Zukunft des Downloadens?
+Die Stereoanlage hat ausgedient, Musik ist heute mobil, auf jeden Fall aber digital.
+Legalen Nachschub sollen kommerzielle Download-Börsen bieten, und solche Shops darf bald jeder betreiben.
+Coca Cola macht in Großbritannien den Anfang - und zeigt, wie kommerzielle Downloadbörsen künftig aussehen könnten.
+Im Wohnzimmer hat der Festplattenrekorder soeben die Hifi-Anlage ersetzt, in der Küche steht eine MP3-fähige Minianlage, unterwegs ist immer der MP3-Stick dabei?
+In immer mehr Haushalten ist das so, bis hin zum MP3-fähigen Autoradio.
+Der Trend hin zur digitalen Musik im trauten Heim ist kräftig, die Möglichkeiten, die Digi-Musik verheißen, sind zu verlockend.
+Die schießen gerade regelrecht ins Kraut.
+Apples iTunes Music Shop ist nur der prominenteste einer ganzen Reihe bestehender oder entstehender Online-Musikläden, die alles bieten wollen.
+Nur in Europa ist das alles noch nicht so recht angekommen.
+Dabei sollte es Anfang des Jahres losgehen.
+Denn genau so sieht das Konzept für die Zukunft aus: Die Industrie hat den Fabrikverkauf aufgegeben und lizenziert stattdessen ihre Produkt-Portfolios an freie Shopbetreiber.
+Wer das Digital Rights Management gewährleistet, sich an die Regeln hält und das nötige Kleingeld mitbringt, soll Musikläden eröffnen können.
+Coke kommt natürlich mit einem jugendlich gebürsteten Angebot daher, kooperiert dabei mit OD2, der von Peter Gabriel mitbegründeten Online-Musikvertriebsfirma.
+Tatsächlich liegt der Shop sogar auf den Servern von OD2.
+Entsprechend zuversichtlich ging der Cokeshop an den Start, entsprechend peinlich geriet dieser.
+Denn am ersten Tag war der Shop nur zeitweilig erreichbar - und Apple-User müssen bis auf weiteres draußen bleiben.
+Sie sind reine Zaungäste, denn der Cokeshop stützt sich ganz und gar und in jeder Hinsicht auf Technik von Microsoft.
+Denn natürlich müssen auch diese WMA-fähig sein.
+Das aber gilt nur für einen Teil der gängigen Endgeräte - Gates mag sich das anders wünschen, doch der Standard heißt nun einmal MP3.
+Allein bei den mobilen Sticks setzt sich das WMA-Format als zweite Möglichkeit langsam durch.
+Immerhin erlaubt der Cokeshop seinen Nutzern nicht nur das Musikhören am PC, sondern auch das Brennen auf CD sowie das Überspielen auf mobile oder stationäre digitale Player.
+Mozilla, Netscape oder Opera bieten ihren Nutzern bekanntlich mehr als der Internet Explorer, prallen aber vom Cokeshop ab: Der will vom Seitenaufruf bis zum Musikhören Microsoft-Software.
+Hat man die installiert, fährt man allerdings gut und bequem.
+Der Shop erlaubt das kostenlose Probehören von 30 Sekunden langen Samples, verkauft einmalig zu hörende Streams für einen Pence und zudem den Verkauf.
+Die Sache ist also nicht gerade billig: Analog zu den in Großbritannien generell überhöhten Preisen für Musik schlägt auch der Cokeshop heftiger zu als etwa der Apple-Shop in den USA das tut oder die kommenden europäischen Shops das angeblich vorhaben.
+Der Einzelsong kostet regulär 99 Pence, was unter dem Strich und im Vergleich zu den 99 US-Cent im Apple-Shop einem Aufpreis von rund 80 Prozent entspricht (99 Pence entsprechen 1,81 US-Dollar).
+Für Festland-Europa denkt die Musikindustrie Preise um 99 Euro-Cent an (entspricht rund 68 Pence).
+Immerhin bekommt man Rabatte, wenn man direkt große Kontingente kauft: Ab einem Investment von 40 Pfund sinkt der Preis für den Einzelsong auf 80 Pence.
+Das ist einerseits traumwandlerisch bequem, andererseits aber auch nicht ohne Tücken: Die Punkte haben eine Halbwertszeit.
+Sie sind nur zwölf Monate lang gültig.
+Wer sein Geld innerhalb eines Jahres nicht ausgibt, hat quasi eine Spende geleistet - eine absolute Frechheit, wie sie sich sonst nur Telekommunikationsunternehmen herausnehmen.
+Und was ist drin?
+Das Angebot gehört nicht zu denen, die mit Hunderttausenden von Liedern strotzen können: Die Zahl der bisher freigeschalteten Songs ist gerade mal fünfstellig.
+Selbst das ist eine Menge, wie man feststellt, wenn man durch den Katalog surft.
+Natürlich sind die Charts der letzten Jahre rauf und runter vertreten, dazu die gängigen Größen von Rock-Dinosauriern bis hin zu Restaurant-Beschallungen auf der Phil-Collins-Schiene.
+Mit seltsamen Ausnahmen.
+So bietet der Shop allein acht Heino-Alben, Marika Röck, Gottlieb Wendehals und diverse andere Megaseller.
+Das sich all diese deutschen Töne überhaupt im britischen Coke-Angebot finden, stimmt allein schon hoffnungsfroh: Da hat wer schon beim Shop-Basteln an den deutschen Markt gedacht.
+Italienische, französische oder spanische Sangeskünstler fehlen dagegen so vollständig, als hätten sie Hausverbot.
+Die zunehmend freie Lizenzierung durch die Musikindustrie macht auch Shops denkbar, die stark auf Zielgruppen zugeschnitten sind.
+Falls das für den Coke-Shop gelten sollte (was seine Lücken erklären würde), dann zeigt es, wie viel die Rechte-Hantierer noch zu lernen haben.
+Unter dem Strich bleibt der Eindruck eines aufwendig programmierten, hip gestylten Musikshops mit hinreichend einfacher Benutzerführung, der deutlich weniger zu bieten hat als selbst die kleinste illegale Tauschbörse.
+Das hat er mit bisher allen in Europa implementierten legalen Musikshops gemein, und da muss noch etwas passieren.
+Besonders ärgerlich sind die Software-Vorgaben und die damit verbundenen Kompatibilitätsprobleme.
+Letztlich ist das Apple-Konzept da überlegen, das statt auf schrille Website-Schnittstellen auf die Integration in eine Software setzt.
+Aber jeder Jeck ist anders, wie man in Köln sagt und meint, dass die Bedürfnisse halt verschieden sind: Da werden verschiedene Marken auch verschiedene Shops anbieten.

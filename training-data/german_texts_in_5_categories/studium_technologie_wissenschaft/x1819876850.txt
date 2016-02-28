@@ -1,0 +1,21 @@
+Die tragische Geschichte dieser Ereignisse ist so lang wie die Liste der Toten.
+Sie reicht bis in die jüngste Gegenwart, die bereits im Zeichen des TV-Kriegs und vermeintlich intelligenter Waffen stand. Allein im Golfkrieg fielen nach offiziellen Zahlen 35 der 146 getöteten US-Soldaten durch Fehlschüsse eigener Kameraden.
+Ein Grund für die folgenschweren Irrtümer sind Fehlinformationen.
+Grund genug für die Militärs, neue Wege in der Kommunikation auf dem Schlachtfeld zu finden.
+Ein Super-Palmtop und Microsoft Windows CE sollen es nun richten.
+Wenn etwa ein Soldat ein feindliches Fahrzeug entdeckt, bestimmt er mit dem Fernglas dessen Position, Geschwindigkeit und Fahrtrichtung.
+Um den Typ des Fahrzeugs zu bestimmen, berührt der Soldat ein Icon auf dem Palmtop.
+Sekunden später hat das Jedi-System die Daten via Satellitenverbindung ins Hauptquartier geschickt, von wo aus sie zu Artilleriestellungen oder Kampfflugzeugen weitergeleitet werden können.
+Bisher wurde dieses Procedere über Funk abgewickelt - eine langwierige und wenig präzise Methode.
+In von der US-Armee durchgeführten Tests seien Zielnachrichten dank Jedi innerhalb von drei Sekunden gesendet und empfangen worden.
+Zudem ist die Datenleitung keine Einbahnstraße: Auch das Hauptquartier kann den Truppen im Feld Nachrichten zukommen lassen, etwa zur Warnung vor sich nähernden Feinden.
+Das Jedi-Herz ist ein Palmtop mit einem Pentium II-Prozessor mit 233 MHz, 32 Megabyte Arbeitsspeicher und einer Touchscreen.
+Bei der Entwicklung hat man laut Batcheller besonderen Wert auf Benutzerfreundlichkeit gelegt.
+Die einfache, auf Symbolen basierende Software reduziere das Risiko von Fehlinformationen und erhöhe die Eingabegeschwindigkeit.
+Sollte das System zwischendurch abstürzen - immerhin läuft der Kampf-Palmtop mit Microsoft Windows - dauere der Neustart nur zwölf Sekunden.
+Allerdings ist im Jedi-Land noch nicht alles eitel Sonnenschein.
+So könnte das Hightech-System, räumt Chris Eubank vom US Space and Missile Defense Battle Lab in Colorado Springs ein, durchaus anfällig sein für Attacken durch Störsender.
+Für düstere Befürchtungen sorgt auch die Aussicht, dass Jedi dem Feind in die Hände fallen könnte.
+Ein teurer Spaß wäre das gleichwohl: Eine voll ausgestattete Jedi-Weste kostet rund 30.000 Dollar.
+Die Frage, ob ein zierliches Gerät voll mit Mikroelektronik den harten Bedingungen im Felde standhält, scheint indes geklärt: Die Armee veranstaltete ein kleines Footballspiel.
+Der Palmtop war der Ball. Und der, versichern die Armeesportler, lief auch nach dem Spiel noch rund.

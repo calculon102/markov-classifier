@@ -1,0 +1,39 @@
+Wo wird es funken?
+Dass der nächste Wachstumsschwung in Sachen Technik drahtlos daherkommen wird, steht außer Frage.
+Bleibt zu klären, bei welcher Technik es beim Publikum funkt: Die Industrie wünscht sich für UMTS den Boom, den WLAN schon erlebt.
+AT&T tut es, O2 steigt in Deutschland gerade ein, Handy-Hersteller entwickeln Hybrid-Geräte - es ist nicht mehr zu ignorieren: Während die Telekommunikationsindustrie noch laut für UMTS trommelt, sattelt sie zur Sicherheit schon mal das Ersatzpferd.
+WiFi und WLAN waren vor Jahresfrist noch Stichworte, die allenfalls Funk-Fans und Heimnetzwerkbetreiber vom Hocker rissen, während UMTS das allgegenwärtige Internet zu verheißen schien.
+Doch der Wind hat sich gedreht: Der WLAN-Markt boomt und droht - allen gegenteiligen Beteuerungen zum trotz - künftigen UMTS-Anwendungen die Butter vom Brot zu nehmen.
+Dabei hat das eine mit dem anderen auf den ersten Blick wenig zu tun: WLAN gegen UMTS - das scheint der Vergleich Äpfel mit Birnen zu sein.
+WLAN: Lösung nur für kleine Räume?
+WLAN schafft Funkanbindungen, die innerhalb eines örtlich eng begrenzten Raumes den Aufbau eines Netzwerkes und einen schnellen Zugang zum Internet ermöglichen.
+Schon heute loggen sich Internet-Nutzer mit Laptop oder PDA in Firmennetze, in Flughäfen und Flugzeugen, städtischen Parks, Cafés und vielleicht bald dem örtlichen Frittentempel ein, um dort schnell und preiswert zu surfen.
+Mehr kann WLAN zunächst einmal nicht: Eigentlich ist die Technik nur für eine örtliche Vernetzung gedacht.
+Aber es scheint genau das zu sein, was Surfer mit mobilen Ambitionen wollen.
+Die Telekommunikationsindustrie hält ihre Vision des Always Online dagegen: Per UMTS, heißt es, solle man bald überall und rasend schnell ins Web kommen.
+Dass die ursprünglichen Visionen vom Filmvertrieb per Handy und anderen multimedialen Fähigkeiten mittlerweile so arg abgespeckt wurden wie die Geschwindigkeitsträume, hat sich zwar herumgesprochen, scheint aber kaum jemanden zu kratzen.
+Das, unken die Kritiker, liege nicht zuletzt an den exorbitant hohen Preisen: Warum sollte man bis zu 1,29 Euro für eine Kurznachricht mit einem schlechten Bild bezahlen, wenn über zehn Prozent davon noch nicht einmal ankommen?
+Auch der Zeitgeist deutet auf WLAN und gegen UMTS: Als die Multimedia-Träume entstanden, erlebte die Dotcom-Gesellschaft gerade ihren Boom, und Geld wuchs an der Börse.
+Heute ist Geiz geil, und grau, aber billig vielleicht schicker als bunt, aber teuer.
+So langsam sickert das durch, auch, wenn es schmerzhaft ist für die Unternehmen: T-Mobile hat soeben angekündigt, die Preise für Handy-Datenübertragung von 29 Cent für 10 Kilobyte auf nur noch 9 Cent zu senken.
+Das ist einerseits die Einleitung eines Preiskrieges, andererseits immer noch verhältnismäßig teuer, denn 10 KB sind nichts, wenn man über den Versand von Dokumenten redet.
+Da wären auch Business-Kunden schnell billiger bedient, wenn sie sich im Stadtpark in die WLAN klinken - selbst, wenn sie mit dem Taxi dorthin fahren müssten.
+UMTS kommen wird, werden noch Jahre vergehen.
+Andererseits engagieren sich längst Unternehmen und teils gar kommunale Behörden, möglichst dicht vernetzte WLAN-Räume zu schaffen.
+Weil all das nur zu deutlich ist, fahren immer mehr Unternehmen zweigleisig und suchen nach Möglichkeiten, auch WiFi-Angebote zu machen, mit denen sich Geld machen lässt.
+Denkbar ist da von Abos über Prepaid- bis zu By-Call-Modellen, bei denen per Telefonrechnung eine Pauschale für eine zeitweilige Nutzung abgebucht würde, so ziemlich alles.
+Auf der anderen Seite bleibt UMTS die leichter flächendeckend umzusetzende Möglichkeit, einen schnellen, überall erreichbaren Online-Zugang zu schaffen - nur teuer wird die Sache, und wenn am Ende auch nur für die Anbieter.
+Nach dem Vorbild des japanischen iMode-Konzeptes sollen Handy-Spiele den Rubel rollen lassen.
+Der Export von iMode-Konzepten nach Deutschland ging bisher allerdings in die Hose: Betreiber E-Plus berichtete gestern erst, nur rund 125.000 Kunden gewonnen zu haben - mindestens 400.000 waren einmal angepeilt.
+Das allein aber disqualifiziert das Konzept nicht, denn es braucht eine kritische Masse: gerade vernetzte Spiele leben von der Zahl potenzieller Gegenspieler.
+Platzt der Knoten also einmal, mag es durchaus noch zum Erfolg kommen.
+Auffällig ist aber, dass beim Trommeln für UMTS mittlerweile Spaß-Argumente weit häufiger sind als das Werben für potenzielle Business-Nutzungen: WLAN kann beides, ohne Probleme.
+Unter dem Strich jedoch bleibt der Vergleich der Technologien einer zwischen Äpfeln und Birnen: WLAN kann UMTS so wenig ersetzen wie UMTS die WLAN.
+Die Gretchenfrage ist eine ganz andere: Wofür gibt es eine Nachfrage, und welche Technik bedient diese so gut, dass es ihr zum Durchbruch verhilft - und die andere vielleicht gar daran hindert?
+UMTS gegen WLAN: Wo funkt's?
+Kann es nur einen (Standard) geben?
+Können die konkurrierenden Techniken nebeneinander existieren?
+Auch, wenn die Technologien nicht direkt miteinander vergleichbar erscheinen, stehen sie dabei doch in direkter Konkurrenz.
+Jeder Obstverkäufer auf dem Wochenmarkt kann das bestätigen: Man konkurriert mit seinen Äpfeln nicht nur mit denen des Nebenmanns, sondern auch mit dem Birnen- und Bananenhändler ums Eck.
+Der Erfolg entscheidet sich letztlich daran, was dem Kunden besser schmeckt.
+Der Verlierer kompostiert am Ende seine Ware und schreibt die Kosten als Verlust ab.
