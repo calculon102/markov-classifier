@@ -14,3 +14,7 @@ hs_err_pid*
 
 # Log-Files
 MarkovTextClassifier_Log*
+
+# Library src.zip-file to stay under githubs max-file-size
+/libs/tika/tika-1.9-src.zip
+
